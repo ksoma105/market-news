@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOUB213O80R20C26A5000000",
+      "title": "日経平均は初の6万4000円視野、AI・半導体株が牽引",
+      "topic_key": "nikkei-64000-may2026",
+      "source": "日本経済新聞",
+      "first_seen": "2026-05-24T12:00:00+09:00",
+      "issue": "2026-05-24-1200"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOUB070R90X00C26A5000000",
+      "title": "政府・日銀が5兆円規模の円買い為替介入、ドル円155〜158円台で推移",
+      "topic_key": "boj-forex-intervention-may2026",
+      "source": "日本経済新聞",
+      "first_seen": "2026-05-24T12:00:00+09:00",
+      "issue": "2026-05-24-1200"
+    },
+    {
+      "url_normalized": "crestwoodadvisors.com/may-2026-economic-and-market-update",
+      "title": "米S&P500は7,473ポイント、Q1企業利益率が過去最高の13.4%",
+      "topic_key": "sp500-record-margin-q1-2026",
+      "source": "Crestwood Advisors",
+      "first_seen": "2026-05-24T12:00:00+09:00",
+      "issue": "2026-05-24-1200"
+    },
+    {
+      "url_normalized": "aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs",
+      "title": "トランプ10%関税を米貿易裁判所が違憲判断、控訴審が一時停止",
+      "topic_key": "trump-tariff-court-may2026",
+      "source": "Al Jazeera",
+      "first_seen": "2026-05-24T12:00:00+09:00",
+      "issue": "2026-05-24-1200"
+    },
+    {
+      "url_normalized": "troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html",
+      "title": "ユーロ圏3月鉱工業生産+0.2%、フランス失業率8.1%",
+      "topic_key": "eurozone-industrial-production-mar2026",
+      "source": "T. Rowe Price",
+      "first_seen": "2026-05-24T12:00:00+09:00",
+      "issue": "2026-05-24-1200"
+    },
+    {
+      "url_normalized": "crestwoodadvisors.com/may-2026-economic-and-market-update",
+      "title": "米の対イラン海上封鎖を無期限延長、原油価格が乱高下",
+      "topic_key": "iran-blockade-oil-may2026",
+      "source": "Crestwood Advisors",
+      "first_seen": "2026-05-24T12:00:00+09:00",
+      "issue": "2026-05-24-1200"
+    },
+    {
+      "url_normalized": "nikkei.com",
+      "title": "トヨタ、台湾で日本向け車両を逆輸入生産へ — 10月開始",
+      "topic_key": "toyota-taiwan-reverse-import-oct2026",
+      "source": "日本経済新聞",
+      "first_seen": "2026-05-24T12:00:00+09:00",
+      "issue": "2026-05-24-1200"
+    }
+  ]
+}

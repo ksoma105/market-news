@@ -1,0 +1,19 @@
+{
+  "issues": [
+    {
+      "issue_id": "2026-05-24-1200",
+      "published_at": "2026-05-24T12:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "nikkei-64000-may2026",
+        "boj-forex-intervention-may2026",
+        "sp500-record-margin-q1-2026",
+        "trump-tariff-court-may2026",
+        "eurozone-industrial-production-mar2026",
+        "iran-blockade-oil-may2026",
+        "toyota-taiwan-reverse-import-oct2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+/* 経済ニュースダイジェスト — 共通スタイル */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --color-bg: #ffffff;
+  --color-text: #1a1a1a;
+  --color-muted: #555555;
+  --color-border: #d0d0d0;
+  --color-accent: #1a3a5c;
+  --color-link: #1a4a7a;
+  --font-serif: "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", "游明朝", Georgia, serif;
+  --font-sans: "Hiragino Kaku Gothic ProN", "Yu Gothic", "YuGothic", "游ゴシック", sans-serif;
+  --max-width: 720px;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-serif);
+  font-size: 16px;
+  line-height: 1.8;
+  padding: 0 1rem;
+}
+
+.wrapper {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2rem 0 4rem;
+}
+
+/* ヘッダー */
+header {
+  border-bottom: 2px solid var(--color-accent);
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--color-accent);
+  letter-spacing: 0.05em;
+}
+
+.issue-meta {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin-top: 0.4rem;
+}
+
+/* 記事本文 */
+main {
+  margin-bottom: 3rem;
+}
+
+.topic {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.topic:last-child {
+  border-bottom: none;
+}
+
+.topic h2 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--color-accent);
+  margin-bottom: 0.6rem;
+  line-height: 1.5;
+}
+
+.topic p {
+  color: var(--color-text);
+  margin-bottom: 0.5rem;
+}
+
+.topic .source-link {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--color-link);
+}
+
+.topic .source-link a {
+  color: var(--color-link);
+  text-decoration: underline;
+}
+
+.topic .source-link a:hover {
+  opacity: 0.75;
+}
+
+/* アーカイブ一覧 */
+.archive-list {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.archive-list h3 {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--color-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.8rem;
+}
+
+.archive-list ul {
+  list-style: none;
+}
+
+.archive-list li {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  padding: 0.2rem 0;
+}
+
+.archive-list a {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+.archive-list a:hover {
+  text-decoration: underline;
+}
+
+/* フッター */
+footer {
+  border-top: 1px solid var(--color-border);
+  padding-top: 1.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  line-height: 1.6;
+}
+
+footer .disclaimer {
+  margin-bottom: 0.5rem;
+}
+
+/* レスポンシブ */
+@media (max-width: 600px) {
+  body {
+    font-size: 15px;
+  }
+
+  header h1 {
+    font-size: 1.3rem;
+  }
+
+  .topic h2 {
+    font-size: 1rem;
+  }
+}

@@ -103,6 +103,46 @@
       "source": "NPR",
       "first_seen": "2026-05-24T22:00:00+09:00",
       "issue": "2026-05-24-2200"
+    },
+    {
+      "url_normalized": "bnnbloomberg.ca/investing/investor-outlook/2026/05/21/investor-outlook-nvidia-earnings-beat-keeps-ai-rally-momentum-alive",
+      "title": "Nvidia決算で売上高816億ドルの過去最高、800億ドル自社株買い発表",
+      "topic_key": "nvidia-q1-record-earnings-may2026",
+      "source": "Bloomberg",
+      "first_seen": "2026-05-25T06:00:00+09:00",
+      "issue": "2026-05-25-0600"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-21/softbank-group-shares-surge-almost-20-on-openai-sb-energy-ipos",
+      "title": "OpenAI秋のIPO準備報道でソフトバンクG株20%急騰",
+      "topic_key": "openai-ipo-softbank-surge-may2026",
+      "source": "Bloomberg",
+      "first_seen": "2026-05-25T06:00:00+09:00",
+      "issue": "2026-05-25-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/20/spacex-ipo-live-updates.html",
+      "title": "SpaceX、S-1申請でIPO正式始動、750億ドル調達目指す",
+      "topic_key": "spacex-ipo-s1-filing-may2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-25T06:00:00+09:00",
+      "issue": "2026-05-25-0600"
+    },
+    {
+      "url_normalized": "ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is260430",
+      "title": "欧州エネルギー危機深刻化、ユーロ圏インフレ3.0%、ECBは利上げも視野",
+      "topic_key": "ecb-energy-crisis-inflation-may2026",
+      "source": "ECB",
+      "first_seen": "2026-05-25T06:00:00+09:00",
+      "issue": "2026-05-25-0600"
+    },
+    {
+      "url_normalized": "newsweek.com/5-warning-signs-of-an-impending-us-recession-11652211",
+      "title": "米景気後退リスク上昇、ムーディーズ48.6%の確率予測",
+      "topic_key": "us-recession-risk-rising-may2026",
+      "source": "Newsweek",
+      "first_seen": "2026-05-25T06:00:00+09:00",
+      "issue": "2026-05-25-0600"
     }
   ]
 }

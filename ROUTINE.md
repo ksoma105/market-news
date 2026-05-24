@@ -17,7 +17,13 @@ JSTの定時（6時/12時/22時）に1号を発行します。
    docs/archive/<前号ID>.html へ退避する（過去号一覧リンクを更新）。
 7. 掲載した各トピックを seen.json に追記。first_seen が3日より
    古いエントリは削除する。
-8. 変更を commit & push（コミットメッセージ: "digest: <号ID>"）。
+8. 作業前に必ず `git checkout main && git pull origin main` を実行し、
+   **必ず `main` ブランチ上で作業していることを確認する**。
+   別ブランチにいる場合は `main` に切り替えてから作業を再開すること。
+   新しいブランチを作成してはならない。
+9. 変更を `main` ブランチに対して commit & push する。
+   コミットメッセージ: `digest: <号ID>`
+   コマンド: `git add -A && git commit -m "digest: <号ID>" && git push origin main`
 
 ## 記事スタイル
 - ですます調・客観的記述。1号あたり 1000〜2000文字。

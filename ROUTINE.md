@@ -4,8 +4,9 @@ JSTの定時（6時/12時/22時）に1号を発行します。
 ## 手順
 1. `date` でJST現在時刻を取得し、号ID = YYYY-MM-DD-HHmm を決める。
 2. `data/seen.json` を読み、直近3日分の掲載済みトピックを把握する。
-3. 以下9媒体を WebSearch で調査し、前号発行〜現在（最大12時間）の
-   最新記事を各5件ほど集める:
+3. 以下9媒体を WebSearch で調査する。収集対象は**発行時刻から遡って
+   72時間以内（3日以内）に公開された記事のみ**とし、それより古い記事は
+   検索結果に含まれていても無視する。各媒体5件を目安に集める:
    WSJ / CNN / The Economist / Financial Times / Reuters /
    Bloomberg / BBC / Newsweek / 日経新聞
 4. seen.json と照合し、(a) URL一致 および (b) 実質同一の出来事・

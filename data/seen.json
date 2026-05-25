@@ -143,6 +143,30 @@
       "source": "Newsweek",
       "first_seen": "2026-05-25T06:00:00+09:00",
       "issue": "2026-05-25-0600"
+    },
+    {
+      "url_normalized": "finance.yahoo.com/markets/live/stock-market-today-sp-500-notches-longest-weekly-win-streak-since-2023-dow-climbs-to-record-high-223454966.html",
+      "title": "ダウ平均50,579ドルで最高値更新、S&P500は8週連続上昇",
+      "topic_key": "dow-record-sp500-8week-streak-may2026",
+      "source": "Yahoo Finance",
+      "first_seen": "2026-05-25T12:00:00+09:00",
+      "issue": "2026-05-25-1200"
+    },
+    {
+      "url_normalized": "fortune.com/2026/05/24/oil-prices-us-ceasefire-deal-iran-hormuz-strait-reopening",
+      "title": "原油5%急落、ブレント98ドル台 — 米イラン合意接近で100ドル割れ",
+      "topic_key": "oil-below-100-iran-deal-may2026",
+      "source": "Fortune",
+      "first_seen": "2026-05-25T12:00:00+09:00",
+      "issue": "2026-05-25-1200"
+    },
+    {
+      "url_normalized": "seekingalpha.com/news/4596344-dell-hp-surge-after-strong-results-from-lenovo-amid-ai-enthusiasm",
+      "title": "デル16%高で最高値、HP14%高 — レノボ好決算でPC・AI需要確認",
+      "topic_key": "dell-hp-surge-lenovo-ai-may2026",
+      "source": "Seeking Alpha",
+      "first_seen": "2026-05-25T12:00:00+09:00",
+      "issue": "2026-05-25-1200"
     }
   ]
 }

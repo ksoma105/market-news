@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "nikkei.com/article/DGXZQOUB213O80R20C26A5000000",
-      "title": "日経平均は初の6万4000円視野、AI・半導体株が牽引",
-      "topic_key": "nikkei-64000-may2026",
-      "source": "日本経済新聞",
-      "first_seen": "2026-05-24T12:00:00+09:00",
-      "issue": "2026-05-24-1200"
-    },
-    {
-      "url_normalized": "nikkei.com/article/DGXZQOUB070R90X00C26A5000000",
-      "title": "政府・日銀が5兆円規模の円買い為替介入、ドル円155〜158円台で推移",
-      "topic_key": "boj-forex-intervention-may2026",
-      "source": "日本経済新聞",
-      "first_seen": "2026-05-24T12:00:00+09:00",
-      "issue": "2026-05-24-1200"
-    },
-    {
-      "url_normalized": "crestwoodadvisors.com/may-2026-economic-and-market-update",
-      "title": "米S&P500は7,473ポイント、Q1企業利益率が過去最高の13.4%",
-      "topic_key": "sp500-record-margin-q1-2026",
-      "source": "Crestwood Advisors",
-      "first_seen": "2026-05-24T12:00:00+09:00",
-      "issue": "2026-05-24-1200"
-    },
-    {
-      "url_normalized": "aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs",
-      "title": "トランプ10%関税を米貿易裁判所が違憲判断、控訴審が一時停止",
-      "topic_key": "trump-tariff-court-may2026",
-      "source": "Al Jazeera",
-      "first_seen": "2026-05-24T12:00:00+09:00",
-      "issue": "2026-05-24-1200"
-    },
-    {
-      "url_normalized": "troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html",
-      "title": "ユーロ圏3月鉱工業生産+0.2%、フランス失業率8.1%",
-      "topic_key": "eurozone-industrial-production-mar2026",
-      "source": "T. Rowe Price",
-      "first_seen": "2026-05-24T12:00:00+09:00",
-      "issue": "2026-05-24-1200"
-    },
-    {
-      "url_normalized": "crestwoodadvisors.com/may-2026-economic-and-market-update",
-      "title": "米の対イラン海上封鎖を無期限延長、原油価格が乱高下",
-      "topic_key": "iran-blockade-oil-may2026",
-      "source": "Crestwood Advisors",
-      "first_seen": "2026-05-24T12:00:00+09:00",
-      "issue": "2026-05-24-1200"
-    },
-    {
-      "url_normalized": "nikkei.com",
-      "title": "トヨタ、台湾で日本向け車両を逆輸入生産へ — 10月開始",
-      "topic_key": "toyota-taiwan-reverse-import-oct2026",
-      "source": "日本経済新聞",
-      "first_seen": "2026-05-24T12:00:00+09:00",
-      "issue": "2026-05-24-1200"
-    },
-    {
       "url_normalized": "axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear",
       "title": "トランプ大統領「イランとの合意は概ね成立」、ホルムズ海峡再開が焦点",
       "topic_key": "trump-iran-deal-may2026",
@@ -207,6 +151,46 @@
       "source": "CNN",
       "first_seen": "2026-05-25T22:00:00+09:00",
       "issue": "2026-05-25-2200"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-25/india-s-top-officials-rally-behind-economy-as-oil-crisis-bites",
+      "title": "インド政府が原油高の経済打撃に防衛姿勢、ガソリン1リットル102ルピー超",
+      "topic_key": "india-oil-crisis-govt-rally-may2026",
+      "source": "Bloomberg",
+      "first_seen": "2026-05-26T06:00:00+09:00",
+      "issue": "2026-05-26-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
+      "title": "台湾加権指数が史上最高値43,644、TSMC・AI半導体株が牽引",
+      "topic_key": "taiwan-taiex-record-43644-may2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-26T06:00:00+09:00",
+      "issue": "2026-05-26-0600"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/gold",
+      "title": "金価格4,500ドル付近に下落、2週連続安でイラン合意期待が安全資産需要を後退",
+      "topic_key": "gold-decline-4500-iran-deal-may2026",
+      "source": "Trading Economics",
+      "first_seen": "2026-05-26T06:00:00+09:00",
+      "issue": "2026-05-26-0600"
+    },
+    {
+      "url_normalized": "ainvest.com/news/burry-2026-bubble-warning-priced-real-2605",
+      "title": "SOX指数年初来65%上昇にバブル警告、マイケル・バーリ氏がプットオプション購入",
+      "topic_key": "sox-bubble-warning-burry-may2026",
+      "source": "ainvest",
+      "first_seen": "2026-05-26T06:00:00+09:00",
+      "issue": "2026-05-26-0600"
+    },
+    {
+      "url_normalized": "newsweek.com/trump-vs-biden-economies-compared-as-consumer-sentiment-hits-record-low-11984651",
+      "title": "米ガソリン全国平均4.55ドル/ガロン、メモリアルデー週末に消費者負担増",
+      "topic_key": "us-gasoline-455-memorial-day-may2026",
+      "source": "Newsweek",
+      "first_seen": "2026-05-26T06:00:00+09:00",
+      "issue": "2026-05-26-0600"
     }
   ]
 }

@@ -167,6 +167,46 @@
       "source": "Seeking Alpha",
       "first_seen": "2026-05-25T12:00:00+09:00",
       "issue": "2026-05-25-1200"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOFL250JFTV20C26A5000000",
+      "title": "日経平均終値65,158円で初の6万5000円突破、原油安がAI株を後押し",
+      "topic_key": "nikkei-65000-record-may2026",
+      "source": "日本経済新聞",
+      "first_seen": "2026-05-25T22:00:00+09:00",
+      "issue": "2026-05-25-2200"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOUA251620V20C26A5000000",
+      "title": "高市首相が7〜9月の電気料金補助を表明、1世帯5,000円規模",
+      "topic_key": "takaichi-electricity-subsidy-jul-sep2026",
+      "source": "日本経済新聞",
+      "first_seen": "2026-05-25T22:00:00+09:00",
+      "issue": "2026-05-25-2200"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-19/economic-outlook-at-risk-of-further-deterioration-oecd-says",
+      "title": "OECDが世界経済の追加悪化リスクを警告、成長下押し・インフレ上押し",
+      "topic_key": "oecd-growth-warning-may2026",
+      "source": "Bloomberg",
+      "first_seen": "2026-05-25T22:00:00+09:00",
+      "issue": "2026-05-25-2200"
+    },
+    {
+      "url_normalized": "cnn.com/2026/05/21/economy/mortgage-rates",
+      "title": "米住宅ローン金利6.51%に上昇、9カ月ぶり高水準",
+      "topic_key": "us-mortgage-rates-9month-high-may2026",
+      "source": "CNN",
+      "first_seen": "2026-05-25T22:00:00+09:00",
+      "issue": "2026-05-25-2200"
+    },
+    {
+      "url_normalized": "cnn.com/2026/05/21/economy/consumer-spending-target-walmart",
+      "title": "ウォルマート等の大手小売り好決算も先行きは慎重、消費者は支出を継続",
+      "topic_key": "us-retail-earnings-strong-cautious-may2026",
+      "source": "CNN",
+      "first_seen": "2026-05-25T22:00:00+09:00",
+      "issue": "2026-05-25-2200"
     }
   ]
 }

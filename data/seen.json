@@ -231,6 +231,46 @@
       "source": "Trading Economics",
       "first_seen": "2026-05-26T12:00:00+09:00",
       "issue": "2026-05-26-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/26/oil-prices-today-brent-wti-iran-trump-hormuz.html",
+      "title": "米軍がイラン南部に自衛空爆、停戦枠組みに暗雲 — ブレント原油99ドル台",
+      "topic_key": "us-iran-strikes-ceasefire-risk-may2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-26T22:00:00+09:00",
+      "issue": "2026-05-26-2200"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOFL263LLTW6A520C2000000",
+      "title": "ソフトバンクG時価総額がトヨタを逆転、40兆円超 — 2000年以来初の国内首位",
+      "topic_key": "softbank-tops-toyota-marketcap-may2026",
+      "source": "日本経済新聞",
+      "first_seen": "2026-05-26T22:00:00+09:00",
+      "issue": "2026-05-26-2200"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-26/china-lets-policy-loan-rate-fall-to-record-low-to-boost-economy",
+      "title": "中国人民銀行がMLF金利を過去最低1.45%に引き下げ",
+      "topic_key": "pboc-mlf-record-low-145-may2026",
+      "source": "Bloomberg",
+      "first_seen": "2026-05-26T22:00:00+09:00",
+      "issue": "2026-05-26-2200"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOUA256LB0V20C26A5000000",
+      "title": "日本の対外純資産が世界3位に転落、中国に抜かれる",
+      "topic_key": "japan-3rd-creditor-china-overtakes-may2026",
+      "source": "日本経済新聞",
+      "first_seen": "2026-05-26T22:00:00+09:00",
+      "issue": "2026-05-26-2200"
+    },
+    {
+      "url_normalized": "newsweek.com/donald-trump-approval-rating-sinks-lowest-ever-11981609",
+      "title": "トランプ大統領の支持率が過去最低31%、経済承認率29%に急落",
+      "topic_key": "trump-approval-record-low-31pct-may2026",
+      "source": "Newsweek",
+      "first_seen": "2026-05-26T22:00:00+09:00",
+      "issue": "2026-05-26-2200"
     }
   ]
 }

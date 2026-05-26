@@ -271,6 +271,46 @@
       "source": "Newsweek",
       "first_seen": "2026-05-26T22:00:00+09:00",
       "issue": "2026-05-26-2200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/25/stock-futures-today-live-updates.html",
+      "title": "米国株再開、S&P500が7,519で史上最高値、Nasdaqも26,656に到達",
+      "topic_key": "sp500-nasdaq-alltime-high-may26-2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-27T06:00:00+09:00",
+      "issue": "2026-05-27-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html",
+      "title": "マイクロンが初の時価総額1兆ドル突破、AI向けHBM需要が爆発的に拡大",
+      "topic_key": "micron-1-trillion-marketcap-may2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-27T06:00:00+09:00",
+      "issue": "2026-05-27-0600"
+    },
+    {
+      "url_normalized": "euronews.com/2026/05/25/iran-says-it-is-charging-fees-for-navigational-services-through-strait-of-hormuz",
+      "title": "イランがホルムズ海峡「航行サービス料」を徴収開始、オマーンと恒久制度を交渉中",
+      "topic_key": "iran-hormuz-toll-fee-system-may2026",
+      "source": "Euronews",
+      "first_seen": "2026-05-27T06:00:00+09:00",
+      "issue": "2026-05-27-0600"
+    },
+    {
+      "url_normalized": "libertystreeteconomics.newyorkfed.org/2026/05/explaining-the-k-shaped-economy-whats-behind-the-divide",
+      "title": "NY連銀がK字型経済の研究公表、高所得層と低所得層の消費格差が拡大",
+      "topic_key": "nyfed-k-shaped-economy-research-may2026",
+      "source": "NY Fed",
+      "first_seen": "2026-05-27T06:00:00+09:00",
+      "issue": "2026-05-27-0600"
+    },
+    {
+      "url_normalized": "news.yahoo.co.jp/articles/35a261f1111e95ca2b7c90412960eaaa1b7aa882",
+      "title": "日本政府、給付付き税額控除を現金給付に一本化、6月に中間取りまとめ",
+      "topic_key": "japan-refundable-tax-credit-cash-only-may2026",
+      "source": "共同通信",
+      "first_seen": "2026-05-27T06:00:00+09:00",
+      "issue": "2026-05-27-0600"
     }
   ]
 }

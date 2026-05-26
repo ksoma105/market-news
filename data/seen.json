@@ -191,6 +191,46 @@
       "source": "Newsweek",
       "first_seen": "2026-05-26T06:00:00+09:00",
       "issue": "2026-05-26-0600"
+    },
+    {
+      "url_normalized": "koreatimes.co.kr/economy/20260526/seoul-shares-open-at-new-record-high-over-8000-on-hopes-for-us-iran-deal",
+      "title": "韓国KOSPI指数が初の8,000超え、AI半導体ラリーで年初来90%上昇",
+      "topic_key": "kospi-8000-record-may2026",
+      "source": "The Korea Times",
+      "first_seen": "2026-05-26T12:00:00+09:00",
+      "issue": "2026-05-26-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/25/european-stocks-us-iran-talks-continue-markets-oil.html",
+      "title": "欧州Stoxx 600が3月以来の高値、イラン停戦交渉の進展で国債利回り低下",
+      "topic_key": "europe-stoxx600-march-high-may2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-26T12:00:00+09:00",
+      "issue": "2026-05-26-1200"
+    },
+    {
+      "url_normalized": "benzinga.com/markets/equities/26/05/52765375/memorial-day-2026-is-stock-market-open-today",
+      "title": "米国市場はメモリアルデー休場、先物は上昇で火曜再開へ",
+      "topic_key": "us-memorial-day-futures-up-may2026",
+      "source": "Benzinga",
+      "first_seen": "2026-05-26T12:00:00+09:00",
+      "issue": "2026-05-26-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/26/asia-markets-today-sensex-kospi-nikkei-hang-seng-iran-us-oil-.html",
+      "title": "ホルムズ海峡をLNGタンカー3隻が通過、海上交通再開の実質的兆候",
+      "topic_key": "hormuz-lng-tankers-transit-may2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-26T12:00:00+09:00",
+      "issue": "2026-05-26-1200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/japan/currency",
+      "title": "ドル円158.90円、160円の節目を意識した攻防が継続",
+      "topic_key": "usdjpy-159-intervention-watch-may2026",
+      "source": "Trading Economics",
+      "first_seen": "2026-05-26T12:00:00+09:00",
+      "issue": "2026-05-26-1200"
     }
   ]
 }

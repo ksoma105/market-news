@@ -351,6 +351,46 @@
       "source": "Trading Economics",
       "first_seen": "2026-05-27T12:00:00+09:00",
       "issue": "2026-05-27-1200"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOUB270M30X20C26A5000000",
+      "title": "日経平均が取引時間中に初の66,000円台到達、終値は64,999円で横ばい",
+      "topic_key": "nikkei-66000-intraday-record-may27-2026",
+      "source": "日本経済新聞",
+      "first_seen": "2026-05-27T22:00:00+09:00",
+      "issue": "2026-05-27-2200"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-27/ecb-sees-danger-of-sudden-and-sharp-repricing-in-markets",
+      "title": "ECBが金融安定報告で急激な市場調整リスクを警告、資産価格は歴史的高水準",
+      "topic_key": "ecb-financial-stability-repricing-warning-may2026",
+      "source": "Bloomberg",
+      "first_seen": "2026-05-27T22:00:00+09:00",
+      "issue": "2026-05-27-2200"
+    },
+    {
+      "url_normalized": "benzinga.com/markets/earnings/26/05/52799122/jim-cramer-warns-of-slowing-sales-as-zscaler-stock-crashes-after-soft-q4-guidance-leadership-shakeup",
+      "title": "Zscaler株が決算ガイダンス不振で約21%急落、FCFマージン見通しも引き下げ",
+      "topic_key": "zscaler-stock-crash-q4-guidance-may2026",
+      "source": "Benzinga",
+      "first_seen": "2026-05-27T22:00:00+09:00",
+      "issue": "2026-05-27-2200"
+    },
+    {
+      "url_normalized": "washingtonpost.com/world/2026/05/24/us-iran-near-deal-extend-ceasefire-reopen-hormuz",
+      "title": "米イラン停戦60日延長の枠組み合意に接近、ホルムズ海峡掃海が条件",
+      "topic_key": "us-iran-60day-ceasefire-extension-may2026",
+      "source": "Washington Post",
+      "first_seen": "2026-05-27T22:00:00+09:00",
+      "issue": "2026-05-27-2200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/26/stock-market-today-live-updates.html",
+      "title": "米国株27日は新高値圏で寄り付き、S&P500先物7,551で決算集中日",
+      "topic_key": "us-stocks-may27-new-highs-earnings-day-2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-27T22:00:00+09:00",
+      "issue": "2026-05-27-2200"
     }
   ]
 }

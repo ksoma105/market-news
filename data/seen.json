@@ -311,6 +311,46 @@
       "source": "共同通信",
       "first_seen": "2026-05-27T06:00:00+09:00",
       "issue": "2026-05-27-0600"
+    },
+    {
+      "url_normalized": "siliconangle.com/2026/05/26/micron-sk-hynix-surpass-1-trillion-valuation-milestone-surging-ai-memory-demand",
+      "title": "SK Hynixが時価総額1兆ドル突破、韓国から2社目の大台到達",
+      "topic_key": "sk-hynix-1-trillion-marketcap-may2026",
+      "source": "SiliconANGLE",
+      "first_seen": "2026-05-27T12:00:00+09:00",
+      "issue": "2026-05-27-1200"
+    },
+    {
+      "url_normalized": "advisorperspectives.com/dshort/updates/2026/05/26/consumer-confidence-dipped-in-may-as-inflation-intensifies",
+      "title": "米コンファレンスボード消費者信頼感指数、5月は93.1に低下",
+      "topic_key": "conference-board-confidence-93-may2026",
+      "source": "Advisor Perspectives",
+      "first_seen": "2026-05-27T12:00:00+09:00",
+      "issue": "2026-05-27-1200"
+    },
+    {
+      "url_normalized": "moneymorning.com/2026/05/25/marvell-technology-mrvl-stock-earnings-may-2026",
+      "title": "マーベルとセールスフォースが27日決算発表、AI投資サイクルの試金石",
+      "topic_key": "marvell-salesforce-earnings-may27-2026",
+      "source": "Money Morning",
+      "first_seen": "2026-05-27T12:00:00+09:00",
+      "issue": "2026-05-27-1200"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-12/central-banks-tap-most-yuan-swap-lines-with-pboc-in-two-years",
+      "title": "人民元が6.78ドルまで上昇、中央銀行のスワップライン利用が2年ぶり高水準",
+      "topic_key": "yuan-rise-678-swap-lines-may2026",
+      "source": "Bloomberg",
+      "first_seen": "2026-05-27T12:00:00+09:00",
+      "issue": "2026-05-27-1200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/japan/stock-market",
+      "title": "日経平均65,000円割れで小反落、ドル円は159円台で膠着",
+      "topic_key": "nikkei-below-65000-profit-taking-may27-2026",
+      "source": "Trading Economics",
+      "first_seen": "2026-05-27T12:00:00+09:00",
+      "issue": "2026-05-27-1200"
     }
   ]
 }

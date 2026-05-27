@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear",
-      "title": "トランプ大統領「イランとの合意は概ね成立」、ホルムズ海峡再開が焦点",
-      "topic_key": "trump-iran-deal-may2026",
-      "source": "Axios",
-      "first_seen": "2026-05-24T22:00:00+09:00",
-      "issue": "2026-05-24-2200"
-    },
-    {
-      "url_normalized": "cnn.com/2026/05/22/economy/kevin-warsh-sworn-in-fed-chair",
-      "title": "ウォーシュ新FRB議長が就任、改革志向を表明",
-      "topic_key": "warsh-fed-chair-sworn-in-may2026",
-      "source": "CNN",
-      "first_seen": "2026-05-24T22:00:00+09:00",
-      "issue": "2026-05-24-2200"
-    },
-    {
-      "url_normalized": "advisorperspectives.com/dshort/updates/2026/05/22/consumer-sentiment-sinks-to-record-low",
-      "title": "ミシガン大消費者信頼感指数が過去最低の44.8",
-      "topic_key": "michigan-sentiment-record-low-may2026",
-      "source": "Advisor Perspectives",
-      "first_seen": "2026-05-24T22:00:00+09:00",
-      "issue": "2026-05-24-2200"
-    },
-    {
-      "url_normalized": "cnn.com/2026/05/19/business/30-year-treasury-yield-bond-record",
-      "title": "米30年国債利回り5.2%、2007年以来の高水準",
-      "topic_key": "treasury-30yr-yield-5pct-may2026",
-      "source": "CNN",
-      "first_seen": "2026-05-24T22:00:00+09:00",
-      "issue": "2026-05-24-2200"
-    },
-    {
-      "url_normalized": "nikkei.com/article/DGXZQOCD21DH70R20C26A5000000",
-      "title": "日銀6月利上げ観測が強まる、高市首相の対応が焦点",
-      "topic_key": "boj-june-hike-takaichi-may2026",
-      "source": "日本経済新聞",
-      "first_seen": "2026-05-24T22:00:00+09:00",
-      "issue": "2026-05-24-2200"
-    },
-    {
-      "url_normalized": "npr.org/2026/05/20/nx-s1-5827166/house-passes-housing-affordability-bill",
-      "title": "米下院が住宅購入支援法案を396対13で可決",
-      "topic_key": "us-housing-bill-house-passes-may2026",
-      "source": "NPR",
-      "first_seen": "2026-05-24T22:00:00+09:00",
-      "issue": "2026-05-24-2200"
-    },
-    {
       "url_normalized": "bnnbloomberg.ca/investing/investor-outlook/2026/05/21/investor-outlook-nvidia-earnings-beat-keeps-ai-rally-momentum-alive",
       "title": "Nvidia決算で売上高816億ドルの過去最高、800億ドル自社株買い発表",
       "topic_key": "nvidia-q1-record-earnings-may2026",
@@ -391,6 +343,46 @@
       "source": "CNBC",
       "first_seen": "2026-05-27T22:00:00+09:00",
       "issue": "2026-05-27-2200"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-27/hormuz-flows-may-return-to-normal-within-month-of-deal-iran-tv",
+      "title": "原油急落、WTI 88ドル台 — イラン国営TVが「合意後1カ月でホルムズ正常化」と報道",
+      "topic_key": "oil-wti-88-hormuz-normalization-may2026",
+      "source": "Bloomberg",
+      "first_seen": "2026-05-28T06:00:00+09:00",
+      "issue": "2026-05-28-0600"
+    },
+    {
+      "url_normalized": "sec.gov/Archives/edgar/data/0001835632/000183563226000014/q127_8kx522026ex-991.htm",
+      "title": "マーベル・テクノロジーQ1決算、売上高24.2億ドルの過去最高 — AI半導体需要が持続",
+      "topic_key": "marvell-q1-fy27-record-revenue-may2026",
+      "source": "SEC 8-K",
+      "first_seen": "2026-05-28T06:00:00+09:00",
+      "issue": "2026-05-28-0600"
+    },
+    {
+      "url_normalized": "sec.gov/Archives/edgar/data/0001108524/000110852426000125/crm-q1fy27xexhibit991.htm",
+      "title": "セールスフォースQ1好決算、売上高111億ドルで前年比13%増 — AI統合が奏功",
+      "topic_key": "salesforce-q1-fy27-revenue-111b-may2026",
+      "source": "SEC 8-K",
+      "first_seen": "2026-05-28T06:00:00+09:00",
+      "issue": "2026-05-28-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/27/boeing-ortberg-737-max-production.html",
+      "title": "ボーイング737 Max月産47機をFAAが承認 — 経営再建に追い風",
+      "topic_key": "boeing-737max-47-faa-approval-may2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-28T06:00:00+09:00",
+      "issue": "2026-05-28-0600"
+    },
+    {
+      "url_normalized": "thestreet.com/latest-news/stock-market-today-may-27-2026-nasdaq-sp-500-open-higher-as-unprecedented-chip-sector-continues-rally",
+      "title": "ダウ平均50,644ドルで史上最高値更新 — 原油安が支え、半導体株は一服",
+      "topic_key": "dow-record-50644-may27-2026",
+      "source": "TheStreet",
+      "first_seen": "2026-05-28T06:00:00+09:00",
+      "issue": "2026-05-28-0600"
     }
   ]
 }

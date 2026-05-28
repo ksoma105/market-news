@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "bnnbloomberg.ca/investing/investor-outlook/2026/05/21/investor-outlook-nvidia-earnings-beat-keeps-ai-rally-momentum-alive",
-      "title": "Nvidia決算で売上高816億ドルの過去最高、800億ドル自社株買い発表",
-      "topic_key": "nvidia-q1-record-earnings-may2026",
-      "source": "Bloomberg",
-      "first_seen": "2026-05-25T06:00:00+09:00",
-      "issue": "2026-05-25-0600"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-21/softbank-group-shares-surge-almost-20-on-openai-sb-energy-ipos",
-      "title": "OpenAI秋のIPO準備報道でソフトバンクG株20%急騰",
-      "topic_key": "openai-ipo-softbank-surge-may2026",
-      "source": "Bloomberg",
-      "first_seen": "2026-05-25T06:00:00+09:00",
-      "issue": "2026-05-25-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/20/spacex-ipo-live-updates.html",
-      "title": "SpaceX、S-1申請でIPO正式始動、750億ドル調達目指す",
-      "topic_key": "spacex-ipo-s1-filing-may2026",
-      "source": "CNBC",
-      "first_seen": "2026-05-25T06:00:00+09:00",
-      "issue": "2026-05-25-0600"
-    },
-    {
-      "url_normalized": "ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is260430",
-      "title": "欧州エネルギー危機深刻化、ユーロ圏インフレ3.0%、ECBは利上げも視野",
-      "topic_key": "ecb-energy-crisis-inflation-may2026",
-      "source": "ECB",
-      "first_seen": "2026-05-25T06:00:00+09:00",
-      "issue": "2026-05-25-0600"
-    },
-    {
-      "url_normalized": "newsweek.com/5-warning-signs-of-an-impending-us-recession-11652211",
-      "title": "米景気後退リスク上昇、ムーディーズ48.6%の確率予測",
-      "topic_key": "us-recession-risk-rising-may2026",
-      "source": "Newsweek",
-      "first_seen": "2026-05-25T06:00:00+09:00",
-      "issue": "2026-05-25-0600"
-    },
-    {
       "url_normalized": "finance.yahoo.com/markets/live/stock-market-today-sp-500-notches-longest-weekly-win-streak-since-2023-dow-climbs-to-record-high-223454966.html",
       "title": "ダウ平均50,579ドルで最高値更新、S&P500は8週連続上昇",
       "topic_key": "dow-record-sp500-8week-streak-may2026",
@@ -383,6 +343,46 @@
       "source": "TheStreet",
       "first_seen": "2026-05-28T06:00:00+09:00",
       "issue": "2026-05-28-0600"
+    },
+    {
+      "url_normalized": "siliconangle.com/2026/05/27/snowflakes-stock-surges-hours-solid-earnings-beat-multibillion-dollar-aws-cloud-deal",
+      "title": "スノーフレーク株が時間外37%急騰、AWSと5年60億ドル戦略契約 — Q1売上+34%",
+      "topic_key": "snowflake-aws-6b-deal-q1-fy27-may2026",
+      "source": "SiliconANGLE",
+      "first_seen": "2026-05-28T12:00:00+09:00",
+      "issue": "2026-05-28-1200"
+    },
+    {
+      "url_normalized": "sec.gov/Archives/edgar/data/0000047217/000004721726000027/hp43026exhibit991q226.htm",
+      "title": "HP Q2好決算、時間外で約15%上昇 — AI PC需要とWindows 11更改が追い風",
+      "topic_key": "hp-q2-fy26-ai-pc-beat-may2026",
+      "source": "SEC 8-K",
+      "first_seen": "2026-05-28T12:00:00+09:00",
+      "issue": "2026-05-28-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/28/asia-markets-today-asx-kospi-nikkei-sensex-hang-seng-csi-iran.html",
+      "title": "日経平均が利益確定売りで反落、午前は600円超安 — アジア株もそろって反落",
+      "topic_key": "nikkei-may28-profit-taking-asia-decline-2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-28T12:00:00+09:00",
+      "issue": "2026-05-28-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/26/trump-camp-david-iran-cabinet.html",
+      "title": "米イラン合意「あと数日」、ホワイトハウスは14条項草案を「完全な捏造」と否定",
+      "topic_key": "us-iran-deal-few-days-14point-denial-may2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-28T12:00:00+09:00",
+      "issue": "2026-05-28-1200"
+    },
+    {
+      "url_normalized": "fxleaders.com/news/2026/05/27/dell-surges-135-ytd-as-ai-server-backlog-hits-43b-can-dell-stock-keep-beating-expectations",
+      "title": "デル、28日引け後に決算 — AIサーバー受注残430億ドルの行方に注目",
+      "topic_key": "dell-q1-fy27-earnings-preview-43b-backlog-may2026",
+      "source": "FX Leaders",
+      "first_seen": "2026-05-28T12:00:00+09:00",
+      "issue": "2026-05-28-1200"
     }
   ]
 }

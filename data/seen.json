@@ -1,30 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "finance.yahoo.com/markets/live/stock-market-today-sp-500-notches-longest-weekly-win-streak-since-2023-dow-climbs-to-record-high-223454966.html",
-      "title": "ダウ平均50,579ドルで最高値更新、S&P500は8週連続上昇",
-      "topic_key": "dow-record-sp500-8week-streak-may2026",
-      "source": "Yahoo Finance",
-      "first_seen": "2026-05-25T12:00:00+09:00",
-      "issue": "2026-05-25-1200"
-    },
-    {
-      "url_normalized": "fortune.com/2026/05/24/oil-prices-us-ceasefire-deal-iran-hormuz-strait-reopening",
-      "title": "原油5%急落、ブレント98ドル台 — 米イラン合意接近で100ドル割れ",
-      "topic_key": "oil-below-100-iran-deal-may2026",
-      "source": "Fortune",
-      "first_seen": "2026-05-25T12:00:00+09:00",
-      "issue": "2026-05-25-1200"
-    },
-    {
-      "url_normalized": "seekingalpha.com/news/4596344-dell-hp-surge-after-strong-results-from-lenovo-amid-ai-enthusiasm",
-      "title": "デル16%高で最高値、HP14%高 — レノボ好決算でPC・AI需要確認",
-      "topic_key": "dell-hp-surge-lenovo-ai-may2026",
-      "source": "Seeking Alpha",
-      "first_seen": "2026-05-25T12:00:00+09:00",
-      "issue": "2026-05-25-1200"
-    },
-    {
       "url_normalized": "nikkei.com/article/DGXZQOFL250JFTV20C26A5000000",
       "title": "日経平均終値65,158円で初の6万5000円突破、原油安がAI株を後押し",
       "topic_key": "nikkei-65000-record-may2026",
@@ -383,6 +359,54 @@
       "source": "FX Leaders",
       "first_seen": "2026-05-28T12:00:00+09:00",
       "issue": "2026-05-28-1200"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOUB278GHTX20C26A5000000",
+      "title": "日経平均終値64,693円で反落、▲306円(▲0.47%) — 中東リスク再燃でソフトバンクG続落",
+      "topic_key": "nikkei-close-64693-may28-2026",
+      "source": "日本経済新聞",
+      "first_seen": "2026-05-28T22:00:00+09:00",
+      "issue": "2026-05-28-2200"
+    },
+    {
+      "url_normalized": "rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
+      "title": "米軍がイランで新たな「防衛的」空爆 — Brent原油96ドル台へ反発、ホルムズ通過は累計23隻",
+      "topic_key": "us-iran-new-strikes-brent-96-may28-2026",
+      "source": "RFE/RL",
+      "first_seen": "2026-05-28T22:00:00+09:00",
+      "issue": "2026-05-28-2200"
+    },
+    {
+      "url_normalized": "tradingkey.com/analysis/stocks/us-stocks/261925503-dell-earnings-preview-stock-price-up-140-ai-servers-tradingkey",
+      "title": "デル決算、日本時間29日早朝発表 — AIサーバー13B・受注残43Bが焦点",
+      "topic_key": "dell-q1-fy27-tonight-may28-2026",
+      "source": "TradingKey",
+      "first_seen": "2026-05-28T22:00:00+09:00",
+      "issue": "2026-05-28-2200"
+    },
+    {
+      "url_normalized": "stat.go.jp/data/cpi/sokuhou/tsuki/index-t.html",
+      "title": "29日朝に東京都区部5月CPI速報と4月為替介入実績を発表 — 日銀正常化の試金石",
+      "topic_key": "tokyo-cpi-fx-intervention-may29-2026",
+      "source": "総務省統計局",
+      "first_seen": "2026-05-28T22:00:00+09:00",
+      "issue": "2026-05-28-2200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/28/european-markets-stoxx-600-ftse-dax-cac-iran-latest-news-.html",
+      "title": "欧州Stoxx 600が▲0.5%・Stoxx 50が▲1.0% — イラン情勢警戒で売り優勢",
+      "topic_key": "europe-stoxx-decline-iran-may28-2026",
+      "source": "CNBC Europe",
+      "first_seen": "2026-05-28T22:00:00+09:00",
+      "issue": "2026-05-28-2200"
+    },
+    {
+      "url_normalized": "economy.ac/review/2026/05/202605289118",
+      "title": "中国不動産危機が長期化 — 投資はGDP比6.1%まで半減、消費押し下げ続く",
+      "topic_key": "china-property-crisis-gdp-6pct-may2026",
+      "source": "The Economy",
+      "first_seen": "2026-05-28T22:00:00+09:00",
+      "issue": "2026-05-28-2200"
     }
   ]
 }

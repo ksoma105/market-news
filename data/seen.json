@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "cnbc.com/2026/05/26/oil-prices-today-brent-wti-iran-trump-hormuz.html",
-      "title": "米軍がイラン南部に自衛空爆、停戦枠組みに暗雲 — ブレント原油99ドル台",
-      "topic_key": "us-iran-strikes-ceasefire-risk-may2026",
-      "source": "CNBC",
-      "first_seen": "2026-05-26T22:00:00+09:00",
-      "issue": "2026-05-26-2200"
-    },
-    {
-      "url_normalized": "nikkei.com/article/DGXZQOFL263LLTW6A520C2000000",
-      "title": "ソフトバンクG時価総額がトヨタを逆転、40兆円超 — 2000年以来初の国内首位",
-      "topic_key": "softbank-tops-toyota-marketcap-may2026",
-      "source": "日本経済新聞",
-      "first_seen": "2026-05-26T22:00:00+09:00",
-      "issue": "2026-05-26-2200"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-26/china-lets-policy-loan-rate-fall-to-record-low-to-boost-economy",
-      "title": "中国人民銀行がMLF金利を過去最低1.45%に引き下げ",
-      "topic_key": "pboc-mlf-record-low-145-may2026",
-      "source": "Bloomberg",
-      "first_seen": "2026-05-26T22:00:00+09:00",
-      "issue": "2026-05-26-2200"
-    },
-    {
-      "url_normalized": "nikkei.com/article/DGXZQOUA256LB0V20C26A5000000",
-      "title": "日本の対外純資産が世界3位に転落、中国に抜かれる",
-      "topic_key": "japan-3rd-creditor-china-overtakes-may2026",
-      "source": "日本経済新聞",
-      "first_seen": "2026-05-26T22:00:00+09:00",
-      "issue": "2026-05-26-2200"
-    },
-    {
-      "url_normalized": "newsweek.com/donald-trump-approval-rating-sinks-lowest-ever-11981609",
-      "title": "トランプ大統領の支持率が過去最低31%、経済承認率29%に急落",
-      "topic_key": "trump-approval-record-low-31pct-may2026",
-      "source": "Newsweek",
-      "first_seen": "2026-05-26T22:00:00+09:00",
-      "issue": "2026-05-26-2200"
-    },
-    {
       "url_normalized": "cnbc.com/2026/05/25/stock-futures-today-live-updates.html",
       "title": "米国株再開、S&P500が7,519で史上最高値、Nasdaqも26,656に到達",
       "topic_key": "sp500-nasdaq-alltime-high-may26-2026",
@@ -423,6 +383,46 @@
       "source": "Yahoo Finance",
       "first_seen": "2026-05-29T22:00:00+09:00",
       "issue": "2026-05-29-2200"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-may-29-2026",
+      "title": "NYダウが史上初の51,000ドル台で大引け、S&P500は9週連続続伸 — 5月はナスダック+8%でテック主導の月間高",
+      "topic_key": "dow-51000-sp500-9week-streak-may29-close-2026",
+      "source": "TheStreet",
+      "first_seen": "2026-05-30T06:00:00+09:00",
+      "issue": "2026-05-30-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
+      "title": "デル株が引けで+32%、史上最大の上昇率で年初来+234% — AIサーバー受注残513億ドルとFY27ガイダンス上方修正を好感",
+      "topic_key": "dell-close-32pct-best-day-ever-234ytd-may29-2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-30T06:00:00+09:00",
+      "issue": "2026-05-30-0600"
+    },
+    {
+      "url_normalized": "investing.com/news/economic-indicators/japan-factory-output-unexpectedly-rises-in-april-retail-sales-stay-firm-4715896",
+      "title": "日本4月鉱工業生産+0.8%MoMで予想を大幅に上回る、小売販売も+2.1%YoY — 半導体製造装置とAI関連が押し上げ",
+      "topic_key": "japan-april-ip-08-retail-21-may30-2026",
+      "source": "Investing.com / Reuters",
+      "first_seen": "2026-05-30T06:00:00+09:00",
+      "issue": "2026-05-30-0600"
+    },
+    {
+      "url_normalized": "stocktitan.net/news/COST/costco-wholesale-corporation-reports-third-quarter-and-year-to-date-ya9rfbnhnzg9.html",
+      "title": "コストコQ3 FY26、売上高69.2億ドル(+11.6%)とEPS 4.93ドルで予想超え — 米国消費の底堅さを示唆",
+      "topic_key": "costco-q3-fy26-net-sales-692b-eps-493-may2026",
+      "source": "Costco IR (StockTitan)",
+      "first_seen": "2026-05-30T06:00:00+09:00",
+      "issue": "2026-05-30-0600"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/united-states/government-bond-yield",
+      "title": "米10年債利回り4.45%へ2週ぶり低水準、Brent原油は91.37ドルで月間▲17%(2020年5月以来) — 停戦進展でリスク資産シフト鮮明",
+      "topic_key": "us10y-445-brent-9137-monthly-17pct-may29-close-2026",
+      "source": "Trading Economics",
+      "first_seen": "2026-05-30T06:00:00+09:00",
+      "issue": "2026-05-30-0600"
     }
   ]
 }

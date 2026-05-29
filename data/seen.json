@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-25/india-s-top-officials-rally-behind-economy-as-oil-crisis-bites",
-      "title": "インド政府が原油高の経済打撃に防衛姿勢、ガソリン1リットル102ルピー超",
-      "topic_key": "india-oil-crisis-govt-rally-may2026",
-      "source": "Bloomberg",
-      "first_seen": "2026-05-26T06:00:00+09:00",
-      "issue": "2026-05-26-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
-      "title": "台湾加権指数が史上最高値43,644、TSMC・AI半導体株が牽引",
-      "topic_key": "taiwan-taiex-record-43644-may2026",
-      "source": "CNBC",
-      "first_seen": "2026-05-26T06:00:00+09:00",
-      "issue": "2026-05-26-0600"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/gold",
-      "title": "金価格4,500ドル付近に下落、2週連続安でイラン合意期待が安全資産需要を後退",
-      "topic_key": "gold-decline-4500-iran-deal-may2026",
-      "source": "Trading Economics",
-      "first_seen": "2026-05-26T06:00:00+09:00",
-      "issue": "2026-05-26-0600"
-    },
-    {
-      "url_normalized": "ainvest.com/news/burry-2026-bubble-warning-priced-real-2605",
-      "title": "SOX指数年初来65%上昇にバブル警告、マイケル・バーリ氏がプットオプション購入",
-      "topic_key": "sox-bubble-warning-burry-may2026",
-      "source": "ainvest",
-      "first_seen": "2026-05-26T06:00:00+09:00",
-      "issue": "2026-05-26-0600"
-    },
-    {
-      "url_normalized": "newsweek.com/trump-vs-biden-economies-compared-as-consumer-sentiment-hits-record-low-11984651",
-      "title": "米ガソリン全国平均4.55ドル/ガロン、メモリアルデー週末に消費者負担増",
-      "topic_key": "us-gasoline-455-memorial-day-may2026",
-      "source": "Newsweek",
-      "first_seen": "2026-05-26T06:00:00+09:00",
-      "issue": "2026-05-26-0600"
-    },
-    {
       "url_normalized": "koreatimes.co.kr/economy/20260526/seoul-shares-open-at-new-record-high-over-8000-on-hopes-for-us-iran-deal",
       "title": "韓国KOSPI指数が初の8,000超え、AI半導体ラリーで年初来90%上昇",
       "topic_key": "kospi-8000-record-may2026",
@@ -415,6 +375,46 @@
       "source": "Bloomberg",
       "first_seen": "2026-05-29T06:00:00+09:00",
       "issue": "2026-05-29-0600"
+    },
+    {
+      "url_normalized": "fxstreet.com/news/yen-waits-on-tokyo-cpi-to-bail-out-the-boj-202605282127",
+      "title": "東京都区部5月CPIコア前年比+1.3%で予想下回る — 3カ月連続BOJ目標2%割れ、6月利上げシナリオ後退",
+      "topic_key": "tokyo-cpi-may-13pct-miss-may29-2026",
+      "source": "FXStreet",
+      "first_seen": "2026-05-29T12:00:00+09:00",
+      "issue": "2026-05-29-1200"
+    },
+    {
+      "url_normalized": "mof.go.jp/policy/international_policy/reference/feio/index.html",
+      "title": "財務省が4月為替介入実績を公表 — 推定8兆〜10兆円規模で公式確認、2022年介入合計を上回る歴史的水準",
+      "topic_key": "japan-fx-intervention-april-actual-disclosed-may29-2026",
+      "source": "財務省",
+      "first_seen": "2026-05-29T12:00:00+09:00",
+      "issue": "2026-05-29-1200"
+    },
+    {
+      "url_normalized": "nikkei.com/markets/worldidx/chart/nk225/",
+      "title": "ドル円が一時159円割れ、日経平均は午前ボラ高 — 安値63,875円から高値65,165円のレンジ",
+      "topic_key": "usdjpy-159-nikkei-volatile-am-may29-2026",
+      "source": "日本経済新聞",
+      "first_seen": "2026-05-29T12:00:00+09:00",
+      "issue": "2026-05-29-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/27/china-april-industrial-profits-growth.html",
+      "title": "中国4月工業利益+24.7%、約2年半ぶり高い伸び — 半導体・石油精製がけん引、デフレ懸念に一部歯止め",
+      "topic_key": "china-april-industrial-profits-247pct-may2026",
+      "source": "CNBC",
+      "first_seen": "2026-05-29T12:00:00+09:00",
+      "issue": "2026-05-29-1200"
+    },
+    {
+      "url_normalized": "tradingkey.com/analysis/stocks/us-stocks/261933832-dell-shares-rose4-pre-market-10-billion-pentagon-contract-earnings-forecasts-stock-price-400-tradingkey",
+      "title": "デル株プレマーケットで+4%、米国防総省と最大100億ドルのAIサーバー契約観測 — 政府向けAIインフラが新たな成長軸へ",
+      "topic_key": "dell-premarket-pentagon-10b-may29-2026",
+      "source": "TradingKey",
+      "first_seen": "2026-05-29T12:00:00+09:00",
+      "issue": "2026-05-29-1200"
     }
   ]
 }

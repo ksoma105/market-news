@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "koreatimes.co.kr/economy/20260526/seoul-shares-open-at-new-record-high-over-8000-on-hopes-for-us-iran-deal",
-      "title": "韓国KOSPI指数が初の8,000超え、AI半導体ラリーで年初来90%上昇",
-      "topic_key": "kospi-8000-record-may2026",
-      "source": "The Korea Times",
-      "first_seen": "2026-05-26T12:00:00+09:00",
-      "issue": "2026-05-26-1200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/25/european-stocks-us-iran-talks-continue-markets-oil.html",
-      "title": "欧州Stoxx 600が3月以来の高値、イラン停戦交渉の進展で国債利回り低下",
-      "topic_key": "europe-stoxx600-march-high-may2026",
-      "source": "CNBC",
-      "first_seen": "2026-05-26T12:00:00+09:00",
-      "issue": "2026-05-26-1200"
-    },
-    {
-      "url_normalized": "benzinga.com/markets/equities/26/05/52765375/memorial-day-2026-is-stock-market-open-today",
-      "title": "米国市場はメモリアルデー休場、先物は上昇で火曜再開へ",
-      "topic_key": "us-memorial-day-futures-up-may2026",
-      "source": "Benzinga",
-      "first_seen": "2026-05-26T12:00:00+09:00",
-      "issue": "2026-05-26-1200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/26/asia-markets-today-sensex-kospi-nikkei-hang-seng-iran-us-oil-.html",
-      "title": "ホルムズ海峡をLNGタンカー3隻が通過、海上交通再開の実質的兆候",
-      "topic_key": "hormuz-lng-tankers-transit-may2026",
-      "source": "CNBC",
-      "first_seen": "2026-05-26T12:00:00+09:00",
-      "issue": "2026-05-26-1200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/japan/currency",
-      "title": "ドル円158.90円、160円の節目を意識した攻防が継続",
-      "topic_key": "usdjpy-159-intervention-watch-may2026",
-      "source": "Trading Economics",
-      "first_seen": "2026-05-26T12:00:00+09:00",
-      "issue": "2026-05-26-1200"
-    },
-    {
       "url_normalized": "cnbc.com/2026/05/26/oil-prices-today-brent-wti-iran-trump-hormuz.html",
       "title": "米軍がイラン南部に自衛空爆、停戦枠組みに暗雲 — ブレント原油99ドル台",
       "topic_key": "us-iran-strikes-ceasefire-risk-may2026",
@@ -415,6 +375,54 @@
       "source": "TradingKey",
       "first_seen": "2026-05-29T12:00:00+09:00",
       "issue": "2026-05-29-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/29/asia-markets-today-live-updates-nikkei-225-hang-seng-index-kospi-nifty-50-csi-300.html",
+      "title": "日経平均が大幅反発、終値66,329円で過去最高値圏に復帰 — TOPIXは終値3,957で史上最高値",
+      "topic_key": "nikkei-close-66329-topix-record-may29-2026",
+      "source": "CNBC Asia",
+      "first_seen": "2026-05-29T22:00:00+09:00",
+      "issue": "2026-05-29-2200"
+    },
+    {
+      "url_normalized": "cnn.com/2026/05/28/world/live-news/iran-war-us-news",
+      "title": "米イラン60日停戦延長覚書(MOU)で実務合意 — トランプ大統領は最終承認を保留",
+      "topic_key": "us-iran-60day-mou-trump-pending-may29-2026",
+      "source": "CNN / Axios",
+      "first_seen": "2026-05-29T22:00:00+09:00",
+      "issue": "2026-05-29-2200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html",
+      "title": "原油急落、Brent 92.56ドルで月間▲19% — 2カ月ぶり週間下落、地政学プレミアム剥落",
+      "topic_key": "brent-9256-monthly-19pct-may29-2026",
+      "source": "CNBC Energy",
+      "first_seen": "2026-05-29T22:00:00+09:00",
+      "issue": "2026-05-29-2200"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-29/us-stock-futures-today-dell-gap-netapp-nextpower-sentinelone",
+      "title": "デル時間外+37%急騰の流れがAIインフラ全銘柄に波及 — HPEプレマーケット+17%、SMCI +10%",
+      "topic_key": "dell-37pct-hpe-17pct-smci-10pct-ai-infra-may29-2026",
+      "source": "Bloomberg",
+      "first_seen": "2026-05-29T22:00:00+09:00",
+      "issue": "2026-05-29-2200"
+    },
+    {
+      "url_normalized": "tradingkey.com/analysis/stocks/more/261934781-nikkei-kospi-samsung-66000-tradingkey",
+      "title": "韓国KOSPI終値8,476で過去最高更新、Samsung +6.3% — 12層HBM4Eの初出荷でAI半導体ラリーが再加速",
+      "topic_key": "kospi-record-8476-samsung-hbm4e-may29-2026",
+      "source": "TradingKey",
+      "first_seen": "2026-05-29T22:00:00+09:00",
+      "issue": "2026-05-29-2200"
+    },
+    {
+      "url_normalized": "finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-29-2026",
+      "title": "金は4,520ドル付近で年初来高値から▲19%、ビットコインは73,600ドル台に軟化 — 停戦進展で安全資産から資金流出",
+      "topic_key": "gold-btc-safehaven-outflow-may29-2026",
+      "source": "Yahoo Finance",
+      "first_seen": "2026-05-29T22:00:00+09:00",
+      "issue": "2026-05-29-2200"
     }
   ]
 }

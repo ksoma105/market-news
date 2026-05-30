@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "nikkei.com/article/DGXZQOUB270M30X20C26A5000000",
-      "title": "日経平均が取引時間中に初の66,000円台到達、終値は64,999円で横ばい",
-      "topic_key": "nikkei-66000-intraday-record-may27-2026",
-      "source": "日本経済新聞",
-      "first_seen": "2026-05-27T22:00:00+09:00",
-      "issue": "2026-05-27-2200"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-27/ecb-sees-danger-of-sudden-and-sharp-repricing-in-markets",
-      "title": "ECBが金融安定報告で急激な市場調整リスクを警告、資産価格は歴史的高水準",
-      "topic_key": "ecb-financial-stability-repricing-warning-may2026",
-      "source": "Bloomberg",
-      "first_seen": "2026-05-27T22:00:00+09:00",
-      "issue": "2026-05-27-2200"
-    },
-    {
-      "url_normalized": "benzinga.com/markets/earnings/26/05/52799122/jim-cramer-warns-of-slowing-sales-as-zscaler-stock-crashes-after-soft-q4-guidance-leadership-shakeup",
-      "title": "Zscaler株が決算ガイダンス不振で約21%急落、FCFマージン見通しも引き下げ",
-      "topic_key": "zscaler-stock-crash-q4-guidance-may2026",
-      "source": "Benzinga",
-      "first_seen": "2026-05-27T22:00:00+09:00",
-      "issue": "2026-05-27-2200"
-    },
-    {
-      "url_normalized": "washingtonpost.com/world/2026/05/24/us-iran-near-deal-extend-ceasefire-reopen-hormuz",
-      "title": "米イラン停戦60日延長の枠組み合意に接近、ホルムズ海峡掃海が条件",
-      "topic_key": "us-iran-60day-ceasefire-extension-may2026",
-      "source": "Washington Post",
-      "first_seen": "2026-05-27T22:00:00+09:00",
-      "issue": "2026-05-27-2200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/26/stock-market-today-live-updates.html",
-      "title": "米国株27日は新高値圏で寄り付き、S&P500先物7,551で決算集中日",
-      "topic_key": "us-stocks-may27-new-highs-earnings-day-2026",
-      "source": "CNBC",
-      "first_seen": "2026-05-27T22:00:00+09:00",
-      "issue": "2026-05-27-2200"
-    },
-    {
       "url_normalized": "bloomberg.com/news/articles/2026-05-27/hormuz-flows-may-return-to-normal-within-month-of-deal-iran-tv",
       "title": "原油急落、WTI 88ドル台 — イラン国営TVが「合意後1カ月でホルムズ正常化」と報道",
       "topic_key": "oil-wti-88-hormuz-normalization-may2026",
@@ -431,6 +391,54 @@
       "source": "24/7 Wall St. / CNBC",
       "first_seen": "2026-05-30T22:00:00+09:00",
       "issue": "2026-05-30-2200"
+    },
+    {
+      "url_normalized": "cnn.com/2026/05/28/world/live-news/iran-war-us-news",
+      "title": "米イラン60日停戦MOU、ヴァンス副大統領「署名はTBD」と表明 — 文言数点で詰めの交渉",
+      "topic_key": "us-iran-mou-vance-tbd-language-points-may31-2026",
+      "source": "CNN / Axios",
+      "first_seen": "2026-05-31T06:00:00+09:00",
+      "issue": "2026-05-31-0600"
+    },
+    {
+      "url_normalized": "euronews.com/my-europe/2026/05/29/is-europe-finally-waking-up-to-china",
+      "title": "欧州委員会が対中通商戦略を抜本再考へ — 上海・深セン続落、EU-中国貿易赤字Q1で980億ユーロ",
+      "topic_key": "eu-china-trade-strategy-rethink-shanghai-shenzhen-may31-2026",
+      "source": "Euronews / T. Rowe Price",
+      "first_seen": "2026-05-31T06:00:00+09:00",
+      "issue": "2026-05-31-0600"
+    },
+    {
+      "url_normalized": "outlookmoney.com/amp/story/news/rbi-may-resort-to-rate-hike-as-early-as-june-amid-geopolitical-uncertainty-high-crude-oil-prices",
+      "title": "インド準備銀行、6月5日会合で利上げ観測強まる — ルピー対ドル97台で史上最安値、原油高で物価加速",
+      "topic_key": "rbi-june5-hike-rupee-97-record-low-may31-2026",
+      "source": "Outlook Money / Discovery Alert",
+      "first_seen": "2026-05-31T06:00:00+09:00",
+      "issue": "2026-05-31-0600"
+    },
+    {
+      "url_normalized": "japantoday.com/category/politics/g7-finance-leaders-try-to-downplay-tariff-disputes-find-consensus1",
+      "title": "G7パリ会合で日本片山財務相が「円安に果断対応」再表明 — 6月15-17日エビアン首脳会議へ為替・関税が焦点",
+      "topic_key": "g7-paris-katayama-evian-summit-fx-tariff-may31-2026",
+      "source": "Japan Today / Bloomberg",
+      "first_seen": "2026-05-31T06:00:00+09:00",
+      "issue": "2026-05-31-0600"
+    },
+    {
+      "url_normalized": "abs.gov.au/media-centre/media-releases/cpi-rose-42-year-april-2026",
+      "title": "豪4月CPI+4.2%へ鈍化もトリム平均+3.4%へ上振れ — 電気料金+22.5%が圧迫、RBA利上げサイクル継続観測",
+      "topic_key": "australia-april-cpi-42-trim-34-electricity-225-may31-2026",
+      "source": "Australian Bureau of Statistics / RBA",
+      "first_seen": "2026-05-31T06:00:00+09:00",
+      "issue": "2026-05-31-0600"
+    },
+    {
+      "url_normalized": "sundayguardianlive.com/business/gold-rate-today-30-may-2026-live-updates-us-gold-rates-edges-higher-to-4535-amid-us-iran-war-domestic-rates-above-159-lakh10g-check-city-wise-price-of-24k-22k-18k-198504",
+      "title": "金スポット4,535ドルで高値圏維持、ビットコインETFは9日連続流出累計28億ドル — 安全資産間で乖離鮮明",
+      "topic_key": "gold-4535-btc-etf-9day-outflow-28b-divergence-may31-2026",
+      "source": "Sunday Guardian Live / MEXC",
+      "first_seen": "2026-05-31T06:00:00+09:00",
+      "issue": "2026-05-31-0600"
     }
   ]
 }

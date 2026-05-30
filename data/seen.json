@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "cnbc.com/2026/05/25/stock-futures-today-live-updates.html",
-      "title": "米国株再開、S&P500が7,519で史上最高値、Nasdaqも26,656に到達",
-      "topic_key": "sp500-nasdaq-alltime-high-may26-2026",
-      "source": "CNBC",
-      "first_seen": "2026-05-27T06:00:00+09:00",
-      "issue": "2026-05-27-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html",
-      "title": "マイクロンが初の時価総額1兆ドル突破、AI向けHBM需要が爆発的に拡大",
-      "topic_key": "micron-1-trillion-marketcap-may2026",
-      "source": "CNBC",
-      "first_seen": "2026-05-27T06:00:00+09:00",
-      "issue": "2026-05-27-0600"
-    },
-    {
-      "url_normalized": "euronews.com/2026/05/25/iran-says-it-is-charging-fees-for-navigational-services-through-strait-of-hormuz",
-      "title": "イランがホルムズ海峡「航行サービス料」を徴収開始、オマーンと恒久制度を交渉中",
-      "topic_key": "iran-hormuz-toll-fee-system-may2026",
-      "source": "Euronews",
-      "first_seen": "2026-05-27T06:00:00+09:00",
-      "issue": "2026-05-27-0600"
-    },
-    {
-      "url_normalized": "libertystreeteconomics.newyorkfed.org/2026/05/explaining-the-k-shaped-economy-whats-behind-the-divide",
-      "title": "NY連銀がK字型経済の研究公表、高所得層と低所得層の消費格差が拡大",
-      "topic_key": "nyfed-k-shaped-economy-research-may2026",
-      "source": "NY Fed",
-      "first_seen": "2026-05-27T06:00:00+09:00",
-      "issue": "2026-05-27-0600"
-    },
-    {
-      "url_normalized": "news.yahoo.co.jp/articles/35a261f1111e95ca2b7c90412960eaaa1b7aa882",
-      "title": "日本政府、給付付き税額控除を現金給付に一本化、6月に中間取りまとめ",
-      "topic_key": "japan-refundable-tax-credit-cash-only-may2026",
-      "source": "共同通信",
-      "first_seen": "2026-05-27T06:00:00+09:00",
-      "issue": "2026-05-27-0600"
-    },
-    {
       "url_normalized": "siliconangle.com/2026/05/26/micron-sk-hynix-surpass-1-trillion-valuation-milestone-surging-ai-memory-demand",
       "title": "SK Hynixが時価総額1兆ドル突破、韓国から2社目の大台到達",
       "topic_key": "sk-hynix-1-trillion-marketcap-may2026",
@@ -423,6 +383,54 @@
       "source": "Trading Economics",
       "first_seen": "2026-05-30T06:00:00+09:00",
       "issue": "2026-05-30-0600"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/newsletters/2026-05-29/the-debut-bessent-warsh-breakfast-left-fed-rate-cuts-off-the-menu",
+      "title": "ベセント財務長官とWarsh新FRB議長が初の朝食会合、「利下げは要請せず」 — 6月利下げ確率は30%台へ後退",
+      "topic_key": "bessent-warsh-breakfast-no-rate-cut-may2026",
+      "source": "Bloomberg / US News",
+      "first_seen": "2026-05-30T12:00:00+09:00",
+      "issue": "2026-05-30-1200"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-29/asia-rice-surges-20-in-may-as-war-and-weather-threaten-output",
+      "title": "アジア米価が5月単月+20%、約20年ぶり最大の月間上昇 — ホルムズ起点のエネルギー高とエルニーニョが供給直撃",
+      "topic_key": "asia-rice-20pct-monthly-jump-may2026",
+      "source": "Bloomberg",
+      "first_seen": "2026-05-30T12:00:00+09:00",
+      "issue": "2026-05-30-1200"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOFD28CUR0Y6A520C2000000",
+      "title": "トヨタ、レクサス次世代EVセダン「LF-ZC」開発中止 — 世界EV需要鈍化でSUVへ資源集中、全固体電池の研究は継続",
+      "topic_key": "toyota-lf-zc-cancel-suv-focus-may2026",
+      "source": "日本経済新聞 / 時事通信",
+      "first_seen": "2026-05-30T12:00:00+09:00",
+      "issue": "2026-05-30-1200"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-29/sec-moves-to-scrap-biden-era-rule-on-climate-risk-disclosures",
+      "title": "SECがバイデン時代の気候開示ルール撤廃を正式提案 — 上場企業のGHG・気候リスク報告義務を全廃へ",
+      "topic_key": "sec-scrap-biden-climate-disclosure-may2026",
+      "source": "Bloomberg / Washington Post",
+      "first_seen": "2026-05-30T12:00:00+09:00",
+      "issue": "2026-05-30-1200"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGKKZO96595150Q6A530C2EA1000",
+      "title": "日本の3-5月原油輸入が前年比▲47%、主要輸入国で最大の減少幅 — 米イラン衝突を契機に中東依存リスクが顕在化",
+      "topic_key": "japan-oil-import-47pct-decline-mar-may2026",
+      "source": "日本経済新聞 / 第一生命経済研",
+      "first_seen": "2026-05-30T12:00:00+09:00",
+      "issue": "2026-05-30-1200"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-29/yum-said-to-be-in-exclusive-talks-to-sell-pizza-hut-to-longrange",
+      "title": "Yum BrandsがPizza HutをLongRange Capitalへ売却で独占交渉 — 米国既存店は10四半期連続マイナス",
+      "topic_key": "yum-pizzahut-longrange-exclusive-may2026",
+      "source": "Bloomberg / Seeking Alpha",
+      "first_seen": "2026-05-30T12:00:00+09:00",
+      "issue": "2026-05-30-1200"
     }
   ]
 }

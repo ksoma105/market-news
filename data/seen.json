@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "siliconangle.com/2026/05/26/micron-sk-hynix-surpass-1-trillion-valuation-milestone-surging-ai-memory-demand",
-      "title": "SK Hynixが時価総額1兆ドル突破、韓国から2社目の大台到達",
-      "topic_key": "sk-hynix-1-trillion-marketcap-may2026",
-      "source": "SiliconANGLE",
-      "first_seen": "2026-05-27T12:00:00+09:00",
-      "issue": "2026-05-27-1200"
-    },
-    {
-      "url_normalized": "advisorperspectives.com/dshort/updates/2026/05/26/consumer-confidence-dipped-in-may-as-inflation-intensifies",
-      "title": "米コンファレンスボード消費者信頼感指数、5月は93.1に低下",
-      "topic_key": "conference-board-confidence-93-may2026",
-      "source": "Advisor Perspectives",
-      "first_seen": "2026-05-27T12:00:00+09:00",
-      "issue": "2026-05-27-1200"
-    },
-    {
-      "url_normalized": "moneymorning.com/2026/05/25/marvell-technology-mrvl-stock-earnings-may-2026",
-      "title": "マーベルとセールスフォースが27日決算発表、AI投資サイクルの試金石",
-      "topic_key": "marvell-salesforce-earnings-may27-2026",
-      "source": "Money Morning",
-      "first_seen": "2026-05-27T12:00:00+09:00",
-      "issue": "2026-05-27-1200"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-12/central-banks-tap-most-yuan-swap-lines-with-pboc-in-two-years",
-      "title": "人民元が6.78ドルまで上昇、中央銀行のスワップライン利用が2年ぶり高水準",
-      "topic_key": "yuan-rise-678-swap-lines-may2026",
-      "source": "Bloomberg",
-      "first_seen": "2026-05-27T12:00:00+09:00",
-      "issue": "2026-05-27-1200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/japan/stock-market",
-      "title": "日経平均65,000円割れで小反落、ドル円は159円台で膠着",
-      "topic_key": "nikkei-below-65000-profit-taking-may27-2026",
-      "source": "Trading Economics",
-      "first_seen": "2026-05-27T12:00:00+09:00",
-      "issue": "2026-05-27-1200"
-    },
-    {
       "url_normalized": "nikkei.com/article/DGXZQOUB270M30X20C26A5000000",
       "title": "日経平均が取引時間中に初の66,000円台到達、終値は64,999円で横ばい",
       "topic_key": "nikkei-66000-intraday-record-may27-2026",
@@ -431,6 +391,46 @@
       "source": "Bloomberg / Seeking Alpha",
       "first_seen": "2026-05-30T12:00:00+09:00",
       "issue": "2026-05-30-1200"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOUA296KV0Z20C26A5000000",
+      "title": "財務省、4-5月の円買い介入を11兆7,349億円と公表 — 月次ベースで過去最大、円安歯止め効果には懐疑論",
+      "topic_key": "japan-fx-intervention-117tn-monthly-record-may2026",
+      "source": "日本経済新聞 / Bloomberg",
+      "first_seen": "2026-05-30T22:00:00+09:00",
+      "issue": "2026-05-30-2200"
+    },
+    {
+      "url_normalized": "euronews.com/business/2026/05/29/ecb-rate-hike-in-focus-as-eurozones-big-four-report-stubbornly-high-inflation",
+      "title": "ECBが6月11日に利上げの公算 — 仏HICP+2.8%・独コア+2.5%でユーロ圏インフレ再加速、Fedとの乖離鮮明",
+      "topic_key": "ecb-june-hike-expected-eurozone-cpi-may2026",
+      "source": "Euronews / Bloomberg",
+      "first_seen": "2026-05-30T22:00:00+09:00",
+      "issue": "2026-05-30-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/opec/calendar",
+      "title": "OPEC+ 6月7日に主要8カ国会合 — 5月決定の日量18.8万バレル増産に続く判断が焦点、Brent月間▲17%下落で各国の温度差",
+      "topic_key": "opec-plus-june-7-meeting-outlook-may2026",
+      "source": "Trading Economics / CNBC",
+      "first_seen": "2026-05-30T22:00:00+09:00",
+      "issue": "2026-05-30-2200"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-29/us-iran-reach-deal-on-extended-ceasefire-pending-trump-approval",
+      "title": "米イラン60日停戦MOU、31日にも発表観測 — トランプ大統領が最終判断、パキスタンが仲介役",
+      "topic_key": "us-iran-mou-sunday-announcement-pakistan-mediation-may30-2026",
+      "source": "Bloomberg / Axios",
+      "first_seen": "2026-05-30T22:00:00+09:00",
+      "issue": "2026-05-30-2200"
+    },
+    {
+      "url_normalized": "247wallst.com/investing/2026/05/26/amd-is-up-5-today-is-it-outperforming-other-chip-stocks-like-intel-and-nvidia",
+      "title": "AMDが年初来+114%でNvidia(+18%)を引き離す — Meta・OpenAIとのMI400契約観測でAIチップ寡占構造に変化、PHLX半導体指数+70%",
+      "topic_key": "amd-114pct-ytd-nvidia-18pct-meta-openai-may2026",
+      "source": "24/7 Wall St. / CNBC",
+      "first_seen": "2026-05-30T22:00:00+09:00",
+      "issue": "2026-05-30-2200"
     }
   ]
 }

@@ -1,86 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-27/hormuz-flows-may-return-to-normal-within-month-of-deal-iran-tv",
-      "title": "原油急落、WTI 88ドル台 — イラン国営TVが「合意後1カ月でホルムズ正常化」と報道",
-      "topic_key": "oil-wti-88-hormuz-normalization-may2026",
-      "source": "Bloomberg",
-      "first_seen": "2026-05-28T06:00:00+09:00",
-      "issue": "2026-05-28-0600"
-    },
-    {
-      "url_normalized": "sec.gov/Archives/edgar/data/0001835632/000183563226000014/q127_8kx522026ex-991.htm",
-      "title": "マーベル・テクノロジーQ1決算、売上高24.2億ドルの過去最高 — AI半導体需要が持続",
-      "topic_key": "marvell-q1-fy27-record-revenue-may2026",
-      "source": "SEC 8-K",
-      "first_seen": "2026-05-28T06:00:00+09:00",
-      "issue": "2026-05-28-0600"
-    },
-    {
-      "url_normalized": "sec.gov/Archives/edgar/data/0001108524/000110852426000125/crm-q1fy27xexhibit991.htm",
-      "title": "セールスフォースQ1好決算、売上高111億ドルで前年比13%増 — AI統合が奏功",
-      "topic_key": "salesforce-q1-fy27-revenue-111b-may2026",
-      "source": "SEC 8-K",
-      "first_seen": "2026-05-28T06:00:00+09:00",
-      "issue": "2026-05-28-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/27/boeing-ortberg-737-max-production.html",
-      "title": "ボーイング737 Max月産47機をFAAが承認 — 経営再建に追い風",
-      "topic_key": "boeing-737max-47-faa-approval-may2026",
-      "source": "CNBC",
-      "first_seen": "2026-05-28T06:00:00+09:00",
-      "issue": "2026-05-28-0600"
-    },
-    {
-      "url_normalized": "thestreet.com/latest-news/stock-market-today-may-27-2026-nasdaq-sp-500-open-higher-as-unprecedented-chip-sector-continues-rally",
-      "title": "ダウ平均50,644ドルで史上最高値更新 — 原油安が支え、半導体株は一服",
-      "topic_key": "dow-record-50644-may27-2026",
-      "source": "TheStreet",
-      "first_seen": "2026-05-28T06:00:00+09:00",
-      "issue": "2026-05-28-0600"
-    },
-    {
-      "url_normalized": "siliconangle.com/2026/05/27/snowflakes-stock-surges-hours-solid-earnings-beat-multibillion-dollar-aws-cloud-deal",
-      "title": "スノーフレーク株が時間外37%急騰、AWSと5年60億ドル戦略契約 — Q1売上+34%",
-      "topic_key": "snowflake-aws-6b-deal-q1-fy27-may2026",
-      "source": "SiliconANGLE",
-      "first_seen": "2026-05-28T12:00:00+09:00",
-      "issue": "2026-05-28-1200"
-    },
-    {
-      "url_normalized": "sec.gov/Archives/edgar/data/0000047217/000004721726000027/hp43026exhibit991q226.htm",
-      "title": "HP Q2好決算、時間外で約15%上昇 — AI PC需要とWindows 11更改が追い風",
-      "topic_key": "hp-q2-fy26-ai-pc-beat-may2026",
-      "source": "SEC 8-K",
-      "first_seen": "2026-05-28T12:00:00+09:00",
-      "issue": "2026-05-28-1200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/28/asia-markets-today-asx-kospi-nikkei-sensex-hang-seng-csi-iran.html",
-      "title": "日経平均が利益確定売りで反落、午前は600円超安 — アジア株もそろって反落",
-      "topic_key": "nikkei-may28-profit-taking-asia-decline-2026",
-      "source": "CNBC",
-      "first_seen": "2026-05-28T12:00:00+09:00",
-      "issue": "2026-05-28-1200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/26/trump-camp-david-iran-cabinet.html",
-      "title": "米イラン合意「あと数日」、ホワイトハウスは14条項草案を「完全な捏造」と否定",
-      "topic_key": "us-iran-deal-few-days-14point-denial-may2026",
-      "source": "CNBC",
-      "first_seen": "2026-05-28T12:00:00+09:00",
-      "issue": "2026-05-28-1200"
-    },
-    {
-      "url_normalized": "fxleaders.com/news/2026/05/27/dell-surges-135-ytd-as-ai-server-backlog-hits-43b-can-dell-stock-keep-beating-expectations",
-      "title": "デル、28日引け後に決算 — AIサーバー受注残430億ドルの行方に注目",
-      "topic_key": "dell-q1-fy27-earnings-preview-43b-backlog-may2026",
-      "source": "FX Leaders",
-      "first_seen": "2026-05-28T12:00:00+09:00",
-      "issue": "2026-05-28-1200"
-    },
-    {
       "url_normalized": "nikkei.com/article/DGXZQOUB278GHTX20C26A5000000",
       "title": "日経平均終値64,693円で反落、▲306円(▲0.47%) — 中東リスク再燃でソフトバンクG続落",
       "topic_key": "nikkei-close-64693-may28-2026",
@@ -439,6 +359,46 @@
       "source": "Sunday Guardian Live / MEXC",
       "first_seen": "2026-05-31T06:00:00+09:00",
       "issue": "2026-05-31-0600"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai",
+      "title": "Anthropic、シリーズHで650億ドル調達・評価額9,650億ドルでOpenAIを抜く — Claude Opus 4.8公開とMythos投入予告、Microsoft Maia 200採用協議も",
+      "topic_key": "anthropic-series-h-65b-965b-valuation-opus-48-mythos-may2026",
+      "source": "Bloomberg / CNBC / Fortune",
+      "first_seen": "2026-05-31T12:00:00+09:00",
+      "issue": "2026-05-31-1200"
+    },
+    {
+      "url_normalized": "investinglive.com/centralbank/bank-of-korea-holds-at-250-but-dot-plot-points-firmly-to-rate-hikes-ahead-20260528",
+      "title": "韓国銀行が政策金利2.50%で据え置きも「タカ派ホールド」 — ドットプロットは年末3.00%を示唆、2026年GDPを2.6%へ上方修正",
+      "topic_key": "bok-hawkish-hold-dot-plot-300-gdp-26-may2026",
+      "source": "InvestingLive / Seoul Economic Daily / Korea Herald",
+      "first_seen": "2026-05-31T12:00:00+09:00",
+      "issue": "2026-05-31-1200"
+    },
+    {
+      "url_normalized": "acea.auto/pc-registrations/new-car-registrations-4-2-in-april-2026-year-to-date-battery-electric-19-7-market-share",
+      "title": "欧州4月新車登録、BEV+37.7%で全動力源中最大の伸び — 累計シェア19.7%へ拡大、伊+98.8%・仏+41.8%・独+41.3%",
+      "topic_key": "eu-april-bev-377-share-197-acea-may2026",
+      "source": "ACEA / electrive",
+      "first_seen": "2026-05-31T12:00:00+09:00",
+      "issue": "2026-05-31-1200"
+    },
+    {
+      "url_normalized": "news.usni.org/2026/05/01/strait-of-hormuz-commercial-transits-at-lowest-level-since-operation-epic-fury-start-shipping-data-shows",
+      "title": "ホルムズ海峡の商業通航がOperation Epic Fury以降の最低水準で停滞 — Brent 92.56ドル(月間▲19%)でも実需フロー未回復",
+      "topic_key": "hormuz-commercial-transit-lowest-brent-9256-may2026",
+      "source": "USNI News / CNBC Energy",
+      "first_seen": "2026-05-31T12:00:00+09:00",
+      "issue": "2026-05-31-1200"
+    },
+    {
+      "url_normalized": "brc.org.uk/news/corporate-affairs/shop-price-index-may-2026",
+      "title": "英国5月Shop Price Index +1.2%で予想上振れ — 中東発の海運コスト高が小売物価に波及、BoE利下げシナリオ後退",
+      "topic_key": "uk-may-shop-price-12-shipping-pass-through-may2026",
+      "source": "BRC / Bloomberg",
+      "first_seen": "2026-05-31T12:00:00+09:00",
+      "issue": "2026-05-31-1200"
     }
   ]
 }

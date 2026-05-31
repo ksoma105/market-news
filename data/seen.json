@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "nikkei.com/article/DGXZQOUB278GHTX20C26A5000000",
-      "title": "日経平均終値64,693円で反落、▲306円(▲0.47%) — 中東リスク再燃でソフトバンクG続落",
-      "topic_key": "nikkei-close-64693-may28-2026",
-      "source": "日本経済新聞",
-      "first_seen": "2026-05-28T22:00:00+09:00",
-      "issue": "2026-05-28-2200"
-    },
-    {
-      "url_normalized": "rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
-      "title": "米軍がイランで新たな「防衛的」空爆 — Brent原油96ドル台へ反発、ホルムズ通過は累計23隻",
-      "topic_key": "us-iran-new-strikes-brent-96-may28-2026",
-      "source": "RFE/RL",
-      "first_seen": "2026-05-28T22:00:00+09:00",
-      "issue": "2026-05-28-2200"
-    },
-    {
-      "url_normalized": "tradingkey.com/analysis/stocks/us-stocks/261925503-dell-earnings-preview-stock-price-up-140-ai-servers-tradingkey",
-      "title": "デル決算、日本時間29日早朝発表 — AIサーバー13B・受注残43Bが焦点",
-      "topic_key": "dell-q1-fy27-tonight-may28-2026",
-      "source": "TradingKey",
-      "first_seen": "2026-05-28T22:00:00+09:00",
-      "issue": "2026-05-28-2200"
-    },
-    {
-      "url_normalized": "stat.go.jp/data/cpi/sokuhou/tsuki/index-t.html",
-      "title": "29日朝に東京都区部5月CPI速報と4月為替介入実績を発表 — 日銀正常化の試金石",
-      "topic_key": "tokyo-cpi-fx-intervention-may29-2026",
-      "source": "総務省統計局",
-      "first_seen": "2026-05-28T22:00:00+09:00",
-      "issue": "2026-05-28-2200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/28/european-markets-stoxx-600-ftse-dax-cac-iran-latest-news-.html",
-      "title": "欧州Stoxx 600が▲0.5%・Stoxx 50が▲1.0% — イラン情勢警戒で売り優勢",
-      "topic_key": "europe-stoxx-decline-iran-may28-2026",
-      "source": "CNBC Europe",
-      "first_seen": "2026-05-28T22:00:00+09:00",
-      "issue": "2026-05-28-2200"
-    },
-    {
-      "url_normalized": "economy.ac/review/2026/05/202605289118",
-      "title": "中国不動産危機が長期化 — 投資はGDP比6.1%まで半減、消費押し下げ続く",
-      "topic_key": "china-property-crisis-gdp-6pct-may2026",
-      "source": "The Economy",
-      "first_seen": "2026-05-28T22:00:00+09:00",
-      "issue": "2026-05-28-2200"
-    },
-    {
       "url_normalized": "sec.gov/Archives/edgar/data/0001571996/000157199626000021/exhibit991earnings8kq1fy27.htm",
       "title": "デル・テクノロジーズQ1 FY27決算、売上高438億ドル(+88%) — AIサーバー161億ドル(+757%)、FY27見通しを1,670億ドルへ引き上げ",
       "topic_key": "dell-q1-fy27-record-167b-guide-may2026",
@@ -399,6 +351,46 @@
       "source": "BRC / Bloomberg",
       "first_seen": "2026-05-31T12:00:00+09:00",
       "issue": "2026-05-31-1200"
+    },
+    {
+      "url_normalized": "axios.com/2026/05/28/iran-peace-deal-trump-approval",
+      "title": "米イラン60日停戦MOU、トランプ大統領Situation Room会合後も「最終判断」保留 — ホルムズ通航・濃縮ウラン処分・凍結資産解除が論点",
+      "topic_key": "trump-final-determination-iran-situation-room-may31-2026",
+      "source": "Axios / CNN / Jerusalem Post",
+      "first_seen": "2026-05-31T22:00:00+09:00",
+      "issue": "2026-05-31-2200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
+      "title": "ホルムズ海峡の通航、停戦合意後も「戦前比60〜70%・二極化シナリオ」 — 中国系船は自由通航、欧米系はイラン承認が必要",
+      "topic_key": "hormuz-bifurcation-60-70pct-china-western-may31-2026",
+      "source": "CNBC Energy / Invezz",
+      "first_seen": "2026-05-31T22:00:00+09:00",
+      "issue": "2026-05-31-2200"
+    },
+    {
+      "url_normalized": "kyivindependent.com/ukraine-reportedly-strikes-oil-infrastructure-tanker-in-occupied-crimea-western-russia",
+      "title": "ウクライナ軍がロシア・タガンログ港のオイルタンカーをドローン攻撃 — 燃料タンクと管理棟が炎上、黒海・アゾフ海ルートの輸送に新たな打撃",
+      "topic_key": "ukraine-drone-taganrog-oil-tanker-may30-2026",
+      "source": "Kyiv Independent / TIME",
+      "first_seen": "2026-05-31T22:00:00+09:00",
+      "issue": "2026-05-31-2200"
+    },
+    {
+      "url_normalized": "finance.yahoo.com/markets/live/dow-nasdaq-sp-gain-stock-market-today-friday-may-29-222720284.html",
+      "title": "米株5月総括 — Nasdaq+8%・S&P 500+5%・Dow+3%、S&P 500は9週続伸でDow初の51,000ドル超え、Dell+33%が月間ラリーをけん引",
+      "topic_key": "us-stocks-may-record-month-wrap-nasdaq-8pct-may31-2026",
+      "source": "Yahoo Finance / TheStreet / CNBC",
+      "first_seen": "2026-05-31T22:00:00+09:00",
+      "issue": "2026-05-31-2200"
+    },
+    {
+      "url_normalized": "cryptotimes.io/2026/05/30/xrp-etfs-dominate-weekly-inflows-as-bitcoin-and-ethereum-bleed-capital",
+      "title": "ビットコインETFが6日連続流出累計15.5億ドル、イーサリアムETFは10日連続流出 — 暗号資産は「リスクオン蚊帳の外」が鮮明、XRP ETFは反対に資金流入",
+      "topic_key": "crypto-bleed-btc-etf-1-55b-eth-10day-may31-2026",
+      "source": "Crypto Times / Crypto Briefing / Farside Investors",
+      "first_seen": "2026-05-31T22:00:00+09:00",
+      "issue": "2026-05-31-2200"
     }
   ]
 }

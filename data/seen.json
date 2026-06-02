@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-may-29-2026",
-      "title": "NYダウが史上初の51,000ドル台で大引け、S&P500は9週連続続伸 — 5月はナスダック+8%でテック主導の月間高",
-      "topic_key": "dow-51000-sp500-9week-streak-may29-close-2026",
-      "source": "TheStreet",
-      "first_seen": "2026-05-30T06:00:00+09:00",
-      "issue": "2026-05-30-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
-      "title": "デル株が引けで+32%、史上最大の上昇率で年初来+234% — AIサーバー受注残513億ドルとFY27ガイダンス上方修正を好感",
-      "topic_key": "dell-close-32pct-best-day-ever-234ytd-may29-2026",
-      "source": "CNBC",
-      "first_seen": "2026-05-30T06:00:00+09:00",
-      "issue": "2026-05-30-0600"
-    },
-    {
-      "url_normalized": "investing.com/news/economic-indicators/japan-factory-output-unexpectedly-rises-in-april-retail-sales-stay-firm-4715896",
-      "title": "日本4月鉱工業生産+0.8%MoMで予想を大幅に上回る、小売販売も+2.1%YoY — 半導体製造装置とAI関連が押し上げ",
-      "topic_key": "japan-april-ip-08-retail-21-may30-2026",
-      "source": "Investing.com / Reuters",
-      "first_seen": "2026-05-30T06:00:00+09:00",
-      "issue": "2026-05-30-0600"
-    },
-    {
-      "url_normalized": "stocktitan.net/news/COST/costco-wholesale-corporation-reports-third-quarter-and-year-to-date-ya9rfbnhnzg9.html",
-      "title": "コストコQ3 FY26、売上高69.2億ドル(+11.6%)とEPS 4.93ドルで予想超え — 米国消費の底堅さを示唆",
-      "topic_key": "costco-q3-fy26-net-sales-692b-eps-493-may2026",
-      "source": "Costco IR (StockTitan)",
-      "first_seen": "2026-05-30T06:00:00+09:00",
-      "issue": "2026-05-30-0600"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/united-states/government-bond-yield",
-      "title": "米10年債利回り4.45%へ2週ぶり低水準、Brent原油は91.37ドルで月間▲17%(2020年5月以来) — 停戦進展でリスク資産シフト鮮明",
-      "topic_key": "us10y-445-brent-9137-monthly-17pct-may29-close-2026",
-      "source": "Trading Economics",
-      "first_seen": "2026-05-30T06:00:00+09:00",
-      "issue": "2026-05-30-0600"
-    },
-    {
       "url_normalized": "bloomberg.com/news/newsletters/2026-05-29/the-debut-bessent-warsh-breakfast-left-fed-rate-cuts-off-the-menu",
       "title": "ベセント財務長官とWarsh新FRB議長が初の朝食会合、「利下げは要請せず」 — 6月利下げ確率は30%台へ後退",
       "topic_key": "bessent-warsh-breakfast-no-rate-cut-may2026",
@@ -327,6 +287,46 @@
       "source": "Bloomberg / Japan Times / Reuters survey",
       "first_seen": "2026-06-02T06:00:00+09:00",
       "issue": "2026-06-02-0600"
+    },
+    {
+      "url_normalized": "asia.nikkei.com/business/markets/currencies/japan-launches-fx-intervention-briefly-pushing-yen-to-155-from-160",
+      "title": "財務省が再び円買い介入、ドル円を160円から一時155円台へ約3%急伸 — 5月累計介入額は約11.7兆円、日経平均は66,954円の最高値圏",
+      "topic_key": "japan-fx-intervention-yen-155-from-160-nikkei-record-jun2-2026",
+      "source": "Nikkei Asia / 財務省",
+      "first_seen": "2026-06-02T12:00:00+09:00",
+      "issue": "2026-06-02-1200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/china/manufacturing-pmi",
+      "title": "中国の民間製造業PMIが5月51.8で予想(51.4)超え — 官製PMI50.0との乖離が鮮明、中国株・商品に追い風",
+      "topic_key": "china-caixin-may-pmi-518-beats-vs-nbs-500-jun2-2026",
+      "source": "Trading Economics / Caixin",
+      "first_seen": "2026-06-02T12:00:00+09:00",
+      "issue": "2026-06-02-1200"
+    },
+    {
+      "url_normalized": "bloomberg.com/news/articles/2026-05-11/ecb-to-hike-rates-twice-in-2026-as-inflation-jumps-survey-shows",
+      "title": "ECBは6月11日に0.25%利上げの公算 — ユーロ圏4月HICP+3.0%・仏5月HICP+2.8%でインフレ再加速、年内2回利上げ観測",
+      "topic_key": "ecb-june11-hike-eurozone-hicp-30-france-28-jun2-2026",
+      "source": "Bloomberg / ING Think",
+      "first_seen": "2026-06-02T12:00:00+09:00",
+      "issue": "2026-06-02-1200"
+    },
+    {
+      "url_normalized": "marketscreener.com/news/opec-statement-41st-opec-and-non-opec-ministerial-meeting-to-be-held-on-7-june-2026-ce7d51dbde8ff425",
+      "title": "OPECプラスが6月7日に第41回閣僚会合 — 原油急反発(Brent95ドル・WTI92ドル前後)と需給安定の綱引き、大幅増産には慎重論",
+      "topic_key": "opec-plus-june7-meeting-oil-rebound-dilemma-jun2-2026",
+      "source": "MarketScreener / OPEC / CNBC",
+      "first_seen": "2026-06-02T12:00:00+09:00",
+      "issue": "2026-06-02-1200"
+    },
+    {
+      "url_normalized": "investing.com/analysis/gold-vs-bitcoin-in-2026-which-safe-haven-is-actually-delivering-200679952",
+      "title": "安全資産で明暗 — 金は1月の5,595ドルから4,700ドル前後へ後退(金利上昇が重し)、ビットコインはETF長期保有層定着で相対優位",
+      "topic_key": "gold-4700-vs-bitcoin-safe-haven-divergence-jun2-2026",
+      "source": "Investing.com / OANDA",
+      "first_seen": "2026-06-02T12:00:00+09:00",
+      "issue": "2026-06-02-1200"
     }
   ]
 }

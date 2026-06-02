@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "nikkei.com/article/DGXZQOUA296KV0Z20C26A5000000",
-      "title": "財務省、4-5月の円買い介入を11兆7,349億円と公表 — 月次ベースで過去最大、円安歯止め効果には懐疑論",
-      "topic_key": "japan-fx-intervention-117tn-monthly-record-may2026",
-      "source": "日本経済新聞 / Bloomberg",
-      "first_seen": "2026-05-30T22:00:00+09:00",
-      "issue": "2026-05-30-2200"
-    },
-    {
-      "url_normalized": "euronews.com/business/2026/05/29/ecb-rate-hike-in-focus-as-eurozones-big-four-report-stubbornly-high-inflation",
-      "title": "ECBが6月11日に利上げの公算 — 仏HICP+2.8%・独コア+2.5%でユーロ圏インフレ再加速、Fedとの乖離鮮明",
-      "topic_key": "ecb-june-hike-expected-eurozone-cpi-may2026",
-      "source": "Euronews / Bloomberg",
-      "first_seen": "2026-05-30T22:00:00+09:00",
-      "issue": "2026-05-30-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/opec/calendar",
-      "title": "OPEC+ 6月7日に主要8カ国会合 — 5月決定の日量18.8万バレル増産に続く判断が焦点、Brent月間▲17%下落で各国の温度差",
-      "topic_key": "opec-plus-june-7-meeting-outlook-may2026",
-      "source": "Trading Economics / CNBC",
-      "first_seen": "2026-05-30T22:00:00+09:00",
-      "issue": "2026-05-30-2200"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-29/us-iran-reach-deal-on-extended-ceasefire-pending-trump-approval",
-      "title": "米イラン60日停戦MOU、31日にも発表観測 — トランプ大統領が最終判断、パキスタンが仲介役",
-      "topic_key": "us-iran-mou-sunday-announcement-pakistan-mediation-may30-2026",
-      "source": "Bloomberg / Axios",
-      "first_seen": "2026-05-30T22:00:00+09:00",
-      "issue": "2026-05-30-2200"
-    },
-    {
-      "url_normalized": "247wallst.com/investing/2026/05/26/amd-is-up-5-today-is-it-outperforming-other-chip-stocks-like-intel-and-nvidia",
-      "title": "AMDが年初来+114%でNvidia(+18%)を引き離す — Meta・OpenAIとのMI400契約観測でAIチップ寡占構造に変化、PHLX半導体指数+70%",
-      "topic_key": "amd-114pct-ytd-nvidia-18pct-meta-openai-may2026",
-      "source": "24/7 Wall St. / CNBC",
-      "first_seen": "2026-05-30T22:00:00+09:00",
-      "issue": "2026-05-30-2200"
-    },
-    {
       "url_normalized": "cnn.com/2026/05/28/world/live-news/iran-war-us-news",
       "title": "米イラン60日停戦MOU、ヴァンス副大統領「署名はTBD」と表明 — 文言数点で詰めの交渉",
       "topic_key": "us-iran-mou-vance-tbd-language-points-may31-2026",
@@ -319,6 +279,46 @@
       "source": "The Hill / OANDA",
       "first_seen": "2026-06-02T22:00:00+09:00",
       "issue": "2026-06-02-2200"
+    },
+    {
+      "url_normalized": "247wallst.com/investing/2026/06/02/stock-market-live-june-2-2026-sp-500-spy-slips-after-testing-record-highs",
+      "title": "米国株6月2日に最高値更新 — S&P500が初の7,600超え(7,609.78)・ダウ51,307.79ドル(+0.45%)・ナスダック27,093、ラッセル2000+0.9%、HPE・マーベル主導",
+      "topic_key": "us-stocks-record-sp500-7609-dow-51307-russell-jun2-2026",
+      "source": "24/7 Wall St. / CNBC / TheStreet",
+      "first_seen": "2026-06-03T06:00:00+09:00",
+      "issue": "2026-06-03-0600"
+    },
+    {
+      "url_normalized": "cnn.com/2026/06/02/economy/jolts-job-openings-layoffs-hiring-april",
+      "title": "米4月JOLTS求人件数が760万件へ上振れ(予想680万件) — 2024年5月以来の高水準、採用510万件・離職500万件で『低採用・低解雇』、5月雇用統計は6/5",
+      "topic_key": "us-april-jolts-76m-openings-low-hire-low-fire-jun2-2026",
+      "source": "CNN Business / BLS / CNBC",
+      "first_seen": "2026-06-03T06:00:00+09:00",
+      "issue": "2026-06-03-0600"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOUB018TY0R00C26A6000000",
+      "title": "ドル円が再び160円に接近、過去最大11.73兆円介入も『効果は約1円』 — 短期筋の円売り誘発との見方、6/3夕の植田総裁講演に注目(6月利上げ確率8割弱)",
+      "topic_key": "yen-near-160-intervention-1yen-ueda-speech-jun3-2026",
+      "source": "日本経済新聞 / 野村證券",
+      "first_seen": "2026-06-03T06:00:00+09:00",
+      "issue": "2026-06-03-0600"
+    },
+    {
+      "url_normalized": "hedgeco.net/news/06/2026/bitcoin-opens-june-under-pressure-as-etf-outflows-cross-2b.html",
+      "title": "ビットコインETFが10営業日連続で流出、累計約29.7億ドルで過去最長 — 12億ドルポジション解消観測、JPモルガンは『デベースメント取引の一服』と指摘、資金はAI関連株へ",
+      "topic_key": "btc-etf-10day-record-outflow-297b-debasement-cooling-jun3-2026",
+      "source": "HedgeCo / The Block (JPMorgan) / CoinDesk",
+      "first_seen": "2026-06-03T06:00:00+09:00",
+      "issue": "2026-06-03-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html",
+      "title": "原油Brent95ドル前後で高止まり — イランが米国との連絡停止、ホルムズ・バブエルマンデブ閉鎖検討、トランプ氏は『MOUは1週間内にも』、6/7にOPECプラス会合",
+      "topic_key": "oil-brent-95-iran-comms-halt-trump-mou-week-opec-jun3-2026",
+      "source": "CNBC / OPEC",
+      "first_seen": "2026-06-03T06:00:00+09:00",
+      "issue": "2026-06-03-0600"
     }
   ]
 }

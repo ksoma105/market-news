@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "bloomberg.com/news/newsletters/2026-05-29/the-debut-bessent-warsh-breakfast-left-fed-rate-cuts-off-the-menu",
-      "title": "ベセント財務長官とWarsh新FRB議長が初の朝食会合、「利下げは要請せず」 — 6月利下げ確率は30%台へ後退",
-      "topic_key": "bessent-warsh-breakfast-no-rate-cut-may2026",
-      "source": "Bloomberg / US News",
-      "first_seen": "2026-05-30T12:00:00+09:00",
-      "issue": "2026-05-30-1200"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-29/asia-rice-surges-20-in-may-as-war-and-weather-threaten-output",
-      "title": "アジア米価が5月単月+20%、約20年ぶり最大の月間上昇 — ホルムズ起点のエネルギー高とエルニーニョが供給直撃",
-      "topic_key": "asia-rice-20pct-monthly-jump-may2026",
-      "source": "Bloomberg",
-      "first_seen": "2026-05-30T12:00:00+09:00",
-      "issue": "2026-05-30-1200"
-    },
-    {
-      "url_normalized": "nikkei.com/article/DGXZQOFD28CUR0Y6A520C2000000",
-      "title": "トヨタ、レクサス次世代EVセダン「LF-ZC」開発中止 — 世界EV需要鈍化でSUVへ資源集中、全固体電池の研究は継続",
-      "topic_key": "toyota-lf-zc-cancel-suv-focus-may2026",
-      "source": "日本経済新聞 / 時事通信",
-      "first_seen": "2026-05-30T12:00:00+09:00",
-      "issue": "2026-05-30-1200"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-29/sec-moves-to-scrap-biden-era-rule-on-climate-risk-disclosures",
-      "title": "SECがバイデン時代の気候開示ルール撤廃を正式提案 — 上場企業のGHG・気候リスク報告義務を全廃へ",
-      "topic_key": "sec-scrap-biden-climate-disclosure-may2026",
-      "source": "Bloomberg / Washington Post",
-      "first_seen": "2026-05-30T12:00:00+09:00",
-      "issue": "2026-05-30-1200"
-    },
-    {
-      "url_normalized": "nikkei.com/article/DGKKZO96595150Q6A530C2EA1000",
-      "title": "日本の3-5月原油輸入が前年比▲47%、主要輸入国で最大の減少幅 — 米イラン衝突を契機に中東依存リスクが顕在化",
-      "topic_key": "japan-oil-import-47pct-decline-mar-may2026",
-      "source": "日本経済新聞 / 第一生命経済研",
-      "first_seen": "2026-05-30T12:00:00+09:00",
-      "issue": "2026-05-30-1200"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-29/yum-said-to-be-in-exclusive-talks-to-sell-pizza-hut-to-longrange",
-      "title": "Yum BrandsがPizza HutをLongRange Capitalへ売却で独占交渉 — 米国既存店は10四半期連続マイナス",
-      "topic_key": "yum-pizzahut-longrange-exclusive-may2026",
-      "source": "Bloomberg / Seeking Alpha",
-      "first_seen": "2026-05-30T12:00:00+09:00",
-      "issue": "2026-05-30-1200"
-    },
-    {
       "url_normalized": "nikkei.com/article/DGXZQOUA296KV0Z20C26A5000000",
       "title": "財務省、4-5月の円買い介入を11兆7,349億円と公表 — 月次ベースで過去最大、円安歯止め効果には懐疑論",
       "topic_key": "japan-fx-intervention-117tn-monthly-record-may2026",
@@ -327,6 +279,46 @@
       "source": "Investing.com / OANDA",
       "first_seen": "2026-06-02T12:00:00+09:00",
       "issue": "2026-06-02-1200"
+    },
+    {
+      "url_normalized": "limo.media/articles/-/127165",
+      "title": "円が155円から159円台後半へ売り戻し、投機筋の円売り越しが介入前水準を突破 — 日経平均は反落200円安の66,734円、TOPIX 3,924.24",
+      "topic_key": "yen-sold-back-159-nikkei-reverse-66734-jun2-2026",
+      "source": "LIMO / 日本経済新聞",
+      "first_seen": "2026-06-02T22:00:00+09:00",
+      "issue": "2026-06-02-2200"
+    },
+    {
+      "url_normalized": "nli-research.co.jp/report/detail/id=85717",
+      "title": "1-3月期の法人企業統計、設備投資は前年比ほぼ横ばい — 企業収益は底堅さ維持も中東不確実性で投資先送り観測",
+      "topic_key": "japan-q1-capex-flat-profits-firm-jun2-2026",
+      "source": "ニッセイ基礎研究所 / 財務省",
+      "first_seen": "2026-06-02T22:00:00+09:00",
+      "issue": "2026-06-02-2200"
+    },
+    {
+      "url_normalized": "prnewswire.com/news-releases/manufacturing-pmi-at-54-may-2026-ism-manufacturing-pmi-report-302786165.html",
+      "title": "米5月ISM製造業PMIが54.0へ上振れ(2022年5月以来の高水準) — 新規受注56.8で5カ月連続拡大、価格指数82.1で物価圧力残存・雇用48.6",
+      "topic_key": "us-may-ism-manufacturing-540-prices-821-jun2-2026",
+      "source": "PR Newswire / ISM",
+      "first_seen": "2026-06-02T22:00:00+09:00",
+      "issue": "2026-06-02-2200"
+    },
+    {
+      "url_normalized": "finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-1-dow-sp-nasdaq-waver-225422932.html",
+      "title": "米国株(6/1月曜)はイラン交渉停止報道で一時動揺も最高値圏で底堅く — トランプ氏のネタニヤフ電話「生産的」で原油上げ縮小、エヌビディア主導のAI物色継続",
+      "topic_key": "us-stocks-jun1-resilient-trump-netanyahu-call-ai-jun2-2026",
+      "source": "Yahoo Finance / heygotrade",
+      "first_seen": "2026-06-02T22:00:00+09:00",
+      "issue": "2026-06-02-2200"
+    },
+    {
+      "url_normalized": "thehill.com/policy/defense/5903844-iran-accuses-trump-ceasefire-violations",
+      "title": "米イラン交渉が一段と暗転 — イランが仲介国通じた対話停止とホルムズ閉鎖維持を表明(レバノン停戦が前提条件)、原油WTI92ドル超・Brent95ドル前後、トランプ氏は「退屈」",
+      "topic_key": "us-iran-talks-halt-hormuz-closed-oil-up-jun2-2026",
+      "source": "The Hill / OANDA",
+      "first_seen": "2026-06-02T22:00:00+09:00",
+      "issue": "2026-06-02-2200"
     }
   ]
 }

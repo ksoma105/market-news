@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "axios.com/2026/05/28/iran-peace-deal-trump-approval",
-      "title": "米イラン60日停戦MOU、トランプ大統領Situation Room会合後も「最終判断」保留 — ホルムズ通航・濃縮ウラン処分・凍結資産解除が論点",
-      "topic_key": "trump-final-determination-iran-situation-room-may31-2026",
-      "source": "Axios / CNN / Jerusalem Post",
-      "first_seen": "2026-05-31T22:00:00+09:00",
-      "issue": "2026-05-31-2200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
-      "title": "ホルムズ海峡の通航、停戦合意後も「戦前比60〜70%・二極化シナリオ」 — 中国系船は自由通航、欧米系はイラン承認が必要",
-      "topic_key": "hormuz-bifurcation-60-70pct-china-western-may31-2026",
-      "source": "CNBC Energy / Invezz",
-      "first_seen": "2026-05-31T22:00:00+09:00",
-      "issue": "2026-05-31-2200"
-    },
-    {
-      "url_normalized": "kyivindependent.com/ukraine-reportedly-strikes-oil-infrastructure-tanker-in-occupied-crimea-western-russia",
-      "title": "ウクライナ軍がロシア・タガンログ港のオイルタンカーをドローン攻撃 — 燃料タンクと管理棟が炎上、黒海・アゾフ海ルートの輸送に新たな打撃",
-      "topic_key": "ukraine-drone-taganrog-oil-tanker-may30-2026",
-      "source": "Kyiv Independent / TIME",
-      "first_seen": "2026-05-31T22:00:00+09:00",
-      "issue": "2026-05-31-2200"
-    },
-    {
-      "url_normalized": "finance.yahoo.com/markets/live/dow-nasdaq-sp-gain-stock-market-today-friday-may-29-222720284.html",
-      "title": "米株5月総括 — Nasdaq+8%・S&P 500+5%・Dow+3%、S&P 500は9週続伸でDow初の51,000ドル超え、Dell+33%が月間ラリーをけん引",
-      "topic_key": "us-stocks-may-record-month-wrap-nasdaq-8pct-may31-2026",
-      "source": "Yahoo Finance / TheStreet / CNBC",
-      "first_seen": "2026-05-31T22:00:00+09:00",
-      "issue": "2026-05-31-2200"
-    },
-    {
-      "url_normalized": "cryptotimes.io/2026/05/30/xrp-etfs-dominate-weekly-inflows-as-bitcoin-and-ethereum-bleed-capital",
-      "title": "ビットコインETFが6日連続流出累計15.5億ドル、イーサリアムETFは10日連続流出 — 暗号資産は「リスクオン蚊帳の外」が鮮明、XRP ETFは反対に資金流入",
-      "topic_key": "crypto-bleed-btc-etf-1-55b-eth-10day-may31-2026",
-      "source": "Crypto Times / Crypto Briefing / Farside Investors",
-      "first_seen": "2026-05-31T22:00:00+09:00",
-      "issue": "2026-05-31-2200"
-    },
-    {
       "url_normalized": "english.news.cn/20260531/7be1c632781e4cd29dee051b56b6ece1/c.html",
       "title": "中国5月製造業PMIが50.0へ0.3pt低下 — 生産51.2は拡大維持も新規受注49.9で需要鈍化、ハイテク製造業52.9・設備製造業52.1が下支え",
       "topic_key": "china-may-manufacturing-pmi-50-jun1-2026",
@@ -271,6 +231,54 @@
       "source": "Rio Times (Eurostat) / Euronews",
       "first_seen": "2026-06-03T22:00:00+09:00",
       "issue": "2026-06-03-2200"
+    },
+    {
+      "url_normalized": "rappler.com/world/middle-east/usa-iran-war-updates-june-3-2026/",
+      "title": "中東情勢が再緊迫、イランが湾岸諸国へミサイル — クウェート空港に着弾し1人死亡、バーレーン向け3発は迎撃、米軍はゲシュム島攻撃で応戦、原油は1%超上昇しBrent97ドル近辺",
+      "topic_key": "iran-missiles-kuwait-bahrain-gulf-oil-up-jun3-2026",
+      "source": "Rappler / RFE/RL / CENTCOM",
+      "first_seen": "2026-06-04T06:00:00+09:00",
+      "issue": "2026-06-04-0600"
+    },
+    {
+      "url_normalized": "finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-slip-fresh-190348981.html",
+      "title": "米株が最高値から反落 — ダウ▲1.2%・ラッセル2000▲1.25%・ナスダック▲0.9%・S&P500▲0.7%、イランの湾岸ミサイル攻撃で原油高・米債逃避のリスクオフ、値がさハイテクに利益確定売り",
+      "topic_key": "us-stocks-pullback-dow-12-iran-riskoff-jun3-2026",
+      "source": "Yahoo Finance / Bloomberg / TheStreet",
+      "first_seen": "2026-06-04T06:00:00+09:00",
+      "issue": "2026-06-04-0600"
+    },
+    {
+      "url_normalized": "stocktitan.net/news/AVGO/broadcom-inc-announces-second-quarter-fiscal-year-2026-financial-if4yrbje8hq6.html",
+      "title": "ブロードコムQ2決算、売上高222億ドル(+48%)・非GAAP EPS2.44ドルで予想超え — AI半導体143%増の108億ドル(ガイダンス107億ドル上回る)、Q3見通し294億ドル(+84%)、時間外約4.7%高",
+      "topic_key": "broadcom-q2-fy26-rev-222b-ai-108b-q3-294b-jun3-2026",
+      "source": "StockTitan (Broadcom IR) / The Motley Fool",
+      "first_seen": "2026-06-04T06:00:00+09:00",
+      "issue": "2026-06-04-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html",
+      "title": "米5月ADP民間雇用が+12.2万人で予想(約11万人)超え — 4月10.5万人から加速し25年1月以来の強さ、10業種中8業種で増加、6/5の雇用統計は+8万人・失業率4.3%予想、FOMCは6/16-17",
+      "topic_key": "us-may-adp-122k-jobs-preview-jun5-fomc-jun3-2026",
+      "source": "CNBC / Kiplinger / BLS",
+      "first_seen": "2026-06-04T06:00:00+09:00",
+      "issue": "2026-06-04-0600"
+    },
+    {
+      "url_normalized": "global.morningstar.com/en-gb/economy/eurozone-inflation-rises-ecb-rate-hike-widely-expected-next-week",
+      "title": "ECBの6月11日利上げほぼ確実(市場9割超織り込み) — 5月HICP+3.2%・エネルギー+10.9%・コア+2.5%、預金金利2.00%→2.25%へ、欧州委は26年見通しを1.9%→3.0%に上方修正",
+      "topic_key": "ecb-jun11-hike-near-certain-deposit-225-jun3-2026",
+      "source": "Morningstar / Crypto Briefing",
+      "first_seen": "2026-06-04T06:00:00+09:00",
+      "issue": "2026-06-04-0600"
+    },
+    {
+      "url_normalized": "mitrade.com/au/insights/news/live-news/article-1-1768528-20260601",
+      "title": "日本市場は最高値圏で4日朝を迎える — 日経平均68,000円台後の海外株安・中東緊迫が重し、ドル円159円台、植田総裁『適切なペース利上げ』で6/16-17会合の追加利上げ観測根強い",
+      "topic_key": "japan-record-usdjpy-159-boj-june-hike-watch-jun4-2026",
+      "source": "Mitrade / 日本経済新聞",
+      "first_seen": "2026-06-04T06:00:00+09:00",
+      "issue": "2026-06-04-0600"
     }
   ]
 }

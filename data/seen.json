@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "cnn.com/2026/05/28/world/live-news/iran-war-us-news",
-      "title": "米イラン60日停戦MOU、ヴァンス副大統領「署名はTBD」と表明 — 文言数点で詰めの交渉",
-      "topic_key": "us-iran-mou-vance-tbd-language-points-may31-2026",
-      "source": "CNN / Axios",
-      "first_seen": "2026-05-31T06:00:00+09:00",
-      "issue": "2026-05-31-0600"
-    },
-    {
-      "url_normalized": "euronews.com/my-europe/2026/05/29/is-europe-finally-waking-up-to-china",
-      "title": "欧州委員会が対中通商戦略を抜本再考へ — 上海・深セン続落、EU-中国貿易赤字Q1で980億ユーロ",
-      "topic_key": "eu-china-trade-strategy-rethink-shanghai-shenzhen-may31-2026",
-      "source": "Euronews / T. Rowe Price",
-      "first_seen": "2026-05-31T06:00:00+09:00",
-      "issue": "2026-05-31-0600"
-    },
-    {
-      "url_normalized": "outlookmoney.com/amp/story/news/rbi-may-resort-to-rate-hike-as-early-as-june-amid-geopolitical-uncertainty-high-crude-oil-prices",
-      "title": "インド準備銀行、6月5日会合で利上げ観測強まる — ルピー対ドル97台で史上最安値、原油高で物価加速",
-      "topic_key": "rbi-june5-hike-rupee-97-record-low-may31-2026",
-      "source": "Outlook Money / Discovery Alert",
-      "first_seen": "2026-05-31T06:00:00+09:00",
-      "issue": "2026-05-31-0600"
-    },
-    {
-      "url_normalized": "japantoday.com/category/politics/g7-finance-leaders-try-to-downplay-tariff-disputes-find-consensus1",
-      "title": "G7パリ会合で日本片山財務相が「円安に果断対応」再表明 — 6月15-17日エビアン首脳会議へ為替・関税が焦点",
-      "topic_key": "g7-paris-katayama-evian-summit-fx-tariff-may31-2026",
-      "source": "Japan Today / Bloomberg",
-      "first_seen": "2026-05-31T06:00:00+09:00",
-      "issue": "2026-05-31-0600"
-    },
-    {
-      "url_normalized": "abs.gov.au/media-centre/media-releases/cpi-rose-42-year-april-2026",
-      "title": "豪4月CPI+4.2%へ鈍化もトリム平均+3.4%へ上振れ — 電気料金+22.5%が圧迫、RBA利上げサイクル継続観測",
-      "topic_key": "australia-april-cpi-42-trim-34-electricity-225-may31-2026",
-      "source": "Australian Bureau of Statistics / RBA",
-      "first_seen": "2026-05-31T06:00:00+09:00",
-      "issue": "2026-05-31-0600"
-    },
-    {
-      "url_normalized": "sundayguardianlive.com/business/gold-rate-today-30-may-2026-live-updates-us-gold-rates-edges-higher-to-4535-amid-us-iran-war-domestic-rates-above-159-lakh10g-check-city-wise-price-of-24k-22k-18k-198504",
-      "title": "金スポット4,535ドルで高値圏維持、ビットコインETFは9日連続流出累計28億ドル — 安全資産間で乖離鮮明",
-      "topic_key": "gold-4535-btc-etf-9day-outflow-28b-divergence-may31-2026",
-      "source": "Sunday Guardian Live / MEXC",
-      "first_seen": "2026-05-31T06:00:00+09:00",
-      "issue": "2026-05-31-0600"
-    },
-    {
       "url_normalized": "bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai",
       "title": "Anthropic、シリーズHで650億ドル調達・評価額9,650億ドルでOpenAIを抜く — Claude Opus 4.8公開とMythos投入予告、Microsoft Maia 200採用協議も",
       "topic_key": "anthropic-series-h-65b-965b-valuation-opus-48-mythos-may2026",
@@ -319,6 +271,46 @@
       "source": "CNBC / OPEC",
       "first_seen": "2026-06-03T06:00:00+09:00",
       "issue": "2026-06-03-0600"
+    },
+    {
+      "url_normalized": "nikkei.com/markets/",
+      "title": "日経平均が取引時間中初の6万8,000円台 — 前場一時+1,500円の6万8,200円台、米株高で半導体・AI株に買い集中、香港ハンセン+2.4%・CSI300+1.5%とアジア株全面高、ドル円159円後半で植田講演待ち",
+      "topic_key": "nikkei-intraday-68000-first-asia-rally-hangseng-csi300-jun3-2026",
+      "source": "日本経済新聞 / CNBC",
+      "first_seen": "2026-06-03T12:00:00+09:00",
+      "issue": "2026-06-03-1200"
+    },
+    {
+      "url_normalized": "investing.com/news/stock-market-news/why-is-alphabet-stock-sliding-today-93CH-4721536",
+      "title": "アルファベットが総額800億ドルの大型増資計画 — バークシャーへ100億ドル第三者割当(約6%割安)・公募300億ドル・ATM400億ドル(Q3)、2026年設備投資1,800-1,900億ドルで希薄化懸念、株価一時▲4%",
+      "topic_key": "alphabet-80b-raise-berkshire-10b-capex-180b-dilution-jun2-2026",
+      "source": "Investing.com / The Motley Fool",
+      "first_seen": "2026-06-03T12:00:00+09:00",
+      "issue": "2026-06-03-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/02/hpe-stock-earnings-ai-cloud-servers.html",
+      "title": "HPE決算が大幅上振れで株価+19%(過去最大の上げ) — 調整後EPS0.79ドル(予想0.53)・売上106.8億ドル(+40%)、サーバー54.5億ドル、通期EPS見通し3.35-3.45ドルへ増額、マーベル+28%・ブロードコム最高値",
+      "topic_key": "hpe-earnings-beat-stock-19-marvell-28-broadcom-record-jun2-2026",
+      "source": "CNBC / The Motley Fool",
+      "first_seen": "2026-06-03T12:00:00+09:00",
+      "issue": "2026-06-03-1200"
+    },
+    {
+      "url_normalized": "gmk.center/en/news/inflation-in-the-eurozone-accelerated-to-3-2-in-may/",
+      "title": "ユーロ圏5月HICPが+3.2%へ再加速(4月+3.0%) — コア2.5%・サービス3.5%(前月3.0%)・エネルギー10.9%、独2.7%/仏2.8%/伊3.3%/西3.6%、6月11日ECB利上げ観測強まる",
+      "topic_key": "eurozone-may-hicp-32-services-35-ecb-june11-hike-jun3-2026",
+      "source": "Euronews / GMK Center",
+      "first_seen": "2026-06-03T12:00:00+09:00",
+      "issue": "2026-06-03-1200"
+    },
+    {
+      "url_normalized": "sundayguardianlive.com/business/gold-rate-today-03-june-2026-live-updates-us-gold-rates-edges-lower-to-4481-amid-us-iran-war-domestic-rates-surges-156-lakh10g",
+      "title": "金スポットが4,481ドル近辺へ反落(前日4,500ドル回復から) — 株へのリスクオンが上値抑制、原油Brent95ドル前後で高止まり、イラン連絡停止・6/7 OPECプラス会合で地政学リスクくすぶる",
+      "topic_key": "gold-4481-pullback-oil-brent95-riskon-vs-geopolitics-jun3-2026",
+      "source": "Sunday Guardian Live / CNBC",
+      "first_seen": "2026-06-03T12:00:00+09:00",
+      "issue": "2026-06-03-1200"
     }
   ]
 }

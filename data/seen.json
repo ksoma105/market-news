@@ -1,94 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "cnn.com/2026/05/28/world/live-news/iran-war-us-news",
-      "title": "米イラン60日停戦MOU、ヴァンス副大統領「署名はTBD」と表明 — 文言数点で詰めの交渉",
-      "topic_key": "us-iran-mou-vance-tbd-language-points-may31-2026",
-      "source": "CNN / Axios",
-      "first_seen": "2026-05-31T06:00:00+09:00",
-      "issue": "2026-05-31-0600"
-    },
-    {
-      "url_normalized": "euronews.com/my-europe/2026/05/29/is-europe-finally-waking-up-to-china",
-      "title": "欧州委員会が対中通商戦略を抜本再考へ — 上海・深セン続落、EU-中国貿易赤字Q1で980億ユーロ",
-      "topic_key": "eu-china-trade-strategy-rethink-shanghai-shenzhen-may31-2026",
-      "source": "Euronews / T. Rowe Price",
-      "first_seen": "2026-05-31T06:00:00+09:00",
-      "issue": "2026-05-31-0600"
-    },
-    {
-      "url_normalized": "outlookmoney.com/amp/story/news/rbi-may-resort-to-rate-hike-as-early-as-june-amid-geopolitical-uncertainty-high-crude-oil-prices",
-      "title": "インド準備銀行、6月5日会合で利上げ観測強まる — ルピー対ドル97台で史上最安値、原油高で物価加速",
-      "topic_key": "rbi-june5-hike-rupee-97-record-low-may31-2026",
-      "source": "Outlook Money / Discovery Alert",
-      "first_seen": "2026-05-31T06:00:00+09:00",
-      "issue": "2026-05-31-0600"
-    },
-    {
-      "url_normalized": "japantoday.com/category/politics/g7-finance-leaders-try-to-downplay-tariff-disputes-find-consensus1",
-      "title": "G7パリ会合で日本片山財務相が「円安に果断対応」再表明 — 6月15-17日エビアン首脳会議へ為替・関税が焦点",
-      "topic_key": "g7-paris-katayama-evian-summit-fx-tariff-may31-2026",
-      "source": "Japan Today / Bloomberg",
-      "first_seen": "2026-05-31T06:00:00+09:00",
-      "issue": "2026-05-31-0600"
-    },
-    {
-      "url_normalized": "abs.gov.au/media-centre/media-releases/cpi-rose-42-year-april-2026",
-      "title": "豪4月CPI+4.2%へ鈍化もトリム平均+3.4%へ上振れ — 電気料金+22.5%が圧迫、RBA利上げサイクル継続観測",
-      "topic_key": "australia-april-cpi-42-trim-34-electricity-225-may31-2026",
-      "source": "Australian Bureau of Statistics / RBA",
-      "first_seen": "2026-05-31T06:00:00+09:00",
-      "issue": "2026-05-31-0600"
-    },
-    {
-      "url_normalized": "sundayguardianlive.com/business/gold-rate-today-30-may-2026-live-updates-us-gold-rates-edges-higher-to-4535-amid-us-iran-war-domestic-rates-above-159-lakh10g-check-city-wise-price-of-24k-22k-18k-198504",
-      "title": "金スポット4,535ドルで高値圏維持、ビットコインETFは9日連続流出累計28億ドル — 安全資産間で乖離鮮明",
-      "topic_key": "gold-4535-btc-etf-9day-outflow-28b-divergence-may31-2026",
-      "source": "Sunday Guardian Live / MEXC",
-      "first_seen": "2026-05-31T06:00:00+09:00",
-      "issue": "2026-05-31-0600"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai",
-      "title": "Anthropic、シリーズHで650億ドル調達・評価額9,650億ドルでOpenAIを抜く — Claude Opus 4.8公開とMythos投入予告、Microsoft Maia 200採用協議も",
-      "topic_key": "anthropic-series-h-65b-965b-valuation-opus-48-mythos-may2026",
-      "source": "Bloomberg / CNBC / Fortune",
-      "first_seen": "2026-05-31T12:00:00+09:00",
-      "issue": "2026-05-31-1200"
-    },
-    {
-      "url_normalized": "investinglive.com/centralbank/bank-of-korea-holds-at-250-but-dot-plot-points-firmly-to-rate-hikes-ahead-20260528",
-      "title": "韓国銀行が政策金利2.50%で据え置きも「タカ派ホールド」 — ドットプロットは年末3.00%を示唆、2026年GDPを2.6%へ上方修正",
-      "topic_key": "bok-hawkish-hold-dot-plot-300-gdp-26-may2026",
-      "source": "InvestingLive / Seoul Economic Daily / Korea Herald",
-      "first_seen": "2026-05-31T12:00:00+09:00",
-      "issue": "2026-05-31-1200"
-    },
-    {
-      "url_normalized": "acea.auto/pc-registrations/new-car-registrations-4-2-in-april-2026-year-to-date-battery-electric-19-7-market-share",
-      "title": "欧州4月新車登録、BEV+37.7%で全動力源中最大の伸び — 累計シェア19.7%へ拡大、伊+98.8%・仏+41.8%・独+41.3%",
-      "topic_key": "eu-april-bev-377-share-197-acea-may2026",
-      "source": "ACEA / electrive",
-      "first_seen": "2026-05-31T12:00:00+09:00",
-      "issue": "2026-05-31-1200"
-    },
-    {
-      "url_normalized": "news.usni.org/2026/05/01/strait-of-hormuz-commercial-transits-at-lowest-level-since-operation-epic-fury-start-shipping-data-shows",
-      "title": "ホルムズ海峡の商業通航がOperation Epic Fury以降の最低水準で停滞 — Brent 92.56ドル(月間▲19%)でも実需フロー未回復",
-      "topic_key": "hormuz-commercial-transit-lowest-brent-9256-may2026",
-      "source": "USNI News / CNBC Energy",
-      "first_seen": "2026-05-31T12:00:00+09:00",
-      "issue": "2026-05-31-1200"
-    },
-    {
-      "url_normalized": "brc.org.uk/news/corporate-affairs/shop-price-index-may-2026",
-      "title": "英国5月Shop Price Index +1.2%で予想上振れ — 中東発の海運コスト高が小売物価に波及、BoE利下げシナリオ後退",
-      "topic_key": "uk-may-shop-price-12-shipping-pass-through-may2026",
-      "source": "BRC / Bloomberg",
-      "first_seen": "2026-05-31T12:00:00+09:00",
-      "issue": "2026-05-31-1200"
-    },
-    {
       "url_normalized": "axios.com/2026/05/28/iran-peace-deal-trump-approval",
       "title": "米イラン60日停戦MOU、トランプ大統領Situation Room会合後も「最終判断」保留 — ホルムズ通航・濃縮ウラン処分・凍結資産解除が論点",
       "topic_key": "trump-final-determination-iran-situation-room-may31-2026",
@@ -319,6 +231,46 @@
       "source": "CNBC / OPEC",
       "first_seen": "2026-06-03T06:00:00+09:00",
       "issue": "2026-06-03-0600"
+    },
+    {
+      "url_normalized": "wsls.com/business/2026/06/03/tokyos-nikkei-225-index-tops-68000-for-the-1st-time-as-wall-street-logs-more-records/",
+      "title": "日経平均が史上初の68,000円台、+2.5%(約1,668円高)の68,402円で最高値 — 米株高・半導体ラリーが追い風、ソフトバンクG+1.1%・週初来は村田/SUMCOも高い",
+      "topic_key": "nikkei-record-68000-first-up-25pct-jun3-2026",
+      "source": "AP (WSLS) / 日経平均プロフィル",
+      "first_seen": "2026-06-03T22:00:00+09:00",
+      "issue": "2026-06-03-2200"
+    },
+    {
+      "url_normalized": "japantimes.co.jp/business/2026/06/03/ueda-boj-rates-inflation/",
+      "title": "植田日銀総裁がきさらぎ会で講演『適切なペースで利上げを継続』 — 物価上振れリスクは『より大きく早期に顕在化』、ドル円159.66、高市首相『果断対応』、6/15-16会合に注目",
+      "topic_key": "ueda-appropriate-pace-hikes-usdjpy-15966-jun3-2026",
+      "source": "The Japan Times / Crypto Briefing",
+      "first_seen": "2026-06-03T22:00:00+09:00",
+      "issue": "2026-06-03-2200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html",
+      "title": "アルファベットが上場以来初の約800億ドル増資 — バークシャー100億ドル割当+公募300億ドル+Q3に400億ドルATM、2026年設備投資1,800-1,900億ドル、希薄化懸念で株価約3.5%安",
+      "topic_key": "alphabet-80b-equity-raise-ai-capex-dilution-jun3-2026",
+      "source": "CNBC / TechCrunch",
+      "first_seen": "2026-06-03T22:00:00+09:00",
+      "issue": "2026-06-03-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil",
+      "title": "原油が3日続伸、ブレント97ドルに接近・WTI95ドル超 — 米イラン交渉の不透明感、API集計で米原油在庫▲680万バレル(6週連続取り崩しの公算)、6/7にOPECプラス会合・UAEのOPEC脱退で世界シェア3割割れ観測",
+      "topic_key": "oil-brent-97-third-gain-api-draw-opec-jun7-jun3-2026",
+      "source": "Trading Economics / CNBC",
+      "first_seen": "2026-06-03T22:00:00+09:00",
+      "issue": "2026-06-03-2200"
+    },
+    {
+      "url_normalized": "riotimesonline.com/europe-eu-intelligence-brief-eurozone-inflation-services-ecb-hike-june-2/",
+      "title": "ユーロ圏5月HICP速報が+3.2%へ加速(4月+3.0%) — サービス価格+3.5%で物価波及鮮明、ECBの6月11日利上げ観測強まる、原油乱高下で判断は接戦",
+      "topic_key": "eurozone-may-flash-hicp-32-services-35-ecb-jun11-jun3-2026",
+      "source": "Rio Times (Eurostat) / Euronews",
+      "first_seen": "2026-06-03T22:00:00+09:00",
+      "issue": "2026-06-03-2200"
     }
   ]
 }

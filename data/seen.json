@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive",
-      "title": "米イラン停戦交渉が一転決裂 — イランがイスラエルのレバノン攻撃を理由に対話を凍結、ホルムズ・バブエルマンデブ両海峡の全面封鎖を警告、トランプ大統領は「退屈」と一蹴",
-      "topic_key": "us-iran-talks-halt-lebanon-hormuz-blockade-jun1-2026",
-      "source": "Washington Post / Times of Israel / Tasnim",
-      "first_seen": "2026-06-02T06:00:00+09:00",
-      "issue": "2026-06-02-0600"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-31/oil-climbs-as-us-iran-ceasefire-remains-elusive-markets-wrap",
-      "title": "原油が急反発、WTI+5.5%の92.16ドル(一時+7%で94ドル)・Brent+4.5%の94.98ドル — 5月の▲19%から一転、米10年債利回りは4.5%へ上昇",
-      "topic_key": "oil-rebound-wti-9216-brent-9498-us10y-45-jun1-2026",
-      "source": "Bloomberg / Trading Economics",
-      "first_seen": "2026-06-02T06:00:00+09:00",
-      "issue": "2026-06-02-0600"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-06-01/nvidia-enters-windows-laptop-market-taking-on-intel-and-amd",
-      "title": "エヌビディアがPCチップ市場に参入(N1X/RTX、GTC台北) — 株価+6.2%の224.27ドル・時価総額5.47兆ドル、デル+10%・HP+8%、インテル・AMDは下落",
-      "topic_key": "nvidia-pc-chip-n1x-rtx-547t-dell-10-jun1-2026",
-      "source": "Bloomberg / Al Jazeera / Yahoo Finance",
-      "first_seen": "2026-06-02T06:00:00+09:00",
-      "issue": "2026-06-02-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/31/stock-market-today-live-updates.html",
-      "title": "米株3指数が原油高を吸収し最高値更新 — S&P500 +0.26%の7,599.96・ナスダック+0.42%の27,086.81・ダウ+0.09%の51,078.88、エヌビディア主導のテック高",
-      "topic_key": "us-stocks-record-sp500-7599-nasdaq-27086-dow-51078-jun1-2026",
-      "source": "CNBC / Schwab",
-      "first_seen": "2026-06-02T06:00:00+09:00",
-      "issue": "2026-06-02-0600"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-06-01/yen-defies-record-intervention-as-wait-for-boj-hike-raises-risks",
-      "title": "ドル円が160円台へ(21カ月ぶり安値) — 記録的介入11.73兆円も5月はG10最弱、市場は6月16日の日銀利上げ(0.75%→1.0%)を78-81%織り込み",
-      "topic_key": "usdjpy-160-boj-june16-hike-78pct-jun1-2026",
-      "source": "Bloomberg / Japan Times / Reuters survey",
-      "first_seen": "2026-06-02T06:00:00+09:00",
-      "issue": "2026-06-02-0600"
-    },
-    {
       "url_normalized": "asia.nikkei.com/business/markets/currencies/japan-launches-fx-intervention-briefly-pushing-yen-to-155-from-160",
       "title": "財務省が再び円買い介入、ドル円を160円から一時155円台へ約3%急伸 — 5月累計介入額は約11.7兆円、日経平均は66,954円の最高値圏",
       "topic_key": "japan-fx-intervention-yen-155-from-160-nikkei-record-jun2-2026",
@@ -335,6 +295,46 @@
       "source": "Trading Economics / U.S. EIA",
       "first_seen": "2026-06-04T22:00:00+09:00",
       "issue": "2026-06-04-2200"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-june-4-2026-nasdaq-futures-slide-amid-iran-war-concerns",
+      "title": "米株6/4本引けは方向感分かれる — ダウ+1.73%(875ドル高)の51,561.12で最高値更新、S&P500+0.41%の7,584.31・ナスダック▲0.09%の26,830.96、11業種中8業種高でヘルスケア/金融/不動産主導のローテーション",
+      "topic_key": "us-stocks-jun4-close-dow-record-51561-rotation-jun4-2026",
+      "source": "TheStreet / 24/7 Wall St.",
+      "first_seen": "2026-06-05T06:00:00+09:00",
+      "issue": "2026-06-05-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
+      "title": "ブロードコムが終値で約15%安(2025年1月以来最大) — 売上222.2億ドル・AI半導体+143%の好決算もQ3AI見通し160億ドルが予想172億に未達・通期据え置き、マイクロン▲7%/AMD▲4%/インテル▲3%に波及",
+      "topic_key": "broadcom-final-down-15pct-ai-guide-16b-micron-7-jun4-2026",
+      "source": "CNBC / Yahoo Finance / 24/7 Wall St.",
+      "first_seen": "2026-06-05T06:00:00+09:00",
+      "issue": "2026-06-05-0600"
+    },
+    {
+      "url_normalized": "washingtonpost.com/world/2026/06/04/israel-lebanon-renew-ceasefire-deal-without-hezbollah",
+      "title": "イスラエル・レバノンが米仲介で停戦合意もヒズボラが拒否し戦闘継続 — カセム指導者『架空の停戦』、イランは対米停戦の条件にレバノン停戦、トランプ氏は週末進展に言及、原油反落でブレント96.97ドル(▲0.86%)",
+      "topic_key": "israel-lebanon-ceasefire-hezbollah-rejects-oil-pullback-jun4-2026",
+      "source": "Washington Post / CNN / NPR",
+      "first_seen": "2026-06-05T06:00:00+09:00",
+      "issue": "2026-06-05-0600"
+    },
+    {
+      "url_normalized": "nikkei.com/markets/currencies/usdjpy-160-ny-close-nfp-jun5",
+      "title": "ドル円がNY終盤に160.088円へ再び160円台 — 原油高の貿易赤字懸念とADP上振れで米利下げ後退観測、本日夜に米5月雇用統計(予想+10.5万人・失業率4.3%)、日銀6/16-17会合の追加利上げが焦点",
+      "topic_key": "usdjpy-160-ny-close-nfp-today-boj-jun16-jun4-2026",
+      "source": "日本経済新聞 / Kiplinger / FactSet",
+      "first_seen": "2026-06-05T06:00:00+09:00",
+      "issue": "2026-06-05-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/15/gold-drops-as-rising-yields-dollar-sap-appeal-inflation-woes-linger.html",
+      "title": "市場が『より長く高い金利』を織り込み — 6月FOMC据え置き確率99%超(CME)、ECBは11日に利上げ(2.00%→2.25%)観測・9月追加も、エネルギー主導インフレで金は4,450ドルへ後退(週間▲2%)",
+      "topic_key": "fed-higher-for-longer-99pct-hold-gold-4450-jun4-2026",
+      "source": "CNBC / Trading Economics",
+      "first_seen": "2026-06-05T06:00:00+09:00",
+      "issue": "2026-06-05-0600"
     }
   ]
 }

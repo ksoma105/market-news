@@ -287,6 +287,54 @@
       "source": "Trading Economics / The Sunday Guardian",
       "first_seen": "2026-06-04T12:00:00+09:00",
       "issue": "2026-06-04-1200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/japan/stock-market",
+      "title": "東京市場の大引けは日経平均931円安(▲1.36%)の67,470円 — ソフトバンクGが約11%安で指数下落を主導、東京エレクトロン+4.5%、ドル円159円後半で再介入を警戒",
+      "topic_key": "tokyo-nikkei-close-67470-softbank-11pct-jun4-2026",
+      "source": "Trading Economics / 日本経済新聞",
+      "first_seen": "2026-06-04T22:00:00+09:00",
+      "issue": "2026-06-04-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/japan/government-bond-yield",
+      "title": "日本国債利回りが上昇、10年2.5%台・20年は一時3.555%でカーブ・スティープ化 — 政策金利0.75%、6/16-17会合の追加利上げ(→1.0%)を市場は8割弱織り込み",
+      "topic_key": "jgb-yields-rise-10y-25-20y-3555-boj-jun16-jun4-2026",
+      "source": "Trading Economics / 日本銀行",
+      "first_seen": "2026-06-04T22:00:00+09:00",
+      "issue": "2026-06-04-2200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/03/stock-market-today-live-updates.html",
+      "title": "米株4日序盤はまだら模様、ダウ小幅高もナスダック続落 — クラウドストライクが予想超え決算・4対1分割発表も約10%安、ブロードコム約13%安で半導体・サイバー軟調",
+      "topic_key": "us-stocks-jun4-mixed-crowdstrike-10pct-chips-jun4-2026",
+      "source": "CNBC / Yahoo Finance",
+      "first_seen": "2026-06-04T22:00:00+09:00",
+      "issue": "2026-06-04-2200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/03/oecd-warns-of-global-slowdown-as-iran-war-stymies-growth-prospects-.html",
+      "title": "OECDが世界成長見通しを下方修正、2026年2.8%(25年3.4%から減速)・米2.0% — 中東発のエネルギー/海運ショックが主因、厳しいシナリオでは2.1%、G20先進国インフレは4.0%へ上方修正",
+      "topic_key": "oecd-2026-outlook-global-28-us-20-inflation-40-jun4-2026",
+      "source": "CNBC / OECD",
+      "first_seen": "2026-06-04T22:00:00+09:00",
+      "issue": "2026-06-04-2200"
+    },
+    {
+      "url_normalized": "kiplinger.com/investing/economy/jobs-report-may-2026-what-to-expect",
+      "title": "5日に米5月雇用統計プレビュー — 非農業部門就業者は+9.5万〜10.5万人(民間+10万人)・失業率4.3%予想、3カ月連続増の公算、FOMC(6/16-17)前の最重要指標",
+      "topic_key": "us-may-nfp-preview-95-105k-unemp-43-fomc-jun4-2026",
+      "source": "Kiplinger / U.S. BLS",
+      "first_seen": "2026-06-04T22:00:00+09:00",
+      "issue": "2026-06-04-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil-jun4-pullback",
+      "title": "原油が3日続伸後に反落、ブレント97ドル割れ(前日はWTI96.02ドル/ブレント97.81ドル) — EIA在庫は約798万バレル減で6週連続取り崩し(2月以来最大)、7日OPECプラス会合で増産是非",
+      "topic_key": "oil-pullback-brent-below-97-eia-draw-798mb-opec-jun7-jun4-2026",
+      "source": "Trading Economics / U.S. EIA",
+      "first_seen": "2026-06-04T22:00:00+09:00",
+      "issue": "2026-06-04-2200"
     }
   ]
 }

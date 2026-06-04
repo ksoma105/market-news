@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "english.news.cn/20260531/7be1c632781e4cd29dee051b56b6ece1/c.html",
-      "title": "中国5月製造業PMIが50.0へ0.3pt低下 — 生産51.2は拡大維持も新規受注49.9で需要鈍化、ハイテク製造業52.9・設備製造業52.1が下支え",
-      "topic_key": "china-may-manufacturing-pmi-50-jun1-2026",
-      "source": "Xinhua / China.org.cn / NBS",
-      "first_seen": "2026-06-01T06:00:00+09:00",
-      "issue": "2026-06-01-0600"
-    },
-    {
-      "url_normalized": "cbsnews.com/live-updates/iran-war-us-trump-vance-ceasefire-strait-of-hormuz-deal-close",
-      "title": "米イラン60日停戦MOU、週末も署名に至らず — 新たにイラン復興向け最大3,000億ドルの『投資基金』創設と段階的制裁緩和が浮上、トランプ大統領がホルムズ・HEU文言を直接修正",
-      "topic_key": "us-iran-mou-300b-fund-no-decision-jun1-2026",
-      "source": "CBS News / Times of Israel / Axios",
-      "first_seen": "2026-06-01T06:00:00+09:00",
-      "issue": "2026-06-01-0600"
-    },
-    {
-      "url_normalized": "bls.gov/news.release/empsit.nr0.htm",
-      "title": "米5月雇用統計を6月5日に控え市場は身構え — 前月は非農業部門+11.5万人(予想6.2-6.5万人)・失業率4.3%で底堅さ、平均時給と労働参加率が焦点",
-      "topic_key": "us-may-jobs-report-preview-jun5-2026",
-      "source": "BLS / IG / Crypto Briefing",
-      "first_seen": "2026-06-01T06:00:00+09:00",
-      "issue": "2026-06-01-0600"
-    },
-    {
-      "url_normalized": "nikkei.com/markets/worldidx/chart/usdjpy/",
-      "title": "週初の東京市場、ドル円159.26前後で介入警戒継続 — 日経平均は66,329円の最高値圏、週内予想レンジ6.4万-6.8万円、東京コアCPI+1.3%鈍化で6月利上げ観測後退",
-      "topic_key": "japan-week-start-usdjpy-159-nikkei-record-jun1-2026",
-      "source": "日本経済新聞 / CNBC / 株予報コラム",
-      "first_seen": "2026-06-01T06:00:00+09:00",
-      "issue": "2026-06-01-0600"
-    },
-    {
       "url_normalized": "washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive",
       "title": "米イラン停戦交渉が一転決裂 — イランがイスラエルのレバノン攻撃を理由に対話を凍結、ホルムズ・バブエルマンデブ両海峡の全面封鎖を警告、トランプ大統領は「退屈」と一蹴",
       "topic_key": "us-iran-talks-halt-lebanon-hormuz-blockade-jun1-2026",
@@ -279,6 +247,46 @@
       "source": "Mitrade / 日本経済新聞",
       "first_seen": "2026-06-04T06:00:00+09:00",
       "issue": "2026-06-04-0600"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOFL040RW0U6A600C2000000",
+      "title": "東京市場が最高値から反落、日経平均は午前一時1,000円超安で4日ぶり下落 — 米株安・中東緊迫でリスクオフ、ソフトバンクG一時8%安・アドバンテスト/フジクラ/村田など半導体に利益確定売り",
+      "topic_key": "tokyo-nikkei-pullback-from-record-1000yen-jun4-2026",
+      "source": "日本経済新聞 / Trading Economics",
+      "first_seen": "2026-06-04T12:00:00+09:00",
+      "issue": "2026-06-04-1200"
+    },
+    {
+      "url_normalized": "finance.yahoo.com/quote/AVGO",
+      "title": "ブロードコムが時間外で一転急落し一時▲14% — 好決算(売上222億ドル/AI半導体108億ドル)でもAI見通しが高い期待に届かず材料出尽くし、インテル▲2%/AMD▲2.9%/Arm▲4.3%と半導体株安・米先物軟調",
+      "topic_key": "broadcom-after-hours-reversal-down-14pct-chips-jun4-2026",
+      "source": "Yahoo Finance / CNBC",
+      "first_seen": "2026-06-04T12:00:00+09:00",
+      "issue": "2026-06-04-1200"
+    },
+    {
+      "url_normalized": "smd-am.co.jp/market/ichikawa/2026/06/irepo260601",
+      "title": "ドル円159円台で小康、介入効果に賛否 — 過去最大11.7兆円介入後に160円再下落は一服、『目的は相場安定』との指摘、年内162-163円も視野、6/16-17日銀会合の追加利上げが焦点",
+      "topic_key": "usdjpy-159-intervention-efficacy-debate-boj-jun16-jun4-2026",
+      "source": "三井住友DSアセットマネジメント / 日本経済新聞",
+      "first_seen": "2026-06-04T12:00:00+09:00",
+      "issue": "2026-06-04-1200"
+    },
+    {
+      "url_normalized": "eia.gov/petroleum/supply/weekly/",
+      "title": "原油3日続伸、WTI95ドル超・Brent97ドル接近 — EIA週間在庫が前週比330万バレル減で6週連続取り崩しの公算、在庫4.417億バレルは5年平均比約2%減、7日OPECプラス会合控え地政学リスク継続",
+      "topic_key": "oil-third-gain-eia-draw-33mb-opec-jun7-jun4-2026",
+      "source": "Trading Economics / U.S. EIA",
+      "first_seen": "2026-06-04T12:00:00+09:00",
+      "issue": "2026-06-04-1200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/gold",
+      "title": "金相場が4,436ドル前後で頭打ち — 中東緊迫の安全資産需要も米長期金利上昇・ドル高が重し、年初の5,000ドル台後半から水準切り下げ、金利・原油動向に左右されやすい綱引き継続",
+      "topic_key": "gold-4436-capped-by-yields-dollar-safe-haven-jun4-2026",
+      "source": "Trading Economics / The Sunday Guardian",
+      "first_seen": "2026-06-04T12:00:00+09:00",
+      "issue": "2026-06-04-1200"
     }
   ]
 }

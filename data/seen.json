@@ -1,86 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "asia.nikkei.com/business/markets/currencies/japan-launches-fx-intervention-briefly-pushing-yen-to-155-from-160",
-      "title": "財務省が再び円買い介入、ドル円を160円から一時155円台へ約3%急伸 — 5月累計介入額は約11.7兆円、日経平均は66,954円の最高値圏",
-      "topic_key": "japan-fx-intervention-yen-155-from-160-nikkei-record-jun2-2026",
-      "source": "Nikkei Asia / 財務省",
-      "first_seen": "2026-06-02T12:00:00+09:00",
-      "issue": "2026-06-02-1200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/china/manufacturing-pmi",
-      "title": "中国の民間製造業PMIが5月51.8で予想(51.4)超え — 官製PMI50.0との乖離が鮮明、中国株・商品に追い風",
-      "topic_key": "china-caixin-may-pmi-518-beats-vs-nbs-500-jun2-2026",
-      "source": "Trading Economics / Caixin",
-      "first_seen": "2026-06-02T12:00:00+09:00",
-      "issue": "2026-06-02-1200"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-05-11/ecb-to-hike-rates-twice-in-2026-as-inflation-jumps-survey-shows",
-      "title": "ECBは6月11日に0.25%利上げの公算 — ユーロ圏4月HICP+3.0%・仏5月HICP+2.8%でインフレ再加速、年内2回利上げ観測",
-      "topic_key": "ecb-june11-hike-eurozone-hicp-30-france-28-jun2-2026",
-      "source": "Bloomberg / ING Think",
-      "first_seen": "2026-06-02T12:00:00+09:00",
-      "issue": "2026-06-02-1200"
-    },
-    {
-      "url_normalized": "marketscreener.com/news/opec-statement-41st-opec-and-non-opec-ministerial-meeting-to-be-held-on-7-june-2026-ce7d51dbde8ff425",
-      "title": "OPECプラスが6月7日に第41回閣僚会合 — 原油急反発(Brent95ドル・WTI92ドル前後)と需給安定の綱引き、大幅増産には慎重論",
-      "topic_key": "opec-plus-june7-meeting-oil-rebound-dilemma-jun2-2026",
-      "source": "MarketScreener / OPEC / CNBC",
-      "first_seen": "2026-06-02T12:00:00+09:00",
-      "issue": "2026-06-02-1200"
-    },
-    {
-      "url_normalized": "investing.com/analysis/gold-vs-bitcoin-in-2026-which-safe-haven-is-actually-delivering-200679952",
-      "title": "安全資産で明暗 — 金は1月の5,595ドルから4,700ドル前後へ後退(金利上昇が重し)、ビットコインはETF長期保有層定着で相対優位",
-      "topic_key": "gold-4700-vs-bitcoin-safe-haven-divergence-jun2-2026",
-      "source": "Investing.com / OANDA",
-      "first_seen": "2026-06-02T12:00:00+09:00",
-      "issue": "2026-06-02-1200"
-    },
-    {
-      "url_normalized": "limo.media/articles/-/127165",
-      "title": "円が155円から159円台後半へ売り戻し、投機筋の円売り越しが介入前水準を突破 — 日経平均は反落200円安の66,734円、TOPIX 3,924.24",
-      "topic_key": "yen-sold-back-159-nikkei-reverse-66734-jun2-2026",
-      "source": "LIMO / 日本経済新聞",
-      "first_seen": "2026-06-02T22:00:00+09:00",
-      "issue": "2026-06-02-2200"
-    },
-    {
-      "url_normalized": "nli-research.co.jp/report/detail/id=85717",
-      "title": "1-3月期の法人企業統計、設備投資は前年比ほぼ横ばい — 企業収益は底堅さ維持も中東不確実性で投資先送り観測",
-      "topic_key": "japan-q1-capex-flat-profits-firm-jun2-2026",
-      "source": "ニッセイ基礎研究所 / 財務省",
-      "first_seen": "2026-06-02T22:00:00+09:00",
-      "issue": "2026-06-02-2200"
-    },
-    {
-      "url_normalized": "prnewswire.com/news-releases/manufacturing-pmi-at-54-may-2026-ism-manufacturing-pmi-report-302786165.html",
-      "title": "米5月ISM製造業PMIが54.0へ上振れ(2022年5月以来の高水準) — 新規受注56.8で5カ月連続拡大、価格指数82.1で物価圧力残存・雇用48.6",
-      "topic_key": "us-may-ism-manufacturing-540-prices-821-jun2-2026",
-      "source": "PR Newswire / ISM",
-      "first_seen": "2026-06-02T22:00:00+09:00",
-      "issue": "2026-06-02-2200"
-    },
-    {
-      "url_normalized": "finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-1-dow-sp-nasdaq-waver-225422932.html",
-      "title": "米国株(6/1月曜)はイラン交渉停止報道で一時動揺も最高値圏で底堅く — トランプ氏のネタニヤフ電話「生産的」で原油上げ縮小、エヌビディア主導のAI物色継続",
-      "topic_key": "us-stocks-jun1-resilient-trump-netanyahu-call-ai-jun2-2026",
-      "source": "Yahoo Finance / heygotrade",
-      "first_seen": "2026-06-02T22:00:00+09:00",
-      "issue": "2026-06-02-2200"
-    },
-    {
-      "url_normalized": "thehill.com/policy/defense/5903844-iran-accuses-trump-ceasefire-violations",
-      "title": "米イラン交渉が一段と暗転 — イランが仲介国通じた対話停止とホルムズ閉鎖維持を表明(レバノン停戦が前提条件)、原油WTI92ドル超・Brent95ドル前後、トランプ氏は「退屈」",
-      "topic_key": "us-iran-talks-halt-hormuz-closed-oil-up-jun2-2026",
-      "source": "The Hill / OANDA",
-      "first_seen": "2026-06-02T22:00:00+09:00",
-      "issue": "2026-06-02-2200"
-    },
-    {
       "url_normalized": "247wallst.com/investing/2026/06/02/stock-market-live-june-2-2026-sp-500-spy-slips-after-testing-record-highs",
       "title": "米国株6月2日に最高値更新 — S&P500が初の7,600超え(7,609.78)・ダウ51,307.79ドル(+0.45%)・ナスダック27,093、ラッセル2000+0.9%、HPE・マーベル主導",
       "topic_key": "us-stocks-record-sp500-7609-dow-51307-russell-jun2-2026",
@@ -335,6 +255,46 @@
       "source": "CNBC / Trading Economics",
       "first_seen": "2026-06-05T06:00:00+09:00",
       "issue": "2026-06-05-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html",
+      "title": "米USTRが60カ国・地域に新たな追加関税案 — 強制労働を理由(通商法301条)に中国・日本・韓国・ブラジルは12.5%、英国/EU/カナダ/メキシコ/台湾など16カ国は10%、発動前にパブリックコメント手続き",
+      "topic_key": "ustr-forced-labor-tariffs-60-partners-125-japan-china-jun5-2026",
+      "source": "CNBC / CBS News",
+      "first_seen": "2026-06-05T12:00:00+09:00",
+      "issue": "2026-06-05-1200"
+    },
+    {
+      "url_normalized": "insight.factset.com/total-nonfarm-payrolls-for-may-2026-are-projected-to-rise-by-105000",
+      "title": "今夜の米5月雇用統計プレビュー — FactSet予想中央値は前月比+10.5万人(レンジ+5万〜+12.5万人)・失業率4.3%横ばい、4月+11.5万人から鈍化見込み、6/16-17FOMC据え置き確率99%超で『高金利長期化』点検材料",
+      "topic_key": "us-may-nfp-tonight-factset-105k-unemp-43-fomc-jun5-2026",
+      "source": "FactSet / Trading Economics",
+      "first_seen": "2026-06-05T12:00:00+09:00",
+      "issue": "2026-06-05-1200"
+    },
+    {
+      "url_normalized": "nikkei.com/markets/worldidx/chart/nk225-jun5-noon",
+      "title": "東京市場はドル円160円台と米関税報道で様子見 — 前日は931円安(▲1.36%)の67,470円・ソフトバンクG約11%安、10年国債利回り2.5%台、財務省の再介入警戒、日銀6/16-17会合の追加利上げ観測",
+      "topic_key": "tokyo-nikkei-cautious-usdjpy-160-tariff-watch-jun5-2026",
+      "source": "日本経済新聞 / OANDA MarketPulse",
+      "first_seen": "2026-06-05T12:00:00+09:00",
+      "issue": "2026-06-05-1200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/china/stock-market-jun5-trade-tensions",
+      "title": "中国・アジア市場が米追加関税案を警戒 — 上海総合は3日4,083(+0.22%)後に4日続伸一服、12.5%関税対象で対米輸出に不透明感、Q1GDP+5.0%・5月総合PMI54.0/製造業51.8、人民元7元近辺",
+      "topic_key": "china-asia-trade-tension-shanghai-4083-pmi-yuan-jun5-2026",
+      "source": "Trading Economics / Bloomberg (Yahoo Finance)",
+      "first_seen": "2026-06-05T12:00:00+09:00",
+      "issue": "2026-06-05-1200"
+    },
+    {
+      "url_normalized": "cryptobriefing.com/eurozone-inflation-ecb-rate-hike-crypto/",
+      "title": "来週11日ECB理事会プレビュー — 預金金利2.00%→2.25%の0.25%利上げを約97%織り込み、5月HICP+3.2%・エネルギー+10.9%・コア+2.5%、焦点はラガルド総裁の先行き示唆、Q1成長+0.1%でインフレと低成長の難路",
+      "topic_key": "ecb-jun11-preview-deposit-225-lagarde-guidance-jun5-2026",
+      "source": "Crypto Briefing (Eurostat) / CNBC",
+      "first_seen": "2026-06-05T12:00:00+09:00",
+      "issue": "2026-06-05-1200"
     }
   ]
 }

@@ -335,6 +335,54 @@
       "source": "CNBC / Trading Economics",
       "first_seen": "2026-06-05T22:00:00+09:00",
       "issue": "2026-06-05-2200"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-05-2026",
+      "title": "米株急落、ナスダック総合▲4.18%の25,709.43で2025年4月以来の大幅安 — S&P500▲2.64%の7,383.74・ダウ▲695.15ドル(▲1.35%)の50,866.78、半導体売りと強い雇用統計後の金利上昇で『好材料が売り材料』に",
+      "topic_key": "us-stocks-crash-nasdaq-418-sp500-264-dow-695-jun5-2026",
+      "source": "TheStreet / CNBC",
+      "first_seen": "2026-06-06T06:00:00+09:00",
+      "issue": "2026-06-06-0600"
+    },
+    {
+      "url_normalized": "finance.yahoo.com/markets/stocks/articles/nasdaq-p-futures-decline-semiconductors-110740283.html",
+      "title": "半導体株から1日で約1.2兆ドル消失、フィラデルフィア半導体指数(SOX)は2020年3月以来の急落 — エヌビディア▲6%で時価総額5兆ドル割れ(約2,800億ドル減)、マイクロン/AMD/クアルコムは9%超安、発端はブロードコムのAI見通し未達",
+      "topic_key": "chip-rout-12t-wiped-sox-worst-since-2020-nvda-below-5t-jun5-2026",
+      "source": "Yahoo Finance / CNBC",
+      "first_seen": "2026-06-06T06:00:00+09:00",
+      "issue": "2026-06-06-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/05/treasury-yields-ease-as-traders-await-key-labor-market-data-.html",
+      "title": "米10年債利回りが+6bp超の4.544%へ上昇し5月21日以来の高水準 — 強い5月雇用統計で利下げ観測後退、CME FedWatchで26年内利上げ確率が約70%に上昇、6/16-17FOMCは据え置きほぼ確実",
+      "topic_key": "us-10y-yield-4544-fed-hike-odds-70pct-jun5-2026",
+      "source": "CNBC / Trading Economics",
+      "first_seen": "2026-06-06T06:00:00+09:00",
+      "issue": "2026-06-06-0600"
+    },
+    {
+      "url_normalized": "marketpulse.com/markets/chart-alert-usdjpy-breaches-above-160-21-month-high-ignoring-intervention-risk/",
+      "title": "ドル円が160円を突破し約21カ月ぶり円安水準 — 強い米雇用統計と米金利上昇でドル高、片山財務相『いつでも対応』『過度な変動には断固たる措置』と再けん制、介入警戒で上値は重い、日銀6/16-17会合の追加利上げ観測",
+      "topic_key": "usdjpy-breaches-above-160-21month-high-katayama-warning-jun5-2026",
+      "source": "Yahoo Finance / MarketPulse (OANDA)",
+      "first_seen": "2026-06-06T06:00:00+09:00",
+      "issue": "2026-06-06-0600"
+    },
+    {
+      "url_normalized": "en.bloomingbit.io/feed/news/113626",
+      "title": "アジアに動揺波及、韓国コスピが▲5.54%でサーキットブレーカー発動(コスピ200先物▲5%) — サムスン電子▲6.4%・SKハイニックス▲9.92%、約1年7カ月ぶり大幅安、欧州もASML▲3.8%/インフィニオン▲6%超と半導体株安",
+      "topic_key": "asia-kospi-554-circuit-breaker-samsung-skhynix-asml-jun5-2026",
+      "source": "Bloomingbit (Bloomberg) / Yahoo Finance",
+      "first_seen": "2026-06-06T06:00:00+09:00",
+      "issue": "2026-06-06-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-jun7-meeting",
+      "title": "7日にOPECプラス閣僚級会合、増産ペースの是非が焦点 — 5月3日会合で6月から日量18.8万バレル増産を決定済み、原油はブレント94〜95ドル近辺、米イラン60日MOUは大筋合意もトランプ承認待ち・進展めぐり錯綜",
+      "topic_key": "opec-plus-jun7-meeting-output-188kbd-brent-94-95-jun6-2026",
+      "source": "CNBC / Trading Economics",
+      "first_seen": "2026-06-06T06:00:00+09:00",
+      "issue": "2026-06-06-0600"
     }
   ]
 }

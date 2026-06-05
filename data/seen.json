@@ -295,6 +295,46 @@
       "source": "Crypto Briefing (Eurostat) / CNBC",
       "first_seen": "2026-06-05T12:00:00+09:00",
       "issue": "2026-06-05-1200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/united-states/non-farm-payrolls-may-2026",
+      "title": "米5月雇用統計が予想を大幅上回る+17.2万人(予想約8万人) — 4月+17.9万人へ上方修正、失業率4.3%横ばい、レジャー・接客+7.0万/地方政府+5.5万/医療+3.5万・金融▲2.2万、労働参加率61.8%、利上げ観測強まる(FOMC6/16-17据え置きはほぼ確実)",
+      "topic_key": "us-may-nfp-result-172k-beat-unemp-43-higher-for-longer-jun5-2026",
+      "source": "Yahoo Finance / Trading Economics (BLS)",
+      "first_seen": "2026-06-05T22:00:00+09:00",
+      "issue": "2026-06-05-2200"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-05-2026",
+      "title": "強い雇用統計で米株先物軟調・半導体続落・米長期金利上昇 — S&P500先物▲0.6%/ナスダック100先物▲1.3%・ダウ先物横ばい、ブロードコム▲2%(前日▲12.5%後)/マーベル▲3%/マイクロン▲4%、週間はダウ+1%・ナスダック総合▲0.5%",
+      "topic_key": "us-stock-futures-soft-chips-down-yields-up-post-nfp-jun5-2026",
+      "source": "TheStreet / CNBC",
+      "first_seen": "2026-06-05T22:00:00+09:00",
+      "issue": "2026-06-05-2200"
+    },
+    {
+      "url_normalized": "nikkei.com/markets/stocks-jun5-close-66588",
+      "title": "東京市場が続落、日経平均は前日比約882円安の66,588円 — 米ハイテク株安と雇用統計警戒で半導体(東エレク/アドバンテスト/村田)に売り、ソフトバンクGも下落、史上最高値圏(一時68,000円台)から調整継続、ドル円160円近辺",
+      "topic_key": "tokyo-nikkei-close-66588-down-882-chips-softbank-jun5-2026",
+      "source": "日本経済新聞 / Trading Economics",
+      "first_seen": "2026-06-05T22:00:00+09:00",
+      "issue": "2026-06-05-2200"
+    },
+    {
+      "url_normalized": "fx.minkabu.jp/news/369267-usdjpy-160-post-nfp-intervention-watch",
+      "title": "ドル円が159円台後半〜160円をうかがう円安、強い米雇用統計で日米金利差再意識 — 160円付近は上値重く介入警戒が歯止め、年内162-163円見込む声、日銀6/16-17会合で追加利上げ(0.75%→1.0%)を8割弱織り込み",
+      "topic_key": "usdjpy-160-post-nfp-intervention-watch-boj-jun16-jun5-2026",
+      "source": "日本経済新聞 / 外為どっとコム",
+      "first_seen": "2026-06-05T22:00:00+09:00",
+      "issue": "2026-06-05-2200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/29/oil-brent-95-opec-plus-jun7-iran-mou-jun5",
+      "title": "原油はブレント95ドル前後で高止まり、7日にOPECプラス会合で増産是非 — 米イランは60日MOUに『概ね合意』も『最近の進展なし』と錯綜、当面90-100ドルレンジ見通し、地政学リスクと需要鈍化懸念が綱引き",
+      "topic_key": "oil-brent-95-opec-plus-jun7-iran-mou-uncertain-jun5-2026",
+      "source": "CNBC / Trading Economics",
+      "first_seen": "2026-06-05T22:00:00+09:00",
+      "issue": "2026-06-05-2200"
     }
   ]
 }

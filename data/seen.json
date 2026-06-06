@@ -391,6 +391,46 @@
       "source": "Cambridge Currencies / CNBC",
       "first_seen": "2026-06-06T12:00:00+09:00",
       "issue": "2026-06-06-1200"
+    },
+    {
+      "url_normalized": "pakistantoday.com.pk/2026/06/05/iaea-chief-says-us-iran-talks-close-to-nuclear-framework-agreement",
+      "title": "IAEAグロッシ事務局長『米イラン交渉は核の枠組み合意にかなり接近』(5日) — 60日MOUは大筋合意もトランプ氏が修正要求、最大の隔たりは米国が求める『ウラン濃縮ゼロ』、査察立ち入りは依然限定的、ブレント94〜95ドル",
+      "topic_key": "us-iran-nuclear-framework-close-grossi-zero-enrichment-jun5-2026",
+      "source": "Pakistan Today (IAEA) / CNN",
+      "first_seen": "2026-06-06T22:00:00+09:00",
+      "issue": "2026-06-06-2200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-jun7-ministerial",
+      "title": "あす7日にOPECプラス主要7カ国(サウジ/ロシア/イラク/クウェート/カザフ/アルジェリア/オマーン)の閣僚級会合 — 7月生産目標を協議、5/3決定の日量18.8万バレル増産路線の是非が焦点、供給不安と需要鈍化の綱引きで原油は90〜100ドルのレンジ見通し",
+      "topic_key": "opec-plus-jun7-ministerial-output-188kbd-range-90-100-jun6-2026",
+      "source": "CNBC / TradingKey",
+      "first_seen": "2026-06-06T22:00:00+09:00",
+      "issue": "2026-06-06-2200"
+    },
+    {
+      "url_normalized": "china.org.cn/2026-06/05/content_118533260.shtml",
+      "title": "米USTRの『強制労働』追加関税(60カ国・地域に最大12.5%)案に中国が反発 — 商務省・何咏前報道官『一方的な制限に反対』、外務省も『強制労働は存在しない』と反論、ただし報復措置は見送り、『米中貿易委員会』で相互関税引き下げ協議の道も、対中実効税率は依然3割近く",
+      "topic_key": "china-opposes-us-forced-labor-tariffs-no-retaliation-board-of-trade-jun5-2026",
+      "source": "China.org.cn (商務省) / CNBC",
+      "first_seen": "2026-06-06T22:00:00+09:00",
+      "issue": "2026-06-06-2200"
+    },
+    {
+      "url_normalized": "bankofengland.co.uk/monetary-policy/2026/june-2026-mpc-preview",
+      "title": "英BOEは18日にMPC結果公表、据え置き観測 — CPIは3.3%へ再加速しエネルギー高で年後半さらに上振れも、4/29会合は8対1でバンクレート3.75%据え置き(1人が0.25%利上げ主張)、利上げに動いたECBと対照的なスタグフレーション的環境",
+      "topic_key": "boe-jun18-mpc-hold-cpi-33-bankrate-375-stagflation-jun6-2026",
+      "source": "Bank of England / MoneyWeek",
+      "first_seen": "2026-06-06T22:00:00+09:00",
+      "issue": "2026-06-06-2200"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/week-ahead-jun8-12-2026-chips-ecb-boj",
+      "title": "来週の日米欧マーケット展望 — 半導体急落(SOX2020年3月以来安・1日で約1.2兆ドル消失)後の値固めを見極め、強い雇用統計(+17.2万人)後の10年債4.5%台と年内利上げ観測が重し、ECB11日に利上げ(預金2.00→2.25%)・日銀16〜17日に追加利上げ(0.75→1.0%)観測、ドル円160円・米指標は閑散",
+      "topic_key": "week-ahead-jun8-12-chips-consolidation-ecb-jun11-boj-jun16-jun6-2026",
+      "source": "TheStreet / investingLive (ECB)",
+      "first_seen": "2026-06-06T22:00:00+09:00",
+      "issue": "2026-06-06-2200"
     }
   ]
 }

@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "247wallst.com/investing/2026/06/02/stock-market-live-june-2-2026-sp-500-spy-slips-after-testing-record-highs",
-      "title": "米国株6月2日に最高値更新 — S&P500が初の7,600超え(7,609.78)・ダウ51,307.79ドル(+0.45%)・ナスダック27,093、ラッセル2000+0.9%、HPE・マーベル主導",
-      "topic_key": "us-stocks-record-sp500-7609-dow-51307-russell-jun2-2026",
-      "source": "24/7 Wall St. / CNBC / TheStreet",
-      "first_seen": "2026-06-03T06:00:00+09:00",
-      "issue": "2026-06-03-0600"
-    },
-    {
-      "url_normalized": "cnn.com/2026/06/02/economy/jolts-job-openings-layoffs-hiring-april",
-      "title": "米4月JOLTS求人件数が760万件へ上振れ(予想680万件) — 2024年5月以来の高水準、採用510万件・離職500万件で『低採用・低解雇』、5月雇用統計は6/5",
-      "topic_key": "us-april-jolts-76m-openings-low-hire-low-fire-jun2-2026",
-      "source": "CNN Business / BLS / CNBC",
-      "first_seen": "2026-06-03T06:00:00+09:00",
-      "issue": "2026-06-03-0600"
-    },
-    {
-      "url_normalized": "nikkei.com/article/DGXZQOUB018TY0R00C26A6000000",
-      "title": "ドル円が再び160円に接近、過去最大11.73兆円介入も『効果は約1円』 — 短期筋の円売り誘発との見方、6/3夕の植田総裁講演に注目(6月利上げ確率8割弱)",
-      "topic_key": "yen-near-160-intervention-1yen-ueda-speech-jun3-2026",
-      "source": "日本経済新聞 / 野村證券",
-      "first_seen": "2026-06-03T06:00:00+09:00",
-      "issue": "2026-06-03-0600"
-    },
-    {
-      "url_normalized": "hedgeco.net/news/06/2026/bitcoin-opens-june-under-pressure-as-etf-outflows-cross-2b.html",
-      "title": "ビットコインETFが10営業日連続で流出、累計約29.7億ドルで過去最長 — 12億ドルポジション解消観測、JPモルガンは『デベースメント取引の一服』と指摘、資金はAI関連株へ",
-      "topic_key": "btc-etf-10day-record-outflow-297b-debasement-cooling-jun3-2026",
-      "source": "HedgeCo / The Block (JPMorgan) / CoinDesk",
-      "first_seen": "2026-06-03T06:00:00+09:00",
-      "issue": "2026-06-03-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html",
-      "title": "原油Brent95ドル前後で高止まり — イランが米国との連絡停止、ホルムズ・バブエルマンデブ閉鎖検討、トランプ氏は『MOUは1週間内にも』、6/7にOPECプラス会合",
-      "topic_key": "oil-brent-95-iran-comms-halt-trump-mou-week-opec-jun3-2026",
-      "source": "CNBC / OPEC",
-      "first_seen": "2026-06-03T06:00:00+09:00",
-      "issue": "2026-06-03-0600"
-    },
-    {
       "url_normalized": "wsls.com/business/2026/06/03/tokyos-nikkei-225-index-tops-68000-for-the-1st-time-as-wall-street-logs-more-records/",
       "title": "日経平均が史上初の68,000円台、+2.5%(約1,668円高)の68,402円で最高値 — 米株高・半導体ラリーが追い風、ソフトバンクG+1.1%・週初来は村田/SUMCOも高い",
       "topic_key": "nikkei-record-68000-first-up-25pct-jun3-2026",
@@ -383,6 +343,54 @@
       "source": "CNBC / Trading Economics",
       "first_seen": "2026-06-06T06:00:00+09:00",
       "issue": "2026-06-06-0600"
+    },
+    {
+      "url_normalized": "abc7ny.com/live-updates/iran-war-peace-talks-oil-prices-lebanon-strait-of-hormuz/",
+      "title": "米中央軍がホルムズ海峡でイランの無人機4機を撃墜、応戦でゴルク/ゲシュム島の沿岸レーダー施設を空爆 — 停戦は期限なし延長も封鎖継続、IAEAグロッシ氏は核の予備的枠組みに言及、ブレント94〜95ドル",
+      "topic_key": "us-downs-4-iran-drones-hormuz-strikes-radar-goruk-qeshm-jun5-2026",
+      "source": "ABC News (CENTCOM) / CNBC",
+      "first_seen": "2026-06-06T12:00:00+09:00",
+      "issue": "2026-06-06-1200"
+    },
+    {
+      "url_normalized": "coindesk.com/markets/2026/06/05/bitcoin-loses-usd60-000-falls-to-weakest-price-since-october-2024",
+      "title": "ビットコインが6万ドル割れ・2024年10月以来安値(5日朝約61,900ドル) — 週間▲20%・10月の12.6万ドル超ピークから約52%安、現物ETFが13日連続流出で過去最大44億ドル、最大の買い手ストラテジー(旧MicroStrategy)が売りに転換、約11億ドル清算",
+      "topic_key": "btc-below-60k-since-oct2024-etf-13day-44b-strategy-seller-jun5-2026",
+      "source": "CoinDesk / Yahoo Finance",
+      "first_seen": "2026-06-06T12:00:00+09:00",
+      "issue": "2026-06-06-1200"
+    },
+    {
+      "url_normalized": "investing.com/analysis/gold-holds-range-as-safehaven-flows-favor-the-us-dollar-over-bullion-200678815",
+      "title": "金が週間約4%安、5日に4,370ドル割れ場面(足元4,400〜4,460ドル) — 強い米雇用統計で長期金利上昇・ドル高が重し、ドルは週間で約2カ月ぶり大幅高、リスクオフでも金・ビットコインより『ドル』が選好される逆説",
+      "topic_key": "gold-weekly-4pct-down-dollar-haven-paradox-yields-up-jun5-2026",
+      "source": "CNBC / Investing.com",
+      "first_seen": "2026-06-06T12:00:00+09:00",
+      "issue": "2026-06-06-1200"
+    },
+    {
+      "url_normalized": "247wallst.com/investing/2026/06/04/wall-street-analyst-broadcoms-flat-ai-guidance-justified-the-selloff-but-nvidia-remains-best-in-class-chip-play/",
+      "title": "半導体株急落は『行き過ぎ』か論争 — KeyBancはAVGOをオーバーウエート維持、今回の売りは構造悪化でなく『期待値のリセット』で押し目買い好機、エヌビディアを『文句なしの最良銘柄』と評価、NVDAは急落途中で一時プラス転換も",
+      "topic_key": "chip-rout-overdone-debate-keybanc-avgo-ow-nvda-best-in-class-jun5-2026",
+      "source": "24/7 Wall St. / Yahoo Finance",
+      "first_seen": "2026-06-06T12:00:00+09:00",
+      "issue": "2026-06-06-1200"
+    },
+    {
+      "url_normalized": "diamond.jp/zai/articles/-/1068385",
+      "title": "来週(6/8〜6/12)の日経平均予想レンジは6万4,000〜6万9,000円 — 今週は週間約5%高(3日に取引時間中初の68,000円台→5日は882円安の66,588円)、AI・半導体の業績改善持続力を見極め、中小型株や高市政権『17の戦略分野』関連へ資金分散観測、ドル円160円・日銀6/16-17会合に注目",
+      "topic_key": "japan-week-ahead-nikkei-range-64000-69000-weekly-5pct-jun8-12-2026",
+      "source": "ダイヤモンドZai / 野村證券",
+      "first_seen": "2026-06-06T12:00:00+09:00",
+      "issue": "2026-06-06-1200"
+    },
+    {
+      "url_normalized": "cambridgecurrencies.com/euro-forecast/",
+      "title": "来週の注目イベント — 11日ECB理事会は0.25%利上げ(預金金利2.00%→2.25%)を約98%織り込み・イランショック後初の最新見通しとラガルド総裁の道筋が焦点(9月追加・年内3回目観測も)、7日OPECプラス会合は日量18.8万バレル増産路線の是非、米は重要指標少・中間選挙年6月の季節的軟調に留意",
+      "topic_key": "week-ahead-ecb-jun11-hike-225-projections-opec-jun7-jun6-2026",
+      "source": "Cambridge Currencies / CNBC",
+      "first_seen": "2026-06-06T12:00:00+09:00",
+      "issue": "2026-06-06-1200"
     }
   ]
 }

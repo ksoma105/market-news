@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "wsls.com/business/2026/06/03/tokyos-nikkei-225-index-tops-68000-for-the-1st-time-as-wall-street-logs-more-records/",
-      "title": "日経平均が史上初の68,000円台、+2.5%(約1,668円高)の68,402円で最高値 — 米株高・半導体ラリーが追い風、ソフトバンクG+1.1%・週初来は村田/SUMCOも高い",
-      "topic_key": "nikkei-record-68000-first-up-25pct-jun3-2026",
-      "source": "AP (WSLS) / 日経平均プロフィル",
-      "first_seen": "2026-06-03T22:00:00+09:00",
-      "issue": "2026-06-03-2200"
-    },
-    {
-      "url_normalized": "japantimes.co.jp/business/2026/06/03/ueda-boj-rates-inflation/",
-      "title": "植田日銀総裁がきさらぎ会で講演『適切なペースで利上げを継続』 — 物価上振れリスクは『より大きく早期に顕在化』、ドル円159.66、高市首相『果断対応』、6/15-16会合に注目",
-      "topic_key": "ueda-appropriate-pace-hikes-usdjpy-15966-jun3-2026",
-      "source": "The Japan Times / Crypto Briefing",
-      "first_seen": "2026-06-03T22:00:00+09:00",
-      "issue": "2026-06-03-2200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html",
-      "title": "アルファベットが上場以来初の約800億ドル増資 — バークシャー100億ドル割当+公募300億ドル+Q3に400億ドルATM、2026年設備投資1,800-1,900億ドル、希薄化懸念で株価約3.5%安",
-      "topic_key": "alphabet-80b-equity-raise-ai-capex-dilution-jun3-2026",
-      "source": "CNBC / TechCrunch",
-      "first_seen": "2026-06-03T22:00:00+09:00",
-      "issue": "2026-06-03-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil",
-      "title": "原油が3日続伸、ブレント97ドルに接近・WTI95ドル超 — 米イラン交渉の不透明感、API集計で米原油在庫▲680万バレル(6週連続取り崩しの公算)、6/7にOPECプラス会合・UAEのOPEC脱退で世界シェア3割割れ観測",
-      "topic_key": "oil-brent-97-third-gain-api-draw-opec-jun7-jun3-2026",
-      "source": "Trading Economics / CNBC",
-      "first_seen": "2026-06-03T22:00:00+09:00",
-      "issue": "2026-06-03-2200"
-    },
-    {
-      "url_normalized": "riotimesonline.com/europe-eu-intelligence-brief-eurozone-inflation-services-ecb-hike-june-2/",
-      "title": "ユーロ圏5月HICP速報が+3.2%へ加速(4月+3.0%) — サービス価格+3.5%で物価波及鮮明、ECBの6月11日利上げ観測強まる、原油乱高下で判断は接戦",
-      "topic_key": "eurozone-may-flash-hicp-32-services-35-ecb-jun11-jun3-2026",
-      "source": "Rio Times (Eurostat) / Euronews",
-      "first_seen": "2026-06-03T22:00:00+09:00",
-      "issue": "2026-06-03-2200"
-    },
-    {
       "url_normalized": "rappler.com/world/middle-east/usa-iran-war-updates-june-3-2026/",
       "title": "中東情勢が再緊迫、イランが湾岸諸国へミサイル — クウェート空港に着弾し1人死亡、バーレーン向け3発は迎撃、米軍はゲシュム島攻撃で応戦、原油は1%超上昇しBrent97ドル近辺",
       "topic_key": "iran-missiles-kuwait-bahrain-gulf-oil-up-jun3-2026",
@@ -431,6 +391,30 @@
       "source": "TheStreet / investingLive (ECB)",
       "first_seen": "2026-06-06T22:00:00+09:00",
       "issue": "2026-06-06-2200"
+    },
+    {
+      "url_normalized": "bls.gov/schedule/news_release/cpi.htm",
+      "title": "米5月CPIは10日発表 — 4月は前年比+3.8%(2023年5月以来の高さ)、予測市場は5月も前年比3.2%超が過半、ホルムズ海峡発の原油ショックで上振れ懸念、強い雇用統計と合わせ年内利上げ観測の点検材料、6/16-17FOMCは据え置きほぼ確実",
+      "topic_key": "us-may-cpi-jun10-preview-above-3pct-oil-shock-jun7-2026",
+      "source": "U.S. BLS / Octagon AI",
+      "first_seen": "2026-06-07T06:00:00+09:00",
+      "issue": "2026-06-07-0600"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil-jun5-below-94-china-imports",
+      "title": "原油はブレント94ドル割れ(5日に前日比2.8%安の流れ継続) — 中国の原油輸入が約10年ぶり低水準で需要減速を映す、ただし中東リスクで週間は4%超高、本日7日にOPECプラス主要7カ国会合で7月生産目標(日量18.8万バレル増産路線の是非)を協議",
+      "topic_key": "oil-brent-below-94-china-imports-10yr-low-opec-jun7-2026",
+      "source": "Trading Economics / OPEC",
+      "first_seen": "2026-06-07T06:00:00+09:00",
+      "issue": "2026-06-07-0600"
+    },
+    {
+      "url_normalized": "investing.com/analysis/bitcoin-falls-as-record-etf-outflows-and-strategy-sale-hit-sentiment-200681446",
+      "title": "ビットコインの記録的なETF流出が止まる — 5日に約305万ドルの純流入で5/15からの13営業日連続流出(計約43億ドル、上場来最長最大)が終了、BTCは約6万1,900ドルの安値圏、ストラテジー(旧MicroStrategy)の売り転換と金利上昇が急落の主因、戻りの持続力は金利次第",
+      "topic_key": "btc-etf-outflow-streak-ends-305m-inflow-61900-jun7-2026",
+      "source": "Investing.com / BeInCrypto",
+      "first_seen": "2026-06-07T06:00:00+09:00",
+      "issue": "2026-06-07-0600"
     }
   ]
 }

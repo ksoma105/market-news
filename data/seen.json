@@ -1,94 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "wsls.com/business/2026/06/03/tokyos-nikkei-225-index-tops-68000-for-the-1st-time-as-wall-street-logs-more-records/",
-      "title": "日経平均が史上初の68,000円台、+2.5%(約1,668円高)の68,402円で最高値 — 米株高・半導体ラリーが追い風、ソフトバンクG+1.1%・週初来は村田/SUMCOも高い",
-      "topic_key": "nikkei-record-68000-first-up-25pct-jun3-2026",
-      "source": "AP (WSLS) / 日経平均プロフィル",
-      "first_seen": "2026-06-03T22:00:00+09:00",
-      "issue": "2026-06-03-2200"
-    },
-    {
-      "url_normalized": "japantimes.co.jp/business/2026/06/03/ueda-boj-rates-inflation/",
-      "title": "植田日銀総裁がきさらぎ会で講演『適切なペースで利上げを継続』 — 物価上振れリスクは『より大きく早期に顕在化』、ドル円159.66、高市首相『果断対応』、6/15-16会合に注目",
-      "topic_key": "ueda-appropriate-pace-hikes-usdjpy-15966-jun3-2026",
-      "source": "The Japan Times / Crypto Briefing",
-      "first_seen": "2026-06-03T22:00:00+09:00",
-      "issue": "2026-06-03-2200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html",
-      "title": "アルファベットが上場以来初の約800億ドル増資 — バークシャー100億ドル割当+公募300億ドル+Q3に400億ドルATM、2026年設備投資1,800-1,900億ドル、希薄化懸念で株価約3.5%安",
-      "topic_key": "alphabet-80b-equity-raise-ai-capex-dilution-jun3-2026",
-      "source": "CNBC / TechCrunch",
-      "first_seen": "2026-06-03T22:00:00+09:00",
-      "issue": "2026-06-03-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil",
-      "title": "原油が3日続伸、ブレント97ドルに接近・WTI95ドル超 — 米イラン交渉の不透明感、API集計で米原油在庫▲680万バレル(6週連続取り崩しの公算)、6/7にOPECプラス会合・UAEのOPEC脱退で世界シェア3割割れ観測",
-      "topic_key": "oil-brent-97-third-gain-api-draw-opec-jun7-jun3-2026",
-      "source": "Trading Economics / CNBC",
-      "first_seen": "2026-06-03T22:00:00+09:00",
-      "issue": "2026-06-03-2200"
-    },
-    {
-      "url_normalized": "riotimesonline.com/europe-eu-intelligence-brief-eurozone-inflation-services-ecb-hike-june-2/",
-      "title": "ユーロ圏5月HICP速報が+3.2%へ加速(4月+3.0%) — サービス価格+3.5%で物価波及鮮明、ECBの6月11日利上げ観測強まる、原油乱高下で判断は接戦",
-      "topic_key": "eurozone-may-flash-hicp-32-services-35-ecb-jun11-jun3-2026",
-      "source": "Rio Times (Eurostat) / Euronews",
-      "first_seen": "2026-06-03T22:00:00+09:00",
-      "issue": "2026-06-03-2200"
-    },
-    {
-      "url_normalized": "rappler.com/world/middle-east/usa-iran-war-updates-june-3-2026/",
-      "title": "中東情勢が再緊迫、イランが湾岸諸国へミサイル — クウェート空港に着弾し1人死亡、バーレーン向け3発は迎撃、米軍はゲシュム島攻撃で応戦、原油は1%超上昇しBrent97ドル近辺",
-      "topic_key": "iran-missiles-kuwait-bahrain-gulf-oil-up-jun3-2026",
-      "source": "Rappler / RFE/RL / CENTCOM",
-      "first_seen": "2026-06-04T06:00:00+09:00",
-      "issue": "2026-06-04-0600"
-    },
-    {
-      "url_normalized": "finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-slip-fresh-190348981.html",
-      "title": "米株が最高値から反落 — ダウ▲1.2%・ラッセル2000▲1.25%・ナスダック▲0.9%・S&P500▲0.7%、イランの湾岸ミサイル攻撃で原油高・米債逃避のリスクオフ、値がさハイテクに利益確定売り",
-      "topic_key": "us-stocks-pullback-dow-12-iran-riskoff-jun3-2026",
-      "source": "Yahoo Finance / Bloomberg / TheStreet",
-      "first_seen": "2026-06-04T06:00:00+09:00",
-      "issue": "2026-06-04-0600"
-    },
-    {
-      "url_normalized": "stocktitan.net/news/AVGO/broadcom-inc-announces-second-quarter-fiscal-year-2026-financial-if4yrbje8hq6.html",
-      "title": "ブロードコムQ2決算、売上高222億ドル(+48%)・非GAAP EPS2.44ドルで予想超え — AI半導体143%増の108億ドル(ガイダンス107億ドル上回る)、Q3見通し294億ドル(+84%)、時間外約4.7%高",
-      "topic_key": "broadcom-q2-fy26-rev-222b-ai-108b-q3-294b-jun3-2026",
-      "source": "StockTitan (Broadcom IR) / The Motley Fool",
-      "first_seen": "2026-06-04T06:00:00+09:00",
-      "issue": "2026-06-04-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html",
-      "title": "米5月ADP民間雇用が+12.2万人で予想(約11万人)超え — 4月10.5万人から加速し25年1月以来の強さ、10業種中8業種で増加、6/5の雇用統計は+8万人・失業率4.3%予想、FOMCは6/16-17",
-      "topic_key": "us-may-adp-122k-jobs-preview-jun5-fomc-jun3-2026",
-      "source": "CNBC / Kiplinger / BLS",
-      "first_seen": "2026-06-04T06:00:00+09:00",
-      "issue": "2026-06-04-0600"
-    },
-    {
-      "url_normalized": "global.morningstar.com/en-gb/economy/eurozone-inflation-rises-ecb-rate-hike-widely-expected-next-week",
-      "title": "ECBの6月11日利上げほぼ確実(市場9割超織り込み) — 5月HICP+3.2%・エネルギー+10.9%・コア+2.5%、預金金利2.00%→2.25%へ、欧州委は26年見通しを1.9%→3.0%に上方修正",
-      "topic_key": "ecb-jun11-hike-near-certain-deposit-225-jun3-2026",
-      "source": "Morningstar / Crypto Briefing",
-      "first_seen": "2026-06-04T06:00:00+09:00",
-      "issue": "2026-06-04-0600"
-    },
-    {
-      "url_normalized": "mitrade.com/au/insights/news/live-news/article-1-1768528-20260601",
-      "title": "日本市場は最高値圏で4日朝を迎える — 日経平均68,000円台後の海外株安・中東緊迫が重し、ドル円159円台、植田総裁『適切なペース利上げ』で6/16-17会合の追加利上げ観測根強い",
-      "topic_key": "japan-record-usdjpy-159-boj-june-hike-watch-jun4-2026",
-      "source": "Mitrade / 日本経済新聞",
-      "first_seen": "2026-06-04T06:00:00+09:00",
-      "issue": "2026-06-04-0600"
-    },
-    {
       "url_normalized": "nikkei.com/article/DGXZQOFL040RW0U6A600C2000000",
       "title": "東京市場が最高値から反落、日経平均は午前一時1,000円超安で4日ぶり下落 — 米株安・中東緊迫でリスクオフ、ソフトバンクG一時8%安・アドバンテスト/フジクラ/村田など半導体に利益確定売り",
       "topic_key": "tokyo-nikkei-pullback-from-record-1000yen-jun4-2026",
@@ -431,6 +343,38 @@
       "source": "TheStreet / investingLive (ECB)",
       "first_seen": "2026-06-06T22:00:00+09:00",
       "issue": "2026-06-06-2200"
+    },
+    {
+      "url_normalized": "newsweekjapan.jp/articles/-/323692",
+      "title": "野村證券が日経平均の2026年末予想を60,000円→68,000円へ上方修正(2027末7.0万・2028末7.25万) — AI・半導体(除くSBG)の経常益が26年度に倍増見込み、TOPIX予想EPSを26年度225.2(+10.0%)へ引き上げ、中東停戦期待も織り込む、注目は電機・機械",
+      "topic_key": "nomura-nikkei-yearend-target-68000-ai-chips-eps-jun7-2026",
+      "source": "Newsweek日本版 (ロイター) / 野村證券",
+      "first_seen": "2026-06-07T12:00:00+09:00",
+      "issue": "2026-06-07-1200"
+    },
+    {
+      "url_normalized": "iranintl.com/en/202606055170",
+      "title": "米が6日に対イラン二次制裁を発動(個人10人・27社) — 6/2に新規制裁を一時停止した4日後、核交渉は60日MOUで歩み寄りも未妥結、凍結資産(推計120-240億ドル)の25%留保・ウラン濃縮権で隔たり、イランはオマーン仲介で対案方針、ブレント94-95ドル",
+      "topic_key": "us-secondary-sanctions-iran-jun6-frozen-assets-enrichment-deadlock-jun7-2026",
+      "source": "Iran International / CNBC",
+      "first_seen": "2026-06-07T12:00:00+09:00",
+      "issue": "2026-06-07-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-jun7-ministerial-today",
+      "title": "本日7日にOPECプラス閣僚級会合、7月生産目標を協議 — 5/3決定の日量18.8万バレル増産路線の維持・調整が焦点、先週ブレントは97ドル接近後94-95ドルへ反落、供給不安と需要鈍化の綱引きで当面90-100ドルレンジ見通し、結果は週明け相場の手掛かり",
+      "topic_key": "opec-plus-jun7-ministerial-today-output-188kbd-brent-94-95-jun7-2026",
+      "source": "CNBC / Al Jazeera",
+      "first_seen": "2026-06-07T12:00:00+09:00",
+      "issue": "2026-06-07-1200"
+    },
+    {
+      "url_normalized": "cryptobriefing.com/bitcoin-falls-below-64000-triggers-11b-in-liquidations/",
+      "title": "ビットコインが週末も6万1,500ドル前後で軟調 — 6万4,000ドル割れ局面で24時間に約11億ドルの強制決済、フィア&グリード指数は29(Fear)、現物ETF流出継続と米長期金利上昇が重し、年初来ピーク約12.6万ドルから調整長期化、リスクオフでもドル選好",
+      "topic_key": "btc-weekend-61500-fear-greed-29-liquidations-11b-etf-outflow-jun7-2026",
+      "source": "Crypto Briefing / Yahoo Finance",
+      "first_seen": "2026-06-07T12:00:00+09:00",
+      "issue": "2026-06-07-1200"
     }
   ]
 }

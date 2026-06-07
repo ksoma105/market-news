@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "nikkei.com/article/DGXZQOFL040RW0U6A600C2000000",
-      "title": "東京市場が最高値から反落、日経平均は午前一時1,000円超安で4日ぶり下落 — 米株安・中東緊迫でリスクオフ、ソフトバンクG一時8%安・アドバンテスト/フジクラ/村田など半導体に利益確定売り",
-      "topic_key": "tokyo-nikkei-pullback-from-record-1000yen-jun4-2026",
-      "source": "日本経済新聞 / Trading Economics",
-      "first_seen": "2026-06-04T12:00:00+09:00",
-      "issue": "2026-06-04-1200"
-    },
-    {
-      "url_normalized": "finance.yahoo.com/quote/AVGO",
-      "title": "ブロードコムが時間外で一転急落し一時▲14% — 好決算(売上222億ドル/AI半導体108億ドル)でもAI見通しが高い期待に届かず材料出尽くし、インテル▲2%/AMD▲2.9%/Arm▲4.3%と半導体株安・米先物軟調",
-      "topic_key": "broadcom-after-hours-reversal-down-14pct-chips-jun4-2026",
-      "source": "Yahoo Finance / CNBC",
-      "first_seen": "2026-06-04T12:00:00+09:00",
-      "issue": "2026-06-04-1200"
-    },
-    {
-      "url_normalized": "smd-am.co.jp/market/ichikawa/2026/06/irepo260601",
-      "title": "ドル円159円台で小康、介入効果に賛否 — 過去最大11.7兆円介入後に160円再下落は一服、『目的は相場安定』との指摘、年内162-163円も視野、6/16-17日銀会合の追加利上げが焦点",
-      "topic_key": "usdjpy-159-intervention-efficacy-debate-boj-jun16-jun4-2026",
-      "source": "三井住友DSアセットマネジメント / 日本経済新聞",
-      "first_seen": "2026-06-04T12:00:00+09:00",
-      "issue": "2026-06-04-1200"
-    },
-    {
-      "url_normalized": "eia.gov/petroleum/supply/weekly/",
-      "title": "原油3日続伸、WTI95ドル超・Brent97ドル接近 — EIA週間在庫が前週比330万バレル減で6週連続取り崩しの公算、在庫4.417億バレルは5年平均比約2%減、7日OPECプラス会合控え地政学リスク継続",
-      "topic_key": "oil-third-gain-eia-draw-33mb-opec-jun7-jun4-2026",
-      "source": "Trading Economics / U.S. EIA",
-      "first_seen": "2026-06-04T12:00:00+09:00",
-      "issue": "2026-06-04-1200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/gold",
-      "title": "金相場が4,436ドル前後で頭打ち — 中東緊迫の安全資産需要も米長期金利上昇・ドル高が重し、年初の5,000ドル台後半から水準切り下げ、金利・原油動向に左右されやすい綱引き継続",
-      "topic_key": "gold-4436-capped-by-yields-dollar-safe-haven-jun4-2026",
-      "source": "Trading Economics / The Sunday Guardian",
-      "first_seen": "2026-06-04T12:00:00+09:00",
-      "issue": "2026-06-04-1200"
-    },
-    {
       "url_normalized": "tradingeconomics.com/japan/stock-market",
       "title": "東京市場の大引けは日経平均931円安(▲1.36%)の67,470円 — ソフトバンクGが約11%安で指数下落を主導、東京エレクトロン+4.5%、ドル円159円後半で再介入を警戒",
       "topic_key": "tokyo-nikkei-close-67470-softbank-11pct-jun4-2026",
@@ -375,6 +335,38 @@
       "source": "Crypto Briefing / Yahoo Finance",
       "first_seen": "2026-06-07T12:00:00+09:00",
       "issue": "2026-06-07-1200"
+    },
+    {
+      "url_normalized": "opec.org/pr-detail/596-5-april-2026.html",
+      "title": "本日7日にOPECプラス閣僚監視委員会(JMMC) — 焦点は増産より順守率、サウジは目標の約7割・3月のOPEC+産油量2,768万bdはクオータ3,673万bdを下回る、ブレント94〜95ドル",
+      "topic_key": "opec-plus-jmmc-jun7-2026-compliance-saudi-70pct-brent-94-95",
+      "source": "OPEC/TASS",
+      "first_seen": "2026-06-07T22:00:00+09:00",
+      "issue": "2026-06-07-2200"
+    },
+    {
+      "url_normalized": "aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire",
+      "title": "イスラエル・レバノンが条件付き停戦合意もヒズボラが拒否(カセム師、南部撤退要求) — 次回協議は6月22日週、中東リスクくすぶる",
+      "topic_key": "israel-lebanon-conditional-ceasefire-hezbollah-rejects-talks-jun22-2026",
+      "source": "Al Jazeera/Axios",
+      "first_seen": "2026-06-07T22:00:00+09:00",
+      "issue": "2026-06-07-2200"
+    },
+    {
+      "url_normalized": "cnn.com/2026/05/28/business/oil-iran-trump-spr-emergency",
+      "title": "米戦略石油備蓄(SPR)が対イラン戦下で約12%減の3億6,500万バレル — ハリケーン期入りで余力低下、補充は2026年11月予定",
+      "topic_key": "us-spr-down-12pct-365m-barrels-iran-war-hurricane-season-refill-nov2026",
+      "source": "CNN/EIA",
+      "first_seen": "2026-06-07T22:00:00+09:00",
+      "issue": "2026-06-07-2200"
+    },
+    {
+      "url_normalized": "ecb.europa.eu/press/pr/date/2026/html/ecb.mp260430.en.html",
+      "title": "来週は中銀ウィーク — 11日ECB(+0.25%で2.25%を99%織込)・16日日銀(円160円・累計11兆円超介入)・18日英BOE、半導体急落後の地合いで",
+      "topic_key": "week-ahead-central-banks-ecb-jun11-boj-jun16-boe-jun18-2026",
+      "source": "ECB/Japan Times",
+      "first_seen": "2026-06-07T22:00:00+09:00",
+      "issue": "2026-06-07-2200"
     }
   ]
 }

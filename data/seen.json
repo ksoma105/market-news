@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "tradingeconomics.com/japan/stock-market",
-      "title": "東京市場の大引けは日経平均931円安(▲1.36%)の67,470円 — ソフトバンクGが約11%安で指数下落を主導、東京エレクトロン+4.5%、ドル円159円後半で再介入を警戒",
-      "topic_key": "tokyo-nikkei-close-67470-softbank-11pct-jun4-2026",
-      "source": "Trading Economics / 日本経済新聞",
-      "first_seen": "2026-06-04T22:00:00+09:00",
-      "issue": "2026-06-04-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/japan/government-bond-yield",
-      "title": "日本国債利回りが上昇、10年2.5%台・20年は一時3.555%でカーブ・スティープ化 — 政策金利0.75%、6/16-17会合の追加利上げ(→1.0%)を市場は8割弱織り込み",
-      "topic_key": "jgb-yields-rise-10y-25-20y-3555-boj-jun16-jun4-2026",
-      "source": "Trading Economics / 日本銀行",
-      "first_seen": "2026-06-04T22:00:00+09:00",
-      "issue": "2026-06-04-2200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/03/stock-market-today-live-updates.html",
-      "title": "米株4日序盤はまだら模様、ダウ小幅高もナスダック続落 — クラウドストライクが予想超え決算・4対1分割発表も約10%安、ブロードコム約13%安で半導体・サイバー軟調",
-      "topic_key": "us-stocks-jun4-mixed-crowdstrike-10pct-chips-jun4-2026",
-      "source": "CNBC / Yahoo Finance",
-      "first_seen": "2026-06-04T22:00:00+09:00",
-      "issue": "2026-06-04-2200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/03/oecd-warns-of-global-slowdown-as-iran-war-stymies-growth-prospects-.html",
-      "title": "OECDが世界成長見通しを下方修正、2026年2.8%(25年3.4%から減速)・米2.0% — 中東発のエネルギー/海運ショックが主因、厳しいシナリオでは2.1%、G20先進国インフレは4.0%へ上方修正",
-      "topic_key": "oecd-2026-outlook-global-28-us-20-inflation-40-jun4-2026",
-      "source": "CNBC / OECD",
-      "first_seen": "2026-06-04T22:00:00+09:00",
-      "issue": "2026-06-04-2200"
-    },
-    {
-      "url_normalized": "kiplinger.com/investing/economy/jobs-report-may-2026-what-to-expect",
-      "title": "5日に米5月雇用統計プレビュー — 非農業部門就業者は+9.5万〜10.5万人(民間+10万人)・失業率4.3%予想、3カ月連続増の公算、FOMC(6/16-17)前の最重要指標",
-      "topic_key": "us-may-nfp-preview-95-105k-unemp-43-fomc-jun4-2026",
-      "source": "Kiplinger / U.S. BLS",
-      "first_seen": "2026-06-04T22:00:00+09:00",
-      "issue": "2026-06-04-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil-jun4-pullback",
-      "title": "原油が3日続伸後に反落、ブレント97ドル割れ(前日はWTI96.02ドル/ブレント97.81ドル) — EIA在庫は約798万バレル減で6週連続取り崩し(2月以来最大)、7日OPECプラス会合で増産是非",
-      "topic_key": "oil-pullback-brent-below-97-eia-draw-798mb-opec-jun7-jun4-2026",
-      "source": "Trading Economics / U.S. EIA",
-      "first_seen": "2026-06-04T22:00:00+09:00",
-      "issue": "2026-06-04-2200"
-    },
-    {
       "url_normalized": "thestreet.com/stock-market-today/stock-market-today-june-4-2026-nasdaq-futures-slide-amid-iran-war-concerns",
       "title": "米株6/4本引けは方向感分かれる — ダウ+1.73%(875ドル高)の51,561.12で最高値更新、S&P500+0.41%の7,584.31・ナスダック▲0.09%の26,830.96、11業種中8業種高でヘルスケア/金融/不動産主導のローテーション",
       "topic_key": "us-stocks-jun4-close-dow-record-51561-rotation-jun4-2026",
@@ -367,6 +319,30 @@
       "source": "ECB/Japan Times",
       "first_seen": "2026-06-07T22:00:00+09:00",
       "issue": "2026-06-07-2200"
+    },
+    {
+      "url_normalized": "opec.org/41st-ministerial-meeting-jun7-2026",
+      "title": "OPECプラス第41回閣僚会合(ウィーン、UAE脱退後初)が日量18.8万バレル増の路線を再確認 — 増産・停止・修正の柔軟性を維持、サウジ実産油量はホルムズ混乱で約725万バレルに低下し割当1,029万を大幅下回る、ブレント94-95ドルで財政均衡108-111ドルを下回り財政圧迫",
+      "topic_key": "opec-41st-ministerial-jun7-reaffirm-188kbd-flexibility-saudi-fiscal-2026",
+      "source": "OPEC / The National / OilPrice",
+      "first_seen": "2026-06-08T06:00:00+09:00",
+      "issue": "2026-06-08-0600"
+    },
+    {
+      "url_normalized": "axios.com/2026/06/07/israel-strikes-lebanon-beirut-iran-response-trump",
+      "title": "イスラエルが米仲介停戦の数日後にベイルート南郊ダヒエを予告なく空爆(死者2・負傷11)、ヒズボラ指揮拠点狙い北部ロケットへの報復 — イランが同日複数回ミサイルで応酬しイスラエルが迎撃、停戦崩壊リスク、米軍はホルムズで無人機2機撃墜、パキスタンが米イラン交渉仲介",
+      "topic_key": "israel-strikes-beirut-iran-missile-barrage-ceasefire-risk-jun7-2026",
+      "source": "Axios / NBC News / The Times of Israel",
+      "first_seen": "2026-06-08T06:00:00+09:00",
+      "issue": "2026-06-08-0600"
+    },
+    {
+      "url_normalized": "gaitame.com/media/entry/2026/06/07/080000",
+      "title": "週明けの市場の最大の焦点は米CPI(10日)・PPI(11日) — 強い5月雇用統計(+17.2万人)で米10年債4.5%超・30年5%超、インフレ高止まりならドル円160円台定着試し・下振れなら159-158円へ調整、来週ECB(11日利上げ観測)/日銀(16日)/英中銀(18日)、日経予想レンジ6.4万-6.9万円",
+      "topic_key": "week-ahead-us-cpi-jun10-ppi-jun11-usdjpy-160-nikkei-range-jun8-2026",
+      "source": "外為どっとコム / ダイヤモンドZAi / Yahoo Finance",
+      "first_seen": "2026-06-08T06:00:00+09:00",
+      "issue": "2026-06-08-0600"
     }
   ]
 }

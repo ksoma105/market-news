@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html",
-      "title": "米USTRが60カ国・地域に新たな追加関税案 — 強制労働を理由(通商法301条)に中国・日本・韓国・ブラジルは12.5%、英国/EU/カナダ/メキシコ/台湾など16カ国は10%、発動前にパブリックコメント手続き",
-      "topic_key": "ustr-forced-labor-tariffs-60-partners-125-japan-china-jun5-2026",
-      "source": "CNBC / CBS News",
-      "first_seen": "2026-06-05T12:00:00+09:00",
-      "issue": "2026-06-05-1200"
-    },
-    {
-      "url_normalized": "insight.factset.com/total-nonfarm-payrolls-for-may-2026-are-projected-to-rise-by-105000",
-      "title": "今夜の米5月雇用統計プレビュー — FactSet予想中央値は前月比+10.5万人(レンジ+5万〜+12.5万人)・失業率4.3%横ばい、4月+11.5万人から鈍化見込み、6/16-17FOMC据え置き確率99%超で『高金利長期化』点検材料",
-      "topic_key": "us-may-nfp-tonight-factset-105k-unemp-43-fomc-jun5-2026",
-      "source": "FactSet / Trading Economics",
-      "first_seen": "2026-06-05T12:00:00+09:00",
-      "issue": "2026-06-05-1200"
-    },
-    {
-      "url_normalized": "nikkei.com/markets/worldidx/chart/nk225-jun5-noon",
-      "title": "東京市場はドル円160円台と米関税報道で様子見 — 前日は931円安(▲1.36%)の67,470円・ソフトバンクG約11%安、10年国債利回り2.5%台、財務省の再介入警戒、日銀6/16-17会合の追加利上げ観測",
-      "topic_key": "tokyo-nikkei-cautious-usdjpy-160-tariff-watch-jun5-2026",
-      "source": "日本経済新聞 / OANDA MarketPulse",
-      "first_seen": "2026-06-05T12:00:00+09:00",
-      "issue": "2026-06-05-1200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/china/stock-market-jun5-trade-tensions",
-      "title": "中国・アジア市場が米追加関税案を警戒 — 上海総合は3日4,083(+0.22%)後に4日続伸一服、12.5%関税対象で対米輸出に不透明感、Q1GDP+5.0%・5月総合PMI54.0/製造業51.8、人民元7元近辺",
-      "topic_key": "china-asia-trade-tension-shanghai-4083-pmi-yuan-jun5-2026",
-      "source": "Trading Economics / Bloomberg (Yahoo Finance)",
-      "first_seen": "2026-06-05T12:00:00+09:00",
-      "issue": "2026-06-05-1200"
-    },
-    {
-      "url_normalized": "cryptobriefing.com/eurozone-inflation-ecb-rate-hike-crypto/",
-      "title": "来週11日ECB理事会プレビュー — 預金金利2.00%→2.25%の0.25%利上げを約97%織り込み、5月HICP+3.2%・エネルギー+10.9%・コア+2.5%、焦点はラガルド総裁の先行き示唆、Q1成長+0.1%でインフレと低成長の難路",
-      "topic_key": "ecb-jun11-preview-deposit-225-lagarde-guidance-jun5-2026",
-      "source": "Crypto Briefing (Eurostat) / CNBC",
-      "first_seen": "2026-06-05T12:00:00+09:00",
-      "issue": "2026-06-05-1200"
-    },
-    {
       "url_normalized": "tradingeconomics.com/united-states/non-farm-payrolls-may-2026",
       "title": "米5月雇用統計が予想を大幅上回る+17.2万人(予想約8万人) — 4月+17.9万人へ上方修正、失業率4.3%横ばい、レジャー・接客+7.0万/地方政府+5.5万/医療+3.5万・金融▲2.2万、労働参加率61.8%、利上げ観測強まる(FOMC6/16-17据え置きはほぼ確実)",
       "topic_key": "us-may-nfp-result-172k-beat-unemp-43-higher-for-longer-jun5-2026",
@@ -343,6 +303,46 @@
       "source": "Charles Schwab / Investing.com",
       "first_seen": "2026-06-08T12:00:00+09:00",
       "issue": "2026-06-08-1200"
+    },
+    {
+      "url_normalized": "nippon.com/en/news/yjj2026060800756/",
+      "title": "日経平均は終値3.84%安の6万4,024円60銭(前週末比2,563円52銭安) — 前場一時3,100円超安・6万4,000円割れから後場は中東沈静化観測で下げ渋り、米半導体急落(SOX週間約10%安)波及でAI・半導体(東エレク/SBG/キオクシア)に利益確定売り、物色は金融・内需へ",
+      "topic_key": "nikkei-close-jun8-64024-down384-ai-chips-rout-2026",
+      "source": "Nippon.com / Trading Economics",
+      "first_seen": "2026-06-08T22:00:00+09:00",
+      "issue": "2026-06-08-2200"
+    },
+    {
+      "url_normalized": "247wallst.com/investing/2026/06/08/stock-market-live-june-8-2026-sp-500-spy-rebounds-with-chip-stocks/",
+      "title": "米株は週明け反発スタート、半導体に買い戻し — S&P500寄り後+0.75%、マーベルがS&P500採用(6/22・キャンベル等と入替、フレックスも)発表で一時+9%(+23.42ドル)、フアンCEO『将来1兆ドル企業』評、シティはS&P500年末目標を8,100へ上方修正、先週急落は『期待値リセット/ローテーション』との声",
+      "topic_key": "us-stocks-rebound-jun8-sp500-marvell-sp500-inclusion-citi-8100-2026",
+      "source": "24/7 Wall St. / CNBC",
+      "first_seen": "2026-06-08T22:00:00+09:00",
+      "issue": "2026-06-08-2200"
+    },
+    {
+      "url_normalized": "npr.org/2026/06/08/g-s1-126844/iran-war-updates",
+      "title": "イスラエルとイランが攻撃停止を表明 — トランプ氏がネタニヤフ首相に『合意成立が近い』と自制要請、停止直前にイスラエルがイラン南西部マフシャフル石油化学施設を空爆(4/8停戦後初のイラン国内エネルギー施設攻撃)、対ヒズボラ攻勢は継続・イランは再応戦警告、原油急騰でブレント一時97ドル台(+4%超)・一部100ドル台/WTI90ドル台前半",
+      "topic_key": "israel-iran-halt-attacks-jun8-trump-mahshahr-petrochemical-oil-2026",
+      "source": "NPR / Reuters (Investing.com)",
+      "first_seen": "2026-06-08T22:00:00+09:00",
+      "issue": "2026-06-08-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/united-states/government-bond-yield",
+      "title": "米10年債利回りが4.57%近辺と約2週間ぶり高水準 — 強い5月雇用統計(+17.2万人/予想約8.5万人・失業率4.3%)で年内(12月)追加利上げ確率が約5割→約7割に上昇、中東原油高もインフレ懸念に、6/16-17FOMCは新議長ウォーシュ氏の下で据え置き(3.50-3.75%)見込み、最大の関門は10日の5月CPI",
+      "topic_key": "us-10y-457-2week-high-cpi-jun10-fed-dec-hike-70-warsh-jun8-2026",
+      "source": "Trading Economics / CNBC",
+      "first_seen": "2026-06-08T22:00:00+09:00",
+      "issue": "2026-06-08-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/gold",
+      "title": "金は地政学リスク下でも上値重く1トロイオンス4,330ドル台 — 米長期金利上昇とドル高が利息を生まない金の逆風、リスク回避マネーが金でなく米ドルに向かう『有事のドル買い』で円も金も買われにくい逆説、今週の米CPI・ECB/日銀/英中銀会合が次の方向性を左右",
+      "topic_key": "gold-haven-paradox-dollar-jun8-4330-yields-up-2026",
+      "source": "Trading Economics / Investing.com",
+      "first_seen": "2026-06-08T22:00:00+09:00",
+      "issue": "2026-06-08-2200"
     }
   ]
 }

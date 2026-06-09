@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "pakistantoday.com.pk/2026/06/05/iaea-chief-says-us-iran-talks-close-to-nuclear-framework-agreement",
-      "title": "IAEAグロッシ事務局長『米イラン交渉は核の枠組み合意にかなり接近』(5日) — 60日MOUは大筋合意もトランプ氏が修正要求、最大の隔たりは米国が求める『ウラン濃縮ゼロ』、査察立ち入りは依然限定的、ブレント94〜95ドル",
-      "topic_key": "us-iran-nuclear-framework-close-grossi-zero-enrichment-jun5-2026",
-      "source": "Pakistan Today (IAEA) / CNN",
-      "first_seen": "2026-06-06T22:00:00+09:00",
-      "issue": "2026-06-06-2200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-jun7-ministerial",
-      "title": "あす7日にOPECプラス主要7カ国(サウジ/ロシア/イラク/クウェート/カザフ/アルジェリア/オマーン)の閣僚級会合 — 7月生産目標を協議、5/3決定の日量18.8万バレル増産路線の是非が焦点、供給不安と需要鈍化の綱引きで原油は90〜100ドルのレンジ見通し",
-      "topic_key": "opec-plus-jun7-ministerial-output-188kbd-range-90-100-jun6-2026",
-      "source": "CNBC / TradingKey",
-      "first_seen": "2026-06-06T22:00:00+09:00",
-      "issue": "2026-06-06-2200"
-    },
-    {
-      "url_normalized": "china.org.cn/2026-06/05/content_118533260.shtml",
-      "title": "米USTRの『強制労働』追加関税(60カ国・地域に最大12.5%)案に中国が反発 — 商務省・何咏前報道官『一方的な制限に反対』、外務省も『強制労働は存在しない』と反論、ただし報復措置は見送り、『米中貿易委員会』で相互関税引き下げ協議の道も、対中実効税率は依然3割近く",
-      "topic_key": "china-opposes-us-forced-labor-tariffs-no-retaliation-board-of-trade-jun5-2026",
-      "source": "China.org.cn (商務省) / CNBC",
-      "first_seen": "2026-06-06T22:00:00+09:00",
-      "issue": "2026-06-06-2200"
-    },
-    {
-      "url_normalized": "bankofengland.co.uk/monetary-policy/2026/june-2026-mpc-preview",
-      "title": "英BOEは18日にMPC結果公表、据え置き観測 — CPIは3.3%へ再加速しエネルギー高で年後半さらに上振れも、4/29会合は8対1でバンクレート3.75%据え置き(1人が0.25%利上げ主張)、利上げに動いたECBと対照的なスタグフレーション的環境",
-      "topic_key": "boe-jun18-mpc-hold-cpi-33-bankrate-375-stagflation-jun6-2026",
-      "source": "Bank of England / MoneyWeek",
-      "first_seen": "2026-06-06T22:00:00+09:00",
-      "issue": "2026-06-06-2200"
-    },
-    {
-      "url_normalized": "thestreet.com/stock-market-today/week-ahead-jun8-12-2026-chips-ecb-boj",
-      "title": "来週の日米欧マーケット展望 — 半導体急落(SOX2020年3月以来安・1日で約1.2兆ドル消失)後の値固めを見極め、強い雇用統計(+17.2万人)後の10年債4.5%台と年内利上げ観測が重し、ECB11日に利上げ(預金2.00→2.25%)・日銀16〜17日に追加利上げ(0.75→1.0%)観測、ドル円160円・米指標は閑散",
-      "topic_key": "week-ahead-jun8-12-chips-consolidation-ecb-jun11-boj-jun16-jun6-2026",
-      "source": "TheStreet / investingLive (ECB)",
-      "first_seen": "2026-06-06T22:00:00+09:00",
-      "issue": "2026-06-06-2200"
-    },
-    {
       "url_normalized": "newsweekjapan.jp/articles/-/323692",
       "title": "野村證券が日経平均の2026年末予想を60,000円→68,000円へ上方修正(2027末7.0万・2028末7.25万) — AI・半導体(除くSBG)の経常益が26年度に倍増見込み、TOPIX予想EPSを26年度225.2(+10.0%)へ引き上げ、中東停戦期待も織り込む、注目は電機・機械",
       "topic_key": "nomura-nikkei-yearend-target-68000-ai-chips-eps-jun7-2026",
@@ -327,6 +287,46 @@
       "source": "Trading Economics / Investing.com",
       "first_seen": "2026-06-09T22:00:00+09:00",
       "issue": "2026-06-09-2200"
+    },
+    {
+      "url_normalized": "npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond",
+      "title": "トランプ氏がイランによる米陸軍アパッチ攻撃ヘリ撃墜(ホルムズ近くオマーン沖)を確認し『報復は不可避』と表明 — 無人機被弾で墜落・乗員2名は約2時間後に救助され容体安定、意図性は調査中、米部隊への直接攻撃で4月以来の停戦が動揺、一方トランプ氏は『2-3日で合意の可能性・ホルムズ即時再開』とも、イラン議会議長は『別の言葉はより流暢』と応戦示唆",
+      "topic_key": "trump-iran-shot-down-us-apache-helicopter-must-respond-hormuz-jun9-2026",
+      "source": "NPR / Al Jazeera",
+      "first_seen": "2026-06-10T06:00:00+09:00",
+      "issue": "2026-06-10-0600"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-09-2026",
+      "title": "米株は反落、ナスダック0.97%安の2万5,678.82/S&P500は0.26%安の7,386.65、ダウは86ドル高(0.17%高)の5万0,872.11とまちまち — トランプ氏のイラン報復示唆で日中急落・引けにかけ下げ渋り、下落はハイテクとエネルギーの2業種のみ、半導体株に再び利益確定売り、今夜の5月CPIを前に様子見",
+      "topic_key": "us-stocks-fall-jun9-nasdaq-097-iran-retaliation-cpi-wait-2026",
+      "source": "TheStreet / Trading Economics",
+      "first_seen": "2026-06-10T06:00:00+09:00",
+      "issue": "2026-06-10-0600"
+    },
+    {
+      "url_normalized": "kiplinger.com/investing/economy/cpi-report-may-2026-what-to-expect",
+      "title": "今夜21:30(米8:30ET)発表の米5月CPI、ロイター調査の市場予想は前年比4.2%(2023年4月来高)・前月比+0.5%、コア前年比2.9%/前月比0.3% — 4月CPI3.8%から一段の加速見込み、イラン紛争の原油高が波及、金利先物は2026年内の利下げゼロを織り込み、上振れなら『より高く長く』観測でドル高・変動拡大、16-17日FOMCはウォーシュ新議長下で据え置き見込み",
+      "topic_key": "us-cpi-may-jun10-preview-reuters-42-core-29-no-cuts-2026",
+      "source": "Kiplinger / Trading Economics",
+      "first_seen": "2026-06-10T06:00:00+09:00",
+      "issue": "2026-06-10-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/amp/2026/06/08/china-oil-iran-war-us-israel-energy-prices-strait-hormuz.html",
+      "title": "原油はブレント93ドル割れと約7週ぶり安値(4/17以来)・WTIも5/29以来安、それでもホルムズは米・イラン二重封鎖で実質閉鎖継続 — イスラエル・イラン攻撃停止と和平期待が重し、中国が輸入を2月日量1,170万→5月末900万バレル弱へ絞り在庫取り崩しで『圧力弁』、9日の米軍ヘリ撃墜とトランプ報復表明で供給途絶リスク再燃の地合い",
+      "topic_key": "oil-brent-below93-7week-low-hormuz-still-closed-heli-risk-jun10-2026",
+      "source": "CNBC / Trading Economics",
+      "first_seen": "2026-06-10T06:00:00+09:00",
+      "issue": "2026-06-10-0600"
+    },
+    {
+      "url_normalized": "investing.com/news/forex-news/asia-fx-steady-amid-gulf-tensions-us-tariff-plans-yen-intervention-risks-return-4723306",
+      "title": "ドル円は9日160.15円近辺と2営業日連続で160円台、米軍ヘリ撃墜の有事ドル買いと米10年債4.42%近辺の底堅さがドルを支え円は重い — 節目2日連続試しで円買い介入警戒強まる、片山さつき財務相『必要なら行動・米当局と緊密連絡』、次の焦点は16-17日日銀会合の追加利上げ(織込確率約77%)、見送りなら後手警戒で一段の円安リスク",
+      "topic_key": "usdjpy-jun9-160-haven-dollar-intervention-watch-boj-jun16-77pct-2026",
+      "source": "Investing.com / Trading Economics",
+      "first_seen": "2026-06-10T06:00:00+09:00",
+      "issue": "2026-06-10-0600"
     }
   ]
 }

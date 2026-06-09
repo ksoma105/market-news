@@ -343,6 +343,46 @@
       "source": "Trading Economics / CNBC",
       "first_seen": "2026-06-09T06:00:00+09:00",
       "issue": "2026-06-09-0600"
+    },
+    {
+      "url_normalized": "finance.yahoo.co.jp/news/detail/aed248ecebaa0b323363907a71e144931bbfa29d",
+      "title": "日経平均が9日午前に反発、一時1,000円超高 — 前日(8日)終値3.84%安・6万4,024円の急落の反動と米ハイテク株反発を受けAI・半導体に買い戻し、10時43分時点で前日比490円高の6万4,514円、SBG・アドバンテスト・東エレクの値がさ株が指数押し上げ、上昇は一部値がさ株主導で裾野は限定的",
+      "topic_key": "nikkei-rebound-jun9-am-up1000-ai-chips-buyback-64514-2026",
+      "source": "ロイター(Yahoo!ファイナンス) / Trading Economics",
+      "first_seen": "2026-06-09T12:00:00+09:00",
+      "issue": "2026-06-09-1200"
+    },
+    {
+      "url_normalized": "en.bloomingbit.io/feed/news/113837",
+      "title": "韓国KOSPIが9日寄り付き直後に約4%高で買いサイドカー発動 — 前日8日の8.29%安(サーキットブレーカー発動)の約半値戻し、サムスン電子+4.57%で30万ウォン回復・SKハイニックス+6.91%で200万ウォン回復、個人が約4,713億ウォン買い越しで主導、前日急落はAI半導体需要懸念とFed利上げ観測",
+      "topic_key": "kospi-rebound-jun9-sidecar-samsung-457-skhynix-691-retail-buying-2026",
+      "source": "Bloomingbit / CNBC",
+      "first_seen": "2026-06-09T12:00:00+09:00",
+      "issue": "2026-06-09-1200"
+    },
+    {
+      "url_normalized": "gaitame.com/media/entry/2026/06/09/074227",
+      "title": "ドル円は9日午前159.60-160.70円で攻防、介入催促相場の様相 — 前日は中東有事のドル買いで4/30以来の160.39円まで上昇も政府日銀の円買い介入警戒で159.80円台へ反落、4/30高値160.73円を意識、累計11兆円超介入後も介入前水準に逆戻り『介入警戒が短期勢の円売り誘発』、16-17日日銀会合の追加利上げ観測",
+      "topic_key": "usdjpy-jun9-near160-intervention-call-market-boj-jun16-2026",
+      "source": "外為どっとコム / 日本経済新聞",
+      "first_seen": "2026-06-09T12:00:00+09:00",
+      "issue": "2026-06-09-1200"
+    },
+    {
+      "url_normalized": "clevelandfed.org/indicators-and-data/inflation-nowcasting-cpi-jun10-2026",
+      "title": "10日21:30(米8:30ET)発表の米5月CPIが今週最大の関門 — 4月CPI3.8%(2023年5月来高)・コア2.8%、クリーブランド連銀ナウキャストは6月CPIを4.05%近辺と一段の上振れ示唆、原油高の波及が焦点、フィラデルフィア連銀SPFは10-12月CPI見通しを3.5%へ上方修正、上振れなら12月利上げ確率(約7割)強化、6/16-17FOMCはウォーシュ新議長下で据え置き(3.50-3.75%)見込み",
+      "topic_key": "us-cpi-jun10-preview-nowcast-405-core-28-fed-dec-hike-jun9-2026",
+      "source": "Trading Economics / Cleveland Fed",
+      "first_seen": "2026-06-09T12:00:00+09:00",
+      "issue": "2026-06-09-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/08/china-oil-iran-war-us-israel-energy-prices-strait-hormuz.html",
+      "title": "原油は中東小康で反落、紛争100日目も200ドル懸念は不発 — ブレントは8日一時+4.9%の97.67ドルからイランの作戦終了表明で94ドル台へ反落、2/28開戦以来供給は約14%減、見通し分岐(JPモルガンは6月ホルムズ再開で年内ブレント約100ドル/フィッチは7月末再開なら9月以降平均70ドルへ急落)、中国が輸入を2月日量1,170万→5月末900万バレル弱へ削減し圧力弁に",
+      "topic_key": "oil-retreat-jun9-conflict-100days-jpm-100-fitch-70-china-cushion-2026",
+      "source": "CNBC / CNBC",
+      "first_seen": "2026-06-09T12:00:00+09:00",
+      "issue": "2026-06-09-1200"
     }
   ]
 }

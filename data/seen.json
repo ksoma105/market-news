@@ -1,102 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-05-2026",
-      "title": "米株急落、ナスダック総合▲4.18%の25,709.43で2025年4月以来の大幅安 — S&P500▲2.64%の7,383.74・ダウ▲695.15ドル(▲1.35%)の50,866.78、半導体売りと強い雇用統計後の金利上昇で『好材料が売り材料』に",
-      "topic_key": "us-stocks-crash-nasdaq-418-sp500-264-dow-695-jun5-2026",
-      "source": "TheStreet / CNBC",
-      "first_seen": "2026-06-06T06:00:00+09:00",
-      "issue": "2026-06-06-0600"
-    },
-    {
-      "url_normalized": "finance.yahoo.com/markets/stocks/articles/nasdaq-p-futures-decline-semiconductors-110740283.html",
-      "title": "半導体株から1日で約1.2兆ドル消失、フィラデルフィア半導体指数(SOX)は2020年3月以来の急落 — エヌビディア▲6%で時価総額5兆ドル割れ(約2,800億ドル減)、マイクロン/AMD/クアルコムは9%超安、発端はブロードコムのAI見通し未達",
-      "topic_key": "chip-rout-12t-wiped-sox-worst-since-2020-nvda-below-5t-jun5-2026",
-      "source": "Yahoo Finance / CNBC",
-      "first_seen": "2026-06-06T06:00:00+09:00",
-      "issue": "2026-06-06-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/05/treasury-yields-ease-as-traders-await-key-labor-market-data-.html",
-      "title": "米10年債利回りが+6bp超の4.544%へ上昇し5月21日以来の高水準 — 強い5月雇用統計で利下げ観測後退、CME FedWatchで26年内利上げ確率が約70%に上昇、6/16-17FOMCは据え置きほぼ確実",
-      "topic_key": "us-10y-yield-4544-fed-hike-odds-70pct-jun5-2026",
-      "source": "CNBC / Trading Economics",
-      "first_seen": "2026-06-06T06:00:00+09:00",
-      "issue": "2026-06-06-0600"
-    },
-    {
-      "url_normalized": "marketpulse.com/markets/chart-alert-usdjpy-breaches-above-160-21-month-high-ignoring-intervention-risk/",
-      "title": "ドル円が160円を突破し約21カ月ぶり円安水準 — 強い米雇用統計と米金利上昇でドル高、片山財務相『いつでも対応』『過度な変動には断固たる措置』と再けん制、介入警戒で上値は重い、日銀6/16-17会合の追加利上げ観測",
-      "topic_key": "usdjpy-breaches-above-160-21month-high-katayama-warning-jun5-2026",
-      "source": "Yahoo Finance / MarketPulse (OANDA)",
-      "first_seen": "2026-06-06T06:00:00+09:00",
-      "issue": "2026-06-06-0600"
-    },
-    {
-      "url_normalized": "en.bloomingbit.io/feed/news/113626",
-      "title": "アジアに動揺波及、韓国コスピが▲5.54%でサーキットブレーカー発動(コスピ200先物▲5%) — サムスン電子▲6.4%・SKハイニックス▲9.92%、約1年7カ月ぶり大幅安、欧州もASML▲3.8%/インフィニオン▲6%超と半導体株安",
-      "topic_key": "asia-kospi-554-circuit-breaker-samsung-skhynix-asml-jun5-2026",
-      "source": "Bloomingbit (Bloomberg) / Yahoo Finance",
-      "first_seen": "2026-06-06T06:00:00+09:00",
-      "issue": "2026-06-06-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-jun7-meeting",
-      "title": "7日にOPECプラス閣僚級会合、増産ペースの是非が焦点 — 5月3日会合で6月から日量18.8万バレル増産を決定済み、原油はブレント94〜95ドル近辺、米イラン60日MOUは大筋合意もトランプ承認待ち・進展めぐり錯綜",
-      "topic_key": "opec-plus-jun7-meeting-output-188kbd-brent-94-95-jun6-2026",
-      "source": "CNBC / Trading Economics",
-      "first_seen": "2026-06-06T06:00:00+09:00",
-      "issue": "2026-06-06-0600"
-    },
-    {
-      "url_normalized": "abc7ny.com/live-updates/iran-war-peace-talks-oil-prices-lebanon-strait-of-hormuz/",
-      "title": "米中央軍がホルムズ海峡でイランの無人機4機を撃墜、応戦でゴルク/ゲシュム島の沿岸レーダー施設を空爆 — 停戦は期限なし延長も封鎖継続、IAEAグロッシ氏は核の予備的枠組みに言及、ブレント94〜95ドル",
-      "topic_key": "us-downs-4-iran-drones-hormuz-strikes-radar-goruk-qeshm-jun5-2026",
-      "source": "ABC News (CENTCOM) / CNBC",
-      "first_seen": "2026-06-06T12:00:00+09:00",
-      "issue": "2026-06-06-1200"
-    },
-    {
-      "url_normalized": "coindesk.com/markets/2026/06/05/bitcoin-loses-usd60-000-falls-to-weakest-price-since-october-2024",
-      "title": "ビットコインが6万ドル割れ・2024年10月以来安値(5日朝約61,900ドル) — 週間▲20%・10月の12.6万ドル超ピークから約52%安、現物ETFが13日連続流出で過去最大44億ドル、最大の買い手ストラテジー(旧MicroStrategy)が売りに転換、約11億ドル清算",
-      "topic_key": "btc-below-60k-since-oct2024-etf-13day-44b-strategy-seller-jun5-2026",
-      "source": "CoinDesk / Yahoo Finance",
-      "first_seen": "2026-06-06T12:00:00+09:00",
-      "issue": "2026-06-06-1200"
-    },
-    {
-      "url_normalized": "investing.com/analysis/gold-holds-range-as-safehaven-flows-favor-the-us-dollar-over-bullion-200678815",
-      "title": "金が週間約4%安、5日に4,370ドル割れ場面(足元4,400〜4,460ドル) — 強い米雇用統計で長期金利上昇・ドル高が重し、ドルは週間で約2カ月ぶり大幅高、リスクオフでも金・ビットコインより『ドル』が選好される逆説",
-      "topic_key": "gold-weekly-4pct-down-dollar-haven-paradox-yields-up-jun5-2026",
-      "source": "CNBC / Investing.com",
-      "first_seen": "2026-06-06T12:00:00+09:00",
-      "issue": "2026-06-06-1200"
-    },
-    {
-      "url_normalized": "247wallst.com/investing/2026/06/04/wall-street-analyst-broadcoms-flat-ai-guidance-justified-the-selloff-but-nvidia-remains-best-in-class-chip-play/",
-      "title": "半導体株急落は『行き過ぎ』か論争 — KeyBancはAVGOをオーバーウエート維持、今回の売りは構造悪化でなく『期待値のリセット』で押し目買い好機、エヌビディアを『文句なしの最良銘柄』と評価、NVDAは急落途中で一時プラス転換も",
-      "topic_key": "chip-rout-overdone-debate-keybanc-avgo-ow-nvda-best-in-class-jun5-2026",
-      "source": "24/7 Wall St. / Yahoo Finance",
-      "first_seen": "2026-06-06T12:00:00+09:00",
-      "issue": "2026-06-06-1200"
-    },
-    {
-      "url_normalized": "diamond.jp/zai/articles/-/1068385",
-      "title": "来週(6/8〜6/12)の日経平均予想レンジは6万4,000〜6万9,000円 — 今週は週間約5%高(3日に取引時間中初の68,000円台→5日は882円安の66,588円)、AI・半導体の業績改善持続力を見極め、中小型株や高市政権『17の戦略分野』関連へ資金分散観測、ドル円160円・日銀6/16-17会合に注目",
-      "topic_key": "japan-week-ahead-nikkei-range-64000-69000-weekly-5pct-jun8-12-2026",
-      "source": "ダイヤモンドZai / 野村證券",
-      "first_seen": "2026-06-06T12:00:00+09:00",
-      "issue": "2026-06-06-1200"
-    },
-    {
-      "url_normalized": "cambridgecurrencies.com/euro-forecast/",
-      "title": "来週の注目イベント — 11日ECB理事会は0.25%利上げ(預金金利2.00%→2.25%)を約98%織り込み・イランショック後初の最新見通しとラガルド総裁の道筋が焦点(9月追加・年内3回目観測も)、7日OPECプラス会合は日量18.8万バレル増産路線の是非、米は重要指標少・中間選挙年6月の季節的軟調に留意",
-      "topic_key": "week-ahead-ecb-jun11-hike-225-projections-opec-jun7-jun6-2026",
-      "source": "Cambridge Currencies / CNBC",
-      "first_seen": "2026-06-06T12:00:00+09:00",
-      "issue": "2026-06-06-1200"
-    },
-    {
       "url_normalized": "pakistantoday.com.pk/2026/06/05/iaea-chief-says-us-iran-talks-close-to-nuclear-framework-agreement",
       "title": "IAEAグロッシ事務局長『米イラン交渉は核の枠組み合意にかなり接近』(5日) — 60日MOUは大筋合意もトランプ氏が修正要求、最大の隔たりは米国が求める『ウラン濃縮ゼロ』、査察立ち入りは依然限定的、ブレント94〜95ドル",
       "topic_key": "us-iran-nuclear-framework-close-grossi-zero-enrichment-jun5-2026",
@@ -383,6 +287,46 @@
       "source": "CNBC / CNBC",
       "first_seen": "2026-06-09T12:00:00+09:00",
       "issue": "2026-06-09-1200"
+    },
+    {
+      "url_normalized": "finance.yahoo.co.jp/news/detail/28525af224754e5c904d9a661c15dfa428ccfee0",
+      "title": "日経平均が4営業日ぶり反発、終値+1,392円03銭(+2.17%)の6万5,416円63銭 — 前日8日の2,563円安の急落の反動と前日の米ハイテク・半導体株高を受け、東エレク/アドバンテスト/SBGなど値がさ半導体・AI関連に買い戻し、中東沈静化でリスク回避和らぐも前週末来の下げは未回復、次の手掛かりは10日夜の米5月CPI",
+      "topic_key": "nikkei-close-jun9-65416-up217-chips-rebound-2026",
+      "source": "株探(Yahoo!ファイナンス) / Trading Economics",
+      "first_seen": "2026-06-09T22:00:00+09:00",
+      "issue": "2026-06-09-2200"
+    },
+    {
+      "url_normalized": "tradingkey.com/analysis/stocks/more/261954811-samsung-skhynix-dram-mu-kospi-tradingkey",
+      "title": "韓国KOSPIが終値で約8.3%高と急騰、前日8%超暴落をほぼ回復 — サムスン電子約+9%・SKハイニックス約+16%が牽引、イスラエル・イラン戦闘停止でリスク選好回復、エヌビディアのファンCEOがAI長期需要に揺るぎなし・足元の急落は買いの好機と発言、1日8%の振れ幅で相場の神経質さ露呈",
+      "topic_key": "kospi-close-jun9-up83-skhynix-16-huang-buy-dip-2026",
+      "source": "TradingKey / Trading Economics",
+      "first_seen": "2026-06-09T22:00:00+09:00",
+      "issue": "2026-06-09-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/euro-area/stock-market",
+      "title": "欧州株は小動き、ストックス600は+0.46%の624.07近辺 — 11日のECB理事会(預金金利2.00→2.25%への0.25%利上げを9割超織り込み)を前に様子見、ユーロ圏インフレ再加速が背景、ラガルド総裁会見とイラン・ショック後初のスタッフ見通しが焦点、利上げのECBと据え置きの米FRBが交錯し為替の方向感複雑",
+      "topic_key": "europe-stoxx600-jun9-ecb-jun11-preview-25bp-225-2026",
+      "source": "Trading Economics / CNBC",
+      "first_seen": "2026-06-09T22:00:00+09:00",
+      "issue": "2026-06-09-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil",
+      "title": "原油は一段安、ブレントが1バレル93ドル割れ・WTIは89ドル近辺 — 8日に一時98ドル超のあとイランの対イスラエル作戦終了表明とトランプ氏『新停戦近い』発言で供給途絶警戒が後退、世界最大の輸入国・中国の原油輸入が約8年ぶり低水準に落ち込み需要面でも重し、OPEC+は7月も日量18.8万バレル増産維持、ネタニヤフ氏は再攻撃あれば報復と警告",
+      "topic_key": "oil-lower-jun9-brent-below93-wti-89-china-imports-8yr-low-2026",
+      "source": "CNBC / Trading Economics",
+      "first_seen": "2026-06-09T22:00:00+09:00",
+      "issue": "2026-06-09-2200"
+    },
+    {
+      "url_normalized": "investing.com/analysis/bitcoin-falls-as-record-etf-outflows-and-strategy-sale-hit-sentiment-200681446",
+      "title": "金・ビットコインは上値重く — 金は1トロイオンス4,350ドル前後と3月下旬以来安値圏、米長期金利上昇とドル高(有事のドル買い)が利息を生まない金に逆風、ビットコインは6万2,000ドル割れで月間約14%安・6万ドルをうかがう、現物ビットコインETFが13営業日連続流出で約43億ドルと上場来最大規模、利下げ観測後退と利益確定売りでリスク資産から資金流出",
+      "topic_key": "gold-btc-soft-jun9-dollar-yields-etf-outflow-record-43b-2026",
+      "source": "Trading Economics / Investing.com",
+      "first_seen": "2026-06-09T22:00:00+09:00",
+      "issue": "2026-06-09-2200"
     }
   ]
 }

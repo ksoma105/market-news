@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "newsweekjapan.jp/articles/-/323692",
-      "title": "野村證券が日経平均の2026年末予想を60,000円→68,000円へ上方修正(2027末7.0万・2028末7.25万) — AI・半導体(除くSBG)の経常益が26年度に倍増見込み、TOPIX予想EPSを26年度225.2(+10.0%)へ引き上げ、中東停戦期待も織り込む、注目は電機・機械",
-      "topic_key": "nomura-nikkei-yearend-target-68000-ai-chips-eps-jun7-2026",
-      "source": "Newsweek日本版 (ロイター) / 野村證券",
-      "first_seen": "2026-06-07T12:00:00+09:00",
-      "issue": "2026-06-07-1200"
-    },
-    {
-      "url_normalized": "iranintl.com/en/202606055170",
-      "title": "米が6日に対イラン二次制裁を発動(個人10人・27社) — 6/2に新規制裁を一時停止した4日後、核交渉は60日MOUで歩み寄りも未妥結、凍結資産(推計120-240億ドル)の25%留保・ウラン濃縮権で隔たり、イランはオマーン仲介で対案方針、ブレント94-95ドル",
-      "topic_key": "us-secondary-sanctions-iran-jun6-frozen-assets-enrichment-deadlock-jun7-2026",
-      "source": "Iran International / CNBC",
-      "first_seen": "2026-06-07T12:00:00+09:00",
-      "issue": "2026-06-07-1200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-jun7-ministerial-today",
-      "title": "本日7日にOPECプラス閣僚級会合、7月生産目標を協議 — 5/3決定の日量18.8万バレル増産路線の維持・調整が焦点、先週ブレントは97ドル接近後94-95ドルへ反落、供給不安と需要鈍化の綱引きで当面90-100ドルレンジ見通し、結果は週明け相場の手掛かり",
-      "topic_key": "opec-plus-jun7-ministerial-today-output-188kbd-brent-94-95-jun7-2026",
-      "source": "CNBC / Al Jazeera",
-      "first_seen": "2026-06-07T12:00:00+09:00",
-      "issue": "2026-06-07-1200"
-    },
-    {
-      "url_normalized": "cryptobriefing.com/bitcoin-falls-below-64000-triggers-11b-in-liquidations/",
-      "title": "ビットコインが週末も6万1,500ドル前後で軟調 — 6万4,000ドル割れ局面で24時間に約11億ドルの強制決済、フィア&グリード指数は29(Fear)、現物ETF流出継続と米長期金利上昇が重し、年初来ピーク約12.6万ドルから調整長期化、リスクオフでもドル選好",
-      "topic_key": "btc-weekend-61500-fear-greed-29-liquidations-11b-etf-outflow-jun7-2026",
-      "source": "Crypto Briefing / Yahoo Finance",
-      "first_seen": "2026-06-07T12:00:00+09:00",
-      "issue": "2026-06-07-1200"
-    },
-    {
       "url_normalized": "opec.org/pr-detail/596-5-april-2026.html",
       "title": "本日7日にOPECプラス閣僚監視委員会(JMMC) — 焦点は増産より順守率、サウジは目標の約7割・3月のOPEC+産油量2,768万bdはクオータ3,673万bdを下回る、ブレント94〜95ドル",
       "topic_key": "opec-plus-jmmc-jun7-2026-compliance-saudi-70pct-brent-94-95",
@@ -367,6 +335,54 @@
       "source": "FXStreet / Trading Economics",
       "first_seen": "2026-06-10T12:00:00+09:00",
       "issue": "2026-06-10-1200"
+    },
+    {
+      "url_normalized": "timesofisrael.com/liveblog_entry/us-has-completed-retaliatory-strikes-against-iran-centcom-says",
+      "title": "米・イランが直接応酬 — 米軍ヘリ撃墜(9日夜オマーン沖)への報復で米中央軍がイラン領内約20カ所(ホルムズ周辺の防空・地上管制・監視レーダー)を攻撃、イラン革命防衛隊(IRGC)はバーレーンの米第5艦隊・クウェートのアリアルサレム基地に無人機/ヨルダンのアズラク基地に長距離ミサイルで報復、4月停戦は事実上崩壊、ホルムズ二重封鎖継続",
+      "topic_key": "us-iran-direct-exchange-centcom-20-targets-irgc-bases-jun10-2026",
+      "source": "The Times of Israel (CENTCOM) / Al Jazeera / NBC News",
+      "first_seen": "2026-06-10T22:00:00+09:00",
+      "issue": "2026-06-10-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/united-states/inflation-cpi",
+      "title": "米5月CPIが前年比+4.2%と2023年4月来約3年ぶり高水準(予想一致)・前月比+0.5%で3カ月連続加速 — エネルギー+23.5%(4月17.9%)・住居費3.4%・食品3.1%、一方コアは前月比+0.2%と予想0.3%を小幅下回る(前年比2.9%は予想通り・25年9月来高)、コア下振れで株先物は下げ渋るもS&P先物▲0.5%/ナスダック先物▲0.7%/ダウ先物▲257ドル、米長期金利はほぼ横ばい、年内利下げ織込ゼロ・6/16-17FOMCは据え置き見込み",
+      "topic_key": "us-may-cpi-result-42-core-soft-02-futures-resilient-jun10-2026",
+      "source": "Trading Economics / U.S. BLS / CNBC",
+      "first_seen": "2026-06-10T22:00:00+09:00",
+      "issue": "2026-06-10-2200"
+    },
+    {
+      "url_normalized": "finance.yahoo.co.jp/quote/998407.O-close-jun10",
+      "title": "東京市場が続落、日経平均は終値1,237.36円(1.9%)安の64,179.27円 — 取引時間中は一時1,600円超安で節目の64,000円割れ、前日9日の4営業日ぶり反発(65,416円)の反動と今夜の米CPI前の持ち高調整・中東緊迫が重し、半導体まちまち(アドバンテストに利益確定売り)、信用買い残約9兆円が下げ増幅リスク",
+      "topic_key": "nikkei-close-jun10-64179-down1237-cpi-eve-mideast-2026",
+      "source": "日本経済新聞 / Yahoo!ファイナンス",
+      "first_seen": "2026-06-10T22:00:00+09:00",
+      "issue": "2026-06-10-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil-jun10-rebound",
+      "title": "原油は地政学プレミアム復活で再上昇 — 9日にブレントが一時93ドル割れ(約7週ぶり安値、米エネルギー長官のホルムズ通航増加発言と攻撃停止の和平期待で)も、10日の米イラン直接軍事応酬で供給途絶警戒が蒸し返し切り返す、WTIは週初一時95ドル、ホルムズ二重封鎖継続・中国の在庫取り崩しが圧力弁、EIAは5月ブレント平均107ドル(4月比▲10ドル)",
+      "topic_key": "oil-geopolitical-premium-back-rebound-jun10-2026",
+      "source": "Trading Economics / U.S. EIA(STEO)",
+      "first_seen": "2026-06-10T22:00:00+09:00",
+      "issue": "2026-06-10-2200"
+    },
+    {
+      "url_normalized": "nikkei.com/markets/currencies-jun10-2200",
+      "title": "ドル円は160円台で介入警戒、有事のドル買いと内外金利差で円重い — 4/30介入直前安値160.70円が視野、片山財務相『必要なら行動・米当局と緊密連絡』、米CPIのコア下振れでドル上昇一服も方向感限定、あす11日ECBは0.25%利上げで預金金利2.25%を9割超織込(ラガルド会見で追加利上げ余地に注目)、15-16日日銀の追加利上げ織込8割弱・18日FOMC据え置き見込み",
+      "topic_key": "usdjpy-160-intervention-watch-ecb-jun11-hike-boj-fomc-jun10-2026",
+      "source": "日本経済新聞 / Trading Economics(ECB)",
+      "first_seen": "2026-06-10T22:00:00+09:00",
+      "issue": "2026-06-10-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/gold-jun10-2200",
+      "title": "金は1トロイオンス4,300ドル台で上値重い — 中東緊迫の安全資産需要も米10年債4.5%台の高金利とドル高が利息を生まない金に逆風、リスク回避マネーが金でなくドルへ向かう『有事のドル買い』で金も円も買われにくい逆説、米CPIのコア小幅下振れはわずかな支援、各国中銀の継続購入とFRB独立性懸念が中長期の下支え、年初最高値圏(5,500ドル超)から調整一巡なら再上昇余地も",
+      "topic_key": "gold-4300s-haven-paradox-dollar-yields-cpi-jun10-2026",
+      "source": "Trading Economics / Investing.com",
+      "first_seen": "2026-06-10T22:00:00+09:00",
+      "issue": "2026-06-10-2200"
     }
   ]
 }

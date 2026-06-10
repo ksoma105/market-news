@@ -327,6 +327,46 @@
       "source": "Investing.com / Trading Economics",
       "first_seen": "2026-06-10T06:00:00+09:00",
       "issue": "2026-06-10-0600"
+    },
+    {
+      "url_normalized": "fx.minkabu.jp/news/369692",
+      "title": "10日午前の東京市場は反落、前日まで3営業日で約5,300円戻した反動で利益確定売り優勢、半導体はまちまち(アドバンテスト売り/村田買い)、9日の米軍ヘリ撃墜・トランプ報復示唆で中東警戒継続 — ドル円は午前10時で160.38円近辺(前日夕比+19銭)、4/30介入直前安値160.70円が視野、『日本の円安阻止の熱量不足』との声で介入警戒一段と、今夜の米CPI待ち",
+      "topic_key": "tokyo-jun10-am-stocks-fall-profit-taking-usdjpy-16038-intervention-watch-2026",
+      "source": "みんかぶFX / 日本経済新聞",
+      "first_seen": "2026-06-10T12:00:00+09:00",
+      "issue": "2026-06-10-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/10/china-cpi-ppi-inflation-may-consumer-prices-producer-oil-iran-war-ai-tech-.html",
+      "title": "中国5月PPI(卸売物価)が前年比+3.9%と4月の+2.8%から加速・2022年7月以来約4年ぶり高水準で3カ月連続プラス — イラン紛争の原油/コモディティ高と当局の過剰能力削減が押し上げ、生産財+5.2%(鉱業+15.8%/原材料+9.2%)、一方CPIは力強さ欠き消費財▲0.8%(前月▲1.0%)・コア鈍化、生産者高進と消費弱含みのねじれ鮮明",
+      "topic_key": "china-may-ppi-39-4yr-high-iran-commodities-cpi-weak-divergence-jun10-2026",
+      "source": "CNBC / Investing.com",
+      "first_seen": "2026-06-10T12:00:00+09:00",
+      "issue": "2026-06-10-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/09/oil-prices-iran-war-strait-hormuz-trump-israel-lebanon.html",
+      "title": "原油はブレントが9日に前日比2.97%安の91.45ドルで引け — 米エネルギー長官『ホルムズの船舶通航は増加し今後も増え続ける』発言で供給途絶警戒が後退、イスラエル・イラン攻撃停止と和平期待も重し、それでもホルムズは米イラン二重封鎖で実質閉鎖継続、中国の在庫取り崩しが圧力弁、9日のヘリ撃墜とトランプ報復表明で再燃懸念くすぶる",
+      "topic_key": "oil-brent-9145-down297-energy-sec-hormuz-traffic-rising-jun10-2026",
+      "source": "CNBC / Trading Economics",
+      "first_seen": "2026-06-10T12:00:00+09:00",
+      "issue": "2026-06-10-1200"
+    },
+    {
+      "url_normalized": "kiplinger.com/investing/economy/cpi-report-may-2026-eve-preview",
+      "title": "今夜21:30(米8:30ET)発表の米5月CPIが今週最大の関門、ロイター調査予想は前年比4.2%(2023年4月来高)・前月比+0.5%、コア前年比2.9%/前月比0.3% — 4月3.8%から加速見込みでイラン紛争の原油高が波及、金利先物は年内利下げゼロ・年末利上げ確率を約30%に上げ、上振れなら『より高く長く』でドル高・変動拡大、中国PPIに続き世界的インフレ再加速を見極める節目、16-17日FOMCは据え置き見込み",
+      "topic_key": "us-cpi-may-jun10-eve-42-no-cuts-hike-30pct-global-inflation-2026",
+      "source": "Kiplinger / Trading Economics",
+      "first_seen": "2026-06-10T12:00:00+09:00",
+      "issue": "2026-06-10-1200"
+    },
+    {
+      "url_normalized": "fxstreet.com/analysis/ecb-preview-and-so-the-hiking-begins-202606040413",
+      "title": "あす11日のECB理事会は0.25%利上げで預金金利2.25%へ・市場は9割超(一部99%)織り込み、イラン紛争の資源高でユーロ圏インフレが4月に3%へ再加速したのが背景 — 焦点はラガルド総裁会見が今後の利上げ余地をどこまで残すか、9月追加利上げ確率は約50%、利上げのECB・見極めのFRB・追加利上げにらむ日銀の綱引きで為替の方向感複雑",
+      "topic_key": "ecb-jun11-hike-25bp-225-priced-lagarde-optionality-sept-50pct-2026",
+      "source": "FXStreet / Trading Economics",
+      "first_seen": "2026-06-10T12:00:00+09:00",
+      "issue": "2026-06-10-1200"
     }
   ]
 }

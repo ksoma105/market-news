@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "nippon.com/en/news/yjj2026060800756/",
-      "title": "日経平均は終値3.84%安の6万4,024円60銭(前週末比2,563円52銭安) — 前場一時3,100円超安・6万4,000円割れから後場は中東沈静化観測で下げ渋り、米半導体急落(SOX週間約10%安)波及でAI・半導体(東エレク/SBG/キオクシア)に利益確定売り、物色は金融・内需へ",
-      "topic_key": "nikkei-close-jun8-64024-down384-ai-chips-rout-2026",
-      "source": "Nippon.com / Trading Economics",
-      "first_seen": "2026-06-08T22:00:00+09:00",
-      "issue": "2026-06-08-2200"
-    },
-    {
-      "url_normalized": "247wallst.com/investing/2026/06/08/stock-market-live-june-8-2026-sp-500-spy-rebounds-with-chip-stocks/",
-      "title": "米株は週明け反発スタート、半導体に買い戻し — S&P500寄り後+0.75%、マーベルがS&P500採用(6/22・キャンベル等と入替、フレックスも)発表で一時+9%(+23.42ドル)、フアンCEO『将来1兆ドル企業』評、シティはS&P500年末目標を8,100へ上方修正、先週急落は『期待値リセット/ローテーション』との声",
-      "topic_key": "us-stocks-rebound-jun8-sp500-marvell-sp500-inclusion-citi-8100-2026",
-      "source": "24/7 Wall St. / CNBC",
-      "first_seen": "2026-06-08T22:00:00+09:00",
-      "issue": "2026-06-08-2200"
-    },
-    {
-      "url_normalized": "npr.org/2026/06/08/g-s1-126844/iran-war-updates",
-      "title": "イスラエルとイランが攻撃停止を表明 — トランプ氏がネタニヤフ首相に『合意成立が近い』と自制要請、停止直前にイスラエルがイラン南西部マフシャフル石油化学施設を空爆(4/8停戦後初のイラン国内エネルギー施設攻撃)、対ヒズボラ攻勢は継続・イランは再応戦警告、原油急騰でブレント一時97ドル台(+4%超)・一部100ドル台/WTI90ドル台前半",
-      "topic_key": "israel-iran-halt-attacks-jun8-trump-mahshahr-petrochemical-oil-2026",
-      "source": "NPR / Reuters (Investing.com)",
-      "first_seen": "2026-06-08T22:00:00+09:00",
-      "issue": "2026-06-08-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/united-states/government-bond-yield",
-      "title": "米10年債利回りが4.57%近辺と約2週間ぶり高水準 — 強い5月雇用統計(+17.2万人/予想約8.5万人・失業率4.3%)で年内(12月)追加利上げ確率が約5割→約7割に上昇、中東原油高もインフレ懸念に、6/16-17FOMCは新議長ウォーシュ氏の下で据え置き(3.50-3.75%)見込み、最大の関門は10日の5月CPI",
-      "topic_key": "us-10y-457-2week-high-cpi-jun10-fed-dec-hike-70-warsh-jun8-2026",
-      "source": "Trading Economics / CNBC",
-      "first_seen": "2026-06-08T22:00:00+09:00",
-      "issue": "2026-06-08-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/gold",
-      "title": "金は地政学リスク下でも上値重く1トロイオンス4,330ドル台 — 米長期金利上昇とドル高が利息を生まない金の逆風、リスク回避マネーが金でなく米ドルに向かう『有事のドル買い』で円も金も買われにくい逆説、今週の米CPI・ECB/日銀/英中銀会合が次の方向性を左右",
-      "topic_key": "gold-haven-paradox-dollar-jun8-4330-yields-up-2026",
-      "source": "Trading Economics / Investing.com",
-      "first_seen": "2026-06-08T22:00:00+09:00",
-      "issue": "2026-06-08-2200"
-    },
-    {
       "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-08-2026",
       "title": "米株は反発で引け、半導体に買い戻し — S&P500+0.30%の7,405.73/ナスダック+0.86%の25,929.66/ダウは小幅安▲0.16%の50,786.01、ハイテク回帰のローテーション、マーベルがS&P500組入れ(6/22)報道で約+10%(年初来約+270%)・『次のエヌビディア』論",
       "topic_key": "us-stocks-rebound-close-jun8-sp500-7405-nasdaq-marvell-sp500-2026",
@@ -407,6 +367,46 @@
       "source": "みんかぶFX / 日本経済新聞",
       "first_seen": "2026-06-11T22:00:00+09:00",
       "issue": "2026-06-11-2200"
+    },
+    {
+      "url_normalized": "npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
+      "title": "トランプ氏が対イラン追加攻撃の中止を表明、和平合意『近日署名』へ — 協議はイラン指導部最高レベルで承認済み、合意は60日停戦延長を柱にホルムズ海峡を通行料なしで再開・イランが機雷除去し原油自由売却・核交渉継続、早ければ今週末に欧州で署名の可能性(ファルス通信:テヘラン承認公算大)、UAE・イラン直接協議も、署名完了まで海上封鎖は全面維持",
+      "topic_key": "trump-cancel-strikes-iran-peace-deal-imminent-60day-hormuz-reopen-jun11-2026",
+      "source": "NPR / Wikipedia(2026 Iran war ceasefire)",
+      "first_seen": "2026-06-12T06:00:00+09:00",
+      "issue": "2026-06-12-0600"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026",
+      "title": "米株が急反発、対イラン攻撃中止と和平接近を好感 — ダウ+1.86%(約930ドル高)の5万0,848.75ドルで5万ドル台回復、S&P500+1.75%(7,400手前)、ナスダック+2.54%、業種はハイテク・資本財・素材が牽引/和平の原油安でエネルギー・生活必需品・不動産は下落、半導体に買い戻し、根強いインフレ指標で上値追いには慎重論も",
+      "topic_key": "us-stocks-rebound-jun11-dow-930-50848-nasdaq-254-iran-deal-hope-2026",
+      "source": "TheStreet / Trading Economics",
+      "first_seen": "2026-06-12T06:00:00+09:00",
+      "issue": "2026-06-12-0600"
+    },
+    {
+      "url_normalized": "bls.gov/news.release/ppi.nr0.htm",
+      "title": "米5月PPI(最終需要)は前月比+1.1%と予想+0.7%を大きく上回り、前年比+6.5%と2022年11月(+7.4%)以来約3年半ぶり高水準 — コアPPI前月比+0.4%(予想0.5%を小幅下回り)、上昇の約8割は最終需要財(+2.8%)・ガソリン卸売価格+23.4%が主因、サービス+0.3%、前日CPIに続く高インフレ確認で年内利下げほぼ織込まず12月利上げ観測維持、米10年債4.5%台、来週16-17日FOMCはウォーシュ新議長下で据え置き見込み、それでも株高は和平期待がインフレ警戒を上回ったため",
+      "topic_key": "us-may-ppi-result-11mom-65yoy-35yr-high-gasoline-234-core-04-jun11-2026",
+      "source": "U.S. BLS / CNBC",
+      "first_seen": "2026-06-12T06:00:00+09:00",
+      "issue": "2026-06-12-0600"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil-jun11-peace",
+      "title": "原油はブレントが1バレル92ドル前後へ下落、2026年高値から約2割安 — 米イランの新攻撃応酬警戒とホルムズ通航量増加観測が綱引き、和平合意成立なら海峡通航解放・原油輸送再開との期待で供給途絶プレミアム剥落、合意は早ければ今週末に欧州で署名の可能性(ファルス通信:テヘラン承認公算大)・UAE/イラン直接協議も、ただし署名完了まで海上封鎖維持で供給回復には時間との慎重論も根強い",
+      "topic_key": "oil-brent-92-down20pct-from-peak-peace-hope-hormuz-reopen-jun11-2026",
+      "source": "Trading Economics / CNBC",
+      "first_seen": "2026-06-12T06:00:00+09:00",
+      "issue": "2026-06-12-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/select/the-price-of-gold-today-june-11-2026/",
+      "title": "金は1トロイオンス4,080ドル台へ続落、2025年11月以来約7カ月ぶり安値(前日4,146ドルから低下) — 和平期待のリスク選好で逃避需要後退、米長期金利4.5%台高止まりとドル底堅さが利息を生まぬ金に逆風、投資家は強い米PPI・前日のECB利上げ・中東情勢転換を消化、有事のドル買いで金が買われにくい逆説継続、各国中銀の継続購入とFRB独立性懸念が中長期下支え、年初最高値5,500ドル超からの調整一巡なら再上昇余地も",
+      "topic_key": "gold-4080-7month-low-risk-on-dollar-yields-ppi-jun11-2026",
+      "source": "CNBC Select / Trading Economics",
+      "first_seen": "2026-06-12T06:00:00+09:00",
+      "issue": "2026-06-12-0600"
     }
   ]
 }

@@ -1,70 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "opec.org/41st-ministerial-meeting-jun7-2026",
-      "title": "OPECプラス第41回閣僚会合(ウィーン、UAE脱退後初)が日量18.8万バレル増の路線を再確認 — 増産・停止・修正の柔軟性を維持、サウジ実産油量はホルムズ混乱で約725万バレルに低下し割当1,029万を大幅下回る、ブレント94-95ドルで財政均衡108-111ドルを下回り財政圧迫",
-      "topic_key": "opec-41st-ministerial-jun7-reaffirm-188kbd-flexibility-saudi-fiscal-2026",
-      "source": "OPEC / The National / OilPrice",
-      "first_seen": "2026-06-08T06:00:00+09:00",
-      "issue": "2026-06-08-0600"
-    },
-    {
-      "url_normalized": "axios.com/2026/06/07/israel-strikes-lebanon-beirut-iran-response-trump",
-      "title": "イスラエルが米仲介停戦の数日後にベイルート南郊ダヒエを予告なく空爆(死者2・負傷11)、ヒズボラ指揮拠点狙い北部ロケットへの報復 — イランが同日複数回ミサイルで応酬しイスラエルが迎撃、停戦崩壊リスク、米軍はホルムズで無人機2機撃墜、パキスタンが米イラン交渉仲介",
-      "topic_key": "israel-strikes-beirut-iran-missile-barrage-ceasefire-risk-jun7-2026",
-      "source": "Axios / NBC News / The Times of Israel",
-      "first_seen": "2026-06-08T06:00:00+09:00",
-      "issue": "2026-06-08-0600"
-    },
-    {
-      "url_normalized": "gaitame.com/media/entry/2026/06/07/080000",
-      "title": "週明けの市場の最大の焦点は米CPI(10日)・PPI(11日) — 強い5月雇用統計(+17.2万人)で米10年債4.5%超・30年5%超、インフレ高止まりならドル円160円台定着試し・下振れなら159-158円へ調整、来週ECB(11日利上げ観測)/日銀(16日)/英中銀(18日)、日経予想レンジ6.4万-6.9万円",
-      "topic_key": "week-ahead-us-cpi-jun10-ppi-jun11-usdjpy-160-nikkei-range-jun8-2026",
-      "source": "外為どっとコム / ダイヤモンドZAi / Yahoo Finance",
-      "first_seen": "2026-06-08T06:00:00+09:00",
-      "issue": "2026-06-08-0600"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/japan/stock-market",
-      "title": "日経平均が前場一時3,100円超安で6万4,000円割れ — 前場6万3,963円(前週末比約2,624円安/▲3.9%)、米SOX1週間10%安・強い雇用統計の利上げ警戒でAI半導体総崩れ、ソフトバンクG一時▲11%/キオクシア一時▲12%、物色先は金融・内需",
-      "topic_key": "nikkei-plunge-jun8-am-3100yen-below64000-ai-chips-rout-2026",
-      "source": "Trading Economics / CNBC",
-      "first_seen": "2026-06-08T12:00:00+09:00",
-      "issue": "2026-06-08-1200"
-    },
-    {
-      "url_normalized": "digitaltoday.co.kr/en/view/61222/kospi-slumps-more-than-8percent-at-open-breaks-below-8000-on-semiconductor-shock",
-      "title": "韓国KOSPIが寄り付き直後に8%超急落しサーキットブレーカー発動(20分中断) — 前週末8,160.59から約685安の7,477前後(一時▲8.4%)、サムスン電子▲9.27%(29.85万ウォン)/SKハイニックス▲8.02%(190.4万ウォン)、海外勢メインボード3,421億ウォン売り越し",
-      "topic_key": "kospi-crash-jun8-circuit-breaker-samsung-skhynix-foreign-selling-2026",
-      "source": "Digital Today / Kaohoon International",
-      "first_seen": "2026-06-08T12:00:00+09:00",
-      "issue": "2026-06-08-1200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/08/oil-prices-today-us-iran-missile-middle-east-israel-opec.html",
-      "title": "イスラエルが8日にイラン西部・中部の軍事目標を空爆、停戦後初のイランミサイル着弾 — 停戦崩壊リスク再燃で原油続伸、ブレント(7月)96.05ドル(+3.18%)/WTI(8月)93.67ドル(+3.46%)、OPEC+は7月日量18.8万バレル増産合意(ホルムズ閉鎖後4度目)",
-      "topic_key": "israel-strikes-iran-mainland-jun8-oil-rally-brent-9605-2026",
-      "source": "CNBC / Trading Economics",
-      "first_seen": "2026-06-08T12:00:00+09:00",
-      "issue": "2026-06-08-1200"
-    },
-    {
-      "url_normalized": "nikkei.com/article/DGXZQOUB018TY0R00C26A6000000/",
-      "title": "ドル円は8日も160円近辺、リスクオフでも有事のドル買いで円安・介入警戒継続 — 政府日銀の累計11兆円超の円買い介入後も介入前水準に逆戻り、『介入警戒が短期筋の円売り誘発』との見方、今週ECB(11日)/日銀(16-17日)/英BOE(18日)",
-      "topic_key": "usdjpy-160-jun8-risk-off-yen-weak-intervention-watch-2026",
-      "source": "日本経済新聞 / 野村證券",
-      "first_seen": "2026-06-08T12:00:00+09:00",
-      "issue": "2026-06-08-1200"
-    },
-    {
-      "url_normalized": "schwab.com/learn/story/stock-market-update-open-jun8",
-      "title": "米株先物も軟調、今週最大の試金石は10日CPI・11日PPI — ダウ先物5万1,665ドル寄りから5万0,936ドル近辺へ、強い雇用統計で米10年債4.5%超/30年5%超、金は米金利・ドル高で地政学リスク下でも上値重い",
-      "topic_key": "us-futures-soft-jun8-cpi-jun10-ppi-jun11-gold-capped-2026",
-      "source": "Charles Schwab / Investing.com",
-      "first_seen": "2026-06-08T12:00:00+09:00",
-      "issue": "2026-06-08-1200"
-    },
-    {
       "url_normalized": "nippon.com/en/news/yjj2026060800756/",
       "title": "日経平均は終値3.84%安の6万4,024円60銭(前週末比2,563円52銭安) — 前場一時3,100円超安・6万4,000円割れから後場は中東沈静化観測で下げ渋り、米半導体急落(SOX週間約10%安)波及でAI・半導体(東エレク/SBG/キオクシア)に利益確定売り、物色は金融・内需へ",
       "topic_key": "nikkei-close-jun8-64024-down384-ai-chips-rout-2026",
@@ -431,6 +367,46 @@
       "source": "U.S. EIA(STEO) / Wikipedia(2026 Strait of Hormuz crisis)",
       "first_seen": "2026-06-11T12:00:00+09:00",
       "issue": "2026-06-11-1200"
+    },
+    {
+      "url_normalized": "ecb.europa.eu/mp-decision-jun11-2026",
+      "title": "ECBが約3年ぶり利上げで預金ファシリティ金利を2.00→2.25%へ(0.25%、2023年以来初)、ユーロ圏5月インフレ3.2%でターゲット2%超え、ラガルド総裁は全選択肢維持で夏場の追加利上げ余地温存",
+      "topic_key": "ecb-hike-25bp-225-jun11-result-lagarde-optionality-2026",
+      "source": "ECB / FXStreet",
+      "first_seen": "2026-06-11T22:00:00+09:00",
+      "issue": "2026-06-11-2200"
+    },
+    {
+      "url_normalized": "aljazeera.com/us-bombs-iran-tehran-closes-hormuz-jun11-2026",
+      "title": "米・イラン応酬が2日連続激化、米軍空爆にイランがバーレーン・クウェート・ヨルダンの米基地攻撃を主張・ホルムズで2隻攻撃、IRGCが海峡を追って通知あるまで全面閉鎖と再宣言(原油船95%・LNG船99%減)、後半に米が攻撃完了発表で和平期待",
+      "topic_key": "us-iran-2day-escalation-irgc-hormuz-full-closure-jun11-2026",
+      "source": "Al Jazeera / Wikipedia",
+      "first_seen": "2026-06-11T22:00:00+09:00",
+      "issue": "2026-06-11-2200"
+    },
+    {
+      "url_normalized": "kabutan.jp/n202606111132",
+      "title": "東京株は11日小反発で引け、日経平均終値+38.00円(+0.06%)の6万4,217円27銭(3営業日ぶり反発) — 前場一時260円超安も午後に主力株へ買い戻し、前日10日の1,200円超急落の反動と日銀会合前の持ち高調整が交錯",
+      "topic_key": "nikkei-close-jun11-rebound-64217-38up-2026",
+      "source": "株探 / 日本経済新聞",
+      "first_seen": "2026-06-11T22:00:00+09:00",
+      "issue": "2026-06-11-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/brent-jun11-2026",
+      "title": "原油は和平観測で乱高下、ブレントが米・イラン応酬激化で一時95ドル接近後、米軍の対イラン攻撃完了発表で90ドル割れへ反落 — ホルムズ封鎖継続もペルシャ湾搬出再開観測と中国需要鈍化が綱引き",
+      "topic_key": "brent-volatile-jun11-95-to-sub90-peace-hopes-2026",
+      "source": "Trading Economics / EIA",
+      "first_seen": "2026-06-11T22:00:00+09:00",
+      "issue": "2026-06-11-2200"
+    },
+    {
+      "url_normalized": "fx.minkabu.jp/news/369887",
+      "title": "ドル円は11日も160円台で介入警戒継続(4/30介入直前以来高値圏)、10日線が160円手前に位置、政府日銀の累計約11.7兆円介入も有事のドル買いで効果帳消し、来週15-16日日銀の1.0%利上げ観測8-9割が綱引きの軸",
+      "topic_key": "usdjpy-160-jun11-intervention-117tn-boj-hike-watch-2026",
+      "source": "みんかぶFX / 日本経済新聞",
+      "first_seen": "2026-06-11T22:00:00+09:00",
+      "issue": "2026-06-11-2200"
     }
   ]
 }

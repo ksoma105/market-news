@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "finance.yahoo.co.jp/news/detail/28525af224754e5c904d9a661c15dfa428ccfee0",
-      "title": "日経平均が4営業日ぶり反発、終値+1,392円03銭(+2.17%)の6万5,416円63銭 — 前日8日の2,563円安の急落の反動と前日の米ハイテク・半導体株高を受け、東エレク/アドバンテスト/SBGなど値がさ半導体・AI関連に買い戻し、中東沈静化でリスク回避和らぐも前週末来の下げは未回復、次の手掛かりは10日夜の米5月CPI",
-      "topic_key": "nikkei-close-jun9-65416-up217-chips-rebound-2026",
-      "source": "株探(Yahoo!ファイナンス) / Trading Economics",
-      "first_seen": "2026-06-09T22:00:00+09:00",
-      "issue": "2026-06-09-2200"
-    },
-    {
-      "url_normalized": "tradingkey.com/analysis/stocks/more/261954811-samsung-skhynix-dram-mu-kospi-tradingkey",
-      "title": "韓国KOSPIが終値で約8.3%高と急騰、前日8%超暴落をほぼ回復 — サムスン電子約+9%・SKハイニックス約+16%が牽引、イスラエル・イラン戦闘停止でリスク選好回復、エヌビディアのファンCEOがAI長期需要に揺るぎなし・足元の急落は買いの好機と発言、1日8%の振れ幅で相場の神経質さ露呈",
-      "topic_key": "kospi-close-jun9-up83-skhynix-16-huang-buy-dip-2026",
-      "source": "TradingKey / Trading Economics",
-      "first_seen": "2026-06-09T22:00:00+09:00",
-      "issue": "2026-06-09-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/euro-area/stock-market",
-      "title": "欧州株は小動き、ストックス600は+0.46%の624.07近辺 — 11日のECB理事会(預金金利2.00→2.25%への0.25%利上げを9割超織り込み)を前に様子見、ユーロ圏インフレ再加速が背景、ラガルド総裁会見とイラン・ショック後初のスタッフ見通しが焦点、利上げのECBと据え置きの米FRBが交錯し為替の方向感複雑",
-      "topic_key": "europe-stoxx600-jun9-ecb-jun11-preview-25bp-225-2026",
-      "source": "Trading Economics / CNBC",
-      "first_seen": "2026-06-09T22:00:00+09:00",
-      "issue": "2026-06-09-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil",
-      "title": "原油は一段安、ブレントが1バレル93ドル割れ・WTIは89ドル近辺 — 8日に一時98ドル超のあとイランの対イスラエル作戦終了表明とトランプ氏『新停戦近い』発言で供給途絶警戒が後退、世界最大の輸入国・中国の原油輸入が約8年ぶり低水準に落ち込み需要面でも重し、OPEC+は7月も日量18.8万バレル増産維持、ネタニヤフ氏は再攻撃あれば報復と警告",
-      "topic_key": "oil-lower-jun9-brent-below93-wti-89-china-imports-8yr-low-2026",
-      "source": "CNBC / Trading Economics",
-      "first_seen": "2026-06-09T22:00:00+09:00",
-      "issue": "2026-06-09-2200"
-    },
-    {
-      "url_normalized": "investing.com/analysis/bitcoin-falls-as-record-etf-outflows-and-strategy-sale-hit-sentiment-200681446",
-      "title": "金・ビットコインは上値重く — 金は1トロイオンス4,350ドル前後と3月下旬以来安値圏、米長期金利上昇とドル高(有事のドル買い)が利息を生まない金に逆風、ビットコインは6万2,000ドル割れで月間約14%安・6万ドルをうかがう、現物ビットコインETFが13営業日連続流出で約43億ドルと上場来最大規模、利下げ観測後退と利益確定売りでリスク資産から資金流出",
-      "topic_key": "gold-btc-soft-jun9-dollar-yields-etf-outflow-record-43b-2026",
-      "source": "Trading Economics / Investing.com",
-      "first_seen": "2026-06-09T22:00:00+09:00",
-      "issue": "2026-06-09-2200"
-    },
-    {
       "url_normalized": "npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond",
       "title": "トランプ氏がイランによる米陸軍アパッチ攻撃ヘリ撃墜(ホルムズ近くオマーン沖)を確認し『報復は不可避』と表明 — 無人機被弾で墜落・乗員2名は約2時間後に救助され容体安定、意図性は調査中、米部隊への直接攻撃で4月以来の停戦が動揺、一方トランプ氏は『2-3日で合意の可能性・ホルムズ即時再開』とも、イラン議会議長は『別の言葉はより流暢』と応戦示唆",
       "topic_key": "trump-iran-shot-down-us-apache-helicopter-must-respond-hormuz-jun9-2026",
@@ -367,6 +327,46 @@
       "source": "Trading Economics / GoldSilver",
       "first_seen": "2026-06-12T22:00:00+09:00",
       "issue": "2026-06-12-2200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+      "title": "スペースXがナスダックでデビュー、公開価格135ドルに対し初値150ドル・終値は約19%高の161ドル前後 — 取引開始直後に一時20%超高、日中150〜176ドルの荒い値動き、この水準の時価総額は約1.9兆ドルで上場初日にしてテスラ超え、需要が供給株数の4倍超で個人は注文殺到・証券システム混雑、史上最大IPOが好発進、来週以降の値固まりが焦点",
+      "topic_key": "spacex-spcx-debut-close-161-up19-tesla-jun12-2026",
+      "source": "CNBC / TradingView",
+      "first_seen": "2026-06-13T06:00:00+09:00",
+      "issue": "2026-06-13-0600"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-12-2026-close",
+      "title": "米株3指数そろって上昇で引け、ダウ+353.51ドル(+0.7%)の5万1,202.26/S&P500+0.5%の7,431.46/ナスダック+0.31%の2万5,888.84 — スペースX上場初日急騰と米イラン和平接近期待が追い風、週間では5月CPI+4.2%・PPI+6.5%の高インフレ確認で16-17日FOMCは据え置き見込み・年内利下げ観測後退、インフレ警戒と和平原油安の綱引き",
+      "topic_key": "us-stocks-close-jun12-dow-51202-sp-7431-nasdaq-spacex-2026",
+      "source": "TheStreet / CNBC",
+      "first_seen": "2026-06-13T06:00:00+09:00",
+      "issue": "2026-06-13-0600"
+    },
+    {
+      "url_normalized": "cnn.com/2026/06/12/economy/us-consumer-sentiment-inflation-june",
+      "title": "米ミシガン大消費者態度指数6月速報48.9と過去最低の5月44.8から約9%改善・3カ月ぶり上昇 — 2月以降のイラン戦争エネルギー高の重しが和らぎガソリン安で家計心理回復、改善は年齢・学歴・支持政党問わず幅広く低所得層で顕著、ただし1月比13%・前年比約20%低い歴史的低水準、予想インフレ率は1年先4.6%/5-10年先3.4%と高止まり、確報は26日",
+      "topic_key": "us-michigan-sentiment-jun-prelim-489-3month-rise-gas-2026",
+      "source": "CNN Business / FXStreet",
+      "first_seen": "2026-06-13T06:00:00+09:00",
+      "issue": "2026-06-13-0600"
+    },
+    {
+      "url_normalized": "rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
+      "title": "米イラン和平は最終局面も未決着、政権高官『大枠・詳細とも一致するが署名まで合意は成立せず・到達度は約75%』、別高官は数日内署名の確率80%、仲介のパキスタン・シャリフ首相『最終文書に到達』 — 合意はホルムズ再開放・米海上封鎖解除・イラン核計画解体と濃縮ウラン搬出が柱、一方12日早朝に米軍がホルムズ付近でイラン無人機2機撃墜(通航船への発砲受け)、イラン外務省は『最終決定なお至らず』と慎重",
+      "topic_key": "us-iran-deal-75-80pct-pakistan-final-text-2drones-jun12-2026",
+      "source": "RFE/RL / CNBC",
+      "first_seen": "2026-06-13T06:00:00+09:00",
+      "issue": "2026-06-13-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
+      "title": "原油続落、WTI▲3.2%の1バレル84.88ドル・ブレント▲3.4%の87.33ドル — イランの和平前向き姿勢でホルムズ通航再開期待強まり地政学プレミアム剥落、2026年高値から2割超の調整、署名完了まで海上封鎖維持で輸送正常化に時間との慎重論も、金は1トロイオンス4,210ドル前後で小動き(和平リスク選好が安全資産需要抑える半面5月PPI+6.5%の高インフレ警戒が下値支え)、来週FOMC・日銀控え神経質",
+      "topic_key": "oil-wti-8488-brent-8733-peace-gold-4210-jun12-2026",
+      "source": "CNBC / Trading Economics",
+      "first_seen": "2026-06-13T06:00:00+09:00",
+      "issue": "2026-06-13-0600"
     }
   ]
 }

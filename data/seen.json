@@ -1,86 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-08-2026",
-      "title": "米株は反発で引け、半導体に買い戻し — S&P500+0.30%の7,405.73/ナスダック+0.86%の25,929.66/ダウは小幅安▲0.16%の50,786.01、ハイテク回帰のローテーション、マーベルがS&P500組入れ(6/22)報道で約+10%(年初来約+270%)・『次のエヌビディア』論",
-      "topic_key": "us-stocks-rebound-close-jun8-sp500-7405-nasdaq-marvell-sp500-2026",
-      "source": "TheStreet / CNBC",
-      "first_seen": "2026-06-09T06:00:00+09:00",
-      "issue": "2026-06-09-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/08/oil-prices-today-us-iran-missile-middle-east-israel-opec-ease.html",
-      "title": "原油は急騰後に反落して引け — イランが対イスラエル軍事作戦の終了を表明、ブレント一時+4.9%の97.67ドルから終値+1.25%の94.25ドル/WTI+0.84%の91.30ドル、トランプ氏『新停戦が近い』、中国の輸入急減(2月日量1,170万→6月600万バレル台・在庫約10億バレル取り崩し)が100ドル割れを下支え",
-      "topic_key": "oil-retreat-close-jun8-iran-operations-over-china-cushion-9425-2026",
-      "source": "CNBC / CNBC",
-      "first_seen": "2026-06-09T06:00:00+09:00",
-      "issue": "2026-06-09-0600"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/euro-area/interest-rate-ecb-jun11-preview",
-      "title": "11日ECB理事会は25bp利上げで2.25%へ織り込み約9割(一部99%) — ユーロ圏4月インフレ3%(エネルギー高)が背景、9月に2回目・年末3回目も視野、イラン・ショック後初のスタッフ見通しに注目、エネルギー反落なら据え置き観測再燃も",
-      "topic_key": "ecb-jun11-preview-25bp-hike-225-staff-projections-2026",
-      "source": "Trading Economics / European Central Bank",
-      "first_seen": "2026-06-09T06:00:00+09:00",
-      "issue": "2026-06-09-0600"
-    },
-    {
-      "url_normalized": "newsonjapan.com/article/149566.php",
-      "title": "日本1-3月期実質GDP改定値は年率+1.8%へ下方修正 — 速報から下振れ、主因は設備投資(ソフトウエア・生産用機械)の弱さ、一方4月経常黒字は前年比+64.9%の3兆9,078億円で15カ月連続黒字(第一次所得収支が牽引)、16-17日日銀会合を控える",
-      "topic_key": "japan-q1-gdp-revised-down-18-capex-weak-current-account-apr-jun9-2026",
-      "source": "News On Japan / Trading Economics",
-      "first_seen": "2026-06-09T06:00:00+09:00",
-      "issue": "2026-06-09-0600"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/united-states/government-bond-yield-cpi-jun10-preview",
-      "title": "米10年債は4.5%台で高止まり、最大の関門は10日の5月CPI — 4月CPI3.8%(2023年5月来)・コア2.8%、原油高がインフレ高止まり観測を後押し、上振れなら12月利上げ確率(約7割)強化でドル高・金利高・株安再燃も、6/16-17FOMCはウォーシュ新議長下で据え置き見込み(3.50-3.75%)",
-      "topic_key": "us-10y-elevated-cpi-jun10-gate-fed-dec-hike-warsh-jun9-2026",
-      "source": "Trading Economics / CNBC",
-      "first_seen": "2026-06-09T06:00:00+09:00",
-      "issue": "2026-06-09-0600"
-    },
-    {
-      "url_normalized": "finance.yahoo.co.jp/news/detail/aed248ecebaa0b323363907a71e144931bbfa29d",
-      "title": "日経平均が9日午前に反発、一時1,000円超高 — 前日(8日)終値3.84%安・6万4,024円の急落の反動と米ハイテク株反発を受けAI・半導体に買い戻し、10時43分時点で前日比490円高の6万4,514円、SBG・アドバンテスト・東エレクの値がさ株が指数押し上げ、上昇は一部値がさ株主導で裾野は限定的",
-      "topic_key": "nikkei-rebound-jun9-am-up1000-ai-chips-buyback-64514-2026",
-      "source": "ロイター(Yahoo!ファイナンス) / Trading Economics",
-      "first_seen": "2026-06-09T12:00:00+09:00",
-      "issue": "2026-06-09-1200"
-    },
-    {
-      "url_normalized": "en.bloomingbit.io/feed/news/113837",
-      "title": "韓国KOSPIが9日寄り付き直後に約4%高で買いサイドカー発動 — 前日8日の8.29%安(サーキットブレーカー発動)の約半値戻し、サムスン電子+4.57%で30万ウォン回復・SKハイニックス+6.91%で200万ウォン回復、個人が約4,713億ウォン買い越しで主導、前日急落はAI半導体需要懸念とFed利上げ観測",
-      "topic_key": "kospi-rebound-jun9-sidecar-samsung-457-skhynix-691-retail-buying-2026",
-      "source": "Bloomingbit / CNBC",
-      "first_seen": "2026-06-09T12:00:00+09:00",
-      "issue": "2026-06-09-1200"
-    },
-    {
-      "url_normalized": "gaitame.com/media/entry/2026/06/09/074227",
-      "title": "ドル円は9日午前159.60-160.70円で攻防、介入催促相場の様相 — 前日は中東有事のドル買いで4/30以来の160.39円まで上昇も政府日銀の円買い介入警戒で159.80円台へ反落、4/30高値160.73円を意識、累計11兆円超介入後も介入前水準に逆戻り『介入警戒が短期勢の円売り誘発』、16-17日日銀会合の追加利上げ観測",
-      "topic_key": "usdjpy-jun9-near160-intervention-call-market-boj-jun16-2026",
-      "source": "外為どっとコム / 日本経済新聞",
-      "first_seen": "2026-06-09T12:00:00+09:00",
-      "issue": "2026-06-09-1200"
-    },
-    {
-      "url_normalized": "clevelandfed.org/indicators-and-data/inflation-nowcasting-cpi-jun10-2026",
-      "title": "10日21:30(米8:30ET)発表の米5月CPIが今週最大の関門 — 4月CPI3.8%(2023年5月来高)・コア2.8%、クリーブランド連銀ナウキャストは6月CPIを4.05%近辺と一段の上振れ示唆、原油高の波及が焦点、フィラデルフィア連銀SPFは10-12月CPI見通しを3.5%へ上方修正、上振れなら12月利上げ確率(約7割)強化、6/16-17FOMCはウォーシュ新議長下で据え置き(3.50-3.75%)見込み",
-      "topic_key": "us-cpi-jun10-preview-nowcast-405-core-28-fed-dec-hike-jun9-2026",
-      "source": "Trading Economics / Cleveland Fed",
-      "first_seen": "2026-06-09T12:00:00+09:00",
-      "issue": "2026-06-09-1200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/08/china-oil-iran-war-us-israel-energy-prices-strait-hormuz.html",
-      "title": "原油は中東小康で反落、紛争100日目も200ドル懸念は不発 — ブレントは8日一時+4.9%の97.67ドルからイランの作戦終了表明で94ドル台へ反落、2/28開戦以来供給は約14%減、見通し分岐(JPモルガンは6月ホルムズ再開で年内ブレント約100ドル/フィッチは7月末再開なら9月以降平均70ドルへ急落)、中国が輸入を2月日量1,170万→5月末900万バレル弱へ削減し圧力弁に",
-      "topic_key": "oil-retreat-jun9-conflict-100days-jpm-100-fitch-70-china-cushion-2026",
-      "source": "CNBC / CNBC",
-      "first_seen": "2026-06-09T12:00:00+09:00",
-      "issue": "2026-06-09-1200"
-    },
-    {
       "url_normalized": "finance.yahoo.co.jp/news/detail/28525af224754e5c904d9a661c15dfa428ccfee0",
       "title": "日経平均が4営業日ぶり反発、終値+1,392円03銭(+2.17%)の6万5,416円63銭 — 前日8日の2,563円安の急落の反動と前日の米ハイテク・半導体株高を受け、東エレク/アドバンテスト/SBGなど値がさ半導体・AI関連に買い戻し、中東沈静化でリスク回避和らぐも前週末来の下げは未回復、次の手掛かりは10日夜の米5月CPI",
       "topic_key": "nikkei-close-jun9-65416-up217-chips-rebound-2026",
@@ -407,6 +327,46 @@
       "source": "CNBC Select / Trading Economics",
       "first_seen": "2026-06-12T06:00:00+09:00",
       "issue": "2026-06-12-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
+      "title": "スペースXが史上最大IPO、ナスダックにSPCXで上場 — 公開価格1株135ドル(固定)・クラスA株5億5,556万株売出しで調達約750億ドル、時価総額約1.78兆ドルと米国最大だったアリババ(2014年)の3倍超、需要は約3.3倍に膨らみ初値急騰観測も、資金は次世代ロケット・衛星通信網拡張へ、米株先物は和平期待と本IPOを前にほぼ横ばい",
+      "topic_key": "spacex-ipo-debut-spcx-135-178tn-largest-ever-jun12-2026",
+      "source": "CNBC / Fast Company",
+      "first_seen": "2026-06-12T22:00:00+09:00",
+      "issue": "2026-06-12-2200"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-12-2026",
+      "title": "米イラン和平は早ければ15日(日曜)にも欧州で署名の観測 — イラン国営メディア報道の草案に『米国が対イラン石油制裁を解除』『イランが30日以内にホルムズ海峡を再開放』を明記、60日停戦延長と核包括協議の枠組みも、テヘラン承認の公算大、ただし署名完了まで海上封鎖維持で機雷除去・通航再開には時間との慎重論",
+      "topic_key": "us-iran-deal-sunday-signing-sanctions-lift-hormuz-30day-jun12-2026",
+      "source": "TheStreet / The Hill",
+      "first_seen": "2026-06-12T22:00:00+09:00",
+      "issue": "2026-06-12-2200"
+    },
+    {
+      "url_normalized": "nikkei.com/marketdata/quote/NK225/jun12-2026",
+      "title": "日経平均が大幅続伸、終値+1,802円77銭(+2.81%)の6万6,020円04銭で6万6,000円台回復 — 前場一時2,200円超高、米イラン和平接近観測でリスク回避和らぎ長期金利低下も追い風、値がさ半導体・ハイテクが牽引、為替はNY時間に一時159円台前半へ円高後に円売り一巡しドル円160円台前半へ、累計約11.7兆円介入もなお円安根強く16-17日日銀会合の利上げ有無が焦点",
+      "topic_key": "nikkei-close-jun12-66020-up281-yen-160-boj-watch-2026",
+      "source": "日本経済新聞 / みんかぶFX",
+      "first_seen": "2026-06-12T22:00:00+09:00",
+      "issue": "2026-06-12-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil-jun12-2026",
+      "title": "原油は一段安、北海ブレントが1バレル87.43ドルへ前日比約3.3%下落し約2カ月ぶり安値 — トランプ氏『合意は今週末にも欧州で署名され得る』発言でホルムズ通航再開・供給回復期待強まり供給途絶プレミアム急速剥落、2026年高値から2割超の調整、中国の原油輸入鈍化も下押し、署名完了まで海上封鎖継続で輸送再開には時間との指摘も",
+      "topic_key": "brent-8743-2month-low-weekend-signing-hope-jun12-2026",
+      "source": "Trading Economics / CNBC",
+      "first_seen": "2026-06-12T22:00:00+09:00",
+      "issue": "2026-06-12-2200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/gold-jun12-2026",
+      "title": "金は1トロイオンス4,210ドル前後へ反発し前日からの上昇分を概ね維持 — 和平接近のリスク選好と根強い米インフレ・追加利上げ警戒が綱引き、米長期金利4.5%台高止まり・ドル底堅さが重荷も各国中銀の継続購入が下支え、WGCによれば1-3月期の世界金需要は店頭含め1,231トンで同期間として過去最高、来週FOMC・日銀会合控え神経質な値動き",
+      "topic_key": "gold-4210-rebound-cb-demand-record-q1-jun12-2026",
+      "source": "Trading Economics / GoldSilver",
+      "first_seen": "2026-06-12T22:00:00+09:00",
+      "issue": "2026-06-12-2200"
     }
   ]
 }

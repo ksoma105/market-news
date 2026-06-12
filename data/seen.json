@@ -407,6 +407,46 @@
       "source": "CNBC Select / Trading Economics",
       "first_seen": "2026-06-12T06:00:00+09:00",
       "issue": "2026-06-12-0600"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/japan/stock-market-jun12-rally",
+      "title": "日経平均が前日比約4%高と急反発、6万6,700円前後へ — 米イラン和平の週末署名観測と原油安でリスク選好回復、半導体・AIが牽引(東エレ+10%/アドバンテスト+8.7%/太陽誘電+13%/キオクシア+6%/ソフトバンクG+3.4%)、メジャーSQ日",
+      "topic_key": "tokyo-stocks-rally-jun12-nikkei-66700-iran-peace-oil-down-chips-lead-2026",
+      "source": "Trading Economics / CNBC",
+      "first_seen": "2026-06-12T12:00:00+09:00",
+      "issue": "2026-06-12-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
+      "title": "スペースXがナスダックに史上最大IPOで上場(ティッカーSPCX) — 公開価格1株135ドル・発行5億5,560万株で調達約750億ドル(史上最大)・時価総額約1.77兆ドル、注文1,500億ドルで2倍超、マスク議決権82%超維持、評価は割れる(モーニングスター約7,800億ドル/ARK最大3.1兆ドル)",
+      "topic_key": "spacex-ipo-nasdaq-jun12-record-75bn-135usd-177trn-musk-2026",
+      "source": "CNBC / CNBC(Morningstar)",
+      "first_seen": "2026-06-12T12:00:00+09:00",
+      "issue": "2026-06-12-1200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/japan/interest-rate-boj-jun15-16-preview",
+      "title": "来週15-16日の日銀会合プレビュー — 0.75→1.0%へ25bp利上げ観測が8-9割超、1%は1995年以来約30年ぶり、植田総裁ほかタカ派発信、年末1.25%予想が中心、決定は16日午後公表",
+      "topic_key": "boj-jun15-16-preview-hike-to-1pct-first-since-1995-2026",
+      "source": "Trading Economics / Bank of Japan",
+      "first_seen": "2026-06-12T12:00:00+09:00",
+      "issue": "2026-06-12-1200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/gold-jun12-rebound",
+      "title": "金は1トロイオンス4,150ドル前後へ反発(前日3%超上昇) — 直近は4,080ドル台の約7カ月ぶり安値まで売られたが下げ止まり、和平接近の原油安で利上げ警戒後退が下支え、米10年債4.5%台とドル高は重し",
+      "topic_key": "gold-rebound-jun12-4150-rate-hike-fears-ease-2026",
+      "source": "Trading Economics / CNBC",
+      "first_seen": "2026-06-12T12:00:00+09:00",
+      "issue": "2026-06-12-1200"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil-jun12-peace-watch",
+      "title": "原油はブレント92ドル前後で一進一退 — トランプ氏が和平合意は早ければ今週末に欧州で署名と表明、ホルムズ通航再開(機雷除去・通行料なし)期待で2026年高値から約2割安、ただし署名完了まで海上封鎖維持で慎重論、週末署名の可否が来週最大の焦点",
+      "topic_key": "oil-brent-92-jun12-iran-peace-weekend-signing-hormuz-reopen-watch-2026",
+      "source": "Trading Economics / Wikipedia",
+      "first_seen": "2026-06-12T12:00:00+09:00",
+      "issue": "2026-06-12-1200"
     }
   ]
 }

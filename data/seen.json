@@ -391,6 +391,38 @@
       "source": "CNBC / Oxford Economics",
       "first_seen": "2026-06-13T12:00:00+09:00",
       "issue": "2026-06-13-1200"
+    },
+    {
+      "url_normalized": "finance.yahoo.com/economy/policy/articles/us-iran-edge-toward-interim-145946261.html",
+      "title": "G7サミットが15〜17日にフランス・エビアンで開幕、米イラン和平の覚書(MOU)署名の舞台になるとの観測 — 政権高官は合意確率を「8〜8割5分」と表明、MOUにホルムズ海峡全面再開・イラン産原油の港湾封鎖解除を明記、ただし署名の時期・場所は未定、経済議題はマクロ不均衡(中国の過剰生産・米国の過剰消費・欧州の過少投資)是正とエネルギー安全保障・重要鉱物・サプライチェーン多様化",
+      "topic_key": "g7-evian-summit-jun15-17-iran-deal-signing-venue-macro-imbalance-2026",
+      "source": "Yahoo Finance / Bloomberg / CFR",
+      "first_seen": "2026-06-13T22:00:00+09:00",
+      "issue": "2026-06-13-2200"
+    },
+    {
+      "url_normalized": "investing.com/news/economy-news/bank-of-japan-set-to-hike-rates-to-31year-high-drop-hawkish-signals-4738716",
+      "title": "日銀が16日に政策金利を0.75→1.0%へ利上げ、1995年以来31年ぶり高水準の観測 — 中東発エネルギー高・円安の輸入コスト・人手不足によるインフレ上振れが背景、ロイター調査は10〜12月に1.25%への追加利上げ見込みが多数、植田総裁は肝のう胞感染症治療で約2週間入院し会合欠席、会見は内田眞一副総裁が代行",
+      "topic_key": "boj-jun16-hike-075to10-31yr-high-ueda-hospitalized-uchida-briefing-2026",
+      "source": "Investing.com / Reuters / Yahoo Finance",
+      "first_seen": "2026-06-13T22:00:00+09:00",
+      "issue": "2026-06-13-2200"
+    },
+    {
+      "url_normalized": "time.com/article/2026/06/08/israel-iran-war-direct-attacks-latest-ceasefire-trump-netanyahu-lebanon",
+      "title": "米イラン和平の最大の波乱要因はイスラエル — ネタニヤフ首相は攻撃停止も停戦は明言せず「砲火再開なら力で応じる」と強硬、追加攻撃を選好と報道、トランプ氏は「攻撃継続なら孤立する・ビビ、独りになるぞ」と自制を警告、イランは「米国が誠実なら協議継続に問題なし」も核凍結・濃縮ウラン引渡しで隔たり、決裂なら地政学プレミアム巻き戻しリスク",
+      "topic_key": "israel-netanyahu-wildcard-iran-deal-trump-warning-isolated-jun13-2026",
+      "source": "TIME / CNN",
+      "first_seen": "2026-06-13T22:00:00+09:00",
+      "issue": "2026-06-13-2200"
+    },
+    {
+      "url_normalized": "bloomberg.com/markets-weekahead-jun13-2026",
+      "title": "来週の市場展望: ドルへの強気度が2025年2月以来約1年4カ月ぶり高水準、米インフレ高止まりと年内利下げ観測後退が背景 — 原油はブレント87〜88ドルと約2カ月ぶり安値(2026年高値から2割超安)、米株は和平期待で上昇基調も5月PPI前年比6.5%で利上げ警戒くすぶり月間では下落圏、来週はG7署名の有無・FOMC(ウォーシュ初会合でドットプロット廃止観測)・日銀利上げが集中し変動拡大に警戒",
+      "topic_key": "market-weekahead-dollar-bullish-16mo-oil-2mo-low-cbweek-jun13-2026",
+      "source": "Bloomberg / CNBC",
+      "first_seen": "2026-06-13T22:00:00+09:00",
+      "issue": "2026-06-13-2200"
     }
   ]
 }

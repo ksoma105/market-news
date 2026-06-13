@@ -1,134 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond",
-      "title": "トランプ氏がイランによる米陸軍アパッチ攻撃ヘリ撃墜(ホルムズ近くオマーン沖)を確認し『報復は不可避』と表明 — 無人機被弾で墜落・乗員2名は約2時間後に救助され容体安定、意図性は調査中、米部隊への直接攻撃で4月以来の停戦が動揺、一方トランプ氏は『2-3日で合意の可能性・ホルムズ即時再開』とも、イラン議会議長は『別の言葉はより流暢』と応戦示唆",
-      "topic_key": "trump-iran-shot-down-us-apache-helicopter-must-respond-hormuz-jun9-2026",
-      "source": "NPR / Al Jazeera",
-      "first_seen": "2026-06-10T06:00:00+09:00",
-      "issue": "2026-06-10-0600"
-    },
-    {
-      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-09-2026",
-      "title": "米株は反落、ナスダック0.97%安の2万5,678.82/S&P500は0.26%安の7,386.65、ダウは86ドル高(0.17%高)の5万0,872.11とまちまち — トランプ氏のイラン報復示唆で日中急落・引けにかけ下げ渋り、下落はハイテクとエネルギーの2業種のみ、半導体株に再び利益確定売り、今夜の5月CPIを前に様子見",
-      "topic_key": "us-stocks-fall-jun9-nasdaq-097-iran-retaliation-cpi-wait-2026",
-      "source": "TheStreet / Trading Economics",
-      "first_seen": "2026-06-10T06:00:00+09:00",
-      "issue": "2026-06-10-0600"
-    },
-    {
-      "url_normalized": "kiplinger.com/investing/economy/cpi-report-may-2026-what-to-expect",
-      "title": "今夜21:30(米8:30ET)発表の米5月CPI、ロイター調査の市場予想は前年比4.2%(2023年4月来高)・前月比+0.5%、コア前年比2.9%/前月比0.3% — 4月CPI3.8%から一段の加速見込み、イラン紛争の原油高が波及、金利先物は2026年内の利下げゼロを織り込み、上振れなら『より高く長く』観測でドル高・変動拡大、16-17日FOMCはウォーシュ新議長下で据え置き見込み",
-      "topic_key": "us-cpi-may-jun10-preview-reuters-42-core-29-no-cuts-2026",
-      "source": "Kiplinger / Trading Economics",
-      "first_seen": "2026-06-10T06:00:00+09:00",
-      "issue": "2026-06-10-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/amp/2026/06/08/china-oil-iran-war-us-israel-energy-prices-strait-hormuz.html",
-      "title": "原油はブレント93ドル割れと約7週ぶり安値(4/17以来)・WTIも5/29以来安、それでもホルムズは米・イラン二重封鎖で実質閉鎖継続 — イスラエル・イラン攻撃停止と和平期待が重し、中国が輸入を2月日量1,170万→5月末900万バレル弱へ絞り在庫取り崩しで『圧力弁』、9日の米軍ヘリ撃墜とトランプ報復表明で供給途絶リスク再燃の地合い",
-      "topic_key": "oil-brent-below93-7week-low-hormuz-still-closed-heli-risk-jun10-2026",
-      "source": "CNBC / Trading Economics",
-      "first_seen": "2026-06-10T06:00:00+09:00",
-      "issue": "2026-06-10-0600"
-    },
-    {
-      "url_normalized": "investing.com/news/forex-news/asia-fx-steady-amid-gulf-tensions-us-tariff-plans-yen-intervention-risks-return-4723306",
-      "title": "ドル円は9日160.15円近辺と2営業日連続で160円台、米軍ヘリ撃墜の有事ドル買いと米10年債4.42%近辺の底堅さがドルを支え円は重い — 節目2日連続試しで円買い介入警戒強まる、片山さつき財務相『必要なら行動・米当局と緊密連絡』、次の焦点は16-17日日銀会合の追加利上げ(織込確率約77%)、見送りなら後手警戒で一段の円安リスク",
-      "topic_key": "usdjpy-jun9-160-haven-dollar-intervention-watch-boj-jun16-77pct-2026",
-      "source": "Investing.com / Trading Economics",
-      "first_seen": "2026-06-10T06:00:00+09:00",
-      "issue": "2026-06-10-0600"
-    },
-    {
-      "url_normalized": "fx.minkabu.jp/news/369692",
-      "title": "10日午前の東京市場は反落、前日まで3営業日で約5,300円戻した反動で利益確定売り優勢、半導体はまちまち(アドバンテスト売り/村田買い)、9日の米軍ヘリ撃墜・トランプ報復示唆で中東警戒継続 — ドル円は午前10時で160.38円近辺(前日夕比+19銭)、4/30介入直前安値160.70円が視野、『日本の円安阻止の熱量不足』との声で介入警戒一段と、今夜の米CPI待ち",
-      "topic_key": "tokyo-jun10-am-stocks-fall-profit-taking-usdjpy-16038-intervention-watch-2026",
-      "source": "みんかぶFX / 日本経済新聞",
-      "first_seen": "2026-06-10T12:00:00+09:00",
-      "issue": "2026-06-10-1200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/10/china-cpi-ppi-inflation-may-consumer-prices-producer-oil-iran-war-ai-tech-.html",
-      "title": "中国5月PPI(卸売物価)が前年比+3.9%と4月の+2.8%から加速・2022年7月以来約4年ぶり高水準で3カ月連続プラス — イラン紛争の原油/コモディティ高と当局の過剰能力削減が押し上げ、生産財+5.2%(鉱業+15.8%/原材料+9.2%)、一方CPIは力強さ欠き消費財▲0.8%(前月▲1.0%)・コア鈍化、生産者高進と消費弱含みのねじれ鮮明",
-      "topic_key": "china-may-ppi-39-4yr-high-iran-commodities-cpi-weak-divergence-jun10-2026",
-      "source": "CNBC / Investing.com",
-      "first_seen": "2026-06-10T12:00:00+09:00",
-      "issue": "2026-06-10-1200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/09/oil-prices-iran-war-strait-hormuz-trump-israel-lebanon.html",
-      "title": "原油はブレントが9日に前日比2.97%安の91.45ドルで引け — 米エネルギー長官『ホルムズの船舶通航は増加し今後も増え続ける』発言で供給途絶警戒が後退、イスラエル・イラン攻撃停止と和平期待も重し、それでもホルムズは米イラン二重封鎖で実質閉鎖継続、中国の在庫取り崩しが圧力弁、9日のヘリ撃墜とトランプ報復表明で再燃懸念くすぶる",
-      "topic_key": "oil-brent-9145-down297-energy-sec-hormuz-traffic-rising-jun10-2026",
-      "source": "CNBC / Trading Economics",
-      "first_seen": "2026-06-10T12:00:00+09:00",
-      "issue": "2026-06-10-1200"
-    },
-    {
-      "url_normalized": "kiplinger.com/investing/economy/cpi-report-may-2026-eve-preview",
-      "title": "今夜21:30(米8:30ET)発表の米5月CPIが今週最大の関門、ロイター調査予想は前年比4.2%(2023年4月来高)・前月比+0.5%、コア前年比2.9%/前月比0.3% — 4月3.8%から加速見込みでイラン紛争の原油高が波及、金利先物は年内利下げゼロ・年末利上げ確率を約30%に上げ、上振れなら『より高く長く』でドル高・変動拡大、中国PPIに続き世界的インフレ再加速を見極める節目、16-17日FOMCは据え置き見込み",
-      "topic_key": "us-cpi-may-jun10-eve-42-no-cuts-hike-30pct-global-inflation-2026",
-      "source": "Kiplinger / Trading Economics",
-      "first_seen": "2026-06-10T12:00:00+09:00",
-      "issue": "2026-06-10-1200"
-    },
-    {
-      "url_normalized": "fxstreet.com/analysis/ecb-preview-and-so-the-hiking-begins-202606040413",
-      "title": "あす11日のECB理事会は0.25%利上げで預金金利2.25%へ・市場は9割超(一部99%)織り込み、イラン紛争の資源高でユーロ圏インフレが4月に3%へ再加速したのが背景 — 焦点はラガルド総裁会見が今後の利上げ余地をどこまで残すか、9月追加利上げ確率は約50%、利上げのECB・見極めのFRB・追加利上げにらむ日銀の綱引きで為替の方向感複雑",
-      "topic_key": "ecb-jun11-hike-25bp-225-priced-lagarde-optionality-sept-50pct-2026",
-      "source": "FXStreet / Trading Economics",
-      "first_seen": "2026-06-10T12:00:00+09:00",
-      "issue": "2026-06-10-1200"
-    },
-    {
-      "url_normalized": "timesofisrael.com/liveblog_entry/us-has-completed-retaliatory-strikes-against-iran-centcom-says",
-      "title": "米・イランが直接応酬 — 米軍ヘリ撃墜(9日夜オマーン沖)への報復で米中央軍がイラン領内約20カ所(ホルムズ周辺の防空・地上管制・監視レーダー)を攻撃、イラン革命防衛隊(IRGC)はバーレーンの米第5艦隊・クウェートのアリアルサレム基地に無人機/ヨルダンのアズラク基地に長距離ミサイルで報復、4月停戦は事実上崩壊、ホルムズ二重封鎖継続",
-      "topic_key": "us-iran-direct-exchange-centcom-20-targets-irgc-bases-jun10-2026",
-      "source": "The Times of Israel (CENTCOM) / Al Jazeera / NBC News",
-      "first_seen": "2026-06-10T22:00:00+09:00",
-      "issue": "2026-06-10-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/united-states/inflation-cpi",
-      "title": "米5月CPIが前年比+4.2%と2023年4月来約3年ぶり高水準(予想一致)・前月比+0.5%で3カ月連続加速 — エネルギー+23.5%(4月17.9%)・住居費3.4%・食品3.1%、一方コアは前月比+0.2%と予想0.3%を小幅下回る(前年比2.9%は予想通り・25年9月来高)、コア下振れで株先物は下げ渋るもS&P先物▲0.5%/ナスダック先物▲0.7%/ダウ先物▲257ドル、米長期金利はほぼ横ばい、年内利下げ織込ゼロ・6/16-17FOMCは据え置き見込み",
-      "topic_key": "us-may-cpi-result-42-core-soft-02-futures-resilient-jun10-2026",
-      "source": "Trading Economics / U.S. BLS / CNBC",
-      "first_seen": "2026-06-10T22:00:00+09:00",
-      "issue": "2026-06-10-2200"
-    },
-    {
-      "url_normalized": "finance.yahoo.co.jp/quote/998407.O-close-jun10",
-      "title": "東京市場が続落、日経平均は終値1,237.36円(1.9%)安の64,179.27円 — 取引時間中は一時1,600円超安で節目の64,000円割れ、前日9日の4営業日ぶり反発(65,416円)の反動と今夜の米CPI前の持ち高調整・中東緊迫が重し、半導体まちまち(アドバンテストに利益確定売り)、信用買い残約9兆円が下げ増幅リスク",
-      "topic_key": "nikkei-close-jun10-64179-down1237-cpi-eve-mideast-2026",
-      "source": "日本経済新聞 / Yahoo!ファイナンス",
-      "first_seen": "2026-06-10T22:00:00+09:00",
-      "issue": "2026-06-10-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil-jun10-rebound",
-      "title": "原油は地政学プレミアム復活で再上昇 — 9日にブレントが一時93ドル割れ(約7週ぶり安値、米エネルギー長官のホルムズ通航増加発言と攻撃停止の和平期待で)も、10日の米イラン直接軍事応酬で供給途絶警戒が蒸し返し切り返す、WTIは週初一時95ドル、ホルムズ二重封鎖継続・中国の在庫取り崩しが圧力弁、EIAは5月ブレント平均107ドル(4月比▲10ドル)",
-      "topic_key": "oil-geopolitical-premium-back-rebound-jun10-2026",
-      "source": "Trading Economics / U.S. EIA(STEO)",
-      "first_seen": "2026-06-10T22:00:00+09:00",
-      "issue": "2026-06-10-2200"
-    },
-    {
-      "url_normalized": "nikkei.com/markets/currencies-jun10-2200",
-      "title": "ドル円は160円台で介入警戒、有事のドル買いと内外金利差で円重い — 4/30介入直前安値160.70円が視野、片山財務相『必要なら行動・米当局と緊密連絡』、米CPIのコア下振れでドル上昇一服も方向感限定、あす11日ECBは0.25%利上げで預金金利2.25%を9割超織込(ラガルド会見で追加利上げ余地に注目)、15-16日日銀の追加利上げ織込8割弱・18日FOMC据え置き見込み",
-      "topic_key": "usdjpy-160-intervention-watch-ecb-jun11-hike-boj-fomc-jun10-2026",
-      "source": "日本経済新聞 / Trading Economics(ECB)",
-      "first_seen": "2026-06-10T22:00:00+09:00",
-      "issue": "2026-06-10-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/gold-jun10-2200",
-      "title": "金は1トロイオンス4,300ドル台で上値重い — 中東緊迫の安全資産需要も米10年債4.5%台の高金利とドル高が利息を生まない金に逆風、リスク回避マネーが金でなくドルへ向かう『有事のドル買い』で金も円も買われにくい逆説、米CPIのコア小幅下振れはわずかな支援、各国中銀の継続購入とFRB独立性懸念が中長期の下支え、年初最高値圏(5,500ドル超)から調整一巡なら再上昇余地も",
-      "topic_key": "gold-4300s-haven-paradox-dollar-yields-cpi-jun10-2026",
-      "source": "Trading Economics / Investing.com",
-      "first_seen": "2026-06-10T22:00:00+09:00",
-      "issue": "2026-06-10-2200"
-    },
-    {
       "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026",
       "title": "米株は主要3指数そろって続落で引け — S&P500▲0.48%の7,351前後/ダウ▲0.59%の5万0,572前後/ナスダック▲0.62%の2万5,520前後、内需小型のラッセル2000は+0.41%と逆行高、同日朝の5月CPI4.2%(約3年ぶり高)でインフレ高止まり意識+米イラン応酬激化の原油高と中東警戒が重し、インフレリスクが株式バリュエーションの上限を抑え続けるとの声",
       "topic_key": "us-stocks-close-jun10-sp500-048-dow-nasdaq-down-oil-cpi-2026",
@@ -423,6 +295,30 @@
       "source": "Bloomberg / CNBC",
       "first_seen": "2026-06-13T22:00:00+09:00",
       "issue": "2026-06-13-2200"
+    },
+    {
+      "url_normalized": "nbcnews.com/world/iran/us-iran-deal-expected-reopen-strait-hormuz-signed-days-both-sides-say-rcna349916",
+      "title": "米イラン和平、トランプ氏が「日曜署名」を表明 — 署名と同時にホルムズ海峡を全面開放と明言、パキスタンは24時間以内の最終合意に言及、覚書は制裁解除・米軍撤収・海上封鎖解除・海峡再開が柱、核問題は署名後60日間で別途協議に先送り",
+      "topic_key": "us-iran-deal-scheduled-sunday-signing-hormuz-open-to-all-60day-nuclear-jun13-2026",
+      "source": "NBC News / Al Jazeera",
+      "first_seen": "2026-06-14T06:00:00+09:00",
+      "issue": "2026-06-14-0600"
+    },
+    {
+      "url_normalized": "techtimes.com/articles/318327/20260613/g7-summit-2026-iran-hormuz-deal-tariff-deadline-rare-earth-crisis-hit-evian.htm",
+      "title": "G7エビアン・サミット15日開幕、通商議題が柱に — 7月24日に迫る米追加関税の期限、中国のレアアース輸出規制、産業の過剰生産能力(セクション301調査継続)が焦点、包括宣言は見送りで分野別の重要鉱物サプライチェーン成果文書を積み上げる見通し",
+      "topic_key": "g7-evian-opens-jun15-trade-tariff-cliff-jul24-rare-earth-overcapacity-section301-2026",
+      "source": "Tech Times / Atlantic Council",
+      "first_seen": "2026-06-14T06:00:00+09:00",
+      "issue": "2026-06-14-0600"
+    },
+    {
+      "url_normalized": "cnn.com/2026/06/12/world/live-news/iran-war-trump-israel",
+      "title": "和平の波乱要因はイスラエル — イランの凍結資産の解除を阻止するよう米国に要求、ネタニヤフ氏「私が首相である限りイランは核兵器を保有しない」、カッツ国防相はレバノン南部からの撤収を拒否、イランは攻撃継続なら報復再開と警告",
+      "topic_key": "israel-press-us-block-iran-asset-unfreeze-lebanon-no-withdraw-jun13-2026",
+      "source": "CNN / TIME",
+      "first_seen": "2026-06-14T06:00:00+09:00",
+      "issue": "2026-06-14-0600"
     }
   ]
 }

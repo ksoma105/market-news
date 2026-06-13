@@ -367,6 +367,30 @@
       "source": "CNBC / Trading Economics",
       "first_seen": "2026-06-13T06:00:00+09:00",
       "issue": "2026-06-13-0600"
+    },
+    {
+      "url_normalized": "chase.com/personal/investments/learning-and-insights/article/kevin-warsh-first-federal-reserve-meeting-as-chair-june-2026",
+      "title": "来週16-17日は日米中銀ウィーク、FOMCはウォーシュ新議長(5月22日就任・第17代)初会合 — 金利3.50-3.75%据え置きほぼ確実だが焦点はドットプロット廃止観測、同氏は『フォワードガイダンスを信じない』と公言、現行見通しに残る2026年内0.25%利下げ1回分は5月PPI+6.5%受け消える公算、市場は年末利下げより利上げ見込む声、枠組み変更でボラ高まる懸念、同週に日銀も31年ぶり高水準への利上げ取り沙汰",
+      "topic_key": "fomc-jun16-17-warsh-debut-dot-plot-scrap-no-guidance-2026",
+      "source": "Chase / IndexBox",
+      "first_seen": "2026-06-13T12:00:00+09:00",
+      "issue": "2026-06-13-1200"
+    },
+    {
+      "url_normalized": "nasdaq.com/articles/tech-wreck-or-valuation-reset-rotating-value-2026",
+      "title": "米株でテック離れの循環物色が鮮明、ナスダック軟調・ダウ相対底堅くで方向感分かれる — 2025年急騰のAI関連に割高感広がりブーム過熱和らぐ、資金は金融・資本財・生活必需品・エネルギーへ、金融セクターETF堅調の一方で半導体ETFは2%超下落の日も、来週中銀ウィークで金利先高観強まれば成長株に逆風・バリュー株に追い風となりやすく資金流れの継続が焦点",
+      "topic_key": "us-stocks-tech-to-value-rotation-financials-semis-drop-jun12-2026",
+      "source": "Nasdaq / Stock Market Watch",
+      "first_seen": "2026-06-13T12:00:00+09:00",
+      "issue": "2026-06-13-1200"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html",
+      "title": "中国でデフレ圧力後退、ホルムズ混乱のエネルギー高が長年の物価下押しを和らげる — メーカーの投入コスト転嫁で5月PPIが前年比約4年ぶり高い伸びの見方、CPIも小幅プラス圏、輸出はAI・再エネ需要で5月対米輸出が約5年ぶり高い伸び、ただしコスト主導で内需回復伴わず不動産低迷など構造課題残る、来週米イラン和平成立でエネルギー一段安なら物価反転は一時的の可能性",
+      "topic_key": "china-deflation-retreat-hormuz-energy-ppi-4yr-high-exports-jun-2026",
+      "source": "CNBC / Oxford Economics",
+      "first_seen": "2026-06-13T12:00:00+09:00",
+      "issue": "2026-06-13-1200"
     }
   ]
 }

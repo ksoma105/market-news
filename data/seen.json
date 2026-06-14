@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-10-2026",
-      "title": "米株は主要3指数そろって続落で引け — S&P500▲0.48%の7,351前後/ダウ▲0.59%の5万0,572前後/ナスダック▲0.62%の2万5,520前後、内需小型のラッセル2000は+0.41%と逆行高、同日朝の5月CPI4.2%(約3年ぶり高)でインフレ高止まり意識+米イラン応酬激化の原油高と中東警戒が重し、インフレリスクが株式バリュエーションの上限を抑え続けるとの声",
-      "topic_key": "us-stocks-close-jun10-sp500-048-dow-nasdaq-down-oil-cpi-2026",
-      "source": "TheStreet / Trading Economics",
-      "first_seen": "2026-06-11T06:00:00+09:00",
-      "issue": "2026-06-11-0600"
-    },
-    {
-      "url_normalized": "goodmorningamerica.com/news/live-updates/iran-live-updates-israel-iran-trade-strikes-trump-133674243",
-      "title": "米・イランの応酬がタンカー攻撃に拡大 — 米中央軍が停船命令に従わなかったとしてオマーン湾でタンカー『セッテベロ(Settebello)』を攻撃し航行不能に、インド人乗組員21人救助・3人不明、トランプ氏は夜間にレーダーなきイラン側多数の船舶を『明かりを消して』無力化と発言、9日のヘリ撃墜→米のイラン領内攻撃→イランの湾岸基地報復に続く連鎖で4月停戦は事実上崩壊、交渉決着まで海上封鎖継続の構え",
-      "topic_key": "us-iran-tanker-settebello-gulf-of-oman-disabled-jun10-2026",
-      "source": "Good Morning America / Wikipedia(2026 Strait of Hormuz crisis)",
-      "first_seen": "2026-06-11T06:00:00+09:00",
-      "issue": "2026-06-11-0600"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil-jun10-close",
-      "title": "原油は乱高下のすえまちまち — ブレントは日中89.61〜94.43ドルの値幅で上下し終値91.96ドル(前日94.25ドルから下落)、WTIは87.40〜90.38ドルで89.71ドル(前日88.20ドルから小幅上昇)、米イランのタンカー攻撃含む応酬激化の供給途絶警戒と、和平期待+中国の在庫取り崩し(輸入削減の圧力弁)がせめぎ合い、ホルムズ二重封鎖で日量1,100万バレル超の供給途絶が最大材料",
-      "topic_key": "oil-choppy-jun10-brent-9196-wti-8971-2026",
-      "source": "Trading Economics / Investing.com",
-      "first_seen": "2026-06-11T06:00:00+09:00",
-      "issue": "2026-06-11-0600"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/united-states/government-bond-yield-jun10-close",
-      "title": "米10年債利回りは4.52%でほぼ横ばい、日中高値4.55%からは低下 — 5月CPIのコアが前月比+0.2%と予想0.3%を下回りエネルギー高の広範な波及は限定的との安心感、総合は前年比4.2%で予想通り加速も短期市場は年内追加利上げ観測をやや後退、ただし12月+0.25%利上げは引き続き完全織込・年内利下げ想定なし、16-17日FOMCはウォーシュ新議長下で据え置き見込み、金利低下は株安局面の数少ない下支え",
-      "topic_key": "us-10y-452-core-cpi-soft-dec-hike-priced-jun10-2026",
-      "source": "Trading Economics / U.S. BLS",
-      "first_seen": "2026-06-11T06:00:00+09:00",
-      "issue": "2026-06-11-0600"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/euro-area/interest-rate-jun11",
-      "title": "本日11日ECB理事会は0.25%利上げで預金金利2.25%を9割超織込(イラン紛争の資源高でユーロ圏インフレ再加速)、焦点はラガルド会見の追加利上げ余地 — ドル円は160円台と21カ月ぶり高値圏で3営業日連続、有事のドル買いと内外金利差で円重く介入警戒再燃、日本は4/28〜5/27に2024年以来の約730億ドル介入、片山財務相『必要なら行動』、来週15-16日日銀(追加利上げ観測)・16-17日FOMC(据え置き)、金は4,300ドル台と昨年12月以来安値",
-      "topic_key": "ecb-jun11-hike-225-usdjpy-160-intervention-cb-week-jun11-2026",
-      "source": "Trading Economics(ECB) / 日本経済新聞",
-      "first_seen": "2026-06-11T06:00:00+09:00",
-      "issue": "2026-06-11-0600"
-    },
-    {
       "url_normalized": "tradingeconomics.com/japan/stock-market-jun11-am",
       "title": "東京株は11日前場も軟調、日経平均は前引けで前日比約260円安の6万3,900円前後 — 前日(10日)終値6万4,179円から一段安、前日の米株3指数続落と米イラン応酬激化の中東警戒が重し、値がさ半導体・AI関連(アドバンテスト/東エレク)に利益確定売り、内需・金融が下値支え、6万4,000円節目挟み神経質、信用買い残高水準で下げ増幅リスク、関心は来週日銀・本日ECBへ",
       "topic_key": "nikkei-jun11-am-soft-63900-chips-sell-cb-week-2026",
@@ -319,6 +279,21 @@
       "source": "CNN / TIME",
       "first_seen": "2026-06-14T06:00:00+09:00",
       "issue": "2026-06-14-0600"
+    },
+    {
+      "first_seen": "2026-06-14T12:00:00+09:00",
+      "title": "週明けは日米欧の中央銀行ウィーク、5中銀が相次ぎ決定 — 日銀は16日に0.75→1.0%へ約31年ぶり利上げ観測(ロイター調査34人中28人)、FOMCは16-17日ウォーシュ新議長初会合で3.50-3.75%据置濃厚(CME利上げ確率0.6%)・年内利上げ確率約70%",
+      "url": "https://www.fxstreet.com/analysis/week-ahead-central-bank-barrage-ahead-fed-boj-rba-snb-and-boe-in-focus-202606120804"
+    },
+    {
+      "first_seen": "2026-06-14T12:00:00+09:00",
+      "title": "G7エビアン15日開幕、結束より対立が前面 — 米が欧州向けNATO航空機・艦艇の大幅削減を通告、トランプ氏は湾岸対応で欧州に不満、共同声明見送り公算・対中追加関税の期限7月24日も火種",
+      "url": "https://gulfnews.com/world/europe/g7-summit-set-for-tense-showdown-with-trump-1.500573054"
+    },
+    {
+      "first_seen": "2026-06-14T12:00:00+09:00",
+      "title": "米イラン和平は本号時点でなお署名待ち、トランプ氏は日曜署名・ホルムズ全船開放を明言もイランは時期に慎重 — 原油はブレント87-88ドルと約2カ月ぶり安値圏で確報待ち、核問題は署名後60日協議に先送り",
+      "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html"
     }
   ]
 }

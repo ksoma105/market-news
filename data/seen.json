@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "ecb.europa.eu/mp-decision-jun11-2026",
-      "title": "ECBが約3年ぶり利上げで預金ファシリティ金利を2.00→2.25%へ(0.25%、2023年以来初)、ユーロ圏5月インフレ3.2%でターゲット2%超え、ラガルド総裁は全選択肢維持で夏場の追加利上げ余地温存",
-      "topic_key": "ecb-hike-25bp-225-jun11-result-lagarde-optionality-2026",
-      "source": "ECB / FXStreet",
-      "first_seen": "2026-06-11T22:00:00+09:00",
-      "issue": "2026-06-11-2200"
-    },
-    {
-      "url_normalized": "aljazeera.com/us-bombs-iran-tehran-closes-hormuz-jun11-2026",
-      "title": "米・イラン応酬が2日連続激化、米軍空爆にイランがバーレーン・クウェート・ヨルダンの米基地攻撃を主張・ホルムズで2隻攻撃、IRGCが海峡を追って通知あるまで全面閉鎖と再宣言(原油船95%・LNG船99%減)、後半に米が攻撃完了発表で和平期待",
-      "topic_key": "us-iran-2day-escalation-irgc-hormuz-full-closure-jun11-2026",
-      "source": "Al Jazeera / Wikipedia",
-      "first_seen": "2026-06-11T22:00:00+09:00",
-      "issue": "2026-06-11-2200"
-    },
-    {
-      "url_normalized": "kabutan.jp/n202606111132",
-      "title": "東京株は11日小反発で引け、日経平均終値+38.00円(+0.06%)の6万4,217円27銭(3営業日ぶり反発) — 前場一時260円超安も午後に主力株へ買い戻し、前日10日の1,200円超急落の反動と日銀会合前の持ち高調整が交錯",
-      "topic_key": "nikkei-close-jun11-rebound-64217-38up-2026",
-      "source": "株探 / 日本経済新聞",
-      "first_seen": "2026-06-11T22:00:00+09:00",
-      "issue": "2026-06-11-2200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/brent-jun11-2026",
-      "title": "原油は和平観測で乱高下、ブレントが米・イラン応酬激化で一時95ドル接近後、米軍の対イラン攻撃完了発表で90ドル割れへ反落 — ホルムズ封鎖継続もペルシャ湾搬出再開観測と中国需要鈍化が綱引き",
-      "topic_key": "brent-volatile-jun11-95-to-sub90-peace-hopes-2026",
-      "source": "Trading Economics / EIA",
-      "first_seen": "2026-06-11T22:00:00+09:00",
-      "issue": "2026-06-11-2200"
-    },
-    {
-      "url_normalized": "fx.minkabu.jp/news/369887",
-      "title": "ドル円は11日も160円台で介入警戒継続(4/30介入直前以来高値圏)、10日線が160円手前に位置、政府日銀の累計約11.7兆円介入も有事のドル買いで効果帳消し、来週15-16日日銀の1.0%利上げ観測8-9割が綱引きの軸",
-      "topic_key": "usdjpy-160-jun11-intervention-117tn-boj-hike-watch-2026",
-      "source": "みんかぶFX / 日本経済新聞",
-      "first_seen": "2026-06-11T22:00:00+09:00",
-      "issue": "2026-06-11-2200"
-    },
-    {
       "url_normalized": "npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
       "title": "トランプ氏が対イラン追加攻撃の中止を表明、和平合意『近日署名』へ — 協議はイラン指導部最高レベルで承認済み、合意は60日停戦延長を柱にホルムズ海峡を通行料なしで再開・イランが機雷除去し原油自由売却・核交渉継続、早ければ今週末に欧州で署名の可能性(ファルス通信:テヘラン承認公算大)、UAE・イラン直接協議も、署名完了まで海上封鎖は全面維持",
       "topic_key": "trump-cancel-strikes-iran-peace-deal-imminent-60day-hormuz-reopen-jun11-2026",
@@ -278,6 +238,46 @@
       "source": "Reuters/Investing.com / Chase",
       "first_seen": "2026-06-14T22:00:00+09:00",
       "issue": "2026-06-14-2200"
+    },
+    {
+      "url_normalized": "nbcnews.com/world/iran/israel-strikes-beiruts-southern-suburbs-days-ceasefire-agreement-rcna348847",
+      "title": "米イラン和平の『日曜署名』が土壇場で暗転 — 14日朝にイスラエルがベイルート南郊ダヒエを米国の自制要請を無視して空爆(死者2〜3人・負傷15〜20人)、これに対しイランIRGCが同日夜10時頃イスラエルのラマトダビド空軍基地へ弾道ミサイルを発射(4/8停戦以降初の直接攻撃)、15日未明にイスラエルがイラン中西部へ大規模報復で4/8以降最悪の応酬、トランプ氏はイスラエルを非難し『合意はあと数時間』『失敗するな』と署名続行を主張・遅延は数時間と説明、イラン交渉責任者ガリバフ氏は強く非難",
+      "topic_key": "israel-beirut-strike-iran-missile-ramat-david-israel-strikes-iran-deal-jeopardy-jun14-2026",
+      "source": "NBC News / Al Jazeera / NPR / CNBC",
+      "first_seen": "2026-06-15T06:00:00+09:00",
+      "issue": "2026-06-15-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
+      "title": "G7エビアン・サミットが15日開幕、トランプ氏は80歳誕生日のUFC観戦後に渡仏(マクロン氏が開幕を日曜→月曜に後ろ倒し) — イラン・ウクライナ・対中通商が主要議題、米の対NATO航空機・艦艇削減通告で同盟国と摩擦、共同声明は2年連続見送り公算、7月24日の追加関税期限と中国レアアース規制が経済の火種、和平応酬激化が会議の空気に影",
+      "topic_key": "g7-evian-opens-jun15-trump-arrives-ufc-nato-drawdown-friction-no-communique-2026",
+      "source": "CNBC / European Council / CFR / Gulf News",
+      "first_seen": "2026-06-15T06:00:00+09:00",
+      "issue": "2026-06-15-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/09/oil-prices-iran-israel-monday-open-geopolitical-premium-jun15",
+      "title": "週明けの市場は和平プレミアム剥落と地政学リスク再燃の綱引き — 原油ブレントは11日に一時1バレル86.5ドル割れと3月初旬以来安値(2026年高値から約2割安)だったが週末の応酬激化で地政学プレミアム再注入の警戒、ドル円は約160円と高止まり、東京は本日から日銀会合・週内にFOMC・G7と重要イベント集中で変動拡大に身構え",
+      "topic_key": "markets-monday-open-peace-premium-vs-geopolitics-oil-865-usdjpy160-jun15-2026",
+      "source": "CNBC / Bloomberg / TIME",
+      "first_seen": "2026-06-15T06:00:00+09:00",
+      "issue": "2026-06-15-0600"
+    },
+    {
+      "url_normalized": "finance.yahoo.com/economy/policy/articles/why-japan-next-rate-decision-154549038.html",
+      "title": "日銀が本日から2日間の会合、16日に0.75→1.0%へ約31年ぶり利上げが大勢 — 焦点は利上げ幅より先行きで、市場は年内さらに2回・最終到達点2%前後を織り込み(BofAは1.75%到達を予想)、円高転換ならキャリートレード巻き戻しで世界の流動性とリスク資産に波及の懸念、国債買入減額計画の点検も実施、植田総裁は入院欠席で内田副総裁が会見代行",
+      "topic_key": "boj-meeting-start-jun15-hike-1pct-terminal-2pct-carry-unwind-ueda-absent-2026",
+      "source": "Yahoo Finance / BeInCrypto",
+      "first_seen": "2026-06-15T06:00:00+09:00",
+      "issue": "2026-06-15-0600"
+    },
+    {
+      "url_normalized": "chase.com/kevin-warsh-first-federal-reserve-meeting-as-chair-june-2026-fomc-jun16-17",
+      "title": "FOMCは16-17日にウォーシュ新議長の初会合、政策金利3.50-3.75%据え置きが市場織込99.5% — 同会合はSEP・ドットプロット公表回で、緩和バイアスから中立スタンスへの明確な転換度合いと初の議長会見のトーンが最大の焦点、年内利下げ消滅・初回利下げの2027年後ろ倒し観測も、年内は据え置き見通しが大勢",
+      "topic_key": "fomc-jun16-17-warsh-debut-hold-995-dot-plot-easing-to-neutral-2026",
+      "source": "Chase / Seeking Alpha / Mitrade",
+      "first_seen": "2026-06-15T06:00:00+09:00",
+      "issue": "2026-06-15-0600"
     }
   ]
 }

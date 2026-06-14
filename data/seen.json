@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "tradingeconomics.com/japan/stock-market-jun11-am",
-      "title": "東京株は11日前場も軟調、日経平均は前引けで前日比約260円安の6万3,900円前後 — 前日(10日)終値6万4,179円から一段安、前日の米株3指数続落と米イラン応酬激化の中東警戒が重し、値がさ半導体・AI関連(アドバンテスト/東エレク)に利益確定売り、内需・金融が下値支え、6万4,000円節目挟み神経質、信用買い残高水準で下げ増幅リスク、関心は来週日銀・本日ECBへ",
-      "topic_key": "nikkei-jun11-am-soft-63900-chips-sell-cb-week-2026",
-      "source": "Trading Economics / 日本経済新聞",
-      "first_seen": "2026-06-11T12:00:00+09:00",
-      "issue": "2026-06-11-1200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/japan/interest-rate-jun11-boj-preview",
-      "title": "来週15-16日の日銀会合で政策金利1.0%への利上げ観測が約8-9割織込(0.75%から+25bp・約30年ぶり1%水準) — イラン紛争の資源高で物価高止まり、植田総裁の追加引き締め判断が焦点、ドル円は160円台と約21カ月ぶり高値圏で介入警戒再燃(4/28-5/27に約730億ドル介入後も水準戻る)、バークレイズは『160近辺で推移』予想、利上げ実現なら円安・金利上昇の流れに変化も",
-      "topic_key": "boj-jun15-16-hike-1pct-30yr-usdjpy-160-intervention-watch-jun11-2026",
-      "source": "Trading Economics / 日本経済新聞 / Barclays(CNBC)",
-      "first_seen": "2026-06-11T12:00:00+09:00",
-      "issue": "2026-06-11-1200"
-    },
-    {
-      "url_normalized": "fxstreet.com/analysis/ecb-preview-and-so-the-hiking-begins-202606040413-jun11-decision",
-      "title": "本日11日夜(日本時間)ECB理事会結果公表、預金金利0.25%利上げで2.25%へ織込9割超 — ユーロ圏4月インフレ3%再加速(イラン資源高)でインフレ期待抑制狙い、焦点はラガルド会見の追加利上げ余地(夏場2回目観測・9月確率約5割)、利上げECB/据置FRB/追加利上げにらむ日銀で為替方向感複雑、イラン情勢反映の最新スタッフ見通しも注目",
-      "topic_key": "ecb-jun11-decision-25bp-225-lagarde-optionality-staff-projections-2026",
-      "source": "Trading Economics / FXStreet",
-      "first_seen": "2026-06-11T12:00:00+09:00",
-      "issue": "2026-06-11-1200"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/gold-jun11-am",
-      "title": "金は1トロイオンス4,100ドル近辺へ続落、2025年11月下旬以来約半年ぶり安値 — 中東緊迫の逃避需要も米10年債4.5%台の高金利が利息生まぬ金に逆風、リスク回避が金でなくドルへ向かう『有事のドル買い』で金も円も買われにくい逆説、米5月CPIコア小幅下振れはわずかな支援、各国中銀の継続購入とFRB独立性懸念が中長期下支え、年初最高値5,500ドル超からの調整一巡なら再上昇余地も",
-      "topic_key": "gold-jun11-4100-6month-low-dollar-yields-haven-paradox-2026",
-      "source": "Trading Economics / LiteFinance",
-      "first_seen": "2026-06-11T12:00:00+09:00",
-      "issue": "2026-06-11-1200"
-    },
-    {
-      "url_normalized": "eia.gov/outlooks/steo-jun11-brent-105-hormuz",
-      "title": "原油はホルムズ封鎖長期化で需給見通し上方修正、ブレント1バレル92ドル前後で神経質 — EIAは海峡の事実上閉鎖継続を前提に在庫減を映しブレント6-7月平均を105ドルへ引き上げ、ペルシャ湾内に600隻超・湾外に240隻ほどのタンカー足止め、CENTCOMは『海峡は開き商船通航継続・過去約1カ月で1億バレル超の通過支援』とする一方イラン革命防衛隊は通航試みたタンカー攻撃と主張で認識食い違い、中国の在庫取り崩しが上値抑制",
-      "topic_key": "oil-jun11-brent-92-eia-105-hormuz-tankers-stuck-centcom-irgc-2026",
-      "source": "U.S. EIA(STEO) / Wikipedia(2026 Strait of Hormuz crisis)",
-      "first_seen": "2026-06-11T12:00:00+09:00",
-      "issue": "2026-06-11-1200"
-    },
-    {
       "url_normalized": "ecb.europa.eu/mp-decision-jun11-2026",
       "title": "ECBが約3年ぶり利上げで預金ファシリティ金利を2.00→2.25%へ(0.25%、2023年以来初)、ユーロ圏5月インフレ3.2%でターゲット2%超え、ラガルド総裁は全選択肢維持で夏場の追加利上げ余地温存",
       "topic_key": "ecb-hike-25bp-225-jun11-result-lagarde-optionality-2026",
@@ -294,6 +254,30 @@
       "first_seen": "2026-06-14T12:00:00+09:00",
       "title": "米イラン和平は本号時点でなお署名待ち、トランプ氏は日曜署名・ホルムズ全船開放を明言もイランは時期に慎重 — 原油はブレント87-88ドルと約2カ月ぶり安値圏で確報待ち、核問題は署名後60日協議に先送り",
       "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html"
+    },
+    {
+      "url_normalized": "nbcnews.com/world/iran/us-iran-deal-expected-reopen-strait-hormuz-signed-days-jun14",
+      "title": "米イラン和平の『日曜署名』なお未確認、イラン外務省バゲイ報道官は14日署名の可能性は低いと当日署名に慎重(近くとはする) — 段取りで新情報、パキスタン主導で電子署名準備しまず遠隔署名・後日対面調印案、米側はバンス副大統領とウィトコフ特使が代表の見通し、覚書はホルムズ即時開放/米のイラン港湾封鎖解除/約250億ドル凍結資産解放/石油制裁免除/60日停戦延長が柱・核問題は先送り",
+      "topic_key": "iran-deal-sunday-signing-unconfirmed-baqaei-virtual-vance-witkoff-25bn-jun14-2026",
+      "source": "NBC News / CNBC",
+      "first_seen": "2026-06-14T22:00:00+09:00",
+      "issue": "2026-06-14-2200"
+    },
+    {
+      "url_normalized": "consilium.europa.eu/g7-evian-2026-06-15-17-preview",
+      "title": "G7エビアン・サミット明日15日開幕(15-17日・仏エビアン) — 議長国仏は包括的共同声明を昨年に続き2年連続見送り公算で分野別成果文書積み上げの慎重運営、議題はイラン/ホルムズ和平・ウクライナ・対中通商、米追加関税の期限7月24日が接近、中国レアアース輸出規制は影響各経済圏で各推計1.5兆ドル規模のコストとの試算、対NATO関与縮小通告で同盟国と摩擦",
+      "topic_key": "g7-evian-eve-opens-jun15-no-communique-tariff-cliff-jul24-rareearth-15tn-2026",
+      "source": "European Council / Council on Foreign Relations",
+      "first_seen": "2026-06-14T22:00:00+09:00",
+      "issue": "2026-06-14-2200"
+    },
+    {
+      "url_normalized": "investing.com/boj-fomc-cbweek-jun15-17-2026-preview",
+      "title": "週明けは日米欧の中銀ウィーク — 日銀15-16日に0.75→1.0%へ約31年(1995年以来)ぶり利上げ観測が大勢でドル円160円台修正が焦点・植田総裁は入院欠席も決定影響は限定的、FOMC16-17日はウォーシュ新議長初采配で3.50-3.75%据え置き織込98-99%・ドットプロットの緩和バイアス→中立転換度合いが見どころ、RBAは4.35%据え置き有力、BOE/SNBも決定",
+      "topic_key": "cbweek-open-boj16-hike-1pct-fomc16-17-warsh-debut-rba-jun14-2026",
+      "source": "Reuters/Investing.com / Chase",
+      "first_seen": "2026-06-14T22:00:00+09:00",
+      "issue": "2026-06-14-2200"
     }
   ]
 }

@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
-      "title": "トランプ氏が対イラン追加攻撃の中止を表明、和平合意『近日署名』へ — 協議はイラン指導部最高レベルで承認済み、合意は60日停戦延長を柱にホルムズ海峡を通行料なしで再開・イランが機雷除去し原油自由売却・核交渉継続、早ければ今週末に欧州で署名の可能性(ファルス通信:テヘラン承認公算大)、UAE・イラン直接協議も、署名完了まで海上封鎖は全面維持",
-      "topic_key": "trump-cancel-strikes-iran-peace-deal-imminent-60day-hormuz-reopen-jun11-2026",
-      "source": "NPR / Wikipedia(2026 Iran war ceasefire)",
-      "first_seen": "2026-06-12T06:00:00+09:00",
-      "issue": "2026-06-12-0600"
-    },
-    {
-      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-11-2026",
-      "title": "米株が急反発、対イラン攻撃中止と和平接近を好感 — ダウ+1.86%(約930ドル高)の5万0,848.75ドルで5万ドル台回復、S&P500+1.75%(7,400手前)、ナスダック+2.54%、業種はハイテク・資本財・素材が牽引/和平の原油安でエネルギー・生活必需品・不動産は下落、半導体に買い戻し、根強いインフレ指標で上値追いには慎重論も",
-      "topic_key": "us-stocks-rebound-jun11-dow-930-50848-nasdaq-254-iran-deal-hope-2026",
-      "source": "TheStreet / Trading Economics",
-      "first_seen": "2026-06-12T06:00:00+09:00",
-      "issue": "2026-06-12-0600"
-    },
-    {
-      "url_normalized": "bls.gov/news.release/ppi.nr0.htm",
-      "title": "米5月PPI(最終需要)は前月比+1.1%と予想+0.7%を大きく上回り、前年比+6.5%と2022年11月(+7.4%)以来約3年半ぶり高水準 — コアPPI前月比+0.4%(予想0.5%を小幅下回り)、上昇の約8割は最終需要財(+2.8%)・ガソリン卸売価格+23.4%が主因、サービス+0.3%、前日CPIに続く高インフレ確認で年内利下げほぼ織込まず12月利上げ観測維持、米10年債4.5%台、来週16-17日FOMCはウォーシュ新議長下で据え置き見込み、それでも株高は和平期待がインフレ警戒を上回ったため",
-      "topic_key": "us-may-ppi-result-11mom-65yoy-35yr-high-gasoline-234-core-04-jun11-2026",
-      "source": "U.S. BLS / CNBC",
-      "first_seen": "2026-06-12T06:00:00+09:00",
-      "issue": "2026-06-12-0600"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil-jun11-peace",
-      "title": "原油はブレントが1バレル92ドル前後へ下落、2026年高値から約2割安 — 米イランの新攻撃応酬警戒とホルムズ通航量増加観測が綱引き、和平合意成立なら海峡通航解放・原油輸送再開との期待で供給途絶プレミアム剥落、合意は早ければ今週末に欧州で署名の可能性(ファルス通信:テヘラン承認公算大)・UAE/イラン直接協議も、ただし署名完了まで海上封鎖維持で供給回復には時間との慎重論も根強い",
-      "topic_key": "oil-brent-92-down20pct-from-peak-peace-hope-hormuz-reopen-jun11-2026",
-      "source": "Trading Economics / CNBC",
-      "first_seen": "2026-06-12T06:00:00+09:00",
-      "issue": "2026-06-12-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/select/the-price-of-gold-today-june-11-2026/",
-      "title": "金は1トロイオンス4,080ドル台へ続落、2025年11月以来約7カ月ぶり安値(前日4,146ドルから低下) — 和平期待のリスク選好で逃避需要後退、米長期金利4.5%台高止まりとドル底堅さが利息を生まぬ金に逆風、投資家は強い米PPI・前日のECB利上げ・中東情勢転換を消化、有事のドル買いで金が買われにくい逆説継続、各国中銀の継続購入とFRB独立性懸念が中長期下支え、年初最高値5,500ドル超からの調整一巡なら再上昇余地も",
-      "topic_key": "gold-4080-7month-low-risk-on-dollar-yields-ppi-jun11-2026",
-      "source": "CNBC Select / Trading Economics",
-      "first_seen": "2026-06-12T06:00:00+09:00",
-      "issue": "2026-06-12-0600"
-    },
-    {
       "url_normalized": "cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
       "title": "スペースXが史上最大IPO、ナスダックにSPCXで上場 — 公開価格1株135ドル(固定)・クラスA株5億5,556万株売出しで調達約750億ドル、時価総額約1.78兆ドルと米国最大だったアリババ(2014年)の3倍超、需要は約3.3倍に膨らみ初値急騰観測も、資金は次世代ロケット・衛星通信網拡張へ、米株先物は和平期待と本IPOを前にほぼ横ばい",
       "topic_key": "spacex-ipo-debut-spcx-135-178tn-largest-ever-jun12-2026",
@@ -278,6 +238,46 @@
       "source": "Chase / Seeking Alpha / Mitrade",
       "first_seen": "2026-06-15T06:00:00+09:00",
       "issue": "2026-06-15-0600"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/14/us-iran-war-peace-deal.html",
+      "title": "米イラン和平、トランプ氏が「合意は完成」と宣言 — 14日にSNSで表明、米海軍によるホルムズ海峡封鎖の解除を指示、署名式は19日(金)スイスで(仲介役パキスタン・シャバズ首相)、レバノン含む全戦線で軍事行動を即時かつ恒久停止と宣言、ホルムズ商業船航行も再開へ、柱は海峡即時再開・港湾封鎖解除・約250億ドル凍結資産解放・石油制裁免除・60日停戦延長で核問題は署名後協議、ただしイスラエルは合意内容に「深い失望」、署名までの数日は緊張再燃リスク残る",
+      "topic_key": "trump-iran-deal-now-complete-blockade-lift-ordered-sign-jun19-switzerland-lebanon-ceasefire-jun14-2026",
+      "source": "CNBC / CBS News / NPR",
+      "first_seen": "2026-06-15T12:03:00+09:00",
+      "issue": "2026-06-15-1203"
+    },
+    {
+      "url_normalized": "nikkei.com/markets/worldidx/chart/nk225/jun15-2026",
+      "title": "東京市場は日銀会合初日、株高・円安・金利上昇が継続 — 日経平均は6/3に初の6万8,000円台(終値68,402円)・年初来約33%高の記録的水準、AI関連の半導体製造装置(東エレ・アドテスト)買いと160円近辺の円安が採算押上げ、ドル円は160円台前半(一時160.57円と4月以来の円安)で円の上値重い、明日16日に0.75→1.0%へ約31年ぶり利上げ観測が大勢で10年JGB利回りは2.6%台へ上昇、植田総裁は入院欠席し内田副総裁が会見代行",
+      "topic_key": "tokyo-boj-day1-nikkei-record-68000-usdjpy-1602-jgb265-hike-tomorrow-jun15-2026",
+      "source": "日本経済新聞 / Trading Economics",
+      "first_seen": "2026-06-15T12:03:00+09:00",
+      "issue": "2026-06-15-1203"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil/jun15-2026-blockade-lift",
+      "title": "原油は封鎖解除指示で需給正常化観測強まり一段安、ブレント1バレル85ドル前後・WTIは14日に前日比約3.2%安の84ドル台へ、いずれも3月初旬以来の安値圏(2026年高値から2割超の調整) — 米海軍ホルムズ封鎖解除指示と海峡再開見通しで地政学プレミアム剥落、世界海上輸送原油の約2割が通る海峡正常化なら供給途絶リスク一段とはがれ需給緩和、ただし19日署名完了まで部分的に海上封鎖維持・イスラエルの出方で再緊張の可能性も",
+      "topic_key": "oil-brent-85-wti-84-3month-low-hormuz-blockade-lift-supply-normalize-jun15-2026",
+      "source": "Trading Economics / CBS News",
+      "first_seen": "2026-06-15T12:03:00+09:00",
+      "issue": "2026-06-15-1203"
+    },
+    {
+      "url_normalized": "goldsilver.com/industry-news/article/gold-price-outlook-june-2026/",
+      "title": "金はFOMC前に1トロイオンス4,100ドル台半ばで神経質 — 中東和平進展でリスク選好強まり逃避需要は後退しやすい一方、米5月CPI・PPI高止まりと利下げ観測後退で実質金利高止まりが利息を生まぬ金に逆風、16-17日のウォーシュ新議長初FOMCとドットプロット次第で金利・ドル・金が大きく振れる可能性、中長期は各国中銀の継続購入と地政学・財政不確実性が下支え、年末予想はゴールドマン5,400/JPモルガン約6,000/UBS5,500ドルと現値超",
+      "topic_key": "gold-4150-fomc-eve-peace-riskon-vs-real-yields-banks-target-5400-6000-jun15-2026",
+      "source": "GoldSilver / Trading Economics",
+      "first_seen": "2026-06-15T12:03:00+09:00",
+      "issue": "2026-06-15-1203"
+    },
+    {
+      "url_normalized": "stats.gov.cn/english/PressRelease/may-2026-activity-data",
+      "title": "中国5月の主要経済指標、内需に弱さ続く — 小売売上高は前年同月比マイナス圏(予想小幅上回るも前年割れ)で内需の弱さ鮮明、鉱工業生産は前年比プラスへ持ち直し・固定資産投資は前年比6%台と底堅さ、全国調査失業率5.9%、対イラン戦争に伴う原油高・輸出環境の不確実性が重しも和平進展でコスト上振れ懸念和らげば製造業に追い風の可能性、世界2位の内需弱さはコモディティ需要やアジア輸出企業に波及、米中追加関税(期限7/24)とG7対中通商論議も焦点",
+      "topic_key": "china-may-2026-data-retail-negative-ipy-rebound-fai-6pct-jobless-59-iran-war-jun15-2026",
+      "source": "中国国家統計局 / CNBC",
+      "first_seen": "2026-06-15T12:03:00+09:00",
+      "issue": "2026-06-15-1203"
     }
   ]
 }

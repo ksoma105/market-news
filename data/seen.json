@@ -1,70 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
-      "title": "スペースXがナスダックでデビュー、公開価格135ドルに対し初値150ドル・終値は約19%高の161ドル前後 — 取引開始直後に一時20%超高、日中150〜176ドルの荒い値動き、この水準の時価総額は約1.9兆ドルで上場初日にしてテスラ超え、需要が供給株数の4倍超で個人は注文殺到・証券システム混雑、史上最大IPOが好発進、来週以降の値固まりが焦点",
-      "topic_key": "spacex-spcx-debut-close-161-up19-tesla-jun12-2026",
-      "source": "CNBC / TradingView",
-      "first_seen": "2026-06-13T06:00:00+09:00",
-      "issue": "2026-06-13-0600"
-    },
-    {
-      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-12-2026-close",
-      "title": "米株3指数そろって上昇で引け、ダウ+353.51ドル(+0.7%)の5万1,202.26/S&P500+0.5%の7,431.46/ナスダック+0.31%の2万5,888.84 — スペースX上場初日急騰と米イラン和平接近期待が追い風、週間では5月CPI+4.2%・PPI+6.5%の高インフレ確認で16-17日FOMCは据え置き見込み・年内利下げ観測後退、インフレ警戒と和平原油安の綱引き",
-      "topic_key": "us-stocks-close-jun12-dow-51202-sp-7431-nasdaq-spacex-2026",
-      "source": "TheStreet / CNBC",
-      "first_seen": "2026-06-13T06:00:00+09:00",
-      "issue": "2026-06-13-0600"
-    },
-    {
-      "url_normalized": "cnn.com/2026/06/12/economy/us-consumer-sentiment-inflation-june",
-      "title": "米ミシガン大消費者態度指数6月速報48.9と過去最低の5月44.8から約9%改善・3カ月ぶり上昇 — 2月以降のイラン戦争エネルギー高の重しが和らぎガソリン安で家計心理回復、改善は年齢・学歴・支持政党問わず幅広く低所得層で顕著、ただし1月比13%・前年比約20%低い歴史的低水準、予想インフレ率は1年先4.6%/5-10年先3.4%と高止まり、確報は26日",
-      "topic_key": "us-michigan-sentiment-jun-prelim-489-3month-rise-gas-2026",
-      "source": "CNN Business / FXStreet",
-      "first_seen": "2026-06-13T06:00:00+09:00",
-      "issue": "2026-06-13-0600"
-    },
-    {
-      "url_normalized": "rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
-      "title": "米イラン和平は最終局面も未決着、政権高官『大枠・詳細とも一致するが署名まで合意は成立せず・到達度は約75%』、別高官は数日内署名の確率80%、仲介のパキスタン・シャリフ首相『最終文書に到達』 — 合意はホルムズ再開放・米海上封鎖解除・イラン核計画解体と濃縮ウラン搬出が柱、一方12日早朝に米軍がホルムズ付近でイラン無人機2機撃墜(通航船への発砲受け)、イラン外務省は『最終決定なお至らず』と慎重",
-      "topic_key": "us-iran-deal-75-80pct-pakistan-final-text-2drones-jun12-2026",
-      "source": "RFE/RL / CNBC",
-      "first_seen": "2026-06-13T06:00:00+09:00",
-      "issue": "2026-06-13-0600"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
-      "title": "原油続落、WTI▲3.2%の1バレル84.88ドル・ブレント▲3.4%の87.33ドル — イランの和平前向き姿勢でホルムズ通航再開期待強まり地政学プレミアム剥落、2026年高値から2割超の調整、署名完了まで海上封鎖維持で輸送正常化に時間との慎重論も、金は1トロイオンス4,210ドル前後で小動き(和平リスク選好が安全資産需要抑える半面5月PPI+6.5%の高インフレ警戒が下値支え)、来週FOMC・日銀控え神経質",
-      "topic_key": "oil-wti-8488-brent-8733-peace-gold-4210-jun12-2026",
-      "source": "CNBC / Trading Economics",
-      "first_seen": "2026-06-13T06:00:00+09:00",
-      "issue": "2026-06-13-0600"
-    },
-    {
-      "url_normalized": "chase.com/personal/investments/learning-and-insights/article/kevin-warsh-first-federal-reserve-meeting-as-chair-june-2026",
-      "title": "来週16-17日は日米中銀ウィーク、FOMCはウォーシュ新議長(5月22日就任・第17代)初会合 — 金利3.50-3.75%据え置きほぼ確実だが焦点はドットプロット廃止観測、同氏は『フォワードガイダンスを信じない』と公言、現行見通しに残る2026年内0.25%利下げ1回分は5月PPI+6.5%受け消える公算、市場は年末利下げより利上げ見込む声、枠組み変更でボラ高まる懸念、同週に日銀も31年ぶり高水準への利上げ取り沙汰",
-      "topic_key": "fomc-jun16-17-warsh-debut-dot-plot-scrap-no-guidance-2026",
-      "source": "Chase / IndexBox",
-      "first_seen": "2026-06-13T12:00:00+09:00",
-      "issue": "2026-06-13-1200"
-    },
-    {
-      "url_normalized": "nasdaq.com/articles/tech-wreck-or-valuation-reset-rotating-value-2026",
-      "title": "米株でテック離れの循環物色が鮮明、ナスダック軟調・ダウ相対底堅くで方向感分かれる — 2025年急騰のAI関連に割高感広がりブーム過熱和らぐ、資金は金融・資本財・生活必需品・エネルギーへ、金融セクターETF堅調の一方で半導体ETFは2%超下落の日も、来週中銀ウィークで金利先高観強まれば成長株に逆風・バリュー株に追い風となりやすく資金流れの継続が焦点",
-      "topic_key": "us-stocks-tech-to-value-rotation-financials-semis-drop-jun12-2026",
-      "source": "Nasdaq / Stock Market Watch",
-      "first_seen": "2026-06-13T12:00:00+09:00",
-      "issue": "2026-06-13-1200"
-    },
-    {
-      "url_normalized": "cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html",
-      "title": "中国でデフレ圧力後退、ホルムズ混乱のエネルギー高が長年の物価下押しを和らげる — メーカーの投入コスト転嫁で5月PPIが前年比約4年ぶり高い伸びの見方、CPIも小幅プラス圏、輸出はAI・再エネ需要で5月対米輸出が約5年ぶり高い伸び、ただしコスト主導で内需回復伴わず不動産低迷など構造課題残る、来週米イラン和平成立でエネルギー一段安なら物価反転は一時的の可能性",
-      "topic_key": "china-deflation-retreat-hormuz-energy-ppi-4yr-high-exports-jun-2026",
-      "source": "CNBC / Oxford Economics",
-      "first_seen": "2026-06-13T12:00:00+09:00",
-      "issue": "2026-06-13-1200"
-    },
-    {
       "url_normalized": "finance.yahoo.com/economy/policy/articles/us-iran-edge-toward-interim-145946261.html",
       "title": "G7サミットが15〜17日にフランス・エビアンで開幕、米イラン和平の覚書(MOU)署名の舞台になるとの観測 — 政権高官は合意確率を「8〜8割5分」と表明、MOUにホルムズ海峡全面再開・イラン産原油の港湾封鎖解除を明記、ただし署名の時期・場所は未定、経済議題はマクロ不均衡(中国の過剰生産・米国の過剰消費・欧州の過少投資)是正とエネルギー安全保障・重要鉱物・サプライチェーン多様化",
       "topic_key": "g7-evian-summit-jun15-17-iran-deal-signing-venue-macro-imbalance-2026",
@@ -334,6 +270,46 @@
       "source": "Trading Economics / Yahoo Finance",
       "first_seen": "2026-06-16T06:03:00+09:00",
       "issue": "2026-06-16-0603"
+    },
+    {
+      "url_normalized": "nikkei.com/article/dgkkzo96813460q6a610c2mm8000",
+      "title": "日銀、政策金利を1.0%へ約31年(1995年9月以来)ぶり利上げを決定、0.75→1.0%へ0.25%引き上げ — 昨年12月以来の追加利上げ、賛成多数、長期国債買入れの減額もいったん停止",
+      "topic_key": "boj-hike-1.0-decided-2026-06-16",
+      "source": "日本経済新聞/神奈川新聞",
+      "first_seen": "2026-06-16T12:03:00+09:00",
+      "issue": "2026-06-16-1203"
+    },
+    {
+      "url_normalized": "fx.minkabu.jp/news/370317",
+      "title": "利上げ受けた円相場・東京市場 — 会合前は和平ドル安と警戒で円買い先行(週初160円台前半から修正)、焦点は内田副総裁会見のタカ派度、出尽くし円売り観測と155円程度予想",
+      "topic_key": "yen-tokyo-reaction-boj-hike-2026-06-16",
+      "source": "みんかぶFX/日本経済新聞",
+      "first_seen": "2026-06-16T12:03:00+09:00",
+      "issue": "2026-06-16-1203"
+    },
+    {
+      "url_normalized": "nbcnews.com/news/us-news/deal-reached-united-states-iran-war-rcna350039",
+      "title": "米イラン和平、19日署名へ最終調整 — 覚書は停戦60日延長・署名と同時にホルムズ封鎖解除/海峡再開・レバノン戦闘停止、カタール仲介団テヘラン入り、英スターマー/トルコ歓迎、核問題は先送り",
+      "topic_key": "us-iran-deal-june19-signing-prep-2026-06-16",
+      "source": "NBC News/Al Jazeera",
+      "first_seen": "2026-06-16T12:03:00+09:00",
+      "issue": "2026-06-16-1203"
+    },
+    {
+      "url_normalized": "mitrade.com/au/insights/others/cfd-trading/fed-interest-rate-decision-2026",
+      "title": "FOMC本日16日開幕、ウォーシュ新議長初采配 — 政策金利3.50-3.75%据え置き約97%織込もも年内利上げ観測7割前後、5月CPI前年比4.2%(2023年4月以来高)・エネルギー約23.5%上昇",
+      "topic_key": "fomc-warsh-first-meeting-open-2026-06-16",
+      "source": "Mitrade/GoldSilver",
+      "first_seen": "2026-06-16T12:03:00+09:00",
+      "issue": "2026-06-16-1203"
+    },
+    {
+      "url_normalized": "goldsilver.com/industry-news/article/gold-price-outlook-june-2026",
+      "title": "金・銀はFOMC前に小反落 — 金は1トロイオンス4,300ドル前後(前日4,330ドル台から)、銀は70ドル台から65ドル近辺へ、和平でリスク選好強まり逃避需要後退+ポジション調整",
+      "topic_key": "gold-silver-pullback-pre-fomc-2026-06-16",
+      "source": "GoldSilver/Trading Economics",
+      "first_seen": "2026-06-16T12:03:00+09:00",
+      "issue": "2026-06-16-1203"
     }
   ]
 }

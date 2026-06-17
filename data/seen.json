@@ -323,6 +323,54 @@
       "source": "GoldSilver / FXEmpire",
       "first_seen": "2026-06-17T22:03:00+09:00",
       "issue": "2026-06-17-2203"
+    },
+    {
+      "url_normalized": "foxbusiness.com/economy/federal-reserve-interest-rate-decision-june-17-2026",
+      "title": "FOMCは据え置きもドットプロットがタカ派転換、政策金利3.50-3.75%を全会一致(12対0)で4会合連続据え置き — 見通し提出18人中9人が年内利上げ見込み(うち6人は2回)で市場は年内0.25%利上げをほぼ完全に織込、年末PCE予想3.6%へ上方修正(3月2.7%)・GDP2.2%・失業率4.3%、ウォーシュ議長は声明短縮しフォワードガイダンス撤廃・『本日利上げ必要と感じた委員はいない』・自身のドット提出見送り",
+      "topic_key": "fomc-jun17-hold-hawkish-dots-9of18-hike-pce36-warsh-no-dot-2026",
+      "source": "Fox Business / TheStreet",
+      "first_seen": "2026-06-18T06:03:00+09:00",
+      "issue": "2026-06-18-0603"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-17-2026",
+      "title": "米株は3指数そろって下落、年内利上げ観測の台頭でナスダック総合約1.3%安・S&P500約1.2%安・ダウ約1.0%安・ラッセル2000約0.7%安 — 直前まで連日最高値だった米株にタカ派ドットが逆風、18人中9人の年内利上げ見通しで金利上昇に敏感なハイテク・グロース売り、ウォーシュ議長の『本日利上げ求めた委員なし』も警戒和らがず",
+      "topic_key": "us-stocks-fall-3indices-hawkish-dots-nasdaq-13-jun17-2026",
+      "source": "TheStreet / Yahoo Finance",
+      "first_seen": "2026-06-18T06:03:00+09:00",
+      "issue": "2026-06-18-0603"
+    },
+    {
+      "url_normalized": "investing.com/news/forex-news/dollar-strong-after-hawkish-fed-signals-yen-slips-past-160-as-iran-fears-grow-4647654",
+      "title": "ドル高・円安で介入警戒強まる、ドル円160円台で高止まり — タカ派FOMCでドル底堅く日銀1.0%利上げ後も内外金利差からキャリー継続、年内米利上げ観測で円上値一段と重く介入警戒水準、東京は前日17日に日経5日続伸・終値6万9902円で3日連続最高値・一時7万円台も本日18日は米株安受け先物が現物終値下回り上値重い展開予想",
+      "topic_key": "usdjpy-160-intervention-watch-hawkish-fed-tokyo-heavy-jun18-2026",
+      "source": "Investing.com / Trading Economics",
+      "first_seen": "2026-06-18T06:03:00+09:00",
+      "issue": "2026-06-18-0603"
+    },
+    {
+      "url_normalized": "indexbox.io/blog/gold-edges-higher-silver-slips-as-markets-await-fed-decision-and-us-iran-oil-deal-progress/jun17-oil",
+      "title": "原油は安値圏が続く、ブレント1バレル80ドル割れ・WTI70ドル台半ば、3カ月ぶり安値圏 — イランのタンカー出荷再開とホルムズ海峡再開で供給正常化観測が重し、19日署名後にイラン原油輸出本格再開見通しで需給緩和の見方、タカ派FOMCのドル高も下押し要因、機雷除去・保険/運航回復には数カ月との慎重論も",
+      "topic_key": "oil-brent-sub80-wti-mid70s-3month-low-iran-tankers-restart-jun17-2026",
+      "source": "IndexBox / Trading Economics",
+      "first_seen": "2026-06-18T06:03:00+09:00",
+      "issue": "2026-06-18-0603"
+    },
+    {
+      "url_normalized": "npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates-jun18",
+      "title": "米イラン署名式は19日スイスで最終調整、停戦60日延長しその間に恒久終結めざす — 柱は双方のホルムズ封鎖解除と湾岸原油輸送再開、ガリバビ外務次官は『署名まで履行せず』、核問題など重要論点は次回協議へ先送り、英仏独伊の欧州主要国も合意歓迎しホルムズ早期再開とレバノン主権支持を表明",
+      "topic_key": "us-iran-signing-jun19-switzerland-60day-europe-welcomes-jun18-2026",
+      "source": "NPR / PBS News",
+      "first_seen": "2026-06-18T06:03:00+09:00",
+      "issue": "2026-06-18-0603"
+    },
+    {
+      "url_normalized": "goldsilver.com/industry-news/article/gold-price-outlook-june-2026/jun18-hawkish",
+      "title": "金・銀は金利上昇が重し、金1トロイオンス4,330ドル台で一進一退・銀70ドル前後から65ドル近辺へ — タカ派ドットで米長期金利/ドル底堅く利息生まぬ金に逆風(実質金利上昇で保有コスト増)、原油安のインフレ緩和・中銀購入・地政学/財政不確実性は中長期下支え、FOMC通過で当面は見出しより金利・ドルのファンダ主導の値動きへ",
+      "topic_key": "gold-4330-silver-65-real-yields-headwind-post-fomc-jun18-2026",
+      "source": "GoldSilver / IndexBox",
+      "first_seen": "2026-06-18T06:03:00+09:00",
+      "issue": "2026-06-18-0603"
     }
   ]
 }

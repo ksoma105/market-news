@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "nbcnews.com/world/iran/us-iran-deal-expected-reopen-strait-hormuz-signed-days-both-sides-say-rcna349916",
-      "title": "米イラン和平、トランプ氏が「日曜署名」を表明 — 署名と同時にホルムズ海峡を全面開放と明言、パキスタンは24時間以内の最終合意に言及、覚書は制裁解除・米軍撤収・海上封鎖解除・海峡再開が柱、核問題は署名後60日間で別途協議に先送り",
-      "topic_key": "us-iran-deal-scheduled-sunday-signing-hormuz-open-to-all-60day-nuclear-jun13-2026",
-      "source": "NBC News / Al Jazeera",
-      "first_seen": "2026-06-14T06:00:00+09:00",
-      "issue": "2026-06-14-0600"
-    },
-    {
-      "url_normalized": "techtimes.com/articles/318327/20260613/g7-summit-2026-iran-hormuz-deal-tariff-deadline-rare-earth-crisis-hit-evian.htm",
-      "title": "G7エビアン・サミット15日開幕、通商議題が柱に — 7月24日に迫る米追加関税の期限、中国のレアアース輸出規制、産業の過剰生産能力(セクション301調査継続)が焦点、包括宣言は見送りで分野別の重要鉱物サプライチェーン成果文書を積み上げる見通し",
-      "topic_key": "g7-evian-opens-jun15-trade-tariff-cliff-jul24-rare-earth-overcapacity-section301-2026",
-      "source": "Tech Times / Atlantic Council",
-      "first_seen": "2026-06-14T06:00:00+09:00",
-      "issue": "2026-06-14-0600"
-    },
-    {
-      "url_normalized": "cnn.com/2026/06/12/world/live-news/iran-war-trump-israel",
-      "title": "和平の波乱要因はイスラエル — イランの凍結資産の解除を阻止するよう米国に要求、ネタニヤフ氏「私が首相である限りイランは核兵器を保有しない」、カッツ国防相はレバノン南部からの撤収を拒否、イランは攻撃継続なら報復再開と警告",
-      "topic_key": "israel-press-us-block-iran-asset-unfreeze-lebanon-no-withdraw-jun13-2026",
-      "source": "CNN / TIME",
-      "first_seen": "2026-06-14T06:00:00+09:00",
-      "issue": "2026-06-14-0600"
-    },
-    {
-      "first_seen": "2026-06-14T12:00:00+09:00",
-      "title": "週明けは日米欧の中央銀行ウィーク、5中銀が相次ぎ決定 — 日銀は16日に0.75→1.0%へ約31年ぶり利上げ観測(ロイター調査34人中28人)、FOMCは16-17日ウォーシュ新議長初会合で3.50-3.75%据置濃厚(CME利上げ確率0.6%)・年内利上げ確率約70%",
-      "url": "https://www.fxstreet.com/analysis/week-ahead-central-bank-barrage-ahead-fed-boj-rba-snb-and-boe-in-focus-202606120804"
-    },
-    {
-      "first_seen": "2026-06-14T12:00:00+09:00",
-      "title": "G7エビアン15日開幕、結束より対立が前面 — 米が欧州向けNATO航空機・艦艇の大幅削減を通告、トランプ氏は湾岸対応で欧州に不満、共同声明見送り公算・対中追加関税の期限7月24日も火種",
-      "url": "https://gulfnews.com/world/europe/g7-summit-set-for-tense-showdown-with-trump-1.500573054"
-    },
-    {
-      "first_seen": "2026-06-14T12:00:00+09:00",
-      "title": "米イラン和平は本号時点でなお署名待ち、トランプ氏は日曜署名・ホルムズ全船開放を明言もイランは時期に慎重 — 原油はブレント87-88ドルと約2カ月ぶり安値圏で確報待ち、核問題は署名後60日協議に先送り",
-      "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html"
-    },
-    {
-      "url_normalized": "nbcnews.com/world/iran/us-iran-deal-expected-reopen-strait-hormuz-signed-days-jun14",
-      "title": "米イラン和平の『日曜署名』なお未確認、イラン外務省バゲイ報道官は14日署名の可能性は低いと当日署名に慎重(近くとはする) — 段取りで新情報、パキスタン主導で電子署名準備しまず遠隔署名・後日対面調印案、米側はバンス副大統領とウィトコフ特使が代表の見通し、覚書はホルムズ即時開放/米のイラン港湾封鎖解除/約250億ドル凍結資産解放/石油制裁免除/60日停戦延長が柱・核問題は先送り",
-      "topic_key": "iran-deal-sunday-signing-unconfirmed-baqaei-virtual-vance-witkoff-25bn-jun14-2026",
-      "source": "NBC News / CNBC",
-      "first_seen": "2026-06-14T22:00:00+09:00",
-      "issue": "2026-06-14-2200"
-    },
-    {
-      "url_normalized": "consilium.europa.eu/g7-evian-2026-06-15-17-preview",
-      "title": "G7エビアン・サミット明日15日開幕(15-17日・仏エビアン) — 議長国仏は包括的共同声明を昨年に続き2年連続見送り公算で分野別成果文書積み上げの慎重運営、議題はイラン/ホルムズ和平・ウクライナ・対中通商、米追加関税の期限7月24日が接近、中国レアアース輸出規制は影響各経済圏で各推計1.5兆ドル規模のコストとの試算、対NATO関与縮小通告で同盟国と摩擦",
-      "topic_key": "g7-evian-eve-opens-jun15-no-communique-tariff-cliff-jul24-rareearth-15tn-2026",
-      "source": "European Council / Council on Foreign Relations",
-      "first_seen": "2026-06-14T22:00:00+09:00",
-      "issue": "2026-06-14-2200"
-    },
-    {
-      "url_normalized": "investing.com/boj-fomc-cbweek-jun15-17-2026-preview",
-      "title": "週明けは日米欧の中銀ウィーク — 日銀15-16日に0.75→1.0%へ約31年(1995年以来)ぶり利上げ観測が大勢でドル円160円台修正が焦点・植田総裁は入院欠席も決定影響は限定的、FOMC16-17日はウォーシュ新議長初采配で3.50-3.75%据え置き織込98-99%・ドットプロットの緩和バイアス→中立転換度合いが見どころ、RBAは4.35%据え置き有力、BOE/SNBも決定",
-      "topic_key": "cbweek-open-boj16-hike-1pct-fomc16-17-warsh-debut-rba-jun14-2026",
-      "source": "Reuters/Investing.com / Chase",
-      "first_seen": "2026-06-14T22:00:00+09:00",
-      "issue": "2026-06-14-2200"
-    },
-    {
       "url_normalized": "nbcnews.com/world/iran/israel-strikes-beiruts-southern-suburbs-days-ceasefire-agreement-rcna348847",
       "title": "米イラン和平の『日曜署名』が土壇場で暗転 — 14日朝にイスラエルがベイルート南郊ダヒエを米国の自制要請を無視して空爆(死者2〜3人・負傷15〜20人)、これに対しイランIRGCが同日夜10時頃イスラエルのラマトダビド空軍基地へ弾道ミサイルを発射(4/8停戦以降初の直接攻撃)、15日未明にイスラエルがイラン中西部へ大規模報復で4/8以降最悪の応酬、トランプ氏はイスラエルを非難し『合意はあと数時間』『失敗するな』と署名続行を主張・遅延は数時間と説明、イラン交渉責任者ガリバフ氏は強く非難",
       "topic_key": "israel-beirut-strike-iran-missile-ramat-david-israel-strikes-iran-deal-jeopardy-jun14-2026",
@@ -338,6 +275,54 @@
       "url_normalized": "ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611",
       "title": "欧州の利上げ本日17日発効、ECBが11日に2023年以来初の0.25%利上げで中銀預金金利2.25%(MRO2.40%/限界貸出2.65%)・中東インフレ理由、英BoEは4.25%据え置き(5月CPI3.4%)、主要中銀の政策方向分かれる",
       "first_seen": "2026-06-17T12:02:00+09:00"
+    },
+    {
+      "url_normalized": "conference-board.org/research/global-economy-briefs/fomc-preview-june-2026",
+      "title": "FOMC結果は日本時間18日未明判明、ウォーシュ新議長初采配で3.50-3.75%据え置き99%超織込(4会合連続) — 焦点はドットプロットで3月の年内1回利下げ→利下げゼロへ書換観測、少なくとも3委員が年内利上げを個別ドットで示すとの見方・ウォーシュ議長は自身のドット提出見送りの可能性、5月CPI4.2%",
+      "topic_key": "fomc-result-jun18-jst-warsh-dot-plot-cut-erased-3-hike-dots-warsh-no-dot-2026",
+      "source": "Conference Board / Tech Times",
+      "first_seen": "2026-06-17T22:03:00+09:00",
+      "issue": "2026-06-17-2203"
+    },
+    {
+      "url_normalized": "benzinga.com/markets/equities/26/06/53243117/stock-market-today-dow-jones-futures-tumble-sp-500-gains-as-investors-await-fomc-decision",
+      "title": "米株はFOMC前にまちまち、寄り前にダウ先物下落・ナスダック100/S&P500先物高、QQQ+0.7%でハイテク押し目買い — 前日16日はダウ連日最高値(5万2000ドル目前)・ナス/S&P小反落の物色濃淡、米10年債4.44%/2年債4.05%、据置99%超織込で結果待ちの様子見",
+      "topic_key": "us-stocks-mixed-pre-fomc-dow-futures-down-nasdaq-up-10y-444-2y-405-jun17-2026",
+      "source": "Benzinga / TheStreet",
+      "first_seen": "2026-06-17T22:03:00+09:00",
+      "issue": "2026-06-17-2203"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOUB170FNTX10C26A6000000/",
+      "title": "東京市場は日経が5日続伸、前日比497.75円(0.72%)高の6万9902.25円で3日連続終値最高値・ザラ場一時7万円台 — 日銀利上げ/G7を波乱なく通過の安心感と原油安によるインフレ/景気減速懸念後退で半導体・AI中心に買い優勢、ドル円160円台前半で介入警戒の高止まり、18日未明FOMC控え",
+      "topic_key": "tokyo-nikkei-5day-rise-69902-3rd-record-close-7man-intraday-usdjpy160-jun17-2026",
+      "source": "日本経済新聞 / THE GOLD ONLINE",
+      "first_seen": "2026-06-17T22:03:00+09:00",
+      "issue": "2026-06-17-2203"
+    },
+    {
+      "url_normalized": "oilprice.com/Energy/Energy-General/Hormuz-Reopens-as-Traders-Price-Out-the-War-Premium.html",
+      "title": "原油は4日続落で3カ月ぶり安値、ブレント1バレル79ドル前後(2026年高値から約4割安) — 米イラン和平でホルムズ封鎖解除・海峡正常化観測が供給増期待で売り、19日署名後にイラン原油輸出再開見通し、ゴールドマンはブレントQ4平均見通しを10ドル下げ80ドルへ下方修正、海運各社は持続性を慎重視",
+      "topic_key": "oil-brent-79-4day-fall-3month-low-hormuz-reopen-goldman-cut-q4-80-jun17-2026",
+      "source": "OilPrice / Trading Economics",
+      "first_seen": "2026-06-17T22:03:00+09:00",
+      "issue": "2026-06-17-2203"
+    },
+    {
+      "url_normalized": "business-standard.com/world-news/us-iran-reach-deal-to-end-war-signing-set-for-june-19-in-switzerland-126061500032",
+      "title": "米イラン署名式は19日スイスのビュルゲンシュトック・リゾートで(パキスタン/カタール仲介) — 柱はホルムズ即時再開/米海上封鎖解除/全戦線停止/凍結資産解放/石油制裁免除、署名後60日間で核濃縮上限など包括合意の核心を継続協議、覚書はトランプ/バンス/ガリバフ議長が署名済みで19日に正式暫定合意との報も、イスラエルは深い失望で再緊張リスク残る",
+      "topic_key": "us-iran-signing-jun19-burgenstock-switzerland-hormuz-60day-talks-2026",
+      "source": "Business Standard / RFE/RL",
+      "first_seen": "2026-06-17T22:03:00+09:00",
+      "issue": "2026-06-17-2203"
+    },
+    {
+      "url_normalized": "goldsilver.com/industry-news/article/gold-price-outlook-june-2026/jun17",
+      "title": "金・銀はFOMC前で方向感欠く、金1トロイオンス4,336ドル前後で最高値圏も一進一退・銀は前週70ドル台から65ドル近辺へ弱含み — 和平でリスク選好強まり逃避需要後退が上値抑制、原油安/ドル安/中銀購入は下支え、結果公表後は見出しより金利・ドルのファンダ主導の値動きへ移行との見方",
+      "topic_key": "gold-4336-silver-65-directionless-pre-fomc-fundamentals-shift-jun17-2026",
+      "source": "GoldSilver / FXEmpire",
+      "first_seen": "2026-06-17T22:03:00+09:00",
+      "issue": "2026-06-17-2203"
     }
   ]
 }

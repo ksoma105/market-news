@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "finance.yahoo.com/economy/policy/articles/us-iran-edge-toward-interim-145946261.html",
-      "title": "G7サミットが15〜17日にフランス・エビアンで開幕、米イラン和平の覚書(MOU)署名の舞台になるとの観測 — 政権高官は合意確率を「8〜8割5分」と表明、MOUにホルムズ海峡全面再開・イラン産原油の港湾封鎖解除を明記、ただし署名の時期・場所は未定、経済議題はマクロ不均衡(中国の過剰生産・米国の過剰消費・欧州の過少投資)是正とエネルギー安全保障・重要鉱物・サプライチェーン多様化",
-      "topic_key": "g7-evian-summit-jun15-17-iran-deal-signing-venue-macro-imbalance-2026",
-      "source": "Yahoo Finance / Bloomberg / CFR",
-      "first_seen": "2026-06-13T22:00:00+09:00",
-      "issue": "2026-06-13-2200"
-    },
-    {
-      "url_normalized": "investing.com/news/economy-news/bank-of-japan-set-to-hike-rates-to-31year-high-drop-hawkish-signals-4738716",
-      "title": "日銀が16日に政策金利を0.75→1.0%へ利上げ、1995年以来31年ぶり高水準の観測 — 中東発エネルギー高・円安の輸入コスト・人手不足によるインフレ上振れが背景、ロイター調査は10〜12月に1.25%への追加利上げ見込みが多数、植田総裁は肝のう胞感染症治療で約2週間入院し会合欠席、会見は内田眞一副総裁が代行",
-      "topic_key": "boj-jun16-hike-075to10-31yr-high-ueda-hospitalized-uchida-briefing-2026",
-      "source": "Investing.com / Reuters / Yahoo Finance",
-      "first_seen": "2026-06-13T22:00:00+09:00",
-      "issue": "2026-06-13-2200"
-    },
-    {
-      "url_normalized": "time.com/article/2026/06/08/israel-iran-war-direct-attacks-latest-ceasefire-trump-netanyahu-lebanon",
-      "title": "米イラン和平の最大の波乱要因はイスラエル — ネタニヤフ首相は攻撃停止も停戦は明言せず「砲火再開なら力で応じる」と強硬、追加攻撃を選好と報道、トランプ氏は「攻撃継続なら孤立する・ビビ、独りになるぞ」と自制を警告、イランは「米国が誠実なら協議継続に問題なし」も核凍結・濃縮ウラン引渡しで隔たり、決裂なら地政学プレミアム巻き戻しリスク",
-      "topic_key": "israel-netanyahu-wildcard-iran-deal-trump-warning-isolated-jun13-2026",
-      "source": "TIME / CNN",
-      "first_seen": "2026-06-13T22:00:00+09:00",
-      "issue": "2026-06-13-2200"
-    },
-    {
-      "url_normalized": "bloomberg.com/markets-weekahead-jun13-2026",
-      "title": "来週の市場展望: ドルへの強気度が2025年2月以来約1年4カ月ぶり高水準、米インフレ高止まりと年内利下げ観測後退が背景 — 原油はブレント87〜88ドルと約2カ月ぶり安値(2026年高値から2割超安)、米株は和平期待で上昇基調も5月PPI前年比6.5%で利上げ警戒くすぶり月間では下落圏、来週はG7署名の有無・FOMC(ウォーシュ初会合でドットプロット廃止観測)・日銀利上げが集中し変動拡大に警戒",
-      "topic_key": "market-weekahead-dollar-bullish-16mo-oil-2mo-low-cbweek-jun13-2026",
-      "source": "Bloomberg / CNBC",
-      "first_seen": "2026-06-13T22:00:00+09:00",
-      "issue": "2026-06-13-2200"
-    },
-    {
       "url_normalized": "nbcnews.com/world/iran/us-iran-deal-expected-reopen-strait-hormuz-signed-days-both-sides-say-rcna349916",
       "title": "米イラン和平、トランプ氏が「日曜署名」を表明 — 署名と同時にホルムズ海峡を全面開放と明言、パキスタンは24時間以内の最終合意に言及、覚書は制裁解除・米軍撤収・海上封鎖解除・海峡再開が柱、核問題は署名後60日間で別途協議に先送り",
       "topic_key": "us-iran-deal-scheduled-sunday-signing-hormuz-open-to-all-60day-nuclear-jun13-2026",
@@ -340,6 +308,36 @@
       "url_normalized": "goldsilver.com/industry-news/article/silver-price-outlook-june-2026/",
       "title": "金・銀はFOMC前で神経質 — 金1トロイオンス4,300-4,360ドルで一進一退、銀は70ドル台から65ドル近辺へ、和平でリスク選好強まり逃避需要後退・持高調整が上値抑制、ドル安/中銀購入は中長期支援",
       "first_seen": "2026-06-16T22:00:00+09:00"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026",
+      "title": "米株は火曜まちまち、ダウが約329ドル高で5万2,000ドル目前の連日最高値・一方ナスダックは1.15%安26,376/S&P500も0.08%安7,548.60・ラッセル2000も下落、FOMC前にハイテク売り",
+      "first_seen": "2026-06-17T12:02:00+09:00"
+    },
+    {
+      "url_normalized": "conference-board.org/research/global-economy-briefs/fomc-preview-june-2026",
+      "title": "FOMC結果は日本時間18日未明(米東部17日午後2時SEP/ドットプロット・2時半ウォーシュ初会見)、政策金利3.50-3.75%据え置きほぼ確実(利上げ確率1%未満)、3月の最後の利下げ見通し削除が焦点・5月CPI4.2%",
+      "first_seen": "2026-06-17T12:02:00+09:00"
+    },
+    {
+      "url_normalized": "kabutan.jp/news/marketnews/?b=n202606170115",
+      "title": "東京市場は日銀利上げ後も最高値うかがう、17日朝のドル円160円22-24銭の小動き(16日終値160.35円)・ユーロ円186円台前半、前日の日経平均終値6万9,404円(4日続伸・連日最高値)17日も70,020円超え試す見通し",
+      "first_seen": "2026-06-17T12:02:00+09:00"
+    },
+    {
+      "url_normalized": "fortune.com/article/price-of-oil-06-16-2026/",
+      "title": "原油は火曜も続落、ブレント3%超安の1バレル80-81ドル・WTI4%超安で78ドル割れ、3カ月ぶり安値圏(2026年高値から2割超安)、19日米イラン署名でホルムズ再開・増産観測強まり売り",
+      "first_seen": "2026-06-17T12:02:00+09:00"
+    },
+    {
+      "url_normalized": "cnbc.com/select/the-price-of-gold-today-june-16-2026/",
+      "title": "金は4,350-4,356ドルで最高値圏・FOMC前でも底堅く、銀は前週70ドル台から65ドル近辺へ、和平でリスク選好強まり逃避需要後退が上値抑制も原油安/ドル安/中銀購入が下支え",
+      "first_seen": "2026-06-17T12:02:00+09:00"
+    },
+    {
+      "url_normalized": "ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611",
+      "title": "欧州の利上げ本日17日発効、ECBが11日に2023年以来初の0.25%利上げで中銀預金金利2.25%(MRO2.40%/限界貸出2.65%)・中東インフレ理由、英BoEは4.25%据え置き(5月CPI3.4%)、主要中銀の政策方向分かれる",
+      "first_seen": "2026-06-17T12:02:00+09:00"
     }
   ]
 }

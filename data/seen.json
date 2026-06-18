@@ -371,6 +371,54 @@
       "source": "GoldSilver / IndexBox",
       "first_seen": "2026-06-18T06:03:00+09:00",
       "issue": "2026-06-18-0603"
+    },
+    {
+      "url_normalized": "nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513",
+      "title": "米イラン覚書に両首脳が電子署名 — トランプ氏はベルサイユ宮殿でのマクロン氏との会食中に署名・ペゼシュキアン氏も電子署名、覚書は軍事行動の即時かつ恒久停止を表明し60日間(延長可)で最終合意協議、ホルムズ海峡はイランが60日間に限り商業船の無償通航を認めその後オマーンと将来管理を協議、19日スイスはバンス副大統領出席の儀礼的調印、核問題/制裁/凍結資産は先送り",
+      "topic_key": "us-iran-mou-digital-signing-versailles-hormuz-60day-free-transit-jun18-2026",
+      "source": "NBC News / swissinfo.ch",
+      "first_seen": "2026-06-18T12:02:00+09:00",
+      "issue": "2026-06-18-1202"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOFL152YJTV10C26A6000000/",
+      "title": "東京株式は6日続伸で一時7万円台 — 日経平均は前日比261円高の7万163円で寄り付き取引時間中最高値更新後に上げ幅1000円超へ拡大し一時7万900円台、前日17日終値6万9902円(5日続伸・3日連続最高値)、米イラン覚書電子署名で中東沈静化期待のリスクオン・出遅れ株が挽回・原油安も追い風、タカ派FOMCドットと前日米株安は重し",
+      "topic_key": "tokyo-nikkei-6day-rise-70000-intraday-us-iran-signing-laggards-catch-up-jun18-2026",
+      "source": "日本経済新聞 / 株式新聞Web",
+      "first_seen": "2026-06-18T12:02:00+09:00",
+      "issue": "2026-06-18-1202"
+    },
+    {
+      "url_normalized": "oanda.jp/lab-education/market_news/2026_06_18_usdjpy/",
+      "title": "ドル円は160円台半ばで介入警戒 — 18日東京は米イラン覚書署名のリスクオンでドル売り・円売り拮抗し160円60〜70銭近辺の小動き、タカ派FOMCの年内利上げ観測でドル底堅く日銀1.0%利上げ後も内外金利差からキャリー継続、160円台は政府・日銀の介入警戒水準で神経質、節目超の円安進行なら介入観測一段と強まる可能性",
+      "topic_key": "usdjpy-1606-intervention-watch-risk-on-yen-sell-hawkish-fed-jun18-2026",
+      "source": "OANDA / 日本経済新聞",
+      "first_seen": "2026-06-18T12:02:00+09:00",
+      "issue": "2026-06-18-1202"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-17-2026-final",
+      "title": "米株はFOMC後に下落（確報） — S&P500は前日比1.21%安の7,420.10、ナスダック総合1.34%安の26,021.66、ダウも下落、全11セクター安で通信2.91%安・一般消費財2.34%安、新議長就任後初のFOMC当日の下落率として1994年以来最悪、18人中9人の年内利上げ見通しでハイテク/グロース売り、10年債利回り0.06pt上昇の4.49%",
+      "topic_key": "us-stocks-fall-final-sp-742010-nasdaq-26021-worst-first-fed-day-since-1994-jun17-2026",
+      "source": "TheStreet / The Motley Fool",
+      "first_seen": "2026-06-18T12:02:00+09:00",
+      "issue": "2026-06-18-1202"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/16/us-iran-peace-agreement-oil-prices-tankers-strait-of-hormuz-transit.html",
+      "title": "原油は80ドル割れで引け — ブレント5%安の1バレル78.96ドルと3月以来初の80ドル割れ・WTI5.8%安の76.05ドル、米イラン覚書署名でホルムズ再開・イラン輸出本格再開観測が供給増警戒の重し、覚書はホルムズ60日間無償通航でタンカー各社が再配置も商船三井社長は持続性を慎重視・平時復帰に数週間〜数カ月、原油安はインフレ後退で経済に恩恵も産油国に逆風",
+      "topic_key": "oil-brent-7896-sub80-wti-7605-hormuz-reopen-tankers-cautious-jun17-2026",
+      "source": "CNBC / Trading Economics",
+      "first_seen": "2026-06-18T12:02:00+09:00",
+      "issue": "2026-06-18-1202"
+    },
+    {
+      "url_normalized": "thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-17-2026-gold",
+      "title": "金はタカ派FOMCで反落 — 前日比1.77%安の1トロイオンス4,254.65ドルで最高値圏から反落、年内利上げ示唆のドットで10年債利回り4.49%まで上昇・ドル底堅く利息生まぬ金に逆風(実質金利上昇で保有コスト増)、和平進展でリスク選好強まり逃避需要後退も上値抑制、原油安/中銀購入/地政学・財政不確実性は中長期下支え、当面は見出しより金利・ドル主導の値動きへ",
+      "topic_key": "gold-425465-fall-177pct-hawkish-fomc-real-yields-449-jun17-2026",
+      "source": "TheStreet / GoldSilver",
+      "first_seen": "2026-06-18T12:02:00+09:00",
+      "issue": "2026-06-18-1202"
     }
   ]
 }

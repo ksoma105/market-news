@@ -333,6 +333,54 @@
       "topic_key": "gold-4257-around-4300-recover-fomc-hormuz-real-yields-gsratio-60-jun18-2026",
       "source": "Trading Economics / GoldSilver",
       "first_seen": "2026-06-18T22:02:00+09:00"
+    },
+    {
+      "url_normalized": "finance.yahoo.com/markets/stocks/articles/intel-stock-rips-nearly-6-061250445.html",
+      "title": "米株続伸、半導体主導でFOMC安から反発 — SOX指数6%超高で史上最高値、インテル終値10%高・エヌビディアが寄与首位、S&P500+1.15%/ダウ+0.80%/ナスダック総合+1.5%、ただしラッセル2000は0.7%安と小型株逆行、19日は米ジューンティーンス休場",
+      "topic_key": "us-stocks-rebound-sox-record-6pct-intel-close-10-russell-down-jun18-2026",
+      "source": "TheStreet / Bloomberg",
+      "first_seen": "2026-06-19T06:02:00+09:00",
+      "issue": "2026-06-19-0602"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/united-states/currency",
+      "title": "ドル指数100.72と2025年5月以来の高値 — タカ派FOMC受け前日比約1%高の流れ継続、市場は10月利上げをほぼ完全に織り込み、10年債4.49%/2年債4.05%、英・スイス据え置きでポンド・フラン下落、ドル円160円台で介入警戒",
+      "topic_key": "dxy-10072-1yr-high-october-hike-priced-10y449-gbp-chf-weak-jun18-2026",
+      "source": "Trading Economics / 米FRB",
+      "first_seen": "2026-06-19T06:02:00+09:00",
+      "issue": "2026-06-19-0602"
+    },
+    {
+      "url_normalized": "cnbc.com/amp/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html",
+      "title": "英中銀BOE、政策金利3.75%据え置き — MPC9人中7対2、ピル・グリーン両委員が4.0%への利上げ主張、5月CPI2.8%で目標超、スイス中銀も据え置き、年内利上げ観測なお残る、FRBタカ派・ECB利上げと温度差",
+      "topic_key": "boe-hold-375-7to2-cpi28-snb-hold-yearend-hike-bets-jun18-2026",
+      "source": "CNBC / イングランド銀行",
+      "first_seen": "2026-06-19T06:02:00+09:00",
+      "issue": "2026-06-19-0602"
+    },
+    {
+      "url_normalized": "axios.com/2026/06/14/oil-prices-us-iran-war-hormuz-strait-peace-deal",
+      "title": "米イラン、本日19日ジュネーブで正式条約署名へ — 6/16MOUに続く最終段階、トランプ氏は海軍のホルムズ封鎖解除指示済み・無料通航再開見込み、ただし制裁解除/輸出量回復は即時でなく機雷除去・保険回復に数カ月との指摘",
+      "topic_key": "us-iran-formal-treaty-signing-geneva-jun19-hormuz-normalization-2026",
+      "source": "Axios / NBC News",
+      "first_seen": "2026-06-19T06:02:00+09:00",
+      "issue": "2026-06-19-0602"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/crude-oil",
+      "title": "原油は3カ月ぶり安値圏継続 — WTI75ドル前後/ブレント79ドル前後、米イラン署名・ホルムズ再開で供給増警戒、IEA27年まで供給日量800万バレル増・需要増200万バレル見込みで需給緩和、ただし海上輸送本格復帰は不透明",
+      "topic_key": "oil-wti-75-brent-79-3month-low-iran-signing-iea-supply-jun18-2026",
+      "source": "Trading Economics / 米EIA",
+      "first_seen": "2026-06-19T06:02:00+09:00",
+      "issue": "2026-06-19-0602"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/gold",
+      "title": "金は4,300ドル割れで推移 — 4,250ドル前後、タカ派FOMC後の実質金利上昇とドル指数1年ぶり高値が重し、中東和平で逃避需要後退、中銀の継続購入・財政不確実性は中長期下支え、金銀比価60倍台",
+      "topic_key": "gold-sub4300-4250-real-yields-dollar-high-fomc-gsratio60-jun18-2026",
+      "source": "Trading Economics",
+      "first_seen": "2026-06-19T06:02:00+09:00",
+      "issue": "2026-06-19-0602"
     }
   ]
 }

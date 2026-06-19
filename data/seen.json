@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-15-224751171.html",
-      "title": "米株3指数そろって史上最高値で引け、月曜は先物高が現物に波及 — ナスダック総合が約3%高の2万6,600台、S&P500が約1.6〜1.9%高の7,550台、ダウが約0.9〜1.4%高の5万1,600〜5万1,900ドル台、トランプ氏のイラン合意『完成』宣言で地政学リスク後退・スペースX上場2日目の買い・エヌビディアなど半導体/AI物色・原油安によるインフレ鈍化期待が追い風、ただし16日からウォーシュ新議長初FOMCで年内利下げ観測後退・19日ジューンティーンス休場の短縮週",
-      "topic_key": "us-stocks-close-record-nasdaq-3pct-sp-dow-ath-spacex-day2-jun15-2026",
-      "source": "Yahoo Finance / TheStreet",
-      "first_seen": "2026-06-16T06:03:00+09:00",
-      "issue": "2026-06-16-0603"
-    },
-    {
-      "url_normalized": "fortune.com/article/price-of-oil-06-15-2026/",
-      "title": "原油は3カ月ぶり安値で引け、月曜アジア時間にブレント一時前日比約4%安の1バレル83ドル台・WTI約4.6%安の80ドル台へ — 3月初旬以来安値圏(2026年高値から2割超調整)、合意完成とともにトランプ氏が米海軍ホルムズ封鎖解除を指示・署名後の無料通航再開見通しで供給途絶プレミアム急速剥落、世界海上輸送原油の約2割が通る要衝の正常化が一段の値下がり余地、ただし機雷除去・保険/運航回復には数カ月・19日署名完了まで部分的緊張残る",
-      "topic_key": "oil-brent-83-wti-80-3month-low-close-hormuz-blockade-lift-jun15-2026",
-      "source": "OilPrice / Fortune / Trading Economics",
-      "first_seen": "2026-06-16T06:03:00+09:00",
-      "issue": "2026-06-16-0603"
-    },
-    {
-      "url_normalized": "bloomberg.com/news/articles/2026-06-04/boj-is-said-to-mull-june-rate-hike-with-another-possible-in-2026",
-      "title": "日銀は本日16日正午前後に決定、0.75→1.0%へ約31年(1995年以来)ぶり利上げが大勢 — ロイター調査で9割超が月内利上げ見込み、中東発エネルギー高・円安の輸入インフレ・人手不足が後押し、焦点は利上げ幅より先行きで市場は年内追加利上げと最終到達2%前後を視野、和平受けたドル全面安で160円台前半のドル円もやや円高方向、円高転換ならキャリートレード巻き戻しで世界流動性に波及懸念、植田総裁は入院欠席で内田眞一副総裁が会見代行しトーンが為替/金利の振れを左右",
-      "topic_key": "boj-decision-day-jun16-hike-1pct-31yr-uchida-briefing-tone-2026",
-      "source": "Bloomberg / Investing.com",
-      "first_seen": "2026-06-16T06:03:00+09:00",
-      "issue": "2026-06-16-0603"
-    },
-    {
-      "url_normalized": "chase.com/personal/investments/learning-and-insights/article/kevin-warsh-first-federal-reserve-meeting-as-chair-june-2026-fomc-open",
-      "title": "FOMCも本日16日(米東部時間)開幕、結果は日本時間18日未明 — ウォーシュ新議長初采配で政策金利3.50-3.75%据え置きほぼ確実、同時公表のSEP・ドットプロットで緩和バイアスの中立転換度合いが最大の焦点、5月CPI・PPI高止まりで年内利下げ観測は事実上消滅・初回利下げ2027年後ずれ観測も、フォワードガイダンス懐疑の新議長の枠組み運営と初会見トーン次第で金利/ドル/株が振れる、日米中銀イベントが16-18日集中でボラ高まりやすい",
-      "topic_key": "fomc-opens-jun16-17-warsh-debut-hold-dot-plot-result-jun18-jst-2026",
-      "source": "Chase / TheStreet",
-      "first_seen": "2026-06-16T06:03:00+09:00",
-      "issue": "2026-06-16-0603"
-    },
-    {
-      "url_normalized": "nbcnews.com/news/us-news/deal-reached-united-states-iran-war-rcna350039",
-      "title": "イランの報復一斉射撃は見送り、緊張いったん沈静化 — イスラエル軍は14日夜にイランからのミサイル一斉射撃に備え警戒態勢を敷くも攻撃は発生せず、数時間後に米イランが恒久停戦署名へ向かう報、合意はレバノン含む全戦線で軍事行動を即時かつ恒久停止・署名式は19日(金)スイス、ネタニヤフ首相は合意への直接批判を避け『イスラエルは交渉当事者でない』としつつ『戦争の主目的は達成』、トランプ氏と『イランに核を持たせない点で完全一致』、ただし署名完了まで数日は再緊張リスク残る",
-      "topic_key": "iran-retaliation-salvo-no-show-netanyahu-avoids-criticism-goals-met-sign-jun19-2026",
-      "source": "NBC News / The Times of Israel",
-      "first_seen": "2026-06-16T06:03:00+09:00",
-      "issue": "2026-06-16-0603"
-    },
-    {
-      "url_normalized": "tradingeconomics.com/commodity/gold/jun15-2026-3day-rise-silver-70",
-      "title": "金・銀は続伸、金は前日比約2.8%高の1トロイオンス4,330ドル台へ3営業日続伸 — 原油安によるインフレ・利上げ警戒後退と合意受けたドル全面安が利息を生まぬ金の追い風、銀は前週末67ドル台から1オンス70ドル台へ水準切上げ、各国中銀の継続購入と地政学・財政不確実性も支え、本日からのFOMCは据置ほぼ確実もドットプロットと新議長会見トーンでドル・金利・貴金属が大きく振れる可能性、目先の和平調整圧力よりドル安と構造的実需が優勢",
-      "topic_key": "gold-4330-3day-rise-silver-70-recover-fomc-day-jun15-2026",
-      "source": "Trading Economics / Yahoo Finance",
-      "first_seen": "2026-06-16T06:03:00+09:00",
-      "issue": "2026-06-16-0603"
-    },
-    {
       "url_normalized": "nikkei.com/article/dgkkzo96813460q6a610c2mm8000",
       "title": "日銀、政策金利を1.0%へ約31年(1995年9月以来)ぶり利上げを決定、0.75→1.0%へ0.25%引き上げ — 昨年12月以来の追加利上げ、賛成多数、長期国債買入れの減額もいったん停止",
       "topic_key": "boj-hike-1.0-decided-2026-06-16",
@@ -381,6 +333,46 @@
       "source": "Trading Economics",
       "first_seen": "2026-06-19T06:02:00+09:00",
       "issue": "2026-06-19-0602"
+    },
+    {
+      "url_normalized": "nikkei.com/article/DGXZQOFL190KP0Z10C26A6000000/",
+      "title": "アジア株が半導体主導で史上最高値ラリー — 19日東京は日経平均が一時700円超高の7万1,700円台でザラ場4日連続最高値(前日18日終値7万1,053円)、東エレク/レーザーテックに押し目買い、韓国KOSPIは18日初の9,000台→19日寄り後9,300台突破でSKハイニックス一時6%近く高・サムスン終値最高値、台湾株も最高値、ホルムズ再開期待とAI投資拡大で半導体集積地に資金、上昇は一部ハイテクに集中",
+      "topic_key": "asia-stocks-record-rally-nikkei-71700-4day-kospi-9300-taiwan-semis-jun19-2026",
+      "source": "日本経済新聞 / Reuters",
+      "first_seen": "2026-06-19T12:02:00+09:00",
+      "issue": "2026-06-19-1202"
+    },
+    {
+      "url_normalized": "swissinfo.ch/eng/foreign-affairs/geneva-to-host-signing-of-iran-us-peace-treaty/91587497",
+      "title": "米イラン和平、対面の調印式典は見送りへ — 両国が覚書(MOU)に電子署名済みのため19日ジュネーブでの調印式典は行われない見通し、交渉団はジュネーブ入り・対面会合の可否は数時間内に判断、枠組みは軍事行動の即時恒久停止・ホルムズ無料無害通航再開・米海上封鎖解除が柱、署名後60日間で核問題/制裁/凍結資産を協議、式典は薄れるも停戦と海峡正常化プロセスは進行、機雷除去・保険/運航回復に数週間〜数カ月の慎重論",
+      "topic_key": "us-iran-no-inperson-ceremony-electronic-signed-geneva-teams-jun19-2026",
+      "source": "swissinfo.ch / Al Jazeera",
+      "first_seen": "2026-06-19T12:02:00+09:00",
+      "issue": "2026-06-19-1202"
+    },
+    {
+      "url_normalized": "fx.minkabu.jp/news/370728",
+      "title": "ドル円160円台で介入警戒続く、NY市場で『円買い介入の効果は限定的』との見方 — 足元の円安は日米金利差/資本フローのファンダに支えられタカ派FOMCの年内米利上げ織込で日銀1.0%利上げ後も円上値重い、4〜5月の総額11.7兆円介入後にドル円は介入前水準を回復し『介入の賞味期限』意識、160円台は神経質な節目で明確超の円安進行なら介入観測再燃",
+      "topic_key": "usdjpy-160-intervention-limited-effect-ny-view-117tn-jun19-2026",
+      "source": "みんかぶFX / 野村證券",
+      "first_seen": "2026-06-19T12:02:00+09:00",
+      "issue": "2026-06-19-1202"
+    },
+    {
+      "url_normalized": "investing.com/news/economy-news/asian-stocks-steady-oil-lower-as-us-and-iran-sign-peace-deal-4748866",
+      "title": "原油は3カ月ぶり安値圏続く — WTI前日比2.7%安の1バレル74.70ドル前後・ブレント2.3%安の77.70ドル前後でいずれも3月初旬以来安値、米イラン和平進展でホルムズ再開・イラン輸出再開観測が供給増警戒の重し、IEAは閉鎖からの回復経て2027年に石油市場が大幅供給過剰へ転じる見通し、原油安は消費国に恩恵も産油国に逆風、海上輸送の本格復帰時期は不透明",
+      "topic_key": "oil-wti-7470-brent-7770-3month-low-iran-iea-2027-surplus-jun19-2026",
+      "source": "Reuters / Trading Economics",
+      "first_seen": "2026-06-19T12:02:00+09:00",
+      "issue": "2026-06-19-1202"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/commodity/gold/jun19-2026",
+      "title": "金は4,300ドル割れで推移 — 1トロイオンス4,210〜4,250ドル前後、タカ派FOMCの年内利上げ姿勢で米長期金利上昇・実質金利上昇が利息生まぬ金に逆風、ドル指数1年ぶり高値圏のドル高も重し、中東和平で逃避需要後退、過去1カ月で約6%下落も前年比2割超高の調整局面、中銀購入/財政不確実性は中長期下支え、当面は地政学より金利・ドルのファンダ主導へ",
+      "topic_key": "gold-4210-sub4300-real-yields-dollar-high-1month-down6-jun19-2026",
+      "source": "Trading Economics / IndexBox",
+      "first_seen": "2026-06-19T12:02:00+09:00",
+      "issue": "2026-06-19-1202"
     }
   ]
 }

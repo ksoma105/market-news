@@ -383,6 +383,38 @@
    "source": "Trading Economics / EIA",
    "first_seen": "2026-06-20T06:02:00+09:00",
    "issue": "2026-06-20-0602"
+  },
+  {
+   "url_normalized": "nikkei.com/markets/nikkei225-record-jun20-2026-am",
+   "title": "日経平均が史上最高値を更新、20日午前は前日比約498円高 — AI・半導体の業績拡大期待と歴史的円安(一時161円台)が追い風、好決算/増配・自社株買い、海外勢の日本株買い2026年累計約11.7兆円が主因、円安と米FRBタカ派の金利上昇は表裏一体で介入警戒も",
+   "topic_key": "nikkei225-record-high-am-498yen-ai-semis-foreign-buying-jun20-2026",
+   "source": "日本経済新聞 マーケット",
+   "first_seen": "2026-06-20T12:02:00+09:00",
+   "issue": "2026-06-20-1202"
+  },
+  {
+   "url_normalized": "usbank.com/federal-reserve-interest-rate-warsh-hawkish-jun2026",
+   "title": "ドルが約1年ぶり高値、米9月利上げ確率7割 — ウォーシュ新FRB議長の初FOMCがタカ派、政策金利3.50-3.75%据置も見通しで19人中9人が年内少なくとも1回利上げ見込む、米2年債利回り上昇、エネルギー高インフレで利下げ観測一掃、ドル円は161.80の39年半ぶり安値後に160.65へ反落一服",
+   "topic_key": "dollar-1yr-high-fed-warsh-hawkish-sep-hike-70pct-usdjpy-16065-jun20-2026",
+   "source": "U.S. Bank / CNBC",
+   "first_seen": "2026-06-20T12:02:00+09:00",
+   "issue": "2026-06-20-1202"
+  },
+  {
+   "url_normalized": "mining.com/goldman-cuts-gold-price-forecast-down-to-4900",
+   "title": "金が4,200ドル割れ・一時4,121ドル、ゴールドマンが2026年末予想を5,400→4,900ドルに500ドル下方修正 — 週初の米イラン和平期待の買いを打消し、ウォーシュ議長のタカ派姿勢でドル・米2年債利回り上昇が利息生まぬ金に逆風、利下げ開始想定を2027年へ後ずれ、タカ派なら年末4,440ドルも、中長期は中銀購入/財政不確実性が下支えで強気維持",
+   "topic_key": "gold-sub4200-4121-goldman-cut-4900-warsh-hawkish-jun20-2026",
+   "source": "MINING.COM / Trading Economics",
+   "first_seen": "2026-06-20T12:02:00+09:00",
+   "issue": "2026-06-20-1202"
+  },
+  {
+   "url_normalized": "finance.yahoo.com/stock-market-closed-juneteenth-reopen-jun22-2026",
+   "title": "米株は19日ジューンティーンス祝日で全日休場、NYSE/ナスダック停止・再開は22日(月) — 直前18日はS&P500が米イラン和平合意好感で前日比約1.08%高の7,500.58と最高値圏で連休入り、休場明けにFRBタカ派化と金利・ドル再評価をどう織込むかが焦点、高PERハイテク株の重しに",
+   "topic_key": "us-markets-closed-juneteenth-reopen-jun22-sp500-750058-record-jun19-2026",
+   "source": "Yahoo Finance / TheStreet",
+   "first_seen": "2026-06-20T12:02:00+09:00",
+   "issue": "2026-06-20-1202"
   }
  ]
 }

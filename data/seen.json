@@ -415,6 +415,30 @@
    "source": "Yahoo Finance / TheStreet",
    "first_seen": "2026-06-20T12:02:00+09:00",
    "issue": "2026-06-20-1202"
+  },
+  {
+   "url_normalized": "blockchainreporter.net/crypto-market-today-june-19-2026-bitcoin-62328",
+   "title": "暗号資産が週末急落、ビットコイン6万2,328ドルへ（6月上旬7万1千ドル超から調整）— ETH1,687ドル-3.26%/XRP1.12ドル-4.61%/SOL68.28ドル-4.89%/BNB571ドル-3.22%、時価総額2.1兆ドルへ縮小、恐怖と強欲指数は極度の恐怖、タカ派FRBのドル高・米金利上昇でリスク資産流出と強制清算・米イラン和平不透明感",
+   "topic_key": "crypto-selloff-btc-62328-extreme-fear-cap21tn-hawkish-fed-jun19-2026",
+   "source": "blockchainreporter / Fortune",
+   "first_seen": "2026-06-20T22:02:00+09:00",
+   "issue": "2026-06-20-2202"
+  },
+  {
+   "url_normalized": "kiplinger.com/investing/economy/this-weeks-economic-calendar-jun22-26-2026",
+   "title": "米国市場は22日(月)再開、週の最大注目は週後半の5月PCEデフレーター — エネルギー高でインフレ高止まり観測、ウォーシュFRBの年内利上げ示唆で9月利上げ確率約7割、上振れならドル高・米金利上昇加速も、1-3月期GDP改定値とマイクロン/フェデックス決算も予定、半導体需要の手掛かりに",
+   "topic_key": "week-ahead-us-reopen-jun22-may-pce-focus-micron-fedex-gdp-jun20-2026",
+   "source": "Kiplinger / Morningstar",
+   "first_seen": "2026-06-20T22:02:00+09:00",
+   "issue": "2026-06-20-2202"
+  },
+  {
+   "url_normalized": "tradingeconomics.com/commodity/brent-crude-oil-weekly-down85-saudi-tankers-jun20-2026",
+   "title": "原油は週間で約8.5%安、ブレント80ドル/WTI77ドル近辺で中東緊張時の上昇分大半を打消し — ホルムズ海峡で3カ月超ぶりにサウジ船籍タンカーが稼働、19日(木)に海峡付近で約1,000万バレル確認も20日(金)午前は出航船なしで回復まちまち、スイスの米イラン直接協議中止で長期和平に不透明感",
+   "topic_key": "oil-weekly-down85-brent80-wti77-hormuz-saudi-tankers-resume-jun20-2026",
+   "source": "Trading Economics / U.S. EIA",
+   "first_seen": "2026-06-20T22:02:00+09:00",
+   "issue": "2026-06-20-2202"
   }
  ]
 }

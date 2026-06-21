@@ -311,6 +311,46 @@
       "source": "FXEmpire / IG",
       "first_seen": "2026-06-21T22:02:00+09:00",
       "issue": "2026-06-21-2202"
+    },
+    {
+      "url_normalized": "finance.yahoo.com/markets/stocks/articles/stock-market-closed-juneteenth-heres-090308899",
+      "title": "米国市場、きょう22日(月)に取引再開 — 19日ジューンティーンス休場と週末挟み約4日ぶり、再開前の株価指数先物はS&P500+約1.08%/ナスダック100+約1.91%とハイテク主導で堅調、長期休場明けで値動き荒れやすく今週後半の物価・決算イベントの地ならしに",
+      "topic_key": "us-markets-reopen-jun22-futures-sp108-ndx191-higher-2026",
+      "source": "Yahoo Finance / Charles Schwab",
+      "first_seen": "2026-06-22T06:02:00+09:00",
+      "issue": "2026-06-22-0602"
+    },
+    {
+      "url_normalized": "npr.org/2026/06/21/g-s1-129222/trump-threatens-hit-iran-hard-again-vance-switzerland-talks",
+      "title": "米イラン協議、ヴァンス副大統領『ここ数時間で大きな前進』と強調・トランプ氏も『素晴らしい合意』表明 — 一方トランプ氏はSNSでレバノンの代理勢力巡り『やめねば先週より強烈にイランを叩く』と再攻撃警告、IAEAグロッシ事務局長やカタール・パキスタン仲介団も合流、MOUは発効直後から圧力",
+      "topic_key": "us-iran-talks-vance-great-progress-trump-threat-lebanon-grossi-jun21-2026",
+      "source": "NPR / ABC News",
+      "first_seen": "2026-06-22T06:02:00+09:00",
+      "issue": "2026-06-22-0602"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc",
+      "title": "ホルムズ海峡でタンカー通航が急回復 — 再開以降に原油タンカー少なくとも20隻通過、サウジVLCC3隻・UAE1隻に加え戦時に発信停止していたイラン超大型タンカーが相次ぎ発信再開し原油満載5隻が湾岸出発(輸出再開)、ただ戦前の1日100隻超を大きく下回り滞留解消に数週間、原油・LNG船が優先",
+      "topic_key": "hormuz-tanker-traffic-jumps-20-vlcc-iran-exports-resume-backlog-jun19-2026",
+      "source": "CNBC",
+      "first_seen": "2026-06-22T06:02:00+09:00",
+      "issue": "2026-06-22-0602"
+    },
+    {
+      "url_normalized": "kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks-jun22-26-2026",
+      "title": "今週の決算ハイライト:23日(火)フェデックスFY26 Q4(予想EPS5.91ドル・売上241.8億ドル+8.8%、利益は前年6.07ドルから約2.6%減、Network2.0・貨物部門分離・FY27見通し注目)、24日(水)引け後マイクロンQ3(予想EPS20.05ドル=前年1.91ドルから急増・売上350億ドル+約276%)、AI半導体と世界貿易量を映す",
+      "topic_key": "earnings-week-fedex-jun23-eps591-micron-jun24-eps2005-rev276-jun22-2026",
+      "source": "Kiplinger / TradingKey",
+      "first_seen": "2026-06-22T06:02:00+09:00",
+      "issue": "2026-06-22-0602"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/19/japan-yen-intervention-boj-rate-hike",
+      "title": "円が約40年ぶり安値圏161円台で介入警戒続く、4〜5月の11.7兆円超(約728億ドル)介入と約30年ぶり日銀利上げでも効果限定との分析 — 円安が日米金利差・資本フローのファンダに支えられること、片山財務相らの『断固たる行動』連呼でサプライズ効果が薄れたことが要因、ドル高圧力下で方向転換には金利差縮小が必要との見方",
+      "topic_key": "yen-161-40yr-low-intervention-117tn-boj-hike-limited-effect-analysis-jun19-2026",
+      "source": "CNBC / Bloomberg",
+      "first_seen": "2026-06-22T06:02:00+09:00",
+      "issue": "2026-06-22-0602"
     }
   ]
 }

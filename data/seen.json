@@ -271,6 +271,46 @@
       "source": "Kiplinger / CoinDesk",
       "first_seen": "2026-06-21T12:02:00+09:00",
       "issue": "2026-06-21-1202"
+    },
+    {
+      "url_normalized": "aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks",
+      "title": "米イラン、ビュルゲンシュトックで対面協議が始動 — 21日にヴァンス副大統領が到着し4月イスラマバード以来の直接交渉、イラン側はガリバフ国会議長、仲介のカタール・パキスタンも合流、午後に4者会合、核問題・凍結資産(最大250億ドル)・イラン産原油販売・レバノン停戦が議題、60日集中交渉の正式始動",
+      "topic_key": "us-iran-facetoface-talks-begin-burgenstock-vance-ghalibaf-quad-jun21-2026",
+      "source": "Al Jazeera / ABC News",
+      "first_seen": "2026-06-21T22:02:00+09:00",
+      "issue": "2026-06-21-2202"
+    },
+    {
+      "url_normalized": "pbs.org/newshour/world/israel-and-hezbollah-renew-ceasefire-after-u-s-and-iran-call-off-talks-over-fighting-in-lebanon",
+      "title": "イスラエル・ヒズボラ停戦を再確認 — 21日ネタニヤフ首相とカッツ国防相がIDFにアリ・アッタヘル高地を除き占領地にとどまり攻撃停止を命令、19日に米・カタール・イラン仲介で停戦再成立、直前2日でイスラエル攻撃の死者145人増、停戦動揺が米イラン協議を頓挫寸前に追い込んだ経緯、和平プロセスの生命線",
+      "topic_key": "israel-hezbollah-ceasefire-renew-idf-hold-fire-145-deaths-jun21-2026",
+      "source": "PBS News / NBC News",
+      "first_seen": "2026-06-21T22:02:00+09:00",
+      "issue": "2026-06-21-2202"
+    },
+    {
+      "url_normalized": "aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow",
+      "title": "ホルムズ海峡で戦争保険料が急騰、船価0.2%→最大1%へ — IRGCがレバノン攻撃を理由に海峡『封鎖』を改めて表明、48時間で保険料急騰し1億ドルのタンカーで1航海20万ドル→100万ドルに、中央深水路に推定80個の機雷残り除去40〜50日、正常化に数週〜数カ月、ヴァンスは『2晩連続で船舶攻撃なし』、ブレント80.57ドル/WTI77.54ドルも週間約8.5%安",
+      "topic_key": "hormuz-war-risk-premium-spike-1pct-mines-80-irgc-closure-jun19-2026",
+      "source": "Al Jazeera / CNBC",
+      "first_seen": "2026-06-21T22:02:00+09:00",
+      "issue": "2026-06-21-2202"
+    },
+    {
+      "url_normalized": "bullionvault.com/gold-news/gold-price-news/gold-price-warsh-fed-061920261",
+      "title": "金が1981年以来の急ブレーキ — 前年比上昇率が週間で77.8ポイント縮小し1981年4月末以来の減速、19日に1トロイオンス4,150ドルへ6/11以来安値・3週続落、ウォーシュFRBのタカ派化(年末金利見通し3.4%→3.8%)で米2年債4.179%(週+0.22pt)・ドル指数13カ月ぶり高値が逆風、中長期はMS5,200/UBS5,500/GS5,400/JPM平均5,243ドルと強気維持",
+      "topic_key": "gold-4150-biggest-deceleration-since-1981-warsh-hawkish-3week-down-jun19-2026",
+      "source": "BullionVault / Trading Economics",
+      "first_seen": "2026-06-21T22:02:00+09:00",
+      "issue": "2026-06-21-2202"
+    },
+    {
+      "url_normalized": "fxempire.com/forecasts/article/the-week-ahead-pce-inflation-data-and-micron-earnings-take-center-stage-1605726",
+      "title": "休場明けは中銀・物価ウィーク、22日に中国PBOCが金融緩和策表明 — 潘功勝総裁が翌日物リバースレポ活用拡大・短期金利コリドー縮小・人民元オフショア利用拡大を発表、23日に独/ユーロ圏/英/米フラッシュPMI、最大の焦点は25日米5月PCE(コンセンサス前年比3.4%・WFは4.1%予想)、米GDP確定値/日本全国CPIも、決算は23日フェデックス・24日マイクロン",
+      "topic_key": "week-ahead-jun22-pboc-easing-flash-pmi-may-pce-34-micron-fedex-jun21-2026",
+      "source": "FXEmpire / IG",
+      "first_seen": "2026-06-21T22:02:00+09:00",
+      "issue": "2026-06-21-2202"
     }
   ]
 }

@@ -351,6 +351,46 @@
       "source": "CNBC / Bloomberg",
       "first_seen": "2026-06-22T06:02:00+09:00",
       "issue": "2026-06-22-0602"
+    },
+    {
+      "url_normalized": "barchart.com/story/news/1715135/apple-ceo-tim-cook-just-warned-that-memory-prices-keep-rising-thats-great-news-for-micron-stock",
+      "title": "AIメモリー逼迫が消費財に波及 — アップルのクックCEOが値上げ「不可避」「持続不可能」とWSJに言明、マイクロン株+8.7%で1100ドル超の最高値・今年35回目の最高値引け・時価総額1.3兆ドル・1年で8倍、サンディスク+11.5%、トレンドフォースQ2契約価格DRAM+58〜63%/NAND+70〜75%、マイクロン24日決算",
+      "topic_key": "ai-memory-crunch-apple-cook-unavoidable-micron-record-1100-sandisk-trendforce-jun22-2026",
+      "source": "Barchart / TS2 / WSJ",
+      "first_seen": "2026-06-22T12:02:00+09:00",
+      "issue": "2026-06-22-1202"
+    },
+    {
+      "url_normalized": "tradingeconomics.com/japan/stock-market",
+      "title": "東京市場、日経平均7万1000円台後半で最高値圏もみ合い — 19日終値71250円・取引時間中71900円台で最高値更新、AI半導体物色と海外勢買い、米市場再開を前に様子見、円161円台で40年ぶり安値圏・介入警戒継続",
+      "topic_key": "tokyo-nikkei-71700-record-range-am-yen-161-pre-us-reopen-jun22-2026",
+      "source": "Trading Economics / CNBC",
+      "first_seen": "2026-06-22T12:02:00+09:00",
+      "issue": "2026-06-22-1202"
+    },
+    {
+      "url_normalized": "investing.com/news/stock-market-news/europes-stoxx-pause-on-vance-snub-fed-fears--loom-large-4751362",
+      "title": "欧州株まだら模様 — 英FTSE100が週間約0.7〜0.9%安でBP・シェル等エネルギー株安により出遅れ、独DAX+1.6%/仏CAC+1.4%/伊FTSE MIB+2.3%は堅調、アジアの1%超高と対照、ヴァンス氏イラン協議見送りで原油反発・FRBタカ派警戒",
+      "topic_key": "europe-mixed-ftse100-lag-energy-bp-shell-dax-cac-mib-gain-jun19-2026",
+      "source": "Investing.com / CNBC",
+      "first_seen": "2026-06-22T12:02:00+09:00",
+      "issue": "2026-06-22-1202"
+    },
+    {
+      "url_normalized": "variety.com/2026/film/box-office/toy-story-5-box-office-opening-weekend-record-franchise-1236786574",
+      "title": "ディズニー/ピクサー「トイ・ストーリー5」が2026年最大の興収スタート — 北米初週約1.6億ドルでシリーズ歴代最大（前作4の1.2億ドル超え）、海外1.52億ドル・世界3.12億ドル、批評家94%・観客最高評価、インフレ下の娯楽消費の底堅さ映す",
+      "topic_key": "toy-story-5-record-opening-160m-domestic-312m-global-disney-pixar-jun21-2026",
+      "source": "Variety / CNBC",
+      "first_seen": "2026-06-22T12:02:00+09:00",
+      "issue": "2026-06-22-1202"
+    },
+    {
+      "url_normalized": "cnbc.com/2026/06/19/oil-prices-wti-brent-crude-us-iran-deal-strait-hormuz-shipping-recovery.html",
+      "title": "原油、供給正常化観測で軟調 — ブレント約80.6ドル/WTI約77.5ドル、週間ともに約8.5%安、120ドル超の高値から大きく低下、クウェート不可抗力解除・米封鎖終了でタンカー通航回復「最悪期過ぎた」、ただしヴァンス氏協議見送りで反発も・イランはレバノン停戦を海峡正常化の条件と示唆",
+      "topic_key": "oil-brent-806-wti-775-weekly-down-85pct-normalization-vance-snub-rebound-jun19-2026",
+      "source": "CNBC / Trading Economics",
+      "first_seen": "2026-06-22T12:02:00+09:00",
+      "issue": "2026-06-22-1202"
     }
   ]
 }

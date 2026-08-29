@@ -39,6 +39,30 @@
       "source": "Reuters",
       "first_seen": "2026-08-29T12:00:00+09:00",
       "issue": "2026-08-29-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/chinas-cxmt-supply-memory-chip-xiaomis-upcoming-folding-phone-2026-08-29",
+      "title": "中国CXMT、LPDDR6を量産—小米の折りたたみ端末に供給",
+      "topic_key": "cxmt-xiaomi-lpddr6-20260829",
+      "source": "Reuters",
+      "first_seen": "2026-08-30T06:00:00+09:00",
+      "issue": "2026-08-30-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/finance/bessent-says-disorderly-yen-moves-can-destabilize-global-markets-2026-08-29",
+      "title": "米財務長官、急激な円変動は世界市場を不安定化と警告",
+      "topic_key": "bessent-yen-forced-unwinds-20260829",
+      "source": "Reuters",
+      "first_seen": "2026-08-30T06:00:00+09:00",
+      "issue": "2026-08-30-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/russia-extends-ban-diesel-exports-until-september-30-2026-08-29",
+      "title": "ロシア、軽油輸出禁止を9月末まで延長—国内供給を優先",
+      "topic_key": "russia-diesel-export-ban-sep30-20260829",
+      "source": "Reuters",
+      "first_seen": "2026-08-30T06:00:00+09:00",
+      "issue": "2026-08-30-0600"
     }
   ]
 }

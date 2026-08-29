@@ -14,6 +14,19 @@
         "iran-blockade-oil-may2026",
         "toyota-taiwan-reverse-import-oct2026"
       ]
+    },
+    {
+      "issue_id": "2026-08-29-1200",
+      "published_at": "2026-08-29T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "fed-warsh-jackson-hole-inflation-20260828",
+        "tokyo-cpi-august-20260828",
+        "japan-unemployment-july-20260828",
+        "us-venezuela-oil-deal-20260828",
+        "iran-economy-trade-sanctions-20260829"
+      ]
     }
   ]
 }

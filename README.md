@@ -1,60 +1,83 @@
 # 経済ニュースダイジェスト
 
-個人投資家向けの経済ニュースダイジェスト（日本・米国・世界）を、1日3回（JST 6:00 / 12:00 / 22:00）自動更新する静的Webサイトです。
+個人投資家向けの経済ニュースダイジェスト（日本・米国・世界）を、1日3回（JST 06:00 / 12:00 / 22:00）自動更新する静的Webサイトです。
 
 ## 公開URL
 
-`https://<your-github-username>.github.io/<repo-name>/`
+https://news.butterfalcon.com
 
-## セットアップ手順
+## 自動発行の構成
 
-### 1. リポジトリのpush
+ChatGPT WebのScheduled taskが、Web検索とGitHubプラグインを使って直接リポジトリを更新します。ローカルPC、Claude Code Routine、常時起動プロセスは不要です。
 
-```bash
-git remote add origin https://github.com/<user>/<repo>.git
-git push -u origin main
-```
+処理の流れは次の通りです。
 
-### 2. GitHub Pages の有効化
+1. GitHubの `main` から `AGENTS.md` と `AUTOMATION.md` を読む
+2. 72時間以内のニュースを検索・検証する
+3. 重複を除いて2〜7件を選ぶ
+4. 最新号、旧号アーカイブ、重複台帳、発行履歴を生成する
+5. 4ファイルを単一commitにして `main` をfast-forward更新する
+6. GitHub Pagesが自動反映する
 
-1. GitHub リポジトリの **Settings → Pages**
-2. Source: **Deploy from a branch**
-3. Branch: `main` / Folder: `/docs` を選択して保存
-4. 数十秒〜数分で公開される
+## Web Scheduled taskのセットアップ
 
-### 3. Claude Code Routine の登録
+### 1. GitHubを接続する
 
-1. Claude Code の Routine 作成画面を開く
-2. このリポジトリを対象に指定し、書き込み（push）権限を付与
-3. スケジュール設定:
-   - Asia/Tokyo タイムゾーン: `0 6,12,22 * * *`
-   - UTC指定の場合: `0 3,13,21 * * *`
-4. プロンプト: `ROUTINE.md の手順に従って1号を発行してください`
+ChatGPT Webの設定からGitHubプラグインを接続し、`ksoma105/market-news` へのread/writeアクセスを許可します。
 
-> **注意**: Routineには1日あたりの実行回数上限があります（Pro: 5回/日、Max: 15回/日）。本件は3回/日のためPro枠でも収まりますが、他のRoutineと合算した上限に注意してください。
+定期実行は途中で確認を求められないため、GitHubプラグインの権限設定で、blob/tree/commitの作成と `main` refのfast-forward更新が自動実行できることを確認してください。初回の通常チャットでテストし、書込み確認が出る場合は、対象を確認した上でGitHubプラグインの権限を調整します。
+
+### 2. 通常チャットでテストする
+
+Scheduled taskを有効にする前に、`SCHEDULE_PROMPT.md` の本文を通常のWebチャットで実行します。
+
+確認項目:
+
+- GitHubから `AGENTS.md` と `AUTOMATION.md` を読める
+- Web検索で記事URLを開ける
+- 4ファイルが1コミットで更新される
+- `main` へのforce updateや別branch作成がない
+- 公開サイトに新号が反映される
+
+テスト実行も実際に1号を発行します。同じ号IDは再発行されないため、成功後に同じ時間枠でもう一度実行しても変更は発生しません。
+
+### 3. Scheduled taskを登録する
+
+ChatGPT WebのScheduledからスタンドアロンタスクを作り、`SCHEDULE_PROMPT.md` の本文を登録します。
+
+- 表示名: `market-news-digest`
+- タイムゾーン: `Asia/Tokyo`
+- スケジュール: 毎日 06:00 / 12:00 / 22:00
+- cron指定が使える場合: `0 6,12,22 * * *`
+- 必要なツール: GitHubプラグイン、Web検索
+
+Web Scheduled taskはローカルフォルダを保持しないため、手順と状態はすべてGitHubに置いています。
 
 ## ディレクトリ構成
 
-```
-market_news/
-├── CLAUDE.md              # Claude Codeが起動時に自動で読むプロジェクト規約
-├── ROUTINE.md             # Routineに渡すタスク本文（編集者への指示書）
-├── README.md              # このファイル
-├── docs/                  # GitHub Pages 公開ルート
-│   ├── index.html         # 最新号
-│   ├── archive/           # 過去号（<号ID>.html）
-│   └── assets/
-│       └── style.css      # 共通スタイル
+```text
+market-news/
+├── AGENTS.md                       # Codex共通規約
+├── AUTOMATION.md                   # Web自動発行の完全な手順
+├── SCHEDULE_PROMPT.md              # Scheduled task登録用プロンプト
+├── CLAUDE.md                       # 旧Claude Code向け規約（移行履歴）
+├── README.md
+├── docs/
+│   ├── index.html                  # 最新号
+│   ├── archive/                    # 過去号
+│   └── assets/style.css
 └── data/
-    ├── seen.json          # 重複排除の台帳（直近3日分）
-    └── history.json       # 各号のメタ情報
+    ├── seen.json                   # 直近72時間の重複排除台帳
+    └── history.json                # 発行履歴
 ```
 
-## 号IDの形式
+## 号IDとコミット規約
 
-`YYYY-MM-DD-HHmm`（JST、24時間表記）  
-例: `2026-05-24-0600`
+- 号ID: `YYYY-MM-DD-HHmm`（JSTの定時枠、分は `00`）
+- コミット: `digest: <号ID>`
+- 1号につき1コミット
+- `main` へのfast-forward更新のみ
 
-## コミット規約
+## 運用監視
 
-1号の発行ごとに1コミット。メッセージ形式: `digest: <号ID>`
+初回数回はScheduledの実行履歴と公開サイトを確認してください。失敗時は部分更新せず、Scheduledの実行結果に失敗段階が記録される設計です。

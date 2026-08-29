@@ -118,4 +118,3 @@ GitHubのGit data操作を使い、Contents APIでファイルごとの複数コ
 ## 8. 実行結果を報告する
 
 成功時は号ID、記事数、commit SHA、`https://news.butterfalcon.com` を簡潔に報告する。重要ニュース不足で件数を減らした場合はその旨も書く。失敗時はGitHubを部分更新せず、失敗した段階と理由を報告する。
-

@@ -21,4 +21,3 @@ GitHubプラグインとWeb検索を使い、経済ニュースダイジェス�
 - タイムゾーン: `Asia/Tokyo`
 - cron: `0 6,12,22 * * *`
 - 表示名: `market-news-digest`
-

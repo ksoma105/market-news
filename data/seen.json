@@ -63,6 +63,30 @@
       "source": "Reuters",
       "first_seen": "2026-08-30T06:00:00+09:00",
       "issue": "2026-08-30-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/autos-transportation/gm-deal-with-workers-would-add-sierra-pickup-assembly-canadian-plant-despite-us-2026-08-29",
+      "title": "GM、カナダ工場に11億加ドル投資案—米関税下でも大型車生産を追加",
+      "topic_key": "gm-canada-investment-unifor-20260829",
+      "source": "Reuters",
+      "first_seen": "2026-08-30T12:00:00+09:00",
+      "issue": "2026-08-30-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/middle-east/egypts-banque-misr-reviews-us-iran-sanctions-notice-uae-central-bank-launches-2026-08-29",
+      "title": "米FinCEN、エジプト国有銀UAE拠点のドル接続遮断を提案",
+      "topic_key": "banque-misr-uae-fincen-review-20260829",
+      "source": "Reuters / FinCEN",
+      "first_seen": "2026-08-30T12:00:00+09:00",
+      "issue": "2026-08-30-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/south-koreas-export-boom-seen-sustained-august-strong-chip-demand-2026-08-28",
+      "title": "韓国8月輸出、62.6%増予想—AIメモリー需要が15カ月連続増を支える",
+      "topic_key": "south-korea-aug-exports-poll-20260828",
+      "source": "Reuters",
+      "first_seen": "2026-08-30T12:00:00+09:00",
+      "issue": "2026-08-30-1200"
     }
   ]
 }

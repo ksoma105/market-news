@@ -32,11 +32,22 @@
       "issue_id": "2026-08-30-0600",
       "published_at": "2026-08-30T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-08-30-0600.html",
       "topics": [
         "cxmt-xiaomi-lpddr6-20260829",
         "bessent-yen-forced-unwinds-20260829",
         "russia-diesel-export-ban-sep30-20260829"
+      ]
+    },
+    {
+      "issue_id": "2026-08-30-1200",
+      "published_at": "2026-08-30T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "gm-canada-investment-unifor-20260829",
+        "banque-misr-uae-fincen-review-20260829",
+        "south-korea-aug-exports-poll-20260828"
       ]
     }
   ]

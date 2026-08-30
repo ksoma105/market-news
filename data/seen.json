@@ -87,6 +87,30 @@
       "source": "Reuters",
       "first_seen": "2026-08-30T12:00:00+09:00",
       "issue": "2026-08-30-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/middle-east/us-forces-strike-two-iranian-launchers-irans-larak-island-us-official-says-2026-08-30",
+      "title": "米軍、イラン・ララク島の発射装置を攻撃—7月以来の直接攻撃",
+      "topic_key": "us-strike-iran-larak-launchers-20260830",
+      "source": "Reuters",
+      "first_seen": "2026-08-31T06:00:00+09:00",
+      "issue": "2026-08-31-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/europe/iceland-votes-whether-start-eu-membership-talks-2026-08-29",
+      "title": "アイスランド、EU加盟交渉の再開を否決—反対52.8%",
+      "topic_key": "iceland-rejects-eu-talks-20260830",
+      "source": "Reuters",
+      "first_seen": "2026-08-31T06:00:00+09:00",
+      "issue": "2026-08-31-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/middle-east/gulf-stocks-fall-fed-rate-hike-bets-rise-after-warsh-remarks-2026-08-30",
+      "title": "湾岸株が下落—米9月利上げ確率55.7%へ上昇",
+      "topic_key": "gulf-stocks-fed-hike-odds-20260830",
+      "source": "Reuters",
+      "first_seen": "2026-08-31T06:00:00+09:00",
+      "issue": "2026-08-31-0600"
     }
   ]
 }

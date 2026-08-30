@@ -43,11 +43,22 @@
       "issue_id": "2026-08-30-1200",
       "published_at": "2026-08-30T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-08-30-1200.html",
       "topics": [
         "gm-canada-investment-unifor-20260829",
         "banque-misr-uae-fincen-review-20260829",
         "south-korea-aug-exports-poll-20260828"
+      ]
+    },
+    {
+      "issue_id": "2026-08-31-0600",
+      "published_at": "2026-08-31T06:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-strike-iran-larak-launchers-20260830",
+        "iceland-rejects-eu-talks-20260830",
+        "gulf-stocks-fed-hike-odds-20260830"
       ]
     }
   ]

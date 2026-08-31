@@ -159,6 +159,30 @@
       "source": "インド統計・事業実施省 / Reuters",
       "first_seen": "2026-08-31T22:00:00+09:00",
       "issue": "2026-08-31-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/glp-japan-raises-376-billion-build-logistics-centers-nikkei-reports-2026-08-31",
+      "title": "GLPジャパン、物流施設ファンドに6000億円—総投資1.7兆円へ",
+      "topic_key": "glp-japan-logistics-fund-20260901",
+      "source": "Reuters",
+      "first_seen": "2026-09-01T06:00:00+09:00",
+      "issue": "2026-09-01-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/india/foreign-buying-indian-stocks-hits-23-month-high-august-rbi-data-shows-2026-08-31",
+      "title": "海外投資家、8月のインド株を31億ドル買い越し—23カ月ぶり高水準",
+      "topic_key": "india-fpi-august-inflows-20260831",
+      "source": "Reuters",
+      "first_seen": "2026-09-01T06:00:00+09:00",
+      "issue": "2026-09-01-0600"
+    },
+    {
+      "url_normalized": "reuters.com/legal/transactional/aon-buy-usi-insurance-services-17-billion-deal-2026-08-31",
+      "title": "Aon、保険仲介USIを170億ドルで買収—米中堅企業市場を強化",
+      "topic_key": "aon-usi-acquisition-20260831",
+      "source": "Reuters",
+      "first_seen": "2026-09-01T06:00:00+09:00",
+      "issue": "2026-09-01-0600"
     }
   ]
 }

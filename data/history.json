@@ -65,11 +65,22 @@
       "issue_id": "2026-08-31-1200",
       "published_at": "2026-08-31T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-08-31-1200.html",
       "topics": [
         "china-august-pmi-20260831",
         "china-home-sales-reform-developer-shares-20260831",
         "oneok-brazos-midland-acquisition-20260830"
+      ]
+    },
+    {
+      "issue_id": "2026-08-31-2200",
+      "published_at": "2026-08-31T22:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "nvidia-mediatek-convertible-bonds-20260831",
+        "slb-kelvion-data-center-cooling-20260831",
+        "india-q1-gdp-growth-20260831"
       ]
     }
   ]

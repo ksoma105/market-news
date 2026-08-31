@@ -135,6 +135,30 @@
       "source": "ONEOK / Reuters",
       "first_seen": "2026-08-31T12:00:00+09:00",
       "issue": "2026-08-31-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/nvidia-invests-35-billion-mediatek-convertible-bonds-2026-08-31",
+      "title": "NVIDIA、MediaTek転換社債に35億ドル投資—AI半導体連携を拡大",
+      "topic_key": "nvidia-mediatek-convertible-bonds-20260831",
+      "source": "Reuters / NVIDIA・MediaTek",
+      "first_seen": "2026-08-31T22:00:00+09:00",
+      "issue": "2026-08-31-2200"
+    },
+    {
+      "url_normalized": "slb.com/newsroom/press-release/2026/pr-2026-0831",
+      "title": "SLB、データセンター冷却のKelvionを34億ドルで買収",
+      "topic_key": "slb-kelvion-data-center-cooling-20260831",
+      "source": "SLB / Reuters",
+      "first_seen": "2026-08-31T22:00:00+09:00",
+      "issue": "2026-08-31-2200"
+    },
+    {
+      "url_normalized": "mospi.gov.in/uploads/latestReleases/latest_release_1788172583113_d65a77cf-240e-4491-82ee-59f78618fa41_Press_Note_on_GDP_Estimates_for_Q1_2026-27.pdf",
+      "title": "インド4〜6月GDP、7.8%増—設備投資11.9%がけん引",
+      "topic_key": "india-q1-gdp-growth-20260831",
+      "source": "インド統計・事業実施省 / Reuters",
+      "first_seen": "2026-08-31T22:00:00+09:00",
+      "issue": "2026-08-31-2200"
     }
   ]
 }

@@ -111,6 +111,30 @@
       "source": "Reuters",
       "first_seen": "2026-08-31T06:00:00+09:00",
       "issue": "2026-08-31-0600"
+    },
+    {
+      "url_normalized": "stats.gov.cn/sj/sjjd/202608/t20260831_1965155.html",
+      "title": "中国8月製造業PMI、49.8へ改善—非製造業は49.0で低迷",
+      "topic_key": "china-august-pmi-20260831",
+      "source": "中国国家統計局 / Reuters",
+      "first_seen": "2026-08-31T12:00:00+09:00",
+      "issue": "2026-08-31-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/new-china-property-sector-rules-expected-bring-consolidation-small-developers-2026-08-31",
+      "title": "中国、住宅販売制度を改革—小型不動産株に売り",
+      "topic_key": "china-home-sales-reform-developer-shares-20260831",
+      "source": "Reuters / 中国政府",
+      "first_seen": "2026-08-31T12:00:00+09:00",
+      "issue": "2026-08-31-1200"
+    },
+    {
+      "url_normalized": "ir.oneok.com/news-and-events/press-releases/2026/08-30-2026-214020927",
+      "title": "ONEOK、パーミアン天然ガス資産を44.25億ドルで買収",
+      "topic_key": "oneok-brazos-midland-acquisition-20260830",
+      "source": "ONEOK / Reuters",
+      "first_seen": "2026-08-31T12:00:00+09:00",
+      "issue": "2026-08-31-1200"
     }
   ]
 }

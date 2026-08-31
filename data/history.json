@@ -54,11 +54,22 @@
       "issue_id": "2026-08-31-0600",
       "published_at": "2026-08-31T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-08-31-0600.html",
       "topics": [
         "us-strike-iran-larak-launchers-20260830",
         "iceland-rejects-eu-talks-20260830",
         "gulf-stocks-fed-hike-odds-20260830"
+      ]
+    },
+    {
+      "issue_id": "2026-08-31-1200",
+      "published_at": "2026-08-31T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-august-pmi-20260831",
+        "china-home-sales-reform-developer-shares-20260831",
+        "oneok-brazos-midland-acquisition-20260830"
       ]
     }
   ]

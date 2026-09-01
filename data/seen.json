@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "federalreserve.gov/newsevents/speech/warsh20260828a.htm",
-      "title": "FRB議長、インフレ抑制を最優先—PCEは前年比3.7%",
-      "topic_key": "fed-warsh-jackson-hole-inflation-20260828",
-      "source": "Federal Reserve Board",
-      "first_seen": "2026-08-29T12:00:00+09:00",
-      "issue": "2026-08-29-1200"
-    },
-    {
-      "url_normalized": "stat.go.jp/data/cpi/sokuhou/tsuki/pdf/kubu.pdf",
-      "title": "東京都区部コアCPI、8月は1.8%—3カ月連続で伸び加速",
-      "topic_key": "tokyo-cpi-august-20260828",
-      "source": "総務省統計局",
-      "first_seen": "2026-08-29T12:00:00+09:00",
-      "issue": "2026-08-29-1200"
-    },
-    {
-      "url_normalized": "stat.go.jp/data/roudou/sokuhou/tsuki/index.html",
-      "title": "日本の7月失業率、2.4%へ低下—就業者6850万人",
-      "topic_key": "japan-unemployment-july-20260828",
-      "source": "総務省統計局",
-      "first_seen": "2026-08-29T12:00:00+09:00",
-      "issue": "2026-08-29-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/us-enters-into-oil-agreement-with-venezuela-trump-says-2026-08-28",
-      "title": "米国、ベネズエラ石油権益への関与拡大—650億バレル超を対象",
-      "topic_key": "us-venezuela-oil-deal-20260828",
-      "source": "Reuters",
-      "first_seen": "2026-08-29T12:00:00+09:00",
-      "issue": "2026-08-29-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/war-weighs-irans-economy-us-intensifies-sanctions-2026-08-29",
-      "title": "イラン貿易35%減、インフレ66%—制裁と海上封鎖が圧迫",
-      "topic_key": "iran-economy-trade-sanctions-20260829",
-      "source": "Reuters",
-      "first_seen": "2026-08-29T12:00:00+09:00",
-      "issue": "2026-08-29-1200"
-    },
-    {
       "url_normalized": "reuters.com/world/asia-pacific/chinas-cxmt-supply-memory-chip-xiaomis-upcoming-folding-phone-2026-08-29",
       "title": "中国CXMT、LPDDR6を量産—小米の折りたたみ端末に供給",
       "topic_key": "cxmt-xiaomi-lpddr6-20260829",
@@ -223,6 +183,46 @@
       "source": "Reuters",
       "first_seen": "2026-09-01T12:00:00+09:00",
       "issue": "2026-09-01-1200"
+    },
+    {
+      "url_normalized": "ec.europa.eu/eurostat/web/products-euro-indicators/w/2-01092026-ap",
+      "title": "ユーロ圏8月インフレ3.3%—ECB利上げ観測を強める",
+      "topic_key": "eurozone-inflation-august-20260901",
+      "source": "Eurostat / Reuters",
+      "first_seen": "2026-09-01T22:00:00+09:00",
+      "issue": "2026-09-01-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/retail-consumer/keppel-dc-reit-buy-two-tokyo-data-centres-12-billion-2026-09-01",
+      "title": "Keppel、東京データセンター2棟を1900億円で取得",
+      "topic_key": "keppel-tokyo-data-centres-20260901",
+      "source": "Reuters",
+      "first_seen": "2026-09-01T22:00:00+09:00",
+      "issue": "2026-09-01-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/veritas-capital-wins-race-uks-bodycote-with-25-billion-offer-2026-09-01",
+      "title": "米Veritas、英Bodycoteを18.5億ポンドで買収",
+      "topic_key": "veritas-bodycote-acquisition-20260901",
+      "source": "Reuters",
+      "first_seen": "2026-09-01T22:00:00+09:00",
+      "issue": "2026-09-01-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/chinas-premier-welcomes-us-firms-expand-china-urges-washington-address-beijings-2026-09-01",
+      "title": "中国首相、米企業の投資拡大を歓迎—懸念対応を米国に要請",
+      "topic_key": "china-premier-us-firms-dialogue-20260901",
+      "source": "Reuters",
+      "first_seen": "2026-09-01T22:00:00+09:00",
+      "issue": "2026-09-01-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/autos-transportation/byds-sales-extend-growth-streak-strong-exports-2026-09-01",
+      "title": "BYDの8月販売17.8%増—海外出荷は2.3倍",
+      "topic_key": "byd-august-sales-exports-20260901",
+      "source": "Reuters",
+      "first_seen": "2026-09-01T22:00:00+09:00",
+      "issue": "2026-09-01-2200"
     }
   ]
 }

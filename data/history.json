@@ -111,13 +111,27 @@
       "issue_id": "2026-09-01-2200",
       "published_at": "2026-09-01T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-01-2200.html",
       "topics": [
         "eurozone-inflation-august-20260901",
         "keppel-tokyo-data-centres-20260901",
         "veritas-bodycote-acquisition-20260901",
         "china-premier-us-firms-dialogue-20260901",
         "byd-august-sales-exports-20260901"
+      ]
+    },
+    {
+      "issue_id": "2026-09-02-0600",
+      "published_at": "2026-09-02T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-ism-jolts-20260901",
+        "us-construction-spending-july-20260901",
+        "israel-rate-cut-september-20260901",
+        "dell-q2-ai-server-outlook-20260901",
+        "gopro-starman-merger-20260901",
+        "micron-taiwan-union-strike-20260901"
       ]
     }
   ]

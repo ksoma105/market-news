@@ -183,6 +183,46 @@
       "source": "Reuters",
       "first_seen": "2026-09-01T06:00:00+09:00",
       "issue": "2026-09-01-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/japan-q2-corporate-capex-up-16-yryr-finance-ministry-says-2026-09-01",
+      "title": "日本の4〜6月設備投資、1.6%増—経常利益は44.7兆円で最高",
+      "topic_key": "japan-q2-capex-profits-20260901",
+      "source": "財務省 / Reuters",
+      "first_seen": "2026-09-01T12:00:00+09:00",
+      "issue": "2026-09-01-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-09-01",
+      "title": "原油91ドル超、米10年債利回り4.78%—世界的な債券売り",
+      "topic_key": "global-bond-selloff-oil-20260901",
+      "source": "Reuters",
+      "first_seen": "2026-09-01T12:00:00+09:00",
+      "issue": "2026-09-01-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-2026-09-01",
+      "title": "韓国、821兆ウォンの2027年予算案—半導体に2.6兆ウォン",
+      "topic_key": "south-korea-budget-2027-20260901",
+      "source": "Reuters",
+      "first_seen": "2026-09-01T12:00:00+09:00",
+      "issue": "2026-09-01-1200"
+    },
+    {
+      "url_normalized": "reuters.com/technology/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda-source-says-2026-08-31",
+      "title": "Anthropic、Lambdaと350億ドルのクラウド契約—関係者",
+      "topic_key": "anthropic-lambda-cloud-deal-20260831",
+      "source": "Reuters",
+      "first_seen": "2026-09-01T12:00:00+09:00",
+      "issue": "2026-09-01-1200"
+    },
+    {
+      "url_normalized": "reuters.com/legal/transactional/shein-set-lacklustre-debut-after-setbacks-cause-huge-drop-valuation-2026-08-31",
+      "title": "Shein、香港上場初日に8%安—評価額は約240億ドル",
+      "topic_key": "shein-hong-kong-debut-20260901",
+      "source": "Reuters",
+      "first_seen": "2026-09-01T12:00:00+09:00",
+      "issue": "2026-09-01-1200"
     }
   ]
 }

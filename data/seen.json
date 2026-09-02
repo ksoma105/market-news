@@ -1,30 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/business/autos-transportation/gm-deal-with-workers-would-add-sierra-pickup-assembly-canadian-plant-despite-us-2026-08-29",
-      "title": "GM、カナダ工場に11億加ドル投資案—米関税下でも大型車生産を追加",
-      "topic_key": "gm-canada-investment-unifor-20260829",
-      "source": "Reuters",
-      "first_seen": "2026-08-30T12:00:00+09:00",
-      "issue": "2026-08-30-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/middle-east/egypts-banque-misr-reviews-us-iran-sanctions-notice-uae-central-bank-launches-2026-08-29",
-      "title": "米FinCEN、エジプト国有銀UAE拠点のドル接続遮断を提案",
-      "topic_key": "banque-misr-uae-fincen-review-20260829",
-      "source": "Reuters / FinCEN",
-      "first_seen": "2026-08-30T12:00:00+09:00",
-      "issue": "2026-08-30-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/south-koreas-export-boom-seen-sustained-august-strong-chip-demand-2026-08-28",
-      "title": "韓国8月輸出、62.6%増予想—AIメモリー需要が15カ月連続増を支える",
-      "topic_key": "south-korea-aug-exports-poll-20260828",
-      "source": "Reuters",
-      "first_seen": "2026-08-30T12:00:00+09:00",
-      "issue": "2026-08-30-1200"
-    },
-    {
       "url_normalized": "reuters.com/world/middle-east/us-forces-strike-two-iranian-launchers-irans-larak-island-us-official-says-2026-08-30",
       "title": "米軍、イラン・ララク島の発射装置を攻撃—7月以来の直接攻撃",
       "topic_key": "us-strike-iran-larak-launchers-20260830",
@@ -287,6 +263,54 @@
       "source": "Keurig Dr Pepper / Reuters",
       "first_seen": "2026-09-02T12:00:00+09:00",
       "issue": "2026-09-02-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02",
+      "title": "米8月民間雇用、3.8万人増へ鈍化—市場予想を下回る",
+      "topic_key": "us-adp-private-payrolls-20260902",
+      "source": "Reuters / The Wall Street Journal",
+      "first_seen": "2026-09-02T22:00:00+09:00",
+      "issue": "2026-09-02-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/autos-transportation/honda-tells-suppliers-cut-costs-9-billion-push-fend-off-china-documents-show-2026-09-02",
+      "title": "ホンダ、2030年までに1.5兆円のコスト削減へ",
+      "topic_key": "honda-cost-cuts-suppliers-20260902",
+      "source": "Honda / Reuters",
+      "first_seen": "2026-09-02T22:00:00+09:00",
+      "issue": "2026-09-02-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/china/taiwan-says-its-companies-plan-invest-another-20-billion-us-2026-09-02",
+      "title": "台湾企業、米国へ追加200億ドル投資計画—AI需要が追い風",
+      "topic_key": "taiwan-us-investment-ai-20260902",
+      "source": "Reuters",
+      "first_seen": "2026-09-02T22:00:00+09:00",
+      "issue": "2026-09-02-2200"
+    },
+    {
+      "url_normalized": "home.treasury.gov/news/press-releases/sb0620",
+      "title": "G20、中国除く19カ国が貿易不均衡への対応で一致",
+      "topic_key": "g20-trade-imbalances-20260901",
+      "source": "米財務省 / Reuters",
+      "first_seen": "2026-09-02T22:00:00+09:00",
+      "issue": "2026-09-02-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/world-at-work/uber-cut-3300-jobs-overhaul-bloomberg-news-reports-2026-09-02",
+      "title": "Uber、世界の人員を10%削減—管理階層を簡素化",
+      "topic_key": "uber-workforce-cut-20260902",
+      "source": "Reuters",
+      "first_seen": "2026-09-02T22:00:00+09:00",
+      "issue": "2026-09-02-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/italys-lottomatica-take-over-spains-cirsa-create-combined-betting-company-2026-09-02",
+      "title": "Lottomatica、CIRSAと28億ユーロで統合—世界2位の賭博企業へ",
+      "topic_key": "lottomatica-cirsa-merger-20260902",
+      "source": "Lottomatica / Reuters",
+      "first_seen": "2026-09-02T22:00:00+09:00",
+      "issue": "2026-09-02-2200"
     }
   ]
 }

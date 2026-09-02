@@ -311,6 +311,46 @@
       "source": "Lottomatica / Reuters",
       "first_seen": "2026-09-02T22:00:00+09:00",
       "issue": "2026-09-02-2200"
+    },
+    {
+      "url_normalized": "bankofcanada.ca/2026/09/fad-press-release-2026-09-02",
+      "title": "カナダ中銀、2.25%据え置き—インフレ次第で複数回利上げも",
+      "topic_key": "canada-rate-hold-hawkish-20260902",
+      "source": "カナダ銀行 / Reuters",
+      "first_seen": "2026-09-03T06:00:00+09:00",
+      "issue": "2026-09-03-0600"
+    },
+    {
+      "url_normalized": "britishchambers.org.uk/news/2026/09/bcc-economic-forecast-weak-business-investment-hits-growth-outlook",
+      "title": "英2026年成長率見通し1.0%—企業投資は0.2%減",
+      "topic_key": "uk-bcc-forecast-20260901",
+      "source": "英国商工会議所 / Reuters",
+      "first_seen": "2026-09-03T06:00:00+09:00",
+      "issue": "2026-09-03-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/retail-consumer/microsoft-reveal-azure-cloud-sales-financial-reporting-shift-2026-09-02",
+      "title": "Microsoft、Azure売上高を四半期開示へ—事業区分も再編",
+      "topic_key": "microsoft-azure-reporting-20260902",
+      "source": "Reuters",
+      "first_seen": "2026-09-03T06:00:00+09:00",
+      "issue": "2026-09-03-0600"
+    },
+    {
+      "url_normalized": "reuters.com/legal/transactional/vertiv-strikes-145-billion-deal-microgrid-firm-utility-innovation-group-2026-09-02",
+      "title": "Vertiv、最大26億ドルでマイクログリッド企業を買収",
+      "topic_key": "vertiv-uig-acquisition-20260902",
+      "source": "Reuters",
+      "first_seen": "2026-09-03T06:00:00+09:00",
+      "issue": "2026-09-03-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/pge-invest-114-billion-california-2027-part-strategic-review-2026-09-02",
+      "title": "PG&E、2027年投資を20億ドル延期—山火事責任制度を懸念",
+      "topic_key": "pge-spending-review-20260902",
+      "source": "Reuters / Barron’s",
+      "first_seen": "2026-09-03T06:00:00+09:00",
+      "issue": "2026-09-03-0600"
     }
   ]
 }

@@ -1,30 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/asia-pacific/chinas-cxmt-supply-memory-chip-xiaomis-upcoming-folding-phone-2026-08-29",
-      "title": "中国CXMT、LPDDR6を量産—小米の折りたたみ端末に供給",
-      "topic_key": "cxmt-xiaomi-lpddr6-20260829",
-      "source": "Reuters",
-      "first_seen": "2026-08-30T06:00:00+09:00",
-      "issue": "2026-08-30-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/finance/bessent-says-disorderly-yen-moves-can-destabilize-global-markets-2026-08-29",
-      "title": "米財務長官、急激な円変動は世界市場を不安定化と警告",
-      "topic_key": "bessent-yen-forced-unwinds-20260829",
-      "source": "Reuters",
-      "first_seen": "2026-08-30T06:00:00+09:00",
-      "issue": "2026-08-30-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/russia-extends-ban-diesel-exports-until-september-30-2026-08-29",
-      "title": "ロシア、軽油輸出禁止を9月末まで延長—国内供給を優先",
-      "topic_key": "russia-diesel-export-ban-sep30-20260829",
-      "source": "Reuters",
-      "first_seen": "2026-08-30T06:00:00+09:00",
-      "issue": "2026-08-30-0600"
-    },
-    {
       "url_normalized": "reuters.com/business/autos-transportation/gm-deal-with-workers-would-add-sierra-pickup-assembly-canadian-plant-despite-us-2026-08-29",
       "title": "GM、カナダ工場に11億加ドル投資案—米関税下でも大型車生産を追加",
       "topic_key": "gm-canada-investment-unifor-20260829",
@@ -271,6 +247,46 @@
       "source": "Reuters",
       "first_seen": "2026-09-02T06:00:00+09:00",
       "issue": "2026-09-02-0600"
+    },
+    {
+      "url_normalized": "abs.gov.au/media-centre/media-releases/australian-economy-grew-04-june-quarter",
+      "title": "豪州4〜6月GDP、前期比0.4%増—個人消費が下支え",
+      "topic_key": "australia-q2-gdp-20260902",
+      "source": "豪州統計局",
+      "first_seen": "2026-09-02T12:00:00+09:00",
+      "issue": "2026-09-02-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/boj-must-conduct-rate-hikes-nimbly-hawkish-board-member-says-2026-09-02",
+      "title": "日銀・高田委員、利上げは「機動的に」—固定ペースを否定",
+      "topic_key": "boj-takata-rate-hikes-20260902",
+      "source": "日本銀行 / Reuters",
+      "first_seen": "2026-09-02T12:00:00+09:00",
+      "issue": "2026-09-02-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/south-korea-japan-discuss-cooperation-emergency-energy-supply-2026-09-02",
+      "title": "日韓、緊急時のLNG・原油供給で協力—初の実務協議",
+      "topic_key": "japan-korea-emergency-energy-supply-20260902",
+      "source": "Reuters",
+      "first_seen": "2026-09-02T12:00:00+09:00",
+      "issue": "2026-09-02-1200"
+    },
+    {
+      "url_normalized": "investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-10",
+      "title": "Palo Alto Networks、売上34%増—AI基盤Consoleを買収",
+      "topic_key": "palo-alto-q4-console-acquisition-20260901",
+      "source": "Palo Alto Networks / Reuters",
+      "first_seen": "2026-09-02T12:00:00+09:00",
+      "issue": "2026-09-02-1200"
+    },
+    {
+      "url_normalized": "news.keurigdrpepper.com/2026-09-01-Keurig-Dr-Pepper-Advances-Strategic-Priorities-Through-Enhanced-Partnership-with-Chobani",
+      "title": "Keurig Dr Pepper、Chobani持分などを9.25億ドルで売却",
+      "topic_key": "keurig-chobani-divestment-20260901",
+      "source": "Keurig Dr Pepper / Reuters",
+      "first_seen": "2026-09-02T12:00:00+09:00",
+      "issue": "2026-09-02-1200"
     }
   ]
 }

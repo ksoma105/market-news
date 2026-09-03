@@ -178,7 +178,7 @@
       "issue_id": "2026-09-03-1200",
       "published_at": "2026-09-03T12:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-03-1200.html",
       "topics": [
         "japan-services-pmi-20260903",
         "china-services-pmi-20260903",
@@ -187,6 +187,21 @@
         "imf-developing-debt-high-yields-20260903",
         "china-refined-fuel-exports-20260902",
         "china-tech-factory-tours-20260903"
+      ]
+    },
+    {
+      "issue_id": "2026-09-03-2200",
+      "published_at": "2026-09-03T22:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "nvidia-hugging-face-acquisition-20260903",
+        "broadcom-q3-ai-chip-outlook-20260902",
+        "us-q2-productivity-revised-20260903",
+        "us-weekly-jobless-claims-20260903",
+        "canada-july-trade-20260903",
+        "germany-ifo-growth-forecast-20260903",
+        "eurozone-august-pmi-20260903"
       ]
     }
   ]

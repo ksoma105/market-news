@@ -193,7 +193,7 @@
       "issue_id": "2026-09-03-2200",
       "published_at": "2026-09-03T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-03-2200.html",
       "topics": [
         "nvidia-hugging-face-acquisition-20260903",
         "broadcom-q3-ai-chip-outlook-20260902",
@@ -202,6 +202,21 @@
         "canada-july-trade-20260903",
         "germany-ifo-growth-forecast-20260903",
         "eurozone-august-pmi-20260903"
+      ]
+    },
+    {
+      "issue_id": "2026-09-04-0600",
+      "published_at": "2026-09-04T06:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "fed-waller-neutral-rate-treasury-premium-20260903",
+        "us-mortgage-rate-671-20260903",
+        "us-diesel-record-5820-20260903",
+        "snowflake-q2-ai-growth-20260903",
+        "volkswagen-future-plan-50000-cuts-20260903",
+        "china-little-giants-plan-2030-20260903",
+        "india-rupee-ten-week-high-20260903"
       ]
     }
   ]

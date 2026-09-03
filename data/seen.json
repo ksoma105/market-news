@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/asia-pacific/nvidia-invests-35-billion-mediatek-convertible-bonds-2026-08-31",
-      "title": "NVIDIA、MediaTek転換社債に35億ドル投資—AI半導体連携を拡大",
-      "topic_key": "nvidia-mediatek-convertible-bonds-20260831",
-      "source": "Reuters / NVIDIA・MediaTek",
-      "first_seen": "2026-08-31T22:00:00+09:00",
-      "issue": "2026-08-31-2200"
-    },
-    {
-      "url_normalized": "slb.com/newsroom/press-release/2026/pr-2026-0831",
-      "title": "SLB、データセンター冷却のKelvionを34億ドルで買収",
-      "topic_key": "slb-kelvion-data-center-cooling-20260831",
-      "source": "SLB / Reuters",
-      "first_seen": "2026-08-31T22:00:00+09:00",
-      "issue": "2026-08-31-2200"
-    },
-    {
-      "url_normalized": "mospi.gov.in/uploads/latestReleases/latest_release_1788172583113_d65a77cf-240e-4491-82ee-59f78618fa41_Press_Note_on_GDP_Estimates_for_Q1_2026-27.pdf",
-      "title": "インド4〜6月GDP、7.8%増—設備投資11.9%がけん引",
-      "topic_key": "india-q1-gdp-growth-20260831",
-      "source": "インド統計・事業実施省 / Reuters",
-      "first_seen": "2026-08-31T22:00:00+09:00",
-      "issue": "2026-08-31-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/glp-japan-raises-376-billion-build-logistics-centers-nikkei-reports-2026-08-31",
-      "title": "GLPジャパン、物流施設ファンドに6000億円—総投資1.7兆円へ",
-      "topic_key": "glp-japan-logistics-fund-20260901",
-      "source": "Reuters",
-      "first_seen": "2026-09-01T06:00:00+09:00",
-      "issue": "2026-09-01-0600"
-    },
-    {
-      "url_normalized": "reuters.com/world/india/foreign-buying-indian-stocks-hits-23-month-high-august-rbi-data-shows-2026-08-31",
-      "title": "海外投資家、8月のインド株を31億ドル買い越し—23カ月ぶり高水準",
-      "topic_key": "india-fpi-august-inflows-20260831",
-      "source": "Reuters",
-      "first_seen": "2026-09-01T06:00:00+09:00",
-      "issue": "2026-09-01-0600"
-    },
-    {
-      "url_normalized": "reuters.com/legal/transactional/aon-buy-usi-insurance-services-17-billion-deal-2026-08-31",
-      "title": "Aon、保険仲介USIを170億ドルで買収—米中堅企業市場を強化",
-      "topic_key": "aon-usi-acquisition-20260831",
-      "source": "Reuters",
-      "first_seen": "2026-09-01T06:00:00+09:00",
-      "issue": "2026-09-01-0600"
-    },
-    {
       "url_normalized": "reuters.com/world/asia-pacific/japan-q2-corporate-capex-up-16-yryr-finance-ministry-says-2026-09-01",
       "title": "日本の4〜6月設備投資、1.6%増—経常利益は44.7兆円で最高",
       "topic_key": "japan-q2-capex-profits-20260901",
@@ -415,6 +367,62 @@
       "source": "Reuters（S&P Global調査）",
       "first_seen": "2026-09-03T22:00:00+09:00",
       "issue": "2026-09-03-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/feds-waller-says-safety-premium-treasuries-is-gone-pushing-neutral-rate-higher-2026-09-03",
+      "title": "FRBウォラー理事、米国債の安全プレミアム消失で中立金利上昇を指摘",
+      "topic_key": "fed-waller-neutral-rate-treasury-premium-20260903",
+      "source": "Reuters（ウォラーFRB理事インタビュー）",
+      "first_seen": "2026-09-04T06:00:00+09:00",
+      "issue": "2026-09-04-0600"
+    },
+    {
+      "url_normalized": "freddiemac.com/pmms",
+      "title": "米30年固定住宅ローン金利、6.71%—2025年7月以来の高水準",
+      "topic_key": "us-mortgage-rate-671-20260903",
+      "source": "Freddie Mac / Reuters",
+      "first_seen": "2026-09-04T06:00:00+09:00",
+      "issue": "2026-09-04-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/us-diesel-hits-record-5820-gallon-gasbuddy-says-2026-09-03",
+      "title": "米ディーゼル価格、1ガロン5.820ドルで過去最高",
+      "topic_key": "us-diesel-record-5820-20260903",
+      "source": "Reuters（GasBuddyデータ）",
+      "first_seen": "2026-09-04T06:00:00+09:00",
+      "issue": "2026-09-04-0600"
+    },
+    {
+      "url_normalized": "businesswire.com/news/home/20260902386235/en/Snowflake-Reports-Financial-Results-for-the-Second-Quarter-of-Fiscal-2027",
+      "title": "Snowflake、AI需要で製品売上37%増—通期見通しを60.7億ドルへ",
+      "topic_key": "snowflake-q2-ai-growth-20260903",
+      "source": "Snowflake / Reuters",
+      "first_seen": "2026-09-04T06:00:00+09:00",
+      "issue": "2026-09-04-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/autos-transportation/volkswagen-supervisory-board-approves-transformation-plan-2026-09-03",
+      "title": "Volkswagen、最大5万人削減を含む再建計画—2030年に営業利益率9%目標",
+      "topic_key": "volkswagen-future-plan-50000-cuts-20260903",
+      "source": "Reuters（Volkswagen発表）",
+      "first_seen": "2026-09-04T06:00:00+09:00",
+      "issue": "2026-09-04-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/china-vows-support-small-midsize-firms-employment-innovation-2026-09-03",
+      "title": "中国、「小巨人」企業を2030年までに2.2万社へ—中小企業支援を拡充",
+      "topic_key": "china-little-giants-plan-2030-20260903",
+      "source": "Reuters（中国政府計画）",
+      "first_seen": "2026-09-04T06:00:00+09:00",
+      "issue": "2026-09-04-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/india/indias-127-bln-nri-deposits-arm-rbi-with-more-firepower-setting-rupee-up-rally-2026-09-03",
+      "title": "インドルピー、1ドル94.4850ルピー—10週間ぶり高値",
+      "topic_key": "india-rupee-ten-week-high-20260903",
+      "source": "Reuters",
+      "first_seen": "2026-09-04T06:00:00+09:00",
+      "issue": "2026-09-04-0600"
     }
   ]
 }

@@ -1,30 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/middle-east/us-forces-strike-two-iranian-launchers-irans-larak-island-us-official-says-2026-08-30",
-      "title": "米軍、イラン・ララク島の発射装置を攻撃—7月以来の直接攻撃",
-      "topic_key": "us-strike-iran-larak-launchers-20260830",
-      "source": "Reuters",
-      "first_seen": "2026-08-31T06:00:00+09:00",
-      "issue": "2026-08-31-0600"
-    },
-    {
-      "url_normalized": "reuters.com/world/europe/iceland-votes-whether-start-eu-membership-talks-2026-08-29",
-      "title": "アイスランド、EU加盟交渉の再開を否決—反対52.8%",
-      "topic_key": "iceland-rejects-eu-talks-20260830",
-      "source": "Reuters",
-      "first_seen": "2026-08-31T06:00:00+09:00",
-      "issue": "2026-08-31-0600"
-    },
-    {
-      "url_normalized": "reuters.com/world/middle-east/gulf-stocks-fall-fed-rate-hike-bets-rise-after-warsh-remarks-2026-08-30",
-      "title": "湾岸株が下落—米9月利上げ確率55.7%へ上昇",
-      "topic_key": "gulf-stocks-fed-hike-odds-20260830",
-      "source": "Reuters",
-      "first_seen": "2026-08-31T06:00:00+09:00",
-      "issue": "2026-08-31-0600"
-    },
-    {
       "url_normalized": "stats.gov.cn/sj/sjjd/202608/t20260831_1965155.html",
       "title": "中国8月製造業PMI、49.8へ改善—非製造業は49.0で低迷",
       "topic_key": "china-august-pmi-20260831",
@@ -351,6 +327,62 @@
       "source": "Reuters / Barron’s",
       "first_seen": "2026-09-03T06:00:00+09:00",
       "issue": "2026-09-03-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/japan-services-growth-hits-five-month-high-pmi-shows-2026-09-03",
+      "title": "日本の8月サービス業PMI、52.5へ上昇—5カ月ぶり高水準",
+      "topic_key": "japan-services-pmi-20260903",
+      "source": "Reuters（S&P Global調査）",
+      "first_seen": "2026-09-03T12:00:00+09:00",
+      "issue": "2026-09-03-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/china-services-activity-quickens-stronger-domestic-demand-private-pmi-shows-2026-09-03",
+      "title": "中国の8月サービス業PMI、51.4へ改善—雇用は4カ月連続増",
+      "topic_key": "china-services-pmi-20260903",
+      "source": "Reuters（RatingDog調査）",
+      "first_seen": "2026-09-03T12:00:00+09:00",
+      "issue": "2026-09-03-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/finance/feds-williams-ties-rising-bond-yields-strong-economy-cnbc-reports-2026-09-02",
+      "title": "NY連銀総裁、長期金利上昇は「米景気の強さ」を反映",
+      "topic_key": "fed-williams-bond-yields-20260902",
+      "source": "Reuters",
+      "first_seen": "2026-09-03T12:00:00+09:00",
+      "issue": "2026-09-03-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/oil-edges-down-investors-weigh-uncertainty-over-us-iran-strikes-2026-09-03",
+      "title": "原油は高値圏で反落—ホルムズ海峡の供給不安を注視",
+      "topic_key": "oil-hormuz-volatility-20260903",
+      "source": "Reuters",
+      "first_seen": "2026-09-03T12:00:00+09:00",
+      "issue": "2026-09-03-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/china/imfs-georgieva-says-rising-bond-yields-threaten-progress-developing-country-debt-2026-09-03",
+      "title": "IMF、先進国の高金利が途上国の債務改善を逆行させる恐れ",
+      "topic_key": "imf-developing-debt-high-yields-20260903",
+      "source": "Reuters",
+      "first_seen": "2026-09-03T12:00:00+09:00",
+      "issue": "2026-09-03-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/china-maintains-stable-refined-fuel-exports-under-relaxed-controls-sources-say-2026-09-02",
+      "title": "中国、9月の燃料輸出を400万トン超へ—アジア供給を下支え",
+      "topic_key": "china-refined-fuel-exports-20260902",
+      "source": "Reuters",
+      "first_seen": "2026-09-03T12:00:00+09:00",
+      "issue": "2026-09-03-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/china/tech-pilgrims-flock-china-global-innovation-race-heats-up-2026-09-03",
+      "title": "中国の先端工場ツアーに海外投資家が殺到—「技術巡礼」が拡大",
+      "topic_key": "china-tech-factory-tours-20260903",
+      "source": "Reuters",
+      "first_seen": "2026-09-03T12:00:00+09:00",
+      "issue": "2026-09-03-1200"
     }
   ]
 }

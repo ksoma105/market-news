@@ -165,13 +165,28 @@
       "issue_id": "2026-09-03-0600",
       "published_at": "2026-09-03T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-03-0600.html",
       "topics": [
         "canada-rate-hold-hawkish-20260902",
         "uk-bcc-forecast-20260901",
         "microsoft-azure-reporting-20260902",
         "vertiv-uig-acquisition-20260902",
         "pge-spending-review-20260902"
+      ]
+    },
+    {
+      "issue_id": "2026-09-03-1200",
+      "published_at": "2026-09-03T12:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-services-pmi-20260903",
+        "china-services-pmi-20260903",
+        "fed-williams-bond-yields-20260902",
+        "oil-hormuz-volatility-20260903",
+        "imf-developing-debt-high-yields-20260903",
+        "china-refined-fuel-exports-20260902",
+        "china-tech-factory-tours-20260903"
       ]
     }
   ]

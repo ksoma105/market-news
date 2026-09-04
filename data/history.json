@@ -223,7 +223,7 @@
       "issue_id": "2026-09-04-1200",
       "published_at": "2026-09-04T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-04-1200.html",
       "topics": [
         "japan-july-household-spending-20260904",
         "japan-fy2027-budget-requests-143t-20260904",
@@ -231,6 +231,20 @@
         "oura-us-ipo-filing-20260903",
         "lululemon-q2-outlook-cut-20260903",
         "adobe-chakravarthy-ceo-20260903"
+      ]
+    },
+    {
+      "issue_id": "2026-09-04-2200",
+      "published_at": "2026-09-04T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-august-payrolls-162k-20260904",
+        "canada-august-jobs-minus-41700-20260904",
+        "japan-mimura-yen-intervention-warning-20260904",
+        "uk-construction-pmi-443-20260904",
+        "uk-boe-dmp-price-expectations-38-20260904",
+        "india-monsoon-rainfall-deficit-crops-20260904"
       ]
     }
   ]

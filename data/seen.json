@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "ec.europa.eu/eurostat/web/products-euro-indicators/w/2-01092026-ap",
-      "title": "ユーロ圏8月インフレ3.3%—ECB利上げ観測を強める",
-      "topic_key": "eurozone-inflation-august-20260901",
-      "source": "Eurostat / Reuters",
-      "first_seen": "2026-09-01T22:00:00+09:00",
-      "issue": "2026-09-01-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/retail-consumer/keppel-dc-reit-buy-two-tokyo-data-centres-12-billion-2026-09-01",
-      "title": "Keppel、東京データセンター2棟を1900億円で取得",
-      "topic_key": "keppel-tokyo-data-centres-20260901",
-      "source": "Reuters",
-      "first_seen": "2026-09-01T22:00:00+09:00",
-      "issue": "2026-09-01-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/veritas-capital-wins-race-uks-bodycote-with-25-billion-offer-2026-09-01",
-      "title": "米Veritas、英Bodycoteを18.5億ポンドで買収",
-      "topic_key": "veritas-bodycote-acquisition-20260901",
-      "source": "Reuters",
-      "first_seen": "2026-09-01T22:00:00+09:00",
-      "issue": "2026-09-01-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/chinas-premier-welcomes-us-firms-expand-china-urges-washington-address-beijings-2026-09-01",
-      "title": "中国首相、米企業の投資拡大を歓迎—懸念対応を米国に要請",
-      "topic_key": "china-premier-us-firms-dialogue-20260901",
-      "source": "Reuters",
-      "first_seen": "2026-09-01T22:00:00+09:00",
-      "issue": "2026-09-01-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/autos-transportation/byds-sales-extend-growth-streak-strong-exports-2026-09-01",
-      "title": "BYDの8月販売17.8%増—海外出荷は2.3倍",
-      "topic_key": "byd-august-sales-exports-20260901",
-      "source": "Reuters",
-      "first_seen": "2026-09-01T22:00:00+09:00",
-      "issue": "2026-09-01-2200"
-    },
-    {
       "url_normalized": "reuters.com/business/us-manufacturing-activity-slows-august-input-prices-still-elevated-2026-09-01",
       "title": "米8月製造業PMI、54.6へ鈍化—求人は727.1万件",
       "topic_key": "us-ism-jolts-20260901",
@@ -431,6 +391,54 @@
       "source": "Adobe / Reuters",
       "first_seen": "2026-09-04T12:00:00+09:00",
       "issue": "2026-09-04-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/us-nonfarm-payrolls-surge-august-unemployment-rate-steady-41-2026-09-04",
+      "title": "米8月雇用者数16.2万人増、失業率は4.1%で横ばい",
+      "topic_key": "us-august-payrolls-162k-20260904",
+      "source": "米労働統計局 / Reuters",
+      "first_seen": "2026-09-04T22:00:00+09:00",
+      "issue": "2026-09-04-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/americas/canadas-job-market-loses-steam-employment-drops-by-over-41000-2026-09-04",
+      "title": "カナダ8月雇用、4万1,700人減—失業率は6.4%",
+      "topic_key": "canada-august-jobs-minus-41700-20260904",
+      "source": "Reuters / Wall Street Journal",
+      "first_seen": "2026-09-04T22:00:00+09:00",
+      "issue": "2026-09-04-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/japans-top-currency-diplomat-alert-currency-moves-2026-09-04",
+      "title": "財務省・三村財務官、過度な円安に介入姿勢を強調",
+      "topic_key": "japan-mimura-yen-intervention-warning-20260904",
+      "source": "Reuters（三村財務官発言）",
+      "first_seen": "2026-09-04T22:00:00+09:00",
+      "issue": "2026-09-04-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/uk/uk-construction-slides-again-pulled-down-by-weak-housebuilding-pmi-shows-2026-09-04",
+      "title": "英国8月建設PMI、44.3—20カ月連続で縮小",
+      "topic_key": "uk-construction-pmi-443-20260904",
+      "source": "Reuters（S&P Global調査）",
+      "first_seen": "2026-09-04T22:00:00+09:00",
+      "issue": "2026-09-04-2200"
+    },
+    {
+      "url_normalized": "bankofengland.co.uk/decision-maker-panel/2026/august-2026",
+      "title": "英国企業の1年先価格見通し3.8%、前月から鈍化",
+      "topic_key": "uk-boe-dmp-price-expectations-38-20260904",
+      "source": "イングランド銀行 / Reuters",
+      "first_seen": "2026-09-04T22:00:00+09:00",
+      "issue": "2026-09-04-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/environment/how-indias-below-average-september-rainfall-fuels-concern-about-crops-2026-09-04",
+      "title": "インドの季節雨、6月以降13%不足—農作物と物価に警戒",
+      "topic_key": "india-monsoon-rainfall-deficit-crops-20260904",
+      "source": "インド気象局 / Reuters",
+      "first_seen": "2026-09-04T22:00:00+09:00",
+      "issue": "2026-09-04-2200"
     }
   ]
 }

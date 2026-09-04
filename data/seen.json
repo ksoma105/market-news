@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/asia-pacific/japan-q2-corporate-capex-up-16-yryr-finance-ministry-says-2026-09-01",
-      "title": "日本の4〜6月設備投資、1.6%増—経常利益は44.7兆円で最高",
-      "topic_key": "japan-q2-capex-profits-20260901",
-      "source": "財務省 / Reuters",
-      "first_seen": "2026-09-01T12:00:00+09:00",
-      "issue": "2026-09-01-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-09-01",
-      "title": "原油91ドル超、米10年債利回り4.78%—世界的な債券売り",
-      "topic_key": "global-bond-selloff-oil-20260901",
-      "source": "Reuters",
-      "first_seen": "2026-09-01T12:00:00+09:00",
-      "issue": "2026-09-01-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/south-koreas-president-lee-says-interest-rate-rise-is-unavoidable-2026-09-01",
-      "title": "韓国、821兆ウォンの2027年予算案—半導体に2.6兆ウォン",
-      "topic_key": "south-korea-budget-2027-20260901",
-      "source": "Reuters",
-      "first_seen": "2026-09-01T12:00:00+09:00",
-      "issue": "2026-09-01-1200"
-    },
-    {
-      "url_normalized": "reuters.com/technology/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda-source-says-2026-08-31",
-      "title": "Anthropic、Lambdaと350億ドルのクラウド契約—関係者",
-      "topic_key": "anthropic-lambda-cloud-deal-20260831",
-      "source": "Reuters",
-      "first_seen": "2026-09-01T12:00:00+09:00",
-      "issue": "2026-09-01-1200"
-    },
-    {
-      "url_normalized": "reuters.com/legal/transactional/shein-set-lacklustre-debut-after-setbacks-cause-huge-drop-valuation-2026-08-31",
-      "title": "Shein、香港上場初日に8%安—評価額は約240億ドル",
-      "topic_key": "shein-hong-kong-debut-20260901",
-      "source": "Reuters",
-      "first_seen": "2026-09-01T12:00:00+09:00",
-      "issue": "2026-09-01-1200"
-    },
-    {
       "url_normalized": "ec.europa.eu/eurostat/web/products-euro-indicators/w/2-01092026-ap",
       "title": "ユーロ圏8月インフレ3.3%—ECB利上げ観測を強める",
       "topic_key": "eurozone-inflation-august-20260901",
@@ -423,6 +383,54 @@
       "source": "Reuters",
       "first_seen": "2026-09-04T06:00:00+09:00",
       "issue": "2026-09-04-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/japan-year-on-year-household-spending-drops-8-straight-months-2026-09-03",
+      "title": "日本の7月実質消費支出、3.6%減—8カ月連続マイナス",
+      "topic_key": "japan-july-household-spending-20260904",
+      "source": "総務省統計局 / Reuters",
+      "first_seen": "2026-09-04T12:00:00+09:00",
+      "issue": "2026-09-04-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/japan-budget-requests-swell-pandemic-era-scale-under-takaichi-agenda-2026-09-04",
+      "title": "2027年度予算の概算要求、143.1兆円—利払い費は過去最大",
+      "topic_key": "japan-fy2027-budget-requests-143t-20260904",
+      "source": "財務省 / Reuters",
+      "first_seen": "2026-09-04T12:00:00+09:00",
+      "issue": "2026-09-04-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/sp-global-ratings-warns-risks-chinas-generous-credit-ratings-2026-09-03",
+      "title": "中国債券、発行体の約9割が「AA以上」—S&Pが格付け偏重を警告",
+      "topic_key": "china-credit-ratings-inflation-risk-20260903",
+      "source": "Reuters（S&P Global Ratings）",
+      "first_seen": "2026-09-04T12:00:00+09:00",
+      "issue": "2026-09-04-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/smart-ring-maker-oura-files-us-ipo-2026-09-03",
+      "title": "Ouraが米IPO申請、9カ月売上高74%増の12.15億ドル",
+      "topic_key": "oura-us-ipo-filing-20260903",
+      "source": "米SEC / Reuters",
+      "first_seen": "2026-09-04T12:00:00+09:00",
+      "issue": "2026-09-04-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/retail-consumer/lululemon-cuts-annual-revenue-profit-forecast-2026-09-03",
+      "title": "Lululemon、通期売上高を5〜7%減へ下方修正",
+      "topic_key": "lululemon-q2-outlook-cut-20260903",
+      "source": "Lululemon / Reuters",
+      "first_seen": "2026-09-04T12:00:00+09:00",
+      "issue": "2026-09-04-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/adobe-names-anil-chakravarthy-ceo-2026-09-03",
+      "title": "Adobe、チャクラバルティ氏を次期CEOに指名—12月1日就任",
+      "topic_key": "adobe-chakravarthy-ceo-20260903",
+      "source": "Adobe / Reuters",
+      "first_seen": "2026-09-04T12:00:00+09:00",
+      "issue": "2026-09-04-1200"
     }
   ]
 }

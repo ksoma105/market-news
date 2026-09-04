@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/business/us-manufacturing-activity-slows-august-input-prices-still-elevated-2026-09-01",
-      "title": "米8月製造業PMI、54.6へ鈍化—求人は727.1万件",
-      "topic_key": "us-ism-jolts-20260901",
-      "source": "ISM / 米労働統計局 / Reuters",
-      "first_seen": "2026-09-02T06:00:00+09:00",
-      "issue": "2026-09-02-0600"
-    },
-    {
-      "url_normalized": "census.gov/construction/c30/current/index.html",
-      "title": "米7月建設支出0.5%減—約3年ぶり低水準",
-      "topic_key": "us-construction-spending-july-20260901",
-      "source": "米国勢調査局 / Reuters",
-      "first_seen": "2026-09-02T06:00:00+09:00",
-      "issue": "2026-09-02-0600"
-    },
-    {
-      "url_normalized": "boi.org.il/en/communication-and-publications/press-releases/01-9-26-en",
-      "title": "イスラエル中銀、政策金利を3.25%へ—3会合連続の利下げ",
-      "topic_key": "israel-rate-cut-september-20260901",
-      "source": "イスラエル銀行 / Reuters",
-      "first_seen": "2026-09-02T06:00:00+09:00",
-      "issue": "2026-09-02-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/dell-again-lifts-forecasts-ai-demand-powers-record-results-2026-09-01",
-      "title": "Dell、AIサーバー売上見通しを740億ドルへ上方修正",
-      "topic_key": "dell-q2-ai-server-outlook-20260901",
-      "source": "Reuters / Barron’s",
-      "first_seen": "2026-09-02T06:00:00+09:00",
-      "issue": "2026-09-02-0600"
-    },
-    {
-      "url_normalized": "investor.gopro.com/press-releases/press-release-details/2026/GOPRO-ENTERS-INTO-DEFINITIVE-AGREEMENT-TO-MERGE-WITH-STARMAN-OPTICAL-INC-/default.aspx",
-      "title": "GoPro、光通信部品Starmanと合併—現金2.85億ドル",
-      "topic_key": "gopro-starman-merger-20260901",
-      "source": "GoPro / Reuters",
-      "first_seen": "2026-09-02T06:00:00+09:00",
-      "issue": "2026-09-02-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01",
-      "title": "Micron台湾労組、賞与制度を巡りスト検討—供給網に懸念",
-      "topic_key": "micron-taiwan-union-strike-20260901",
-      "source": "Reuters",
-      "first_seen": "2026-09-02T06:00:00+09:00",
-      "issue": "2026-09-02-0600"
-    },
-    {
       "url_normalized": "abs.gov.au/media-centre/media-releases/australian-economy-grew-04-june-quarter",
       "title": "豪州4〜6月GDP、前期比0.4%増—個人消費が下支え",
       "topic_key": "australia-q2-gdp-20260902",
@@ -439,6 +391,54 @@
       "source": "インド気象局 / Reuters",
       "first_seen": "2026-09-04T22:00:00+09:00",
       "issue": "2026-09-04-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/us-equity-funds-record-second-weekly-outflow-iran-tensions-high-yields-2026-09-04",
+      "title": "米株ファンド、2週連続流出—1週間で111.2億ドル",
+      "topic_key": "us-equity-fund-outflows-1112b-20260904",
+      "source": "Reuters（LSEG Lipper）",
+      "first_seen": "2026-09-05T06:00:00+09:00",
+      "issue": "2026-09-05-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/retail-consumer/exclusive-chinas-xi-bring-large-ceo-delegation-us-visit-sources-say-2026-09-04",
+      "title": "習近平氏の米訪問、中国CEO団同行を調整—通商・投資を協議へ",
+      "topic_key": "xi-us-visit-ceo-delegation-20260904",
+      "source": "Reuters",
+      "first_seen": "2026-09-05T06:00:00+09:00",
+      "issue": "2026-09-05-0600"
+    },
+    {
+      "url_normalized": "reuters.com/legal/transactional/bytedance-secures-296-billion-loan-ai-push-sources-say-2026-09-04",
+      "title": "ByteDance、296億ドル融資を確保—AI投資を加速",
+      "topic_key": "bytedance-296b-ai-loan-20260904",
+      "source": "Reuters",
+      "first_seen": "2026-09-05T06:00:00+09:00",
+      "issue": "2026-09-05-0600"
+    },
+    {
+      "url_normalized": "reuters.com/legal/government/indias-nse-gets-regulatory-nod-proceed-with-ipo-2026-09-04",
+      "title": "インドNSE、9月21日の週に上場目標—長年のIPO計画が前進",
+      "topic_key": "india-nse-ipo-september-20260904",
+      "source": "Reuters",
+      "first_seen": "2026-09-05T06:00:00+09:00",
+      "issue": "2026-09-05-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/nigerias-dangote-refinery-ipo-raise-between-155-18-bln-sources-2026-09-04",
+      "title": "Dangote製油所IPO、最大2.15兆ナイラ調達へ—ナイジェリアSEC承認",
+      "topic_key": "dangote-refinery-ipo-approved-20260904",
+      "source": "Reuters / PUNCH",
+      "first_seen": "2026-09-05T06:00:00+09:00",
+      "issue": "2026-09-05-0600"
+    },
+    {
+      "url_normalized": "eni.com/en-IT/media/press-release/2026/09/eni-signs-strategic-contract-in-venezuela-and-becomes-operator-of-the-super-giant-junin-5-oil-field.html",
+      "title": "Eni、ベネズエラJunín 5の運営主体に—25年契約を締結",
+      "topic_key": "eni-junin5-venezuela-operator-20260904",
+      "source": "Eni / Reuters",
+      "first_seen": "2026-09-05T06:00:00+09:00",
+      "issue": "2026-09-05-0600"
     }
   ]
 }

@@ -237,7 +237,7 @@
       "issue_id": "2026-09-04-2200",
       "published_at": "2026-09-04T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-04-2200.html",
       "topics": [
         "us-august-payrolls-162k-20260904",
         "canada-august-jobs-minus-41700-20260904",
@@ -245,6 +245,20 @@
         "uk-construction-pmi-443-20260904",
         "uk-boe-dmp-price-expectations-38-20260904",
         "india-monsoon-rainfall-deficit-crops-20260904"
+      ]
+    },
+    {
+      "issue_id": "2026-09-05-0600",
+      "published_at": "2026-09-05T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-equity-fund-outflows-1112b-20260904",
+        "xi-us-visit-ceo-delegation-20260904",
+        "bytedance-296b-ai-loan-20260904",
+        "india-nse-ipo-september-20260904",
+        "dangote-refinery-ipo-approved-20260904",
+        "eni-junin5-venezuela-operator-20260904"
       ]
     }
   ]

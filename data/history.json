@@ -251,7 +251,7 @@
       "issue_id": "2026-09-05-0600",
       "published_at": "2026-09-05T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-05-0600.html",
       "topics": [
         "us-equity-fund-outflows-1112b-20260904",
         "xi-us-visit-ceo-delegation-20260904",
@@ -259,6 +259,17 @@
         "india-nse-ipo-september-20260904",
         "dangote-refinery-ipo-approved-20260904",
         "eni-junin5-venezuela-operator-20260904"
+      ]
+    },
+    {
+      "issue_id": "2026-09-05-1200",
+      "published_at": "2026-09-05T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "norway-fund-us-treasury-cut-proposal-20260904",
+        "china-banks-dollar-deposits-treasuries-20260904",
+        "citadel-us-shale-assets-talks-20260904"
       ]
     }
   ]

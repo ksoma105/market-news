@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "abs.gov.au/media-centre/media-releases/australian-economy-grew-04-june-quarter",
-      "title": "豪州4〜6月GDP、前期比0.4%増—個人消費が下支え",
-      "topic_key": "australia-q2-gdp-20260902",
-      "source": "豪州統計局",
-      "first_seen": "2026-09-02T12:00:00+09:00",
-      "issue": "2026-09-02-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/boj-must-conduct-rate-hikes-nimbly-hawkish-board-member-says-2026-09-02",
-      "title": "日銀・高田委員、利上げは「機動的に」—固定ペースを否定",
-      "topic_key": "boj-takata-rate-hikes-20260902",
-      "source": "日本銀行 / Reuters",
-      "first_seen": "2026-09-02T12:00:00+09:00",
-      "issue": "2026-09-02-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/south-korea-japan-discuss-cooperation-emergency-energy-supply-2026-09-02",
-      "title": "日韓、緊急時のLNG・原油供給で協力—初の実務協議",
-      "topic_key": "japan-korea-emergency-energy-supply-20260902",
-      "source": "Reuters",
-      "first_seen": "2026-09-02T12:00:00+09:00",
-      "issue": "2026-09-02-1200"
-    },
-    {
-      "url_normalized": "investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-10",
-      "title": "Palo Alto Networks、売上34%増—AI基盤Consoleを買収",
-      "topic_key": "palo-alto-q4-console-acquisition-20260901",
-      "source": "Palo Alto Networks / Reuters",
-      "first_seen": "2026-09-02T12:00:00+09:00",
-      "issue": "2026-09-02-1200"
-    },
-    {
-      "url_normalized": "news.keurigdrpepper.com/2026-09-01-Keurig-Dr-Pepper-Advances-Strategic-Priorities-Through-Enhanced-Partnership-with-Chobani",
-      "title": "Keurig Dr Pepper、Chobani持分などを9.25億ドルで売却",
-      "topic_key": "keurig-chobani-divestment-20260901",
-      "source": "Keurig Dr Pepper / Reuters",
-      "first_seen": "2026-09-02T12:00:00+09:00",
-      "issue": "2026-09-02-1200"
-    },
-    {
       "url_normalized": "reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02",
       "title": "米8月民間雇用、3.8万人増へ鈍化—市場予想を下回る",
       "topic_key": "us-adp-private-payrolls-20260902",
@@ -439,6 +399,30 @@
       "source": "Eni / Reuters",
       "first_seen": "2026-09-05T06:00:00+09:00",
       "issue": "2026-09-05-0600"
+    },
+    {
+      "url_normalized": "nbim.no/contentassets/09b541c3964541649a3906e215ffbf97/analyses-and-assessments-of-the-investment-strategy-for-bonds",
+      "title": "ノルウェー政府系基金、米国債を約800億ドル削減案—日本国債比率は上昇",
+      "topic_key": "norway-fund-us-treasury-cut-proposal-20260904",
+      "source": "Norges Bank Investment Management / Reuters",
+      "first_seen": "2026-09-05T12:00:00+09:00",
+      "issue": "2026-09-05-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/china-banks-buy-treasuries-boost-dollar-deposits-sources-say-2026-09-04",
+      "title": "中国の銀行、ドル預金を集め米国債購入—外貨預金1.18兆ドル",
+      "topic_key": "china-banks-dollar-deposits-treasuries-20260904",
+      "source": "Reuters（PBOCデータ）",
+      "first_seen": "2026-09-05T12:00:00+09:00",
+      "issue": "2026-09-05-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/hedge-fund-giant-citadel-seeking-buy-us-shale-oil-production-assets-sources-say-2026-09-04",
+      "title": "Citadel、米シェール資産の取得を検討—現物コモディティへ拡大",
+      "topic_key": "citadel-us-shale-assets-talks-20260904",
+      "source": "Reuters",
+      "first_seen": "2026-09-05T12:00:00+09:00",
+      "issue": "2026-09-05-1200"
     }
   ]
 }

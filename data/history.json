@@ -265,11 +265,24 @@
       "issue_id": "2026-09-05-1200",
       "published_at": "2026-09-05T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-05-1200.html",
       "topics": [
         "norway-fund-us-treasury-cut-proposal-20260904",
         "china-banks-dollar-deposits-treasuries-20260904",
         "citadel-us-shale-assets-talks-20260904"
+      ]
+    },
+    {
+      "issue_id": "2026-09-05-2200",
+      "published_at": "2026-09-05T22:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "south-korea-exports-record-7094b-20260905",
+        "foxconn-august-revenue-ai-outlook-20260905",
+        "tcs-hypervault-telangana-ai-campus-20260905",
+        "us-labor-day-gasoline-record-403-20260905",
+        "stellantis-huawei-jac-maserati-talks-20260904"
       ]
     }
   ]

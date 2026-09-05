@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02",
-      "title": "米8月民間雇用、3.8万人増へ鈍化—市場予想を下回る",
-      "topic_key": "us-adp-private-payrolls-20260902",
-      "source": "Reuters / The Wall Street Journal",
-      "first_seen": "2026-09-02T22:00:00+09:00",
-      "issue": "2026-09-02-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/autos-transportation/honda-tells-suppliers-cut-costs-9-billion-push-fend-off-china-documents-show-2026-09-02",
-      "title": "ホンダ、2030年までに1.5兆円のコスト削減へ",
-      "topic_key": "honda-cost-cuts-suppliers-20260902",
-      "source": "Honda / Reuters",
-      "first_seen": "2026-09-02T22:00:00+09:00",
-      "issue": "2026-09-02-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/china/taiwan-says-its-companies-plan-invest-another-20-billion-us-2026-09-02",
-      "title": "台湾企業、米国へ追加200億ドル投資計画—AI需要が追い風",
-      "topic_key": "taiwan-us-investment-ai-20260902",
-      "source": "Reuters",
-      "first_seen": "2026-09-02T22:00:00+09:00",
-      "issue": "2026-09-02-2200"
-    },
-    {
-      "url_normalized": "home.treasury.gov/news/press-releases/sb0620",
-      "title": "G20、中国除く19カ国が貿易不均衡への対応で一致",
-      "topic_key": "g20-trade-imbalances-20260901",
-      "source": "米財務省 / Reuters",
-      "first_seen": "2026-09-02T22:00:00+09:00",
-      "issue": "2026-09-02-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/world-at-work/uber-cut-3300-jobs-overhaul-bloomberg-news-reports-2026-09-02",
-      "title": "Uber、世界の人員を10%削減—管理階層を簡素化",
-      "topic_key": "uber-workforce-cut-20260902",
-      "source": "Reuters",
-      "first_seen": "2026-09-02T22:00:00+09:00",
-      "issue": "2026-09-02-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/italys-lottomatica-take-over-spains-cirsa-create-combined-betting-company-2026-09-02",
-      "title": "Lottomatica、CIRSAと28億ユーロで統合—世界2位の賭博企業へ",
-      "topic_key": "lottomatica-cirsa-merger-20260902",
-      "source": "Lottomatica / Reuters",
-      "first_seen": "2026-09-02T22:00:00+09:00",
-      "issue": "2026-09-02-2200"
-    },
-    {
       "url_normalized": "bankofcanada.ca/2026/09/fad-press-release-2026-09-02",
       "title": "カナダ中銀、2.25%据え置き—インフレ次第で複数回利上げも",
       "topic_key": "canada-rate-hold-hawkish-20260902",
@@ -423,6 +375,46 @@
       "source": "Reuters",
       "first_seen": "2026-09-05T12:00:00+09:00",
       "issue": "2026-09-05-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/south-korea-exports-surpass-full-year-record-hit-7094-billion-ytd-2026-09-05",
+      "title": "韓国輸出、年初来7,094億ドル—前年の通年記録を突破",
+      "topic_key": "south-korea-exports-record-7094b-20260905",
+      "source": "韓国関税庁 / Reuters / Asia Business Daily",
+      "first_seen": "2026-09-05T22:00:00+09:00",
+      "issue": "2026-09-05-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/foxconn-says-third-quarter-outperform-market-expectations-ai-strength-2026-09-05",
+      "title": "Foxconn、8月売上52%増—AI需要で7〜9月期は市場予想超えへ",
+      "topic_key": "foxconn-august-revenue-ai-outlook-20260905",
+      "source": "Foxconn / Reuters",
+      "first_seen": "2026-09-05T22:00:00+09:00",
+      "issue": "2026-09-05-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/india/indias-tcs-unit-invest-up-74-billion-ai-data-center-campus-2026-09-05",
+      "title": "TCS系、インドに1GWのAIデータセンター—最大7,000億ルピー投資",
+      "topic_key": "tcs-hypervault-telangana-ai-campus-20260905",
+      "source": "TCS / Reuters",
+      "first_seen": "2026-09-05T22:00:00+09:00",
+      "issue": "2026-09-05-2200"
+    },
+    {
+      "url_normalized": "gasbuddy.com/newsroom/pressrelease/2026/09/01/gasbuddy-2026-poised-to-be-most-expensive-labor-day-at-the-pump-on-record-1173",
+      "title": "米レイバー・デーのガソリン、1ガロン4.03ドル予想—過去最高",
+      "topic_key": "us-labor-day-gasoline-record-403-20260905",
+      "source": "GasBuddy / Reuters",
+      "first_seen": "2026-09-05T22:00:00+09:00",
+      "issue": "2026-09-05-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/autos-transportation/stellantis-talks-with-huawei-jac-over-maserati-partnership-sources-say-2026-09-04",
+      "title": "Stellantis、Huawei・JACとMaserati提携を協議",
+      "topic_key": "stellantis-huawei-jac-maserati-talks-20260904",
+      "source": "Reuters",
+      "first_seen": "2026-09-05T22:00:00+09:00",
+      "issue": "2026-09-05-2200"
     }
   ]
 }

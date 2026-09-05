@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "bankofcanada.ca/2026/09/fad-press-release-2026-09-02",
-      "title": "カナダ中銀、2.25%据え置き—インフレ次第で複数回利上げも",
-      "topic_key": "canada-rate-hold-hawkish-20260902",
-      "source": "カナダ銀行 / Reuters",
-      "first_seen": "2026-09-03T06:00:00+09:00",
-      "issue": "2026-09-03-0600"
-    },
-    {
-      "url_normalized": "britishchambers.org.uk/news/2026/09/bcc-economic-forecast-weak-business-investment-hits-growth-outlook",
-      "title": "英2026年成長率見通し1.0%—企業投資は0.2%減",
-      "topic_key": "uk-bcc-forecast-20260901",
-      "source": "英国商工会議所 / Reuters",
-      "first_seen": "2026-09-03T06:00:00+09:00",
-      "issue": "2026-09-03-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/retail-consumer/microsoft-reveal-azure-cloud-sales-financial-reporting-shift-2026-09-02",
-      "title": "Microsoft、Azure売上高を四半期開示へ—事業区分も再編",
-      "topic_key": "microsoft-azure-reporting-20260902",
-      "source": "Reuters",
-      "first_seen": "2026-09-03T06:00:00+09:00",
-      "issue": "2026-09-03-0600"
-    },
-    {
-      "url_normalized": "reuters.com/legal/transactional/vertiv-strikes-145-billion-deal-microgrid-firm-utility-innovation-group-2026-09-02",
-      "title": "Vertiv、最大26億ドルでマイクログリッド企業を買収",
-      "topic_key": "vertiv-uig-acquisition-20260902",
-      "source": "Reuters",
-      "first_seen": "2026-09-03T06:00:00+09:00",
-      "issue": "2026-09-03-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/pge-invest-114-billion-california-2027-part-strategic-review-2026-09-02",
-      "title": "PG&E、2027年投資を20億ドル延期—山火事責任制度を懸念",
-      "topic_key": "pge-spending-review-20260902",
-      "source": "Reuters / Barron’s",
-      "first_seen": "2026-09-03T06:00:00+09:00",
-      "issue": "2026-09-03-0600"
-    },
-    {
       "url_normalized": "reuters.com/world/asia-pacific/japan-services-growth-hits-five-month-high-pmi-shows-2026-09-03",
       "title": "日本の8月サービス業PMI、52.5へ上昇—5カ月ぶり高水準",
       "topic_key": "japan-services-pmi-20260903",
@@ -415,6 +375,30 @@
       "source": "Reuters",
       "first_seen": "2026-09-05T22:00:00+09:00",
       "issue": "2026-09-05-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/middle-east/us-military-strikes-three-iranian-crude-oil-carriers-central-command-says-2026-09-05",
+      "title": "米軍、イラン原油タンカー3隻を攻撃—海軍艦艇へのミサイル発射に対抗",
+      "topic_key": "us-strikes-iranian-crude-carriers-20260905",
+      "source": "U.S. Central Command / Reuters",
+      "first_seen": "2026-09-06T06:00:00+09:00",
+      "issue": "2026-09-06-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/greek-pm-unveils-plan-boost-incomes-ahead-elections-2026-09-05",
+      "title": "ギリシャ、2030年まで35億ユーロの所得支援—減税・賃上げを柱に",
+      "topic_key": "greece-four-year-income-plan-35b-euro-20260905",
+      "source": "Reuters / AP",
+      "first_seen": "2026-09-06T06:00:00+09:00",
+      "issue": "2026-09-06-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/media-telecom/german-space-rocket-lifts-off-norway-base-2026-09-05",
+      "title": "Isar Aerospace、ノルウェーからSpectrum 2号機を打ち上げ",
+      "topic_key": "isar-spectrum-second-launch-20260905",
+      "source": "Isar Aerospace / Reuters",
+      "first_seen": "2026-09-06T06:00:00+09:00",
+      "issue": "2026-09-06-0600"
     }
   ]
 }

@@ -276,13 +276,24 @@
       "issue_id": "2026-09-05-2200",
       "published_at": "2026-09-05T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-05-2200.html",
       "topics": [
         "south-korea-exports-record-7094b-20260905",
         "foxconn-august-revenue-ai-outlook-20260905",
         "tcs-hypervault-telangana-ai-campus-20260905",
         "us-labor-day-gasoline-record-403-20260905",
         "stellantis-huawei-jac-maserati-talks-20260904"
+      ]
+    },
+    {
+      "issue_id": "2026-09-06-0600",
+      "published_at": "2026-09-06T06:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-strikes-iranian-crude-carriers-20260905",
+        "greece-four-year-income-plan-35b-euro-20260905",
+        "isar-spectrum-second-launch-20260905"
       ]
     }
   ]

@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/asia-pacific/japan-services-growth-hits-five-month-high-pmi-shows-2026-09-03",
-      "title": "日本の8月サービス業PMI、52.5へ上昇—5カ月ぶり高水準",
-      "topic_key": "japan-services-pmi-20260903",
-      "source": "Reuters（S&P Global調査）",
-      "first_seen": "2026-09-03T12:00:00+09:00",
-      "issue": "2026-09-03-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/china-services-activity-quickens-stronger-domestic-demand-private-pmi-shows-2026-09-03",
-      "title": "中国の8月サービス業PMI、51.4へ改善—雇用は4カ月連続増",
-      "topic_key": "china-services-pmi-20260903",
-      "source": "Reuters（RatingDog調査）",
-      "first_seen": "2026-09-03T12:00:00+09:00",
-      "issue": "2026-09-03-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/finance/feds-williams-ties-rising-bond-yields-strong-economy-cnbc-reports-2026-09-02",
-      "title": "NY連銀総裁、長期金利上昇は「米景気の強さ」を反映",
-      "topic_key": "fed-williams-bond-yields-20260902",
-      "source": "Reuters",
-      "first_seen": "2026-09-03T12:00:00+09:00",
-      "issue": "2026-09-03-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/oil-edges-down-investors-weigh-uncertainty-over-us-iran-strikes-2026-09-03",
-      "title": "原油は高値圏で反落—ホルムズ海峡の供給不安を注視",
-      "topic_key": "oil-hormuz-volatility-20260903",
-      "source": "Reuters",
-      "first_seen": "2026-09-03T12:00:00+09:00",
-      "issue": "2026-09-03-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/china/imfs-georgieva-says-rising-bond-yields-threaten-progress-developing-country-debt-2026-09-03",
-      "title": "IMF、先進国の高金利が途上国の債務改善を逆行させる恐れ",
-      "topic_key": "imf-developing-debt-high-yields-20260903",
-      "source": "Reuters",
-      "first_seen": "2026-09-03T12:00:00+09:00",
-      "issue": "2026-09-03-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/china-maintains-stable-refined-fuel-exports-under-relaxed-controls-sources-say-2026-09-02",
-      "title": "中国、9月の燃料輸出を400万トン超へ—アジア供給を下支え",
-      "topic_key": "china-refined-fuel-exports-20260902",
-      "source": "Reuters",
-      "first_seen": "2026-09-03T12:00:00+09:00",
-      "issue": "2026-09-03-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/china/tech-pilgrims-flock-china-global-innovation-race-heats-up-2026-09-03",
-      "title": "中国の先端工場ツアーに海外投資家が殺到—「技術巡礼」が拡大",
-      "topic_key": "china-tech-factory-tours-20260903",
-      "source": "Reuters",
-      "first_seen": "2026-09-03T12:00:00+09:00",
-      "issue": "2026-09-03-1200"
-    },
-    {
       "url_normalized": "reuters.com/business/nvidia-buy-hugging-face-nearly-13-billion-big-bet-open-ai-models-2026-09-03",
       "title": "Nvidia、Hugging Faceを129.3億ドルで買収—オープンAI基盤を強化",
       "topic_key": "nvidia-hugging-face-acquisition-20260903",
@@ -399,6 +343,30 @@
       "source": "Isar Aerospace / Reuters",
       "first_seen": "2026-09-06T06:00:00+09:00",
       "issue": "2026-09-06-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/environment/indonesias-jakarta-airport-suspends-flights-due-ash-mount-anak-krakatau-2026-09-06",
+      "title": "ジャカルタ空港、火山灰で209便に影響—アナク・クラカタウ噴火",
+      "topic_key": "anak-krakatau-jakarta-flight-disruption-20260906",
+      "source": "Reuters / AP",
+      "first_seen": "2026-09-06T12:00:00+09:00",
+      "issue": "2026-09-06-1200"
+    },
+    {
+      "url_normalized": "reuters.com/legal/litigation/spire-healthcare-agrees-103-billion-takeover-by-toscafund-others-2026-09-05",
+      "title": "英Spire Healthcare、10.26億ポンドで買収合意—66%のプレミアム",
+      "topic_key": "spire-healthcare-toscafund-takeover-20260905",
+      "source": "Spire Healthcare（RNS） / Reuters",
+      "first_seen": "2026-09-06T12:00:00+09:00",
+      "issue": "2026-09-06-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05",
+      "title": "OpenAI、AIエージェントの「wiki incident」を認め開示強化へ",
+      "topic_key": "openai-wiki-incident-disclosure-20260905",
+      "source": "Reuters / The Verge",
+      "first_seen": "2026-09-06T12:00:00+09:00",
+      "issue": "2026-09-06-1200"
     }
   ]
 }

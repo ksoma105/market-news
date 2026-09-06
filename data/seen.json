@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/business/nvidia-buy-hugging-face-nearly-13-billion-big-bet-open-ai-models-2026-09-03",
-      "title": "Nvidia、Hugging Faceを129.3億ドルで買収—オープンAI基盤を強化",
-      "topic_key": "nvidia-hugging-face-acquisition-20260903",
-      "source": "Reuters",
-      "first_seen": "2026-09-03T22:00:00+09:00",
-      "issue": "2026-09-03-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/broadcom-forecasts-quarterly-revenue-below-estimates-2026-09-02",
-      "title": "Broadcom、2027年度AI半導体売上見通しを約1,150億ドルへ",
-      "topic_key": "broadcom-q3-ai-chip-outlook-20260902",
-      "source": "Reuters / Broadcom",
-      "first_seen": "2026-09-03T22:00:00+09:00",
-      "issue": "2026-09-03-2200"
-    },
-    {
-      "url_normalized": "bls.gov/news.release/prod2.nr0.htm",
-      "title": "米4〜6月期の労働生産性、年率1.4%増—単位労働コストは1.2%増",
-      "topic_key": "us-q2-productivity-revised-20260903",
-      "source": "米労働統計局 / Reuters",
-      "first_seen": "2026-09-03T22:00:00+09:00",
-      "issue": "2026-09-03-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/world-at-work/us-weekly-jobless-claims-rise-marginally-amid-stable-labor-market-2026-09-03",
-      "title": "米新規失業保険申請、20.6万件—低解雇・低採用が継続",
-      "topic_key": "us-weekly-jobless-claims-20260903",
-      "source": "Reuters（米労働省統計）",
-      "first_seen": "2026-09-03T22:00:00+09:00",
-      "issue": "2026-09-03-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/americas/canada-july-trade-surplus-shrinks-weeks-before-new-us-tariffs-2026-09-03",
-      "title": "カナダ7月貿易黒字、7.69億加ドルへ急減—対米輸出6.6%減",
-      "topic_key": "canada-july-trade-20260903",
-      "source": "Reuters（カナダ統計局）",
-      "first_seen": "2026-09-03T22:00:00+09:00",
-      "issue": "2026-09-03-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/ifo-lifts-german-growth-forecasts-fiscal-boost-offsets-energy-shock-2026-09-03",
-      "title": "独Ifo、2026年成長率予想を1.4%へ上方修正",
-      "topic_key": "germany-ifo-growth-forecast-20260903",
-      "source": "Reuters（Ifo予測）",
-      "first_seen": "2026-09-03T22:00:00+09:00",
-      "issue": "2026-09-03-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/europe/euro-zone-overall-business-growth-held-steady-august-pmi-shows-2026-09-03",
-      "title": "ユーロ圏8月総合PMIは52.0—輸出受注が4年半ぶり増加",
-      "topic_key": "eurozone-august-pmi-20260903",
-      "source": "Reuters（S&P Global調査）",
-      "first_seen": "2026-09-03T22:00:00+09:00",
-      "issue": "2026-09-03-2200"
-    },
-    {
       "url_normalized": "reuters.com/business/feds-waller-says-safety-premium-treasuries-is-gone-pushing-neutral-rate-higher-2026-09-03",
       "title": "FRBウォラー理事、米国債の安全プレミアム消失で中立金利上昇を指摘",
       "topic_key": "fed-waller-neutral-rate-treasury-premium-20260903",
@@ -367,6 +311,22 @@
       "source": "Reuters / The Verge",
       "first_seen": "2026-09-06T12:00:00+09:00",
       "issue": "2026-09-06-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/china-pump-47-bln-into-state-banks-insurers-capital-boosting-push-2026-09-06",
+      "title": "中国、国有金融8社に計3,600億元の資本増強—銀行・保険の基盤を強化",
+      "topic_key": "china-state-financial-firms-capital-360b-20260906",
+      "source": "Reuters / 新華社",
+      "first_seen": "2026-09-06T22:00:00+09:00",
+      "issue": "2026-09-06-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/opec-set-keep-oil-output-policy-unchanged-sunday-sources-say-2026-09-06",
+      "title": "OPEC+主要7カ国、10月の生産方針を据え置き",
+      "topic_key": "opec-plus-october-output-hold-20260906",
+      "source": "OPEC / Reuters",
+      "first_seen": "2026-09-06T22:00:00+09:00",
+      "issue": "2026-09-06-2200"
     }
   ]
 }

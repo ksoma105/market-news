@@ -311,10 +311,20 @@
       "issue_id": "2026-09-06-2200",
       "published_at": "2026-09-06T22:00:00+09:00",
       "topic_count": 2,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-06-2200.html",
       "topics": [
         "china-state-financial-firms-capital-360b-20260906",
         "opec-plus-october-output-hold-20260906"
+      ]
+    },
+    {
+      "issue_id": "2026-09-07-0600",
+      "published_at": "2026-09-07T06:00:00+09:00",
+      "topic_count": 2,
+      "html_path": "docs/index.html",
+      "topics": [
+        "sigma-lithium-grota-cirilo-license-suspension-20260906",
+        "essilorluxottica-founder-family-strategy-call-20260906"
       ]
     }
   ]

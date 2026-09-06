@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/business/feds-waller-says-safety-premium-treasuries-is-gone-pushing-neutral-rate-higher-2026-09-03",
-      "title": "FRBウォラー理事、米国債の安全プレミアム消失で中立金利上昇を指摘",
-      "topic_key": "fed-waller-neutral-rate-treasury-premium-20260903",
-      "source": "Reuters（ウォラーFRB理事インタビュー）",
-      "first_seen": "2026-09-04T06:00:00+09:00",
-      "issue": "2026-09-04-0600"
-    },
-    {
-      "url_normalized": "freddiemac.com/pmms",
-      "title": "米30年固定住宅ローン金利、6.71%—2025年7月以来の高水準",
-      "topic_key": "us-mortgage-rate-671-20260903",
-      "source": "Freddie Mac / Reuters",
-      "first_seen": "2026-09-04T06:00:00+09:00",
-      "issue": "2026-09-04-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/us-diesel-hits-record-5820-gallon-gasbuddy-says-2026-09-03",
-      "title": "米ディーゼル価格、1ガロン5.820ドルで過去最高",
-      "topic_key": "us-diesel-record-5820-20260903",
-      "source": "Reuters（GasBuddyデータ）",
-      "first_seen": "2026-09-04T06:00:00+09:00",
-      "issue": "2026-09-04-0600"
-    },
-    {
-      "url_normalized": "businesswire.com/news/home/20260902386235/en/Snowflake-Reports-Financial-Results-for-the-Second-Quarter-of-Fiscal-2027",
-      "title": "Snowflake、AI需要で製品売上37%増—通期見通しを60.7億ドルへ",
-      "topic_key": "snowflake-q2-ai-growth-20260903",
-      "source": "Snowflake / Reuters",
-      "first_seen": "2026-09-04T06:00:00+09:00",
-      "issue": "2026-09-04-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/autos-transportation/volkswagen-supervisory-board-approves-transformation-plan-2026-09-03",
-      "title": "Volkswagen、最大5万人削減を含む再建計画—2030年に営業利益率9%目標",
-      "topic_key": "volkswagen-future-plan-50000-cuts-20260903",
-      "source": "Reuters（Volkswagen発表）",
-      "first_seen": "2026-09-04T06:00:00+09:00",
-      "issue": "2026-09-04-0600"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/china-vows-support-small-midsize-firms-employment-innovation-2026-09-03",
-      "title": "中国、「小巨人」企業を2030年までに2.2万社へ—中小企業支援を拡充",
-      "topic_key": "china-little-giants-plan-2030-20260903",
-      "source": "Reuters（中国政府計画）",
-      "first_seen": "2026-09-04T06:00:00+09:00",
-      "issue": "2026-09-04-0600"
-    },
-    {
-      "url_normalized": "reuters.com/world/india/indias-127-bln-nri-deposits-arm-rbi-with-more-firepower-setting-rupee-up-rally-2026-09-03",
-      "title": "インドルピー、1ドル94.4850ルピー—10週間ぶり高値",
-      "topic_key": "india-rupee-ten-week-high-20260903",
-      "source": "Reuters",
-      "first_seen": "2026-09-04T06:00:00+09:00",
-      "issue": "2026-09-04-0600"
-    },
-    {
       "url_normalized": "reuters.com/world/asia-pacific/japan-year-on-year-household-spending-drops-8-straight-months-2026-09-03",
       "title": "日本の7月実質消費支出、3.6%減—8カ月連続マイナス",
       "topic_key": "japan-july-household-spending-20260904",
@@ -327,6 +271,22 @@
       "source": "OPEC / Reuters",
       "first_seen": "2026-09-06T22:00:00+09:00",
       "issue": "2026-09-06-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/americas/brazilian-court-suspends-licenses-sigma-lithium-mine-2026-09-06",
+      "title": "ブラジル裁判所、Sigma Lithiumの主力鉱山に操業停止命令",
+      "topic_key": "sigma-lithium-grota-cirilo-license-suspension-20260906",
+      "source": "Reuters / UOL",
+      "first_seen": "2026-09-07T06:00:00+09:00",
+      "issue": "2026-09-07-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/son-essilorluxottica-founder-calls-new-strategy-eyewear-group-2026-09-06",
+      "title": "EssilorLuxottica創業家、戦略刷新を要求—Delfin保有は32.4%",
+      "topic_key": "essilorluxottica-founder-family-strategy-call-20260906",
+      "source": "Reuters",
+      "first_seen": "2026-09-07T06:00:00+09:00",
+      "issue": "2026-09-07-0600"
     }
   ]
 }

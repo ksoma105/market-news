@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/asia-pacific/japan-year-on-year-household-spending-drops-8-straight-months-2026-09-03",
-      "title": "日本の7月実質消費支出、3.6%減—8カ月連続マイナス",
-      "topic_key": "japan-july-household-spending-20260904",
-      "source": "総務省統計局 / Reuters",
-      "first_seen": "2026-09-04T12:00:00+09:00",
-      "issue": "2026-09-04-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/japan-budget-requests-swell-pandemic-era-scale-under-takaichi-agenda-2026-09-04",
-      "title": "2027年度予算の概算要求、143.1兆円—利払い費は過去最大",
-      "topic_key": "japan-fy2027-budget-requests-143t-20260904",
-      "source": "財務省 / Reuters",
-      "first_seen": "2026-09-04T12:00:00+09:00",
-      "issue": "2026-09-04-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/sp-global-ratings-warns-risks-chinas-generous-credit-ratings-2026-09-03",
-      "title": "中国債券、発行体の約9割が「AA以上」—S&Pが格付け偏重を警告",
-      "topic_key": "china-credit-ratings-inflation-risk-20260903",
-      "source": "Reuters（S&P Global Ratings）",
-      "first_seen": "2026-09-04T12:00:00+09:00",
-      "issue": "2026-09-04-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/smart-ring-maker-oura-files-us-ipo-2026-09-03",
-      "title": "Ouraが米IPO申請、9カ月売上高74%増の12.15億ドル",
-      "topic_key": "oura-us-ipo-filing-20260903",
-      "source": "米SEC / Reuters",
-      "first_seen": "2026-09-04T12:00:00+09:00",
-      "issue": "2026-09-04-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/retail-consumer/lululemon-cuts-annual-revenue-profit-forecast-2026-09-03",
-      "title": "Lululemon、通期売上高を5〜7%減へ下方修正",
-      "topic_key": "lululemon-q2-outlook-cut-20260903",
-      "source": "Lululemon / Reuters",
-      "first_seen": "2026-09-04T12:00:00+09:00",
-      "issue": "2026-09-04-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/adobe-names-anil-chakravarthy-ceo-2026-09-03",
-      "title": "Adobe、チャクラバルティ氏を次期CEOに指名—12月1日就任",
-      "topic_key": "adobe-chakravarthy-ceo-20260903",
-      "source": "Adobe / Reuters",
-      "first_seen": "2026-09-04T12:00:00+09:00",
-      "issue": "2026-09-04-1200"
-    },
-    {
       "url_normalized": "reuters.com/business/us-nonfarm-payrolls-surge-august-unemployment-rate-steady-41-2026-09-04",
       "title": "米8月雇用者数16.2万人増、失業率は4.1%で横ばい",
       "topic_key": "us-august-payrolls-162k-20260904",
@@ -287,6 +239,30 @@
       "source": "Reuters",
       "first_seen": "2026-09-07T06:00:00+09:00",
       "issue": "2026-09-07-0600"
+    },
+    {
+      "url_normalized": "mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0808.html",
+      "title": "日本の外貨準備、8月に795.75億ドル減—過去最大の落ち込み",
+      "topic_key": "japan-foreign-reserves-record-drop-20260907",
+      "source": "財務省 / Reuters",
+      "first_seen": "2026-09-07T12:00:00+09:00",
+      "issue": "2026-09-07-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/ship-fuel-shortage-looms-refiners-strained-by-war-favour-other-products-2026-09-07",
+      "title": "船舶燃料油、7〜9月に日量21.8万バレル不足の見通し",
+      "topic_key": "global-ship-fuel-shortage-q3-20260907",
+      "source": "Reuters",
+      "first_seen": "2026-09-07T12:00:00+09:00",
+      "issue": "2026-09-07-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-09-07",
+      "title": "アジア株が反発—日経2.0%高、韓国株3.0%高",
+      "topic_key": "asia-stocks-rebound-nikkei-kospi-20260907",
+      "source": "Reuters",
+      "first_seen": "2026-09-07T12:00:00+09:00",
+      "issue": "2026-09-07-1200"
     }
   ]
 }

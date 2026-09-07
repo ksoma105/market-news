@@ -321,10 +321,21 @@
       "issue_id": "2026-09-07-0600",
       "published_at": "2026-09-07T06:00:00+09:00",
       "topic_count": 2,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-07-0600.html",
       "topics": [
         "sigma-lithium-grota-cirilo-license-suspension-20260906",
         "essilorluxottica-founder-family-strategy-call-20260906"
+      ]
+    },
+    {
+      "issue_id": "2026-09-07-1200",
+      "published_at": "2026-09-07T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-foreign-reserves-record-drop-20260907",
+        "global-ship-fuel-shortage-q3-20260907",
+        "asia-stocks-rebound-nikkei-kospi-20260907"
       ]
     }
   ]

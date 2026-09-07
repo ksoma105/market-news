@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/business/us-equity-funds-record-second-weekly-outflow-iran-tensions-high-yields-2026-09-04",
-      "title": "米株ファンド、2週連続流出—1週間で111.2億ドル",
-      "topic_key": "us-equity-fund-outflows-1112b-20260904",
-      "source": "Reuters（LSEG Lipper）",
-      "first_seen": "2026-09-05T06:00:00+09:00",
-      "issue": "2026-09-05-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/retail-consumer/exclusive-chinas-xi-bring-large-ceo-delegation-us-visit-sources-say-2026-09-04",
-      "title": "習近平氏の米訪問、中国CEO団同行を調整—通商・投資を協議へ",
-      "topic_key": "xi-us-visit-ceo-delegation-20260904",
-      "source": "Reuters",
-      "first_seen": "2026-09-05T06:00:00+09:00",
-      "issue": "2026-09-05-0600"
-    },
-    {
-      "url_normalized": "reuters.com/legal/transactional/bytedance-secures-296-billion-loan-ai-push-sources-say-2026-09-04",
-      "title": "ByteDance、296億ドル融資を確保—AI投資を加速",
-      "topic_key": "bytedance-296b-ai-loan-20260904",
-      "source": "Reuters",
-      "first_seen": "2026-09-05T06:00:00+09:00",
-      "issue": "2026-09-05-0600"
-    },
-    {
-      "url_normalized": "reuters.com/legal/government/indias-nse-gets-regulatory-nod-proceed-with-ipo-2026-09-04",
-      "title": "インドNSE、9月21日の週に上場目標—長年のIPO計画が前進",
-      "topic_key": "india-nse-ipo-september-20260904",
-      "source": "Reuters",
-      "first_seen": "2026-09-05T06:00:00+09:00",
-      "issue": "2026-09-05-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/nigerias-dangote-refinery-ipo-raise-between-155-18-bln-sources-2026-09-04",
-      "title": "Dangote製油所IPO、最大2.15兆ナイラ調達へ—ナイジェリアSEC承認",
-      "topic_key": "dangote-refinery-ipo-approved-20260904",
-      "source": "Reuters / PUNCH",
-      "first_seen": "2026-09-05T06:00:00+09:00",
-      "issue": "2026-09-05-0600"
-    },
-    {
-      "url_normalized": "eni.com/en-IT/media/press-release/2026/09/eni-signs-strategic-contract-in-venezuela-and-becomes-operator-of-the-super-giant-junin-5-oil-field.html",
-      "title": "Eni、ベネズエラJunín 5の運営主体に—25年契約を締結",
-      "topic_key": "eni-junin5-venezuela-operator-20260904",
-      "source": "Eni / Reuters",
-      "first_seen": "2026-09-05T06:00:00+09:00",
-      "issue": "2026-09-05-0600"
-    },
-    {
       "url_normalized": "nbim.no/contentassets/09b541c3964541649a3906e215ffbf97/analyses-and-assessments-of-the-investment-strategy-for-bonds",
       "title": "ノルウェー政府系基金、米国債を約800億ドル削減案—日本国債比率は上昇",
       "topic_key": "norway-fund-us-treasury-cut-proposal-20260904",
@@ -255,6 +207,46 @@
       "source": "Reuters",
       "first_seen": "2026-09-07T22:00:00+09:00",
       "issue": "2026-09-07-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/poste-italiane-raises-telecom-italia-offer-waives-threshold-condition-2026-09-07",
+      "title": "Poste Italiane、Telecom Italiaへの公開買い付け価格を引き上げ",
+      "topic_key": "poste-italiane-tim-offer-increase-20260907",
+      "source": "Reuters",
+      "first_seen": "2026-09-08T06:00:00+09:00",
+      "issue": "2026-09-08-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/aerospace-defense/trump-says-canadas-bombardier-cannot-sell-us-unless-it-builds-there-2026-09-07",
+      "title": "Trump氏、Bombardierに「米国で生産しなければ販売不可」と表明",
+      "topic_key": "trump-bombardier-us-sales-threat-20260907",
+      "source": "Reuters",
+      "first_seen": "2026-09-08T06:00:00+09:00",
+      "issue": "2026-09-08-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/media-telecom/europes-biggest-mobile-operators-talks-satellite-to-mobile-venture-bloomberg-2026-09-07",
+      "title": "欧州通信4社、衛星直結サービスの共同入札を協議",
+      "topic_key": "europe-telcos-satellite-direct-mobile-talks-20260907",
+      "source": "Reuters / Bloomberg",
+      "first_seen": "2026-09-08T06:00:00+09:00",
+      "issue": "2026-09-08-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/middle-east/hapag-lloyd-plans-improvements-42-billion-bid-israels-zim-2026-09-07",
+      "title": "Hapag-Lloyd、ZIMへの42億ドル買収案を修正へ",
+      "topic_key": "hapag-lloyd-zim-revised-bid-20260907",
+      "source": "Reuters",
+      "first_seen": "2026-09-08T06:00:00+09:00",
+      "issue": "2026-09-08-0600"
+    },
+    {
+      "url_normalized": "reuters.com/legal/litigation/iss-advises-conagra-shareholders-reject-proposed-executive-pay-programme-2026-09-07",
+      "title": "ISS、Conagraの役員報酬案に反対推奨",
+      "topic_key": "conagra-iss-executive-pay-vote-20260907",
+      "source": "Reuters",
+      "first_seen": "2026-09-08T06:00:00+09:00",
+      "issue": "2026-09-08-0600"
     }
   ]
 }

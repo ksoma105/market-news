@@ -331,11 +331,24 @@
       "issue_id": "2026-09-07-1200",
       "published_at": "2026-09-07T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-07-1200.html",
       "topics": [
         "japan-foreign-reserves-record-drop-20260907",
         "global-ship-fuel-shortage-q3-20260907",
         "asia-stocks-rebound-nikkei-kospi-20260907"
+      ]
+    },
+    {
+      "issue_id": "2026-09-07-2200",
+      "published_at": "2026-09-07T22:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "rbi-vrrr-liquidity-absorption-20260907",
+        "jlr-4000-job-cuts-turnaround-20260907",
+        "wistron-gds-offering-1480m-20260907",
+        "germany-july-industrial-output-drop-20260907",
+        "eurozone-sentix-september-20260907"
       ]
     }
   ]

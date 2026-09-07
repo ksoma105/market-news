@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/business/us-nonfarm-payrolls-surge-august-unemployment-rate-steady-41-2026-09-04",
-      "title": "米8月雇用者数16.2万人増、失業率は4.1%で横ばい",
-      "topic_key": "us-august-payrolls-162k-20260904",
-      "source": "米労働統計局 / Reuters",
-      "first_seen": "2026-09-04T22:00:00+09:00",
-      "issue": "2026-09-04-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/americas/canadas-job-market-loses-steam-employment-drops-by-over-41000-2026-09-04",
-      "title": "カナダ8月雇用、4万1,700人減—失業率は6.4%",
-      "topic_key": "canada-august-jobs-minus-41700-20260904",
-      "source": "Reuters / Wall Street Journal",
-      "first_seen": "2026-09-04T22:00:00+09:00",
-      "issue": "2026-09-04-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/japans-top-currency-diplomat-alert-currency-moves-2026-09-04",
-      "title": "財務省・三村財務官、過度な円安に介入姿勢を強調",
-      "topic_key": "japan-mimura-yen-intervention-warning-20260904",
-      "source": "Reuters（三村財務官発言）",
-      "first_seen": "2026-09-04T22:00:00+09:00",
-      "issue": "2026-09-04-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/uk/uk-construction-slides-again-pulled-down-by-weak-housebuilding-pmi-shows-2026-09-04",
-      "title": "英国8月建設PMI、44.3—20カ月連続で縮小",
-      "topic_key": "uk-construction-pmi-443-20260904",
-      "source": "Reuters（S&P Global調査）",
-      "first_seen": "2026-09-04T22:00:00+09:00",
-      "issue": "2026-09-04-2200"
-    },
-    {
-      "url_normalized": "bankofengland.co.uk/decision-maker-panel/2026/august-2026",
-      "title": "英国企業の1年先価格見通し3.8%、前月から鈍化",
-      "topic_key": "uk-boe-dmp-price-expectations-38-20260904",
-      "source": "イングランド銀行 / Reuters",
-      "first_seen": "2026-09-04T22:00:00+09:00",
-      "issue": "2026-09-04-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/environment/how-indias-below-average-september-rainfall-fuels-concern-about-crops-2026-09-04",
-      "title": "インドの季節雨、6月以降13%不足—農作物と物価に警戒",
-      "topic_key": "india-monsoon-rainfall-deficit-crops-20260904",
-      "source": "インド気象局 / Reuters",
-      "first_seen": "2026-09-04T22:00:00+09:00",
-      "issue": "2026-09-04-2200"
-    },
-    {
       "url_normalized": "reuters.com/business/us-equity-funds-record-second-weekly-outflow-iran-tensions-high-yields-2026-09-04",
       "title": "米株ファンド、2週連続流出—1週間で111.2億ドル",
       "topic_key": "us-equity-fund-outflows-1112b-20260904",
@@ -263,6 +215,46 @@
       "source": "Reuters",
       "first_seen": "2026-09-07T12:00:00+09:00",
       "issue": "2026-09-07-1200"
+    },
+    {
+      "url_normalized": "rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63530",
+      "title": "インド中銀、余剰資金6.13兆ルピーを吸収",
+      "topic_key": "rbi-vrrr-liquidity-absorption-20260907",
+      "source": "RBI / Reuters",
+      "first_seen": "2026-09-07T22:00:00+09:00",
+      "issue": "2026-09-07-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/world-at-work/jaguar-land-rover-cut-4000-jobs-globally-over-next-two-years-2026-09-07",
+      "title": "Jaguar Land Rover、世界で約4,000人を削減へ",
+      "topic_key": "jlr-4000-job-cuts-turnaround-20260907",
+      "source": "Reuters",
+      "first_seen": "2026-09-07T22:00:00+09:00",
+      "issue": "2026-09-07-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/taiwans-wistron-launches-up-15-billion-gds-sale-term-sheet-shows-2026-09-07",
+      "title": "Wistron、最大14.8億ドルのGDS売り出し—AI需要に備え調達",
+      "topic_key": "wistron-gds-offering-1480m-20260907",
+      "source": "Reuters",
+      "first_seen": "2026-09-07T22:00:00+09:00",
+      "issue": "2026-09-07-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/german-industrial-output-falls-unexpectedly-july-2026-09-07",
+      "title": "ドイツ鉱工業生産、7月は1.1%減—自動車が9.2%減",
+      "topic_key": "germany-july-industrial-output-drop-20260907",
+      "source": "Reuters",
+      "first_seen": "2026-09-07T22:00:00+09:00",
+      "issue": "2026-09-07-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/europe/euro-zone-investor-morale-hits-four-year-plus-high-september-sentix-survey-shows-2026-09-07",
+      "title": "ユーロ圏投資家心理、9月は5.1—4年超ぶりの高水準",
+      "topic_key": "eurozone-sentix-september-20260907",
+      "source": "Reuters",
+      "first_seen": "2026-09-07T22:00:00+09:00",
+      "issue": "2026-09-07-2200"
     }
   ]
 }

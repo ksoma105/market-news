@@ -368,7 +368,7 @@
       "issue_id": "2026-09-08-1200",
       "published_at": "2026-09-08T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-08-1200.html",
       "topics": [
         "japan-q2-gdp-second-estimate-20260908",
         "japan-july-real-wages-20260908",
@@ -376,6 +376,21 @@
         "australia-september-consumer-sentiment-20260908",
         "firmus-openai-malaysia-compute-20260908",
         "oil-supply-risks-price-rise-20260908"
+      ]
+    },
+    {
+      "issue_id": "2026-09-08-2200",
+      "published_at": "2026-09-08T22:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-us-fx-policy-alignment-20260908",
+        "japan-august-overseas-securities-flows-20260908",
+        "ge-aerospace-cpp-acquisition-20260908",
+        "uk-30-year-gilt-record-yield-20260908",
+        "amazon-first-sterling-bond-sale-20260908",
+        "novartis-del-desiran-trial-setback-20260908",
+        "hsbc-sp500-year-end-target-8100-20260908"
       ]
     }
   ]

@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/asia-pacific/south-korea-exports-surpass-full-year-record-hit-7094-billion-ytd-2026-09-05",
-      "title": "韓国輸出、年初来7,094億ドル—前年の通年記録を突破",
-      "topic_key": "south-korea-exports-record-7094b-20260905",
-      "source": "韓国関税庁 / Reuters / Asia Business Daily",
-      "first_seen": "2026-09-05T22:00:00+09:00",
-      "issue": "2026-09-05-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/foxconn-says-third-quarter-outperform-market-expectations-ai-strength-2026-09-05",
-      "title": "Foxconn、8月売上52%増—AI需要で7〜9月期は市場予想超えへ",
-      "topic_key": "foxconn-august-revenue-ai-outlook-20260905",
-      "source": "Foxconn / Reuters",
-      "first_seen": "2026-09-05T22:00:00+09:00",
-      "issue": "2026-09-05-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/india/indias-tcs-unit-invest-up-74-billion-ai-data-center-campus-2026-09-05",
-      "title": "TCS系、インドに1GWのAIデータセンター—最大7,000億ルピー投資",
-      "topic_key": "tcs-hypervault-telangana-ai-campus-20260905",
-      "source": "TCS / Reuters",
-      "first_seen": "2026-09-05T22:00:00+09:00",
-      "issue": "2026-09-05-2200"
-    },
-    {
-      "url_normalized": "gasbuddy.com/newsroom/pressrelease/2026/09/01/gasbuddy-2026-poised-to-be-most-expensive-labor-day-at-the-pump-on-record-1173",
-      "title": "米レイバー・デーのガソリン、1ガロン4.03ドル予想—過去最高",
-      "topic_key": "us-labor-day-gasoline-record-403-20260905",
-      "source": "GasBuddy / Reuters",
-      "first_seen": "2026-09-05T22:00:00+09:00",
-      "issue": "2026-09-05-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/autos-transportation/stellantis-talks-with-huawei-jac-over-maserati-partnership-sources-say-2026-09-04",
-      "title": "Stellantis、Huawei・JACとMaserati提携を協議",
-      "topic_key": "stellantis-huawei-jac-maserati-talks-20260904",
-      "source": "Reuters",
-      "first_seen": "2026-09-05T22:00:00+09:00",
-      "issue": "2026-09-05-2200"
-    },
-    {
       "url_normalized": "reuters.com/world/middle-east/us-military-strikes-three-iranian-crude-oil-carriers-central-command-says-2026-09-05",
       "title": "米軍、イラン原油タンカー3隻を攻撃—海軍艦艇へのミサイル発射に対抗",
       "topic_key": "us-strikes-iranian-crude-carriers-20260905",
@@ -271,6 +231,62 @@
       "source": "Reuters / WSJ",
       "first_seen": "2026-09-08T12:00:00+09:00",
       "issue": "2026-09-08-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/japan-us-remain-aligned-fx-policy-foster-stable-markets-katayama-says-2026-09-08",
+      "title": "日米の為替政策、協調介入時から方針不変—片山財務相",
+      "topic_key": "japan-us-fx-policy-alignment-20260908",
+      "source": "財務省 / Reuters",
+      "first_seen": "2026-09-08T22:00:00+09:00",
+      "issue": "2026-09-08-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/japanese-investors-favoured-foreign-equities-over-bonds-august-2026-09-08",
+      "title": "日本の投資家、8月は海外株を1.3兆円買い越し",
+      "topic_key": "japan-august-overseas-securities-flows-20260908",
+      "source": "Reuters / 財務省",
+      "first_seen": "2026-09-08T22:00:00+09:00",
+      "issue": "2026-09-08-2200"
+    },
+    {
+      "url_normalized": "reuters.com/legal/transactional/ge-aerospace-buy-castings-maker-cpp-nearly-12-billion-2026-09-08",
+      "title": "GE Aerospace、航空部品のCPPを117.5億ドルで買収へ",
+      "topic_key": "ge-aerospace-cpp-acquisition-20260908",
+      "source": "GE Aerospace / Reuters / WSJ",
+      "first_seen": "2026-09-08T22:00:00+09:00",
+      "issue": "2026-09-08-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/uk-sells-30-year-debt-record-yield-showing-pressure-public-finances-2026-09-08",
+      "title": "英国、30年債を過去最高の5.8168%で発行",
+      "topic_key": "uk-30-year-gilt-record-yield-20260908",
+      "source": "UK DMO / Reuters",
+      "first_seen": "2026-09-08T22:00:00+09:00",
+      "issue": "2026-09-08-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/retail-consumer/amazon-hires-banks-first-ever-sterling-bond-sale-2026-09-08",
+      "title": "Amazon、初の英ポンド建て社債発行を準備",
+      "topic_key": "amazon-first-sterling-bond-sale-20260908",
+      "source": "Reuters",
+      "first_seen": "2026-09-08T22:00:00+09:00",
+      "issue": "2026-09-08-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/novartis-announces-trial-setback-del-desiran-drug-2026-09-08",
+      "title": "Novartisの筋疾患薬、後期試験で主要評価項目を達成せず",
+      "topic_key": "novartis-del-desiran-trial-setback-20260908",
+      "source": "Novartis / Reuters",
+      "first_seen": "2026-09-08T22:00:00+09:00",
+      "issue": "2026-09-08-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/hsbc-lifts-sp-500s-year-end-target-8100-earnings-strength-2026-09-08",
+      "title": "HSBC、S&P 500の年末目標を8,100へ引き上げ",
+      "topic_key": "hsbc-sp500-year-end-target-8100-20260908",
+      "source": "Reuters",
+      "first_seen": "2026-09-08T22:00:00+09:00",
+      "issue": "2026-09-08-2200"
     }
   ]
 }

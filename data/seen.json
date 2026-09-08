@@ -1,30 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/middle-east/us-military-strikes-three-iranian-crude-oil-carriers-central-command-says-2026-09-05",
-      "title": "米軍、イラン原油タンカー3隻を攻撃—海軍艦艇へのミサイル発射に対抗",
-      "topic_key": "us-strikes-iranian-crude-carriers-20260905",
-      "source": "U.S. Central Command / Reuters",
-      "first_seen": "2026-09-06T06:00:00+09:00",
-      "issue": "2026-09-06-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/greek-pm-unveils-plan-boost-incomes-ahead-elections-2026-09-05",
-      "title": "ギリシャ、2030年まで35億ユーロの所得支援—減税・賃上げを柱に",
-      "topic_key": "greece-four-year-income-plan-35b-euro-20260905",
-      "source": "Reuters / AP",
-      "first_seen": "2026-09-06T06:00:00+09:00",
-      "issue": "2026-09-06-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/media-telecom/german-space-rocket-lifts-off-norway-base-2026-09-05",
-      "title": "Isar Aerospace、ノルウェーからSpectrum 2号機を打ち上げ",
-      "topic_key": "isar-spectrum-second-launch-20260905",
-      "source": "Isar Aerospace / Reuters",
-      "first_seen": "2026-09-06T06:00:00+09:00",
-      "issue": "2026-09-06-0600"
-    },
-    {
       "url_normalized": "reuters.com/business/environment/indonesias-jakarta-airport-suspends-flights-due-ash-mount-anak-krakatau-2026-09-06",
       "title": "ジャカルタ空港、火山灰で209便に影響—アナク・クラカタウ噴火",
       "topic_key": "anak-krakatau-jakarta-flight-disruption-20260906",
@@ -287,6 +263,54 @@
       "source": "Reuters",
       "first_seen": "2026-09-08T22:00:00+09:00",
       "issue": "2026-09-08-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/consumers-more-worried-about-personal-finances-jobs-new-york-fed-report-shows-2026-09-08",
+      "title": "米消費者の雇用不安が悪化、失業率上昇予想は2020年以来の高水準",
+      "topic_key": "us-consumer-expectations-jobs-inflation-20260908",
+      "source": "NY連銀 / Reuters",
+      "first_seen": "2026-09-09T06:00:00+09:00",
+      "issue": "2026-09-09-0600"
+    },
+    {
+      "url_normalized": "reuters.com/technology/qualcomm-amazon-develop-custom-chips-ai-data-centers-2026-09-08",
+      "title": "Qualcomm、Amazon向けAI半導体で最大600億ドル規模の契約",
+      "topic_key": "qualcomm-amazon-ai-chip-deal-20260908",
+      "source": "Reuters / MarketWatch",
+      "first_seen": "2026-09-09T06:00:00+09:00",
+      "issue": "2026-09-09-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/media-telecom/verizon-signs-optical-fiber-deal-with-corning-expand-broadband-support-ai-growth-2026-09-08",
+      "title": "Verizon、Corningと光ファイバー長期契約—AI需要に備え8000万マイル超",
+      "topic_key": "verizon-corning-fiber-deal-20260908",
+      "source": "Reuters",
+      "first_seen": "2026-09-09T06:00:00+09:00",
+      "issue": "2026-09-09-0600"
+    },
+    {
+      "url_normalized": "reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08",
+      "title": "米当局、中国AI6社を「産業規模の蒸留」で非難",
+      "topic_key": "us-china-ai-distillation-accusation-20260908",
+      "source": "米政府共同勧告 / Reuters",
+      "first_seen": "2026-09-09T06:00:00+09:00",
+      "issue": "2026-09-09-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08",
+      "title": "Meta、メール送信や決済を代行するAIエージェント「Muse」を米国投入",
+      "topic_key": "meta-muse-agent-launch-20260908",
+      "source": "Meta / Reuters",
+      "first_seen": "2026-09-09T06:00:00+09:00",
+      "issue": "2026-09-09-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/wall-st-futures-slip-oil-surge-puts-markets-edge-2026-09-08",
+      "title": "米株反落、ソフトウェア株にAI代替懸念—ダウ1.18%安",
+      "topic_key": "us-stocks-software-ai-oil-20260908",
+      "source": "Reuters（LSEG）",
+      "first_seen": "2026-09-09T06:00:00+09:00",
+      "issue": "2026-09-09-0600"
     }
   ]
 }

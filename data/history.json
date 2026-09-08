@@ -382,7 +382,7 @@
       "issue_id": "2026-09-08-2200",
       "published_at": "2026-09-08T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-08-2200.html",
       "topics": [
         "japan-us-fx-policy-alignment-20260908",
         "japan-august-overseas-securities-flows-20260908",
@@ -391,6 +391,20 @@
         "amazon-first-sterling-bond-sale-20260908",
         "novartis-del-desiran-trial-setback-20260908",
         "hsbc-sp500-year-end-target-8100-20260908"
+      ]
+    },
+    {
+      "issue_id": "2026-09-09-0600",
+      "published_at": "2026-09-09T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-consumer-expectations-jobs-inflation-20260908",
+        "qualcomm-amazon-ai-chip-deal-20260908",
+        "verizon-corning-fiber-deal-20260908",
+        "us-china-ai-distillation-accusation-20260908",
+        "meta-muse-agent-launch-20260908",
+        "us-stocks-software-ai-oil-20260908"
       ]
     }
   ]

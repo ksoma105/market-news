@@ -355,13 +355,27 @@
       "issue_id": "2026-09-08-0600",
       "published_at": "2026-09-08T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-08-0600.html",
       "topics": [
         "poste-italiane-tim-offer-increase-20260907",
         "trump-bombardier-us-sales-threat-20260907",
         "europe-telcos-satellite-direct-mobile-talks-20260907",
         "hapag-lloyd-zim-revised-bid-20260907",
         "conagra-iss-executive-pay-vote-20260907"
+      ]
+    },
+    {
+      "issue_id": "2026-09-08-1200",
+      "published_at": "2026-09-08T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-q2-gdp-second-estimate-20260908",
+        "japan-july-real-wages-20260908",
+        "china-august-trade-20260908",
+        "australia-september-consumer-sentiment-20260908",
+        "firmus-openai-malaysia-compute-20260908",
+        "oil-supply-risks-price-rise-20260908"
       ]
     }
   ]

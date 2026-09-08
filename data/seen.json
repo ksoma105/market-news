@@ -1,30 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "nbim.no/contentassets/09b541c3964541649a3906e215ffbf97/analyses-and-assessments-of-the-investment-strategy-for-bonds",
-      "title": "ノルウェー政府系基金、米国債を約800億ドル削減案—日本国債比率は上昇",
-      "topic_key": "norway-fund-us-treasury-cut-proposal-20260904",
-      "source": "Norges Bank Investment Management / Reuters",
-      "first_seen": "2026-09-05T12:00:00+09:00",
-      "issue": "2026-09-05-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/china-banks-buy-treasuries-boost-dollar-deposits-sources-say-2026-09-04",
-      "title": "中国の銀行、ドル預金を集め米国債購入—外貨預金1.18兆ドル",
-      "topic_key": "china-banks-dollar-deposits-treasuries-20260904",
-      "source": "Reuters（PBOCデータ）",
-      "first_seen": "2026-09-05T12:00:00+09:00",
-      "issue": "2026-09-05-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/hedge-fund-giant-citadel-seeking-buy-us-shale-oil-production-assets-sources-say-2026-09-04",
-      "title": "Citadel、米シェール資産の取得を検討—現物コモディティへ拡大",
-      "topic_key": "citadel-us-shale-assets-talks-20260904",
-      "source": "Reuters",
-      "first_seen": "2026-09-05T12:00:00+09:00",
-      "issue": "2026-09-05-1200"
-    },
-    {
       "url_normalized": "reuters.com/world/asia-pacific/south-korea-exports-surpass-full-year-record-hit-7094-billion-ytd-2026-09-05",
       "title": "韓国輸出、年初来7,094億ドル—前年の通年記録を突破",
       "topic_key": "south-korea-exports-record-7094b-20260905",
@@ -247,6 +223,54 @@
       "source": "Reuters",
       "first_seen": "2026-09-08T06:00:00+09:00",
       "issue": "2026-09-08-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/japan-revises-q2-gdp-up-annualised-14-expansion-2026-09-07",
+      "title": "日本の4〜6月期GDP、年率1.4%増へ上方修正",
+      "topic_key": "japan-q2-gdp-second-estimate-20260908",
+      "source": "Reuters / 内閣府",
+      "first_seen": "2026-09-08T12:00:00+09:00",
+      "issue": "2026-09-08-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/japan-july-real-wages-rise-24-biggest-gain-since-2021-2026-09-07",
+      "title": "日本の7月実質賃金、2.4%増—7カ月連続のプラス",
+      "topic_key": "japan-july-real-wages-20260908",
+      "source": "Reuters / 厚生労働省",
+      "first_seen": "2026-09-08T12:00:00+09:00",
+      "issue": "2026-09-08-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/chinas-exports-up-25-yy-august-imports-surge-282-2026-09-08",
+      "title": "中国の8月輸出25%増、輸入は28.2%増",
+      "topic_key": "china-august-trade-20260908",
+      "source": "Reuters（中国税関データ）",
+      "first_seen": "2026-09-08T12:00:00+09:00",
+      "issue": "2026-09-08-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/australian-consumer-sentiment-slides-under-rates-petrol-pressure-2026-09-08",
+      "title": "豪州の消費者心理、9月は5.2%低下",
+      "topic_key": "australia-september-consumer-sentiment-20260908",
+      "source": "Reuters（Westpac-Melbourne Institute）",
+      "first_seen": "2026-09-08T12:00:00+09:00",
+      "issue": "2026-09-08-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/nvidia-backed-firmus-signs-deal-with-openai-malaysia-data-centre-capacity-2026-09-08",
+      "title": "Firmus、OpenAIとマレーシアのAI計算基盤で複数年契約",
+      "topic_key": "firmus-openai-malaysia-compute-20260908",
+      "source": "Reuters / Firmus",
+      "first_seen": "2026-09-08T12:00:00+09:00",
+      "issue": "2026-09-08-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/oil-rises-risks-prolonged-mideast-conflict-heighten-supply-worries-2026-09-08",
+      "title": "原油上昇、中東の供給不安でWTIは92ドル台",
+      "topic_key": "oil-supply-risks-price-rise-20260908",
+      "source": "Reuters / WSJ",
+      "first_seen": "2026-09-08T12:00:00+09:00",
+      "issue": "2026-09-08-1200"
     }
   ]
 }

@@ -1,30 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/business/environment/indonesias-jakarta-airport-suspends-flights-due-ash-mount-anak-krakatau-2026-09-06",
-      "title": "ジャカルタ空港、火山灰で209便に影響—アナク・クラカタウ噴火",
-      "topic_key": "anak-krakatau-jakarta-flight-disruption-20260906",
-      "source": "Reuters / AP",
-      "first_seen": "2026-09-06T12:00:00+09:00",
-      "issue": "2026-09-06-1200"
-    },
-    {
-      "url_normalized": "reuters.com/legal/litigation/spire-healthcare-agrees-103-billion-takeover-by-toscafund-others-2026-09-05",
-      "title": "英Spire Healthcare、10.26億ポンドで買収合意—66%のプレミアム",
-      "topic_key": "spire-healthcare-toscafund-takeover-20260905",
-      "source": "Spire Healthcare（RNS） / Reuters",
-      "first_seen": "2026-09-06T12:00:00+09:00",
-      "issue": "2026-09-06-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05",
-      "title": "OpenAI、AIエージェントの「wiki incident」を認め開示強化へ",
-      "topic_key": "openai-wiki-incident-disclosure-20260905",
-      "source": "Reuters / The Verge",
-      "first_seen": "2026-09-06T12:00:00+09:00",
-      "issue": "2026-09-06-1200"
-    },
-    {
       "url_normalized": "reuters.com/world/asia-pacific/china-pump-47-bln-into-state-banks-insurers-capital-boosting-push-2026-09-06",
       "title": "中国、国有金融8社に計3,600億元の資本増強—銀行・保険の基盤を強化",
       "topic_key": "china-state-financial-firms-capital-360b-20260906",
@@ -311,6 +287,46 @@
       "source": "Reuters（LSEG）",
       "first_seen": "2026-09-09T06:00:00+09:00",
       "issue": "2026-09-09-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/japan-manufacturers-mood-hits-near-5-year-high-semiconductor-demand-2026-09-08",
+      "title": "日本の製造業景況感、約5年ぶり高水準—半導体需要が追い風",
+      "topic_key": "japan-reuters-tankan-september-20260909",
+      "source": "Reuters",
+      "first_seen": "2026-09-09T12:00:00+09:00",
+      "issue": "2026-09-09-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/chinas-producer-inflation-regains-momentum-august-2026-09-09",
+      "title": "中国8月PPI、前年比3.8%上昇—エネルギー高で伸び加速",
+      "topic_key": "china-august-cpi-ppi-20260909",
+      "source": "中国国家統計局 / Reuters",
+      "first_seen": "2026-09-09T12:00:00+09:00",
+      "issue": "2026-09-09-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/india/indian-rupee-under-pressure-with-brent-near-100-testing-rbi-defence-2026-09-09",
+      "title": "インドルピー、1ドル94.8台—原油100ドル接近で下押し",
+      "topic_key": "india-rupee-oil-pressure-20260909",
+      "source": "Reuters",
+      "first_seen": "2026-09-09T12:00:00+09:00",
+      "issue": "2026-09-09-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/new-zealand-allow-wealthy-migrants-build-rental-housing-2026-09-08",
+      "title": "NZ、富裕層ビザ資金を賃貸住宅ファンドに解禁へ",
+      "topic_key": "new-zealand-investor-visa-build-to-rent-20260909",
+      "source": "Reuters / interest.co.nz",
+      "first_seen": "2026-09-09T12:00:00+09:00",
+      "issue": "2026-09-09-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/americas/mexico-sees-up-25-economic-growth-2027-narrower-deficit-2027-budget-draft-2026-09-09",
+      "title": "メキシコ、2027年成長率1.5〜2.5%を想定—財政赤字3.9%へ",
+      "topic_key": "mexico-2027-budget-growth-deficit-20260909",
+      "source": "Reuters / El País",
+      "first_seen": "2026-09-09T12:00:00+09:00",
+      "issue": "2026-09-09-1200"
     }
   ]
 }

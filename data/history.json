@@ -397,7 +397,7 @@
       "issue_id": "2026-09-09-0600",
       "published_at": "2026-09-09T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-09-0600.html",
       "topics": [
         "us-consumer-expectations-jobs-inflation-20260908",
         "qualcomm-amazon-ai-chip-deal-20260908",
@@ -405,6 +405,19 @@
         "us-china-ai-distillation-accusation-20260908",
         "meta-muse-agent-launch-20260908",
         "us-stocks-software-ai-oil-20260908"
+      ]
+    },
+    {
+      "issue_id": "2026-09-09-1200",
+      "published_at": "2026-09-09T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-reuters-tankan-september-20260909",
+        "china-august-cpi-ppi-20260909",
+        "india-rupee-oil-pressure-20260909",
+        "new-zealand-investor-visa-build-to-rent-20260909",
+        "mexico-2027-budget-growth-deficit-20260909"
       ]
     }
   ]

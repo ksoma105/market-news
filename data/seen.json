@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/americas/brazilian-court-suspends-licenses-sigma-lithium-mine-2026-09-06",
-      "title": "ブラジル裁判所、Sigma Lithiumの主力鉱山に操業停止命令",
-      "topic_key": "sigma-lithium-grota-cirilo-license-suspension-20260906",
-      "source": "Reuters / UOL",
-      "first_seen": "2026-09-07T06:00:00+09:00",
-      "issue": "2026-09-07-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/son-essilorluxottica-founder-calls-new-strategy-eyewear-group-2026-09-06",
-      "title": "EssilorLuxottica創業家、戦略刷新を要求—Delfin保有は32.4%",
-      "topic_key": "essilorluxottica-founder-family-strategy-call-20260906",
-      "source": "Reuters",
-      "first_seen": "2026-09-07T06:00:00+09:00",
-      "issue": "2026-09-07-0600"
-    },
-    {
       "url_normalized": "mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0808.html",
       "title": "日本の外貨準備、8月に795.75億ドル減—過去最大の落ち込み",
       "topic_key": "japan-foreign-reserves-record-drop-20260907",
@@ -351,6 +335,46 @@
       "source": "Reuters",
       "first_seen": "2026-09-09T22:00:00+09:00",
       "issue": "2026-09-09-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/us-treasury-buy-up-6-billion-sept-10-buyback-operation-2026-09-09",
+      "title": "米財務省、長期国債を最大60億ドル買い戻しへ",
+      "topic_key": "us-treasury-6b-buyback-20260909",
+      "source": "Reuters / The Guardian",
+      "first_seen": "2026-09-10T06:00:00+09:00",
+      "issue": "2026-09-10-0600"
+    },
+    {
+      "url_normalized": "reuters.com/technology/foldable-iphone-pricier-18-pro-unveiled-apples-first-event-under-ternus-2026-09-09",
+      "title": "Apple、初の折りたたみiPhone「Duo」を1,999ドルで投入",
+      "topic_key": "apple-iphone-duo-launch-20260909",
+      "source": "Reuters / AP",
+      "first_seen": "2026-09-10T06:00:00+09:00",
+      "issue": "2026-09-10-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/china/eu-proposes-simpler-public-tender-rules-buy-european-criteria-cut-foreign-2026-09-09",
+      "title": "EU、公共調達を「価格偏重」から転換—欧州製を優遇可能に",
+      "topic_key": "eu-public-procurement-reform-20260909",
+      "source": "Reuters / The Guardian",
+      "first_seen": "2026-09-10T06:00:00+09:00",
+      "issue": "2026-09-10-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/busiest-us-seaport-set-new-three-month-volume-record-after-early-holiday-import-2026-09-09",
+      "title": "ロサンゼルス港、6〜8月の取扱量が過去最高290万TEU",
+      "topic_key": "port-los-angeles-three-month-record-20260909",
+      "source": "Reuters",
+      "first_seen": "2026-09-10T06:00:00+09:00",
+      "issue": "2026-09-10-0600"
+    },
+    {
+      "url_normalized": "imf.org/en/news/articles/2026/09/09/pr26286-angola-imf-staff-completes-post-financing-assessment-mission",
+      "title": "IMF、アンゴラに財政再建と為替柔軟化を要請",
+      "topic_key": "imf-angola-pfa-reforms-20260909",
+      "source": "IMF / Reuters",
+      "first_seen": "2026-09-10T06:00:00+09:00",
+      "issue": "2026-09-10-0600"
     }
   ]
 }

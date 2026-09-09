@@ -424,13 +424,26 @@
       "issue_id": "2026-09-09-2200",
       "published_at": "2026-09-09T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-09-2200.html",
       "topics": [
         "google-finland-ai-nuclear-investment-20260909",
         "analog-devices-alif-acquisition-20260909",
         "adani-airports-equity-raise-20260909",
         "argentina-corn-record-exports-20260909",
         "france-2027-corporate-tax-budget-20260909"
+      ]
+    },
+    {
+      "issue_id": "2026-09-10-0600",
+      "published_at": "2026-09-10T06:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-treasury-6b-buyback-20260909",
+        "apple-iphone-duo-launch-20260909",
+        "eu-public-procurement-reform-20260909",
+        "port-los-angeles-three-month-record-20260909",
+        "imf-angola-pfa-reforms-20260909"
       ]
     }
   ]

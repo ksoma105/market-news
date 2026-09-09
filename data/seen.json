@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/asia-pacific/china-pump-47-bln-into-state-banks-insurers-capital-boosting-push-2026-09-06",
-      "title": "中国、国有金融8社に計3,600億元の資本増強—銀行・保険の基盤を強化",
-      "topic_key": "china-state-financial-firms-capital-360b-20260906",
-      "source": "Reuters / 新華社",
-      "first_seen": "2026-09-06T22:00:00+09:00",
-      "issue": "2026-09-06-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/opec-set-keep-oil-output-policy-unchanged-sunday-sources-say-2026-09-06",
-      "title": "OPEC+主要7カ国、10月の生産方針を据え置き",
-      "topic_key": "opec-plus-october-output-hold-20260906",
-      "source": "OPEC / Reuters",
-      "first_seen": "2026-09-06T22:00:00+09:00",
-      "issue": "2026-09-06-2200"
-    },
-    {
       "url_normalized": "reuters.com/world/americas/brazilian-court-suspends-licenses-sigma-lithium-mine-2026-09-06",
       "title": "ブラジル裁判所、Sigma Lithiumの主力鉱山に操業停止命令",
       "topic_key": "sigma-lithium-grota-cirilo-license-suspension-20260906",
@@ -327,6 +311,46 @@
       "source": "Reuters / El País",
       "first_seen": "2026-09-09T12:00:00+09:00",
       "issue": "2026-09-09-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09",
+      "title": "Google、フィンランドのAI基盤へ130億ユーロ—原発電力を長期調達",
+      "topic_key": "google-finland-ai-nuclear-investment-20260909",
+      "source": "Reuters / World Nuclear News",
+      "first_seen": "2026-09-09T22:00:00+09:00",
+      "issue": "2026-09-09-2200"
+    },
+    {
+      "url_normalized": "reuters.com/technology/analog-devices-buy-alif-semiconductor-135-billion-2026-09-09",
+      "title": "Analog Devices、Alifを13.5億ドルで買収へ—エッジAIを強化",
+      "topic_key": "analog-devices-alif-acquisition-20260909",
+      "source": "Analog Devices / Reuters",
+      "first_seen": "2026-09-09T22:00:00+09:00",
+      "issue": "2026-09-09-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/india/adani-enterprises-sell-up-554-stake-airport-unit-temasek-blackrock-2026-09-09",
+      "title": "Adani空港部門、10億ドルを調達—投資家持分は5.54%",
+      "topic_key": "adani-airports-equity-raise-20260909",
+      "source": "Reuters / The Indian Express",
+      "first_seen": "2026-09-09T22:00:00+09:00",
+      "issue": "2026-09-09-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/americas/argentinas-corn-exports-set-record-war-ukraine-european-heat-wave-reshape-trade-2026-09-09",
+      "title": "アルゼンチンのトウモロコシ輸出、8〜9月に過去最高1,000万トンへ",
+      "topic_key": "argentina-corn-record-exports-20260909",
+      "source": "Reuters / 米農務省",
+      "first_seen": "2026-09-09T22:00:00+09:00",
+      "issue": "2026-09-09-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/france-reduce-corporate-tax-surcharge-ease-employee-buyouts-2027-budget-pm-says-2026-09-09",
+      "title": "フランス、2027年予算で大企業付加税を軽減へ—新税は導入せず",
+      "topic_key": "france-2027-corporate-tax-budget-20260909",
+      "source": "Reuters",
+      "first_seen": "2026-09-09T22:00:00+09:00",
+      "issue": "2026-09-09-2200"
     }
   ]
 }

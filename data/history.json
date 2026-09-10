@@ -450,7 +450,7 @@
       "issue_id": "2026-09-10-1200",
       "published_at": "2026-09-10T12:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-10-1200.html",
       "topics": [
         "boj-masu-rapid-hike-warning-20260910",
         "japan-firms-support-takaichi-policies-20260910",
@@ -459,6 +459,21 @@
         "germany-eu-budget-cuts-20260909",
         "visa-mastercard-ant-agent-trust-framework-20260910",
         "adyen-india-expansion-20260909"
+      ]
+    },
+    {
+      "issue_id": "2026-09-10-2200",
+      "published_at": "2026-09-10T22:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "ecb-rate-hike-250-september-20260910",
+        "us-august-ppi-54-20260910",
+        "us-jobless-claims-206k-20260910",
+        "eu-chemicals-plastics-safeguards-20260910",
+        "china-ai-chip-price-hikes-hbm-20260910",
+        "nvidia-australia-2gw-ai-capacity-20260910",
+        "bending-spoons-miro-deal-20260910"
       ]
     }
   ]

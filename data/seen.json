@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63530",
-      "title": "インド中銀、余剰資金6.13兆ルピーを吸収",
-      "topic_key": "rbi-vrrr-liquidity-absorption-20260907",
-      "source": "RBI / Reuters",
-      "first_seen": "2026-09-07T22:00:00+09:00",
-      "issue": "2026-09-07-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/world-at-work/jaguar-land-rover-cut-4000-jobs-globally-over-next-two-years-2026-09-07",
-      "title": "Jaguar Land Rover、世界で約4,000人を削減へ",
-      "topic_key": "jlr-4000-job-cuts-turnaround-20260907",
-      "source": "Reuters",
-      "first_seen": "2026-09-07T22:00:00+09:00",
-      "issue": "2026-09-07-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/taiwans-wistron-launches-up-15-billion-gds-sale-term-sheet-shows-2026-09-07",
-      "title": "Wistron、最大14.8億ドルのGDS売り出し—AI需要に備え調達",
-      "topic_key": "wistron-gds-offering-1480m-20260907",
-      "source": "Reuters",
-      "first_seen": "2026-09-07T22:00:00+09:00",
-      "issue": "2026-09-07-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/german-industrial-output-falls-unexpectedly-july-2026-09-07",
-      "title": "ドイツ鉱工業生産、7月は1.1%減—自動車が9.2%減",
-      "topic_key": "germany-july-industrial-output-drop-20260907",
-      "source": "Reuters",
-      "first_seen": "2026-09-07T22:00:00+09:00",
-      "issue": "2026-09-07-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/europe/euro-zone-investor-morale-hits-four-year-plus-high-september-sentix-survey-shows-2026-09-07",
-      "title": "ユーロ圏投資家心理、9月は5.1—4年超ぶりの高水準",
-      "topic_key": "eurozone-sentix-september-20260907",
-      "source": "Reuters",
-      "first_seen": "2026-09-07T22:00:00+09:00",
-      "issue": "2026-09-07-2200"
-    },
-    {
       "url_normalized": "reuters.com/business/poste-italiane-raises-telecom-italia-offer-waives-threshold-condition-2026-09-07",
       "title": "Poste Italiane、Telecom Italiaへの公開買い付け価格を引き上げ",
       "topic_key": "poste-italiane-tim-offer-increase-20260907",
@@ -407,6 +367,62 @@
       "source": "Reuters",
       "first_seen": "2026-09-10T12:00:00+09:00",
       "issue": "2026-09-10-1200"
+    },
+    {
+      "url_normalized": "ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+      "title": "ECB、政策金利を0.25ポイント引き上げ—預金金利2.50%",
+      "topic_key": "ecb-rate-hike-250-september-20260910",
+      "source": "ECB / AP",
+      "first_seen": "2026-09-10T22:00:00+09:00",
+      "issue": "2026-09-10-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/sp-500-dow-futures-attempt-recovery-ahead-inflation-report-2026-09-10",
+      "title": "米卸売物価、8月は前年比5.4%上昇—市場予想を上回る",
+      "topic_key": "us-august-ppi-54-20260910",
+      "source": "Reuters / AP",
+      "first_seen": "2026-09-10T22:00:00+09:00",
+      "issue": "2026-09-10-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/us/us-weekly-jobless-claims-edge-down-layoffs-remain-low-2026-09-10",
+      "title": "米新規失業保険申請、20.6万件に減少—解雇は低水準",
+      "topic_key": "us-jobless-claims-206k-20260910",
+      "source": "Reuters / AP",
+      "first_seen": "2026-09-10T22:00:00+09:00",
+      "issue": "2026-09-10-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/china/eu-countries-seek-import-curbs-chemicals-plastics-sources-say-2026-09-10",
+      "title": "EU主要国、化学品・プラスチックの輸入制限を検討",
+      "topic_key": "eu-chemicals-plastics-safeguards-20260910",
+      "source": "Reuters",
+      "first_seen": "2026-09-10T22:00:00+09:00",
+      "issue": "2026-09-10-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10",
+      "title": "中国AI半導体が値上げ—HBM不足でHuaweiは最大50%高",
+      "topic_key": "china-ai-chip-price-hikes-hbm-20260910",
+      "source": "Reuters",
+      "first_seen": "2026-09-10T22:00:00+09:00",
+      "issue": "2026-09-10-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/nvidia-teams-up-with-australian-partners-build-ai-factory-capacity-2026-09-10",
+      "title": "Nvidia、豪州でAI計算容量を最大2GW増強へ",
+      "topic_key": "nvidia-australia-2gw-ai-capacity-20260910",
+      "source": "Reuters",
+      "first_seen": "2026-09-10T22:00:00+09:00",
+      "issue": "2026-09-10-2200"
+    },
+    {
+      "url_normalized": "reuters.com/legal/transactional/bending-spoons-buy-miro-136-billion-cash-deal-2026-09-10",
+      "title": "Bending Spoons、Miroを13.6億ドルで買収へ",
+      "topic_key": "bending-spoons-miro-deal-20260910",
+      "source": "Reuters",
+      "first_seen": "2026-09-10T22:00:00+09:00",
+      "issue": "2026-09-10-2200"
     }
   ]
 }

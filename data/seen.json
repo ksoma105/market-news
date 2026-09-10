@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/business/poste-italiane-raises-telecom-italia-offer-waives-threshold-condition-2026-09-07",
-      "title": "Poste Italiane、Telecom Italiaへの公開買い付け価格を引き上げ",
-      "topic_key": "poste-italiane-tim-offer-increase-20260907",
-      "source": "Reuters",
-      "first_seen": "2026-09-08T06:00:00+09:00",
-      "issue": "2026-09-08-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/aerospace-defense/trump-says-canadas-bombardier-cannot-sell-us-unless-it-builds-there-2026-09-07",
-      "title": "Trump氏、Bombardierに「米国で生産しなければ販売不可」と表明",
-      "topic_key": "trump-bombardier-us-sales-threat-20260907",
-      "source": "Reuters",
-      "first_seen": "2026-09-08T06:00:00+09:00",
-      "issue": "2026-09-08-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/media-telecom/europes-biggest-mobile-operators-talks-satellite-to-mobile-venture-bloomberg-2026-09-07",
-      "title": "欧州通信4社、衛星直結サービスの共同入札を協議",
-      "topic_key": "europe-telcos-satellite-direct-mobile-talks-20260907",
-      "source": "Reuters / Bloomberg",
-      "first_seen": "2026-09-08T06:00:00+09:00",
-      "issue": "2026-09-08-0600"
-    },
-    {
-      "url_normalized": "reuters.com/world/middle-east/hapag-lloyd-plans-improvements-42-billion-bid-israels-zim-2026-09-07",
-      "title": "Hapag-Lloyd、ZIMへの42億ドル買収案を修正へ",
-      "topic_key": "hapag-lloyd-zim-revised-bid-20260907",
-      "source": "Reuters",
-      "first_seen": "2026-09-08T06:00:00+09:00",
-      "issue": "2026-09-08-0600"
-    },
-    {
-      "url_normalized": "reuters.com/legal/litigation/iss-advises-conagra-shareholders-reject-proposed-executive-pay-programme-2026-09-07",
-      "title": "ISS、Conagraの役員報酬案に反対推奨",
-      "topic_key": "conagra-iss-executive-pay-vote-20260907",
-      "source": "Reuters",
-      "first_seen": "2026-09-08T06:00:00+09:00",
-      "issue": "2026-09-08-0600"
-    },
-    {
       "url_normalized": "reuters.com/world/asia-pacific/japan-revises-q2-gdp-up-annualised-14-expansion-2026-09-07",
       "title": "日本の4〜6月期GDP、年率1.4%増へ上方修正",
       "topic_key": "japan-q2-gdp-second-estimate-20260908",
@@ -423,6 +383,46 @@
       "source": "Reuters",
       "first_seen": "2026-09-10T22:00:00+09:00",
       "issue": "2026-09-10-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/fitch-eyes-japan-budget-balance-between-growth-fiscal-discipline-2026-09-10",
+      "title": "Fitch、日本予算の「成長と財政規律の両立」を注視",
+      "topic_key": "fitch-japan-budget-fiscal-balance-20260910",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T06:00:00+09:00",
+      "issue": "2026-09-11-0600"
+    },
+    {
+      "url_normalized": "reuters.com/legal/government/eu-watchdog-flags-risk-abrupt-market-correction-2026-09-10",
+      "title": "ESMA、割高な資産価格と景気悪化の乖離に急落リスクを警告",
+      "topic_key": "esma-abrupt-market-correction-risk-20260910",
+      "source": "Reuters / Financial Times",
+      "first_seen": "2026-09-11T06:00:00+09:00",
+      "issue": "2026-09-11-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/us-average-diesel-prices-cross-6-gallon-first-time-gasbuddy-says-2026-09-10",
+      "title": "米ディーゼル平均価格、初の1ガロン6ドル超え",
+      "topic_key": "us-diesel-average-above-6-20260910",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T06:00:00+09:00",
+      "issue": "2026-09-11-0600"
+    },
+    {
+      "url_normalized": "reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10",
+      "title": "Oracle、AIクラウド需要で売上高30%増—受注残6640億ドル",
+      "topic_key": "oracle-q1-2027-revenue-backlog-capex-20260910",
+      "source": "Reuters / Financial Times",
+      "first_seen": "2026-09-11T06:00:00+09:00",
+      "issue": "2026-09-11-0600"
+    },
+    {
+      "url_normalized": "reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10",
+      "title": "Anthropic、ロシア系・中国系のClaude悪用を遮断",
+      "topic_key": "anthropic-claude-threat-campaigns-20260910",
+      "source": "Reuters / AP",
+      "first_seen": "2026-09-11T06:00:00+09:00",
+      "issue": "2026-09-11-0600"
     }
   ]
 }

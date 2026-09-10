@@ -465,7 +465,7 @@
       "issue_id": "2026-09-10-2200",
       "published_at": "2026-09-10T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-10-2200.html",
       "topics": [
         "ecb-rate-hike-250-september-20260910",
         "us-august-ppi-54-20260910",
@@ -474,6 +474,19 @@
         "china-ai-chip-price-hikes-hbm-20260910",
         "nvidia-australia-2gw-ai-capacity-20260910",
         "bending-spoons-miro-deal-20260910"
+      ]
+    },
+    {
+      "issue_id": "2026-09-11-0600",
+      "published_at": "2026-09-11T06:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "fitch-japan-budget-fiscal-balance-20260910",
+        "esma-abrupt-market-correction-risk-20260910",
+        "us-diesel-average-above-6-20260910",
+        "oracle-q1-2027-revenue-backlog-capex-20260910",
+        "anthropic-claude-threat-campaigns-20260910"
       ]
     }
   ]

@@ -437,13 +437,28 @@
       "issue_id": "2026-09-10-0600",
       "published_at": "2026-09-10T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-10-0600.html",
       "topics": [
         "us-treasury-6b-buyback-20260909",
         "apple-iphone-duo-launch-20260909",
         "eu-public-procurement-reform-20260909",
         "port-los-angeles-three-month-record-20260909",
         "imf-angola-pfa-reforms-20260909"
+      ]
+    },
+    {
+      "issue_id": "2026-09-10-1200",
+      "published_at": "2026-09-10T12:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "boj-masu-rapid-hike-warning-20260910",
+        "japan-firms-support-takaichi-policies-20260910",
+        "brent-above-100-tanker-attacks-20260910",
+        "eu-russian-energy-exit-audit-20260909",
+        "germany-eu-budget-cuts-20260909",
+        "visa-mastercard-ant-agent-trust-framework-20260910",
+        "adyen-india-expansion-20260909"
       ]
     }
   ]

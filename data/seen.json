@@ -1,30 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0808.html",
-      "title": "日本の外貨準備、8月に795.75億ドル減—過去最大の落ち込み",
-      "topic_key": "japan-foreign-reserves-record-drop-20260907",
-      "source": "財務省 / Reuters",
-      "first_seen": "2026-09-07T12:00:00+09:00",
-      "issue": "2026-09-07-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/ship-fuel-shortage-looms-refiners-strained-by-war-favour-other-products-2026-09-07",
-      "title": "船舶燃料油、7〜9月に日量21.8万バレル不足の見通し",
-      "topic_key": "global-ship-fuel-shortage-q3-20260907",
-      "source": "Reuters",
-      "first_seen": "2026-09-07T12:00:00+09:00",
-      "issue": "2026-09-07-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-09-07",
-      "title": "アジア株が反発—日経2.0%高、韓国株3.0%高",
-      "topic_key": "asia-stocks-rebound-nikkei-kospi-20260907",
-      "source": "Reuters",
-      "first_seen": "2026-09-07T12:00:00+09:00",
-      "issue": "2026-09-07-1200"
-    },
-    {
       "url_normalized": "rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63530",
       "title": "インド中銀、余剰資金6.13兆ルピーを吸収",
       "topic_key": "rbi-vrrr-liquidity-absorption-20260907",
@@ -375,6 +351,62 @@
       "source": "IMF / Reuters",
       "first_seen": "2026-09-10T06:00:00+09:00",
       "issue": "2026-09-10-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/boj-may-be-forced-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-2026-09-10",
+      "title": "日銀・益委員、インフレ加速なら「急速な利上げ」も",
+      "topic_key": "boj-masu-rapid-hike-warning-20260910",
+      "source": "Reuters",
+      "first_seen": "2026-09-10T12:00:00+09:00",
+      "issue": "2026-09-10-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/two-thirds-japan-firms-support-pm-takaichis-economic-policies-2026-09-09",
+      "title": "国内企業の68%、高市政権の経済政策を支持—Reuters調査",
+      "topic_key": "japan-firms-support-takaichi-policies-20260910",
+      "source": "Reuters",
+      "first_seen": "2026-09-10T12:00:00+09:00",
+      "issue": "2026-09-10-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10",
+      "title": "Brent原油、100ドル台を維持—海上攻撃の激化で供給懸念",
+      "topic_key": "brent-above-100-tanker-attacks-20260910",
+      "source": "Reuters / AP",
+      "first_seen": "2026-09-10T12:00:00+09:00",
+      "issue": "2026-09-10-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/eus-russian-energy-exit-faltering-auditors-say-2026-09-09",
+      "title": "EUのロシア産エネルギー脱却、投資実行に遅れ—監査院",
+      "topic_key": "eu-russian-energy-exit-audit-20260909",
+      "source": "Reuters",
+      "first_seen": "2026-09-10T12:00:00+09:00",
+      "issue": "2026-09-10-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/germany-calls-hundreds-billions-euros-cuts-to-eu-budget-2026-09-09",
+      "title": "ドイツ、EU長期予算に数千億ユーロの削減を要求",
+      "topic_key": "germany-eu-budget-cuts-20260909",
+      "source": "Reuters",
+      "first_seen": "2026-09-10T12:00:00+09:00",
+      "issue": "2026-09-10-1200"
+    },
+    {
+      "url_normalized": "reuters.com/technology/payment-firms-visa-mastercard-ant-international-team-up-ai-agent-trust-framework-2026-09-10",
+      "title": "Visa・Mastercard・Ant、AI購入代理の本人確認標準を共同開発",
+      "topic_key": "visa-mastercard-ant-agent-trust-framework-20260910",
+      "source": "Reuters",
+      "first_seen": "2026-09-10T12:00:00+09:00",
+      "issue": "2026-09-10-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/india/dutch-fintech-adyen-sees-long-term-india-opportunity-plans-local-expansion-2026-09-09",
+      "title": "Adyen、インド事業を拡大—人員は2023年比10倍の120人",
+      "topic_key": "adyen-india-expansion-20260909",
+      "source": "Reuters",
+      "first_seen": "2026-09-10T12:00:00+09:00",
+      "issue": "2026-09-10-1200"
     }
   ]
 }

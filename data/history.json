@@ -507,7 +507,7 @@
       "issue_id": "2026-09-11-2200",
       "published_at": "2026-09-11T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-11-2200.html",
       "topics": [
         "us-august-cpi-34-energy-20260911",
         "iea-2026-oil-supply-decline-57m-bpd-20260911",
@@ -515,6 +515,20 @@
         "kroger-2026-sales-outlook-cut-20260911",
         "hong-kong-fundraising-835bn-revival-20260911",
         "zai-hong-kong-5bn-financing-20260911"
+      ]
+    },
+    {
+      "issue_id": "2026-09-12-0600",
+      "published_at": "2026-09-12T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-senate-ai-duty-of-care-proposal-20260911",
+        "us-solar-import-duties-india-indonesia-laos-20260911",
+        "eu-aluminium-scrap-duty-plan-dropped-20260911",
+        "oil-tanker-freight-rates-record-20260911",
+        "uk-debt-pause-clauses-coalition-20260911",
+        "new-fortress-restructuring-debt-cut-20260911"
       ]
     }
   ]

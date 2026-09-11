@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/business/consumers-more-worried-about-personal-finances-jobs-new-york-fed-report-shows-2026-09-08",
-      "title": "米消費者の雇用不安が悪化、失業率上昇予想は2020年以来の高水準",
-      "topic_key": "us-consumer-expectations-jobs-inflation-20260908",
-      "source": "NY連銀 / Reuters",
-      "first_seen": "2026-09-09T06:00:00+09:00",
-      "issue": "2026-09-09-0600"
-    },
-    {
-      "url_normalized": "reuters.com/technology/qualcomm-amazon-develop-custom-chips-ai-data-centers-2026-09-08",
-      "title": "Qualcomm、Amazon向けAI半導体で最大600億ドル規模の契約",
-      "topic_key": "qualcomm-amazon-ai-chip-deal-20260908",
-      "source": "Reuters / MarketWatch",
-      "first_seen": "2026-09-09T06:00:00+09:00",
-      "issue": "2026-09-09-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/media-telecom/verizon-signs-optical-fiber-deal-with-corning-expand-broadband-support-ai-growth-2026-09-08",
-      "title": "Verizon、Corningと光ファイバー長期契約—AI需要に備え8000万マイル超",
-      "topic_key": "verizon-corning-fiber-deal-20260908",
-      "source": "Reuters",
-      "first_seen": "2026-09-09T06:00:00+09:00",
-      "issue": "2026-09-09-0600"
-    },
-    {
-      "url_normalized": "reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08",
-      "title": "米当局、中国AI6社を「産業規模の蒸留」で非難",
-      "topic_key": "us-china-ai-distillation-accusation-20260908",
-      "source": "米政府共同勧告 / Reuters",
-      "first_seen": "2026-09-09T06:00:00+09:00",
-      "issue": "2026-09-09-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08",
-      "title": "Meta、メール送信や決済を代行するAIエージェント「Muse」を米国投入",
-      "topic_key": "meta-muse-agent-launch-20260908",
-      "source": "Meta / Reuters",
-      "first_seen": "2026-09-09T06:00:00+09:00",
-      "issue": "2026-09-09-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/wall-st-futures-slip-oil-surge-puts-markets-edge-2026-09-08",
-      "title": "米株反落、ソフトウェア株にAI代替懸念—ダウ1.18%安",
-      "topic_key": "us-stocks-software-ai-oil-20260908",
-      "source": "Reuters（LSEG）",
-      "first_seen": "2026-09-09T06:00:00+09:00",
-      "issue": "2026-09-09-0600"
-    },
-    {
       "url_normalized": "reuters.com/world/asia-pacific/japan-manufacturers-mood-hits-near-5-year-high-semiconductor-demand-2026-09-08",
       "title": "日本の製造業景況感、約5年ぶり高水準—半導体需要が追い風",
       "topic_key": "japan-reuters-tankan-september-20260909",
@@ -415,6 +367,54 @@
       "source": "Reuters",
       "first_seen": "2026-09-11T22:00:00+09:00",
       "issue": "2026-09-11-2200"
+    },
+    {
+      "url_normalized": "reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11",
+      "title": "米上院、最先端AIに「注意義務」案—政府に公開停止権限も",
+      "topic_key": "us-senate-ai-duty-of-care-proposal-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-12T06:00:00+09:00",
+      "issue": "2026-09-12-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/us-commerce-department-finalizes-steep-duties-solar-imports-india-indonesia-laos-2026-09-11",
+      "title": "米商務省、印・尼・ラオス産太陽光製品への高率関税を最終決定",
+      "topic_key": "us-solar-import-duties-india-indonesia-laos-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-12T06:00:00+09:00",
+      "issue": "2026-09-12-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/china/eu-dropped-aluminium-scrap-duty-plan-over-india-concerns-sources-say-2026-09-11",
+      "title": "EU、アルミスクラップ輸出15%関税案を撤回—インドFTAに配慮",
+      "topic_key": "eu-aluminium-scrap-duty-plan-dropped-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-12T06:00:00+09:00",
+      "issue": "2026-09-12-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/oil-tanker-rates-hit-record-highs-following-iran-us-shipping-attacks-2026-09-11",
+      "title": "大型原油タンカー運賃が過去最高—中東発中国向け約11.5ドル",
+      "topic_key": "oil-tanker-freight-rates-record-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-12T06:00:00+09:00",
+      "issue": "2026-09-12-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/finance/uk-backed-debt-coalition-push-wider-use-payment-pause-clauses-2026-09-11",
+      "title": "英支援の債務連合、危機時の支払い猶予条項普及を提言",
+      "topic_key": "uk-debt-pause-clauses-coalition-20260911",
+      "source": "ロンドン連合 / Reuters",
+      "first_seen": "2026-09-12T06:00:00+09:00",
+      "issue": "2026-09-12-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/new-fortress-completes-restructuring-cuts-debt-700-million-2026-09-11",
+      "title": "New Fortress、再編完了で債務を57億ドルから7億ドルへ圧縮",
+      "topic_key": "new-fortress-restructuring-debt-cut-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-12T06:00:00+09:00",
+      "issue": "2026-09-12-0600"
     }
   ]
 }

@@ -493,7 +493,7 @@
       "issue_id": "2026-09-11-1200",
       "published_at": "2026-09-11T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-11-1200.html",
       "topics": [
         "japan-august-wholesale-inflation-76-20260911",
         "global-bond-selloff-oil-yields-20260911",
@@ -501,6 +501,20 @@
         "enflame-shanghai-ipo-surge-20260911",
         "nasdaq-kraken-payward-tokenized-equities-20260910",
         "openai-chatgpt-financial-services-launch-20260910"
+      ]
+    },
+    {
+      "issue_id": "2026-09-11-2200",
+      "published_at": "2026-09-11T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-august-cpi-34-energy-20260911",
+        "iea-2026-oil-supply-decline-57m-bpd-20260911",
+        "rbi-open-market-bond-sale-1tn-rupees-20260911",
+        "kroger-2026-sales-outlook-cut-20260911",
+        "hong-kong-fundraising-835bn-revival-20260911",
+        "zai-hong-kong-5bn-financing-20260911"
       ]
     }
   ]

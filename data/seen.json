@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/asia-pacific/japan-us-remain-aligned-fx-policy-foster-stable-markets-katayama-says-2026-09-08",
-      "title": "日米の為替政策、協調介入時から方針不変—片山財務相",
-      "topic_key": "japan-us-fx-policy-alignment-20260908",
-      "source": "財務省 / Reuters",
-      "first_seen": "2026-09-08T22:00:00+09:00",
-      "issue": "2026-09-08-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/japanese-investors-favoured-foreign-equities-over-bonds-august-2026-09-08",
-      "title": "日本の投資家、8月は海外株を1.3兆円買い越し",
-      "topic_key": "japan-august-overseas-securities-flows-20260908",
-      "source": "Reuters / 財務省",
-      "first_seen": "2026-09-08T22:00:00+09:00",
-      "issue": "2026-09-08-2200"
-    },
-    {
-      "url_normalized": "reuters.com/legal/transactional/ge-aerospace-buy-castings-maker-cpp-nearly-12-billion-2026-09-08",
-      "title": "GE Aerospace、航空部品のCPPを117.5億ドルで買収へ",
-      "topic_key": "ge-aerospace-cpp-acquisition-20260908",
-      "source": "GE Aerospace / Reuters / WSJ",
-      "first_seen": "2026-09-08T22:00:00+09:00",
-      "issue": "2026-09-08-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/uk-sells-30-year-debt-record-yield-showing-pressure-public-finances-2026-09-08",
-      "title": "英国、30年債を過去最高の5.8168%で発行",
-      "topic_key": "uk-30-year-gilt-record-yield-20260908",
-      "source": "UK DMO / Reuters",
-      "first_seen": "2026-09-08T22:00:00+09:00",
-      "issue": "2026-09-08-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/retail-consumer/amazon-hires-banks-first-ever-sterling-bond-sale-2026-09-08",
-      "title": "Amazon、初の英ポンド建て社債発行を準備",
-      "topic_key": "amazon-first-sterling-bond-sale-20260908",
-      "source": "Reuters",
-      "first_seen": "2026-09-08T22:00:00+09:00",
-      "issue": "2026-09-08-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/novartis-announces-trial-setback-del-desiran-drug-2026-09-08",
-      "title": "Novartisの筋疾患薬、後期試験で主要評価項目を達成せず",
-      "topic_key": "novartis-del-desiran-trial-setback-20260908",
-      "source": "Novartis / Reuters",
-      "first_seen": "2026-09-08T22:00:00+09:00",
-      "issue": "2026-09-08-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/hsbc-lifts-sp-500s-year-end-target-8100-earnings-strength-2026-09-08",
-      "title": "HSBC、S&P 500の年末目標を8,100へ引き上げ",
-      "topic_key": "hsbc-sp500-year-end-target-8100-20260908",
-      "source": "Reuters",
-      "first_seen": "2026-09-08T22:00:00+09:00",
-      "issue": "2026-09-08-2200"
-    },
-    {
       "url_normalized": "reuters.com/business/consumers-more-worried-about-personal-finances-jobs-new-york-fed-report-shows-2026-09-08",
       "title": "米消費者の雇用不安が悪化、失業率上昇予想は2020年以来の高水準",
       "topic_key": "us-consumer-expectations-jobs-inflation-20260908",
@@ -423,6 +367,54 @@
       "source": "Reuters",
       "first_seen": "2026-09-11T12:00:00+09:00",
       "issue": "2026-09-11-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/us/us-consumer-inflation-picks-up-august-2026-09-11",
+      "title": "米8月CPI、前月比0.4%上昇—エネルギー高が押し上げ",
+      "topic_key": "us-august-cpi-34-energy-20260911",
+      "source": "米労働統計局 / Reuters",
+      "first_seen": "2026-09-11T22:00:00+09:00",
+      "issue": "2026-09-11-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/global-2026-oil-supply-gap-deepen-delayed-return-normal-gulf-flows-iea-says-2026-09-11",
+      "title": "IEA、2026年の世界石油供給は日量570万バレル減と予測",
+      "topic_key": "iea-2026-oil-supply-decline-57m-bpd-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T22:00:00+09:00",
+      "issue": "2026-09-11-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/india/india-cenbank-announces-open-market-sale-bonds-withdraw-liquidity-2026-09-11",
+      "title": "インド中銀、1兆ルピーの国債売却へ—2年ぶり資金吸収",
+      "topic_key": "rbi-open-market-bond-sale-1tn-rupees-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T22:00:00+09:00",
+      "issue": "2026-09-11-2200"
+    },
+    {
+      "url_normalized": "reuters.com/business/retail-consumer/kroger-cuts-annual-sales-forecast-2026-09-11",
+      "title": "Kroger、通期既存店売上見通しを0.2〜0.8%増へ下方修正",
+      "topic_key": "kroger-2026-sales-outlook-cut-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T22:00:00+09:00",
+      "issue": "2026-09-11-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/hong-kong-draws-back-talent-ipo-boom-fuels-financial-hubs-revival-2026-09-11",
+      "title": "香港の資金調達額、1〜8月に835億ドル—前年比76%増",
+      "topic_key": "hong-kong-fundraising-835bn-revival-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T22:00:00+09:00",
+      "issue": "2026-09-11-2200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/china-ai-developer-zai-launches-5-billion-hong-kong-share-convertible-bond-sales-2026-09-11",
+      "title": "中国Z.AI、香港で総額50億ドル調達へ—株式と転換社債",
+      "topic_key": "zai-hong-kong-5bn-financing-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T22:00:00+09:00",
+      "issue": "2026-09-11-2200"
     }
   ]
 }

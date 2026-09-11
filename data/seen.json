@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/asia-pacific/japan-revises-q2-gdp-up-annualised-14-expansion-2026-09-07",
-      "title": "日本の4〜6月期GDP、年率1.4%増へ上方修正",
-      "topic_key": "japan-q2-gdp-second-estimate-20260908",
-      "source": "Reuters / 内閣府",
-      "first_seen": "2026-09-08T12:00:00+09:00",
-      "issue": "2026-09-08-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/japan-july-real-wages-rise-24-biggest-gain-since-2021-2026-09-07",
-      "title": "日本の7月実質賃金、2.4%増—7カ月連続のプラス",
-      "topic_key": "japan-july-real-wages-20260908",
-      "source": "Reuters / 厚生労働省",
-      "first_seen": "2026-09-08T12:00:00+09:00",
-      "issue": "2026-09-08-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/chinas-exports-up-25-yy-august-imports-surge-282-2026-09-08",
-      "title": "中国の8月輸出25%増、輸入は28.2%増",
-      "topic_key": "china-august-trade-20260908",
-      "source": "Reuters（中国税関データ）",
-      "first_seen": "2026-09-08T12:00:00+09:00",
-      "issue": "2026-09-08-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/australian-consumer-sentiment-slides-under-rates-petrol-pressure-2026-09-08",
-      "title": "豪州の消費者心理、9月は5.2%低下",
-      "topic_key": "australia-september-consumer-sentiment-20260908",
-      "source": "Reuters（Westpac-Melbourne Institute）",
-      "first_seen": "2026-09-08T12:00:00+09:00",
-      "issue": "2026-09-08-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/nvidia-backed-firmus-signs-deal-with-openai-malaysia-data-centre-capacity-2026-09-08",
-      "title": "Firmus、OpenAIとマレーシアのAI計算基盤で複数年契約",
-      "topic_key": "firmus-openai-malaysia-compute-20260908",
-      "source": "Reuters / Firmus",
-      "first_seen": "2026-09-08T12:00:00+09:00",
-      "issue": "2026-09-08-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/oil-rises-risks-prolonged-mideast-conflict-heighten-supply-worries-2026-09-08",
-      "title": "原油上昇、中東の供給不安でWTIは92ドル台",
-      "topic_key": "oil-supply-risks-price-rise-20260908",
-      "source": "Reuters / WSJ",
-      "first_seen": "2026-09-08T12:00:00+09:00",
-      "issue": "2026-09-08-1200"
-    },
-    {
       "url_normalized": "reuters.com/world/asia-pacific/japan-us-remain-aligned-fx-policy-foster-stable-markets-katayama-says-2026-09-08",
       "title": "日米の為替政策、協調介入時から方針不変—片山財務相",
       "topic_key": "japan-us-fx-policy-alignment-20260908",
@@ -423,6 +375,54 @@
       "source": "Reuters / AP",
       "first_seen": "2026-09-11T06:00:00+09:00",
       "issue": "2026-09-11-0600"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/japans-wholesale-inflation-stays-elevated-august-boosts-case-rate-hike-2026-09-11",
+      "title": "日本の8月企業物価、前年比7.6%上昇—日銀利上げ観測を補強",
+      "topic_key": "japan-august-wholesale-inflation-76-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T12:00:00+09:00",
+      "issue": "2026-09-11-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/china/global-markets-corrected-2026-09-11",
+      "title": "原油急騰で世界の債券安加速—米10年債利回り4.9708%",
+      "topic_key": "global-bond-selloff-oil-yields-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T12:00:00+09:00",
+      "issue": "2026-09-11-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/asian-stocks-draw-foreign-buyers-after-nine-month-selloff-2026-09-10",
+      "title": "海外投資家、8月にアジア株47.2億ドル買い越し—9カ月の売り越し終了",
+      "topic_key": "asia-stocks-foreign-inflows-august-20260910",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T12:00:00+09:00",
+      "issue": "2026-09-11-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/tencent-backed-enflame-open-up-188-shanghai-debut-after-912-million-ipo-2026-09-11",
+      "title": "中国AI半導体Enflame、上海初日に約3倍—IPOで61.2億元調達",
+      "topic_key": "enflame-shanghai-ipo-surge-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T12:00:00+09:00",
+      "issue": "2026-09-11-1200"
+    },
+    {
+      "url_normalized": "reuters.com/legal/government/nasdaq-invest-100-million-kraken-parent-deepen-tokenization-push-2026-09-10",
+      "title": "Nasdaq、Kraken親会社へ1億ドル—トークン化株式を2027年投入へ",
+      "topic_key": "nasdaq-kraken-payward-tokenized-equities-20260910",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T12:00:00+09:00",
+      "issue": "2026-09-11-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/openai-launches-chatgpt-financial-services-industry-2026-09-10",
+      "title": "OpenAI、金融機関向けChatGPTを投入—Morgan Stanleyなどと設計",
+      "topic_key": "openai-chatgpt-financial-services-launch-20260910",
+      "source": "Reuters",
+      "first_seen": "2026-09-11T12:00:00+09:00",
+      "issue": "2026-09-11-1200"
     }
   ]
 }

@@ -549,7 +549,7 @@
       "issue_id": "2026-09-12-2200",
       "published_at": "2026-09-12T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-12-2200.html",
       "topics": [
         "brics-new-delhi-declaration-restraint-trade-20260912",
         "us-defense-production-act-refining-capacity-20260911",
@@ -558,6 +558,19 @@
         "italy-2026-growth-one-percent-meloni-20260912",
         "apollo-jj-depuy-synthes-deal-talks-20260911",
         "hdfc-bank-ceo-candidates-rbi-20260912"
+      ]
+    },
+    {
+      "issue_id": "2026-09-13-0600",
+      "published_at": "2026-09-13T06:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "ukraine-attacks-blockade-economic-toll-20260912",
+        "india-china-business-links-trade-imbalance-20260912",
+        "rbi-tata-sons-deregistration-rejected-20260912",
+        "openai-no-2026-ipo-ai-safety-20260912",
+        "tesla-roadster-october-launch-20260912"
       ]
     }
   ]

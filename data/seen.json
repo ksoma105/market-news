@@ -1,45 +1,5 @@
 [
   {
-    "first_seen": "2026-09-10T06:00:00+09:00",
-    "issue": "2026-09-10-0600",
-    "source": "Reuters / The Guardian",
-    "title": "米財務省、長期国債を最大60億ドル買い戻しへ",
-    "topic_key": "us-treasury-6b-buyback-20260909",
-    "url_normalized": "reuters.com/world/us-treasury-buy-up-6-billion-sept-10-buyback-operation-2026-09-09"
-  },
-  {
-    "first_seen": "2026-09-10T06:00:00+09:00",
-    "issue": "2026-09-10-0600",
-    "source": "Reuters / AP",
-    "title": "Apple、初の折りたたみiPhone「Duo」を1,999ドルで投入",
-    "topic_key": "apple-iphone-duo-launch-20260909",
-    "url_normalized": "reuters.com/technology/foldable-iphone-pricier-18-pro-unveiled-apples-first-event-under-ternus-2026-09-09"
-  },
-  {
-    "first_seen": "2026-09-10T06:00:00+09:00",
-    "issue": "2026-09-10-0600",
-    "source": "Reuters / The Guardian",
-    "title": "EU、公共調達を「価格偏重」から転換—欧州製を優遇可能に",
-    "topic_key": "eu-public-procurement-reform-20260909",
-    "url_normalized": "reuters.com/world/china/eu-proposes-simpler-public-tender-rules-buy-european-criteria-cut-foreign-2026-09-09"
-  },
-  {
-    "first_seen": "2026-09-10T06:00:00+09:00",
-    "issue": "2026-09-10-0600",
-    "source": "Reuters",
-    "title": "ロサンゼルス港、6〜8月の取扱量が過去最高290万TEU",
-    "topic_key": "port-los-angeles-three-month-record-20260909",
-    "url_normalized": "reuters.com/business/busiest-us-seaport-set-new-three-month-volume-record-after-early-holiday-import-2026-09-09"
-  },
-  {
-    "first_seen": "2026-09-10T06:00:00+09:00",
-    "issue": "2026-09-10-0600",
-    "source": "IMF / Reuters",
-    "title": "IMF、アンゴラに財政再建と為替柔軟化を要請",
-    "topic_key": "imf-angola-pfa-reforms-20260909",
-    "url_normalized": "imf.org/en/news/articles/2026/09/09/pr26286-angola-imf-staff-completes-post-financing-assessment-mission"
-  },
-  {
     "first_seen": "2026-09-10T12:00:00+09:00",
     "issue": "2026-09-10-1200",
     "source": "Reuters",
@@ -438,5 +398,45 @@
     "source": "Reuters",
     "first_seen": "2026-09-12T22:00:00+09:00",
     "issue": "2026-09-12-2200"
+  },
+  {
+    "first_seen": "2026-09-13T06:00:00+09:00",
+    "issue": "2026-09-13-0600",
+    "source": "Reuters",
+    "title": "ウクライナ、攻撃・港湾封鎖の経済損失はGDP比1.5ポイント",
+    "topic_key": "ukraine-attacks-blockade-economic-toll-20260912",
+    "url_normalized": "reuters.com/world/ukraine-braces-harsh-winter-russian-attacks-hit-economy-2026-09-12"
+  },
+  {
+    "first_seen": "2026-09-13T06:00:00+09:00",
+    "issue": "2026-09-13-0600",
+    "source": "Reuters",
+    "title": "印中首脳、経済関係の再構築へ—貿易不均衡と市場アクセスを協議",
+    "topic_key": "india-china-business-links-trade-imbalance-20260912",
+    "url_normalized": "reuters.com/world/china/chinas-xi-lands-delhi-brics-summit-indian-tv-channels-report-2026-09-12"
+  },
+  {
+    "first_seen": "2026-09-13T06:00:00+09:00",
+    "issue": "2026-09-13-0600",
+    "source": "Reuters",
+    "title": "インド中銀、Tata Sonsの登録解除を拒否—上場義務に接近",
+    "topic_key": "rbi-tata-sons-deregistration-rejected-20260912",
+    "url_normalized": "reuters.com/world/india/indias-central-bank-rejects-tata-sons-request-avoid-public-listing-sources-say-2026-09-12"
+  },
+  {
+    "first_seen": "2026-09-13T06:00:00+09:00",
+    "issue": "2026-09-13-0600",
+    "source": "Reuters",
+    "title": "OpenAI、2026年のIPOを見送り—AI安全性への対応を優先",
+    "topic_key": "openai-no-2026-ipo-ai-safety-20260912",
+    "url_normalized": "reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12"
+  },
+  {
+    "first_seen": "2026-09-13T06:00:00+09:00",
+    "issue": "2026-09-13-0600",
+    "source": "Reuters",
+    "title": "Tesla、次世代Roadsterを10月1日に発表へ—初公開から約9年",
+    "topic_key": "tesla-roadster-october-launch-20260912",
+    "url_normalized": "reuters.com/business/autos-transportation/tesla-signals-oct-1-launch-long-delayed-roadster-2026-09-12"
   }
 ]

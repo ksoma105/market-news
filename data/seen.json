@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "url_normalized": "reuters.com/world/asia-pacific/japan-manufacturers-mood-hits-near-5-year-high-semiconductor-demand-2026-09-08",
-      "title": "日本の製造業景況感、約5年ぶり高水準—半導体需要が追い風",
-      "topic_key": "japan-reuters-tankan-september-20260909",
-      "source": "Reuters",
-      "first_seen": "2026-09-09T12:00:00+09:00",
-      "issue": "2026-09-09-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/chinas-producer-inflation-regains-momentum-august-2026-09-09",
-      "title": "中国8月PPI、前年比3.8%上昇—エネルギー高で伸び加速",
-      "topic_key": "china-august-cpi-ppi-20260909",
-      "source": "中国国家統計局 / Reuters",
-      "first_seen": "2026-09-09T12:00:00+09:00",
-      "issue": "2026-09-09-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/india/indian-rupee-under-pressure-with-brent-near-100-testing-rbi-defence-2026-09-09",
-      "title": "インドルピー、1ドル94.8台—原油100ドル接近で下押し",
-      "topic_key": "india-rupee-oil-pressure-20260909",
-      "source": "Reuters",
-      "first_seen": "2026-09-09T12:00:00+09:00",
-      "issue": "2026-09-09-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/new-zealand-allow-wealthy-migrants-build-rental-housing-2026-09-08",
-      "title": "NZ、富裕層ビザ資金を賃貸住宅ファンドに解禁へ",
-      "topic_key": "new-zealand-investor-visa-build-to-rent-20260909",
-      "source": "Reuters / interest.co.nz",
-      "first_seen": "2026-09-09T12:00:00+09:00",
-      "issue": "2026-09-09-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/americas/mexico-sees-up-25-economic-growth-2027-narrower-deficit-2027-budget-draft-2026-09-09",
-      "title": "メキシコ、2027年成長率1.5〜2.5%を想定—財政赤字3.9%へ",
-      "topic_key": "mexico-2027-budget-growth-deficit-20260909",
-      "source": "Reuters / El País",
-      "first_seen": "2026-09-09T12:00:00+09:00",
-      "issue": "2026-09-09-1200"
-    },
-    {
       "url_normalized": "reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09",
       "title": "Google、フィンランドのAI基盤へ130億ユーロ—原発電力を長期調達",
       "topic_key": "google-finland-ai-nuclear-investment-20260909",
@@ -415,6 +375,54 @@
       "source": "Reuters",
       "first_seen": "2026-09-12T06:00:00+09:00",
       "issue": "2026-09-12-0600"
+    },
+    {
+      "url_normalized": "reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12",
+      "title": "サウジ、東西石油パイプラインを停止—世界供給の4〜5%規模",
+      "topic_key": "saudi-east-west-pipeline-shutdown-20260912",
+      "source": "Reuters",
+      "first_seen": "2026-09-12T12:00:00+09:00",
+      "issue": "2026-09-12-1200"
+    },
+    {
+      "url_normalized": "reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11",
+      "title": "Nvidia、Anthropicの大型IPOに最大100億ドル出資を検討",
+      "topic_key": "nvidia-anthropic-ipo-anchor-investment-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-12T12:00:00+09:00",
+      "issue": "2026-09-12-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/us/trump-says-he-would-be-ok-with-china-building-cars-us-2026-09-12",
+      "title": "トランプ氏、中国自動車メーカーの米国内生産を容認する考え",
+      "topic_key": "trump-chinese-automakers-us-plants-20260912",
+      "source": "Reuters",
+      "first_seen": "2026-09-12T12:00:00+09:00",
+      "issue": "2026-09-12-1200"
+    },
+    {
+      "url_normalized": "reuters.com/business/world-at-work/boeing-engineers-union-reach-tentative-contract-agreement-2026-09-11",
+      "title": "Boeingと技術者組合が暫定合意—初年度10%賃上げ",
+      "topic_key": "boeing-speea-tentative-contract-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-12T12:00:00+09:00",
+      "issue": "2026-09-12-1200"
+    },
+    {
+      "url_normalized": "reuters.com/legal/transactional/jpmorgan-cut-off-situational-awareness-lending-after-ai-losses-ft-reports-2026-09-11",
+      "title": "JPMorgan、AI集中ファンドへの融資を停止—7月に資産67%減",
+      "topic_key": "jpmorgan-situational-awareness-lending-cut-20260911",
+      "source": "Reuters",
+      "first_seen": "2026-09-12T12:00:00+09:00",
+      "issue": "2026-09-12-1200"
+    },
+    {
+      "url_normalized": "reuters.com/world/asia-pacific/australias-optus-apologises-outage-that-disrupted-emergency-calls-2026-09-12",
+      "title": "豪Optusで76分の通信障害—緊急通報にも影響",
+      "topic_key": "optus-outage-emergency-calls-20260912",
+      "source": "Reuters",
+      "first_seen": "2026-09-12T12:00:00+09:00",
+      "issue": "2026-09-12-1200"
     }
   ]
 }

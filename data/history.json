@@ -521,7 +521,7 @@
       "issue_id": "2026-09-12-0600",
       "published_at": "2026-09-12T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-12-0600.html",
       "topics": [
         "us-senate-ai-duty-of-care-proposal-20260911",
         "us-solar-import-duties-india-indonesia-laos-20260911",
@@ -529,6 +529,20 @@
         "oil-tanker-freight-rates-record-20260911",
         "uk-debt-pause-clauses-coalition-20260911",
         "new-fortress-restructuring-debt-cut-20260911"
+      ]
+    },
+    {
+      "issue_id": "2026-09-12-1200",
+      "published_at": "2026-09-12T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "saudi-east-west-pipeline-shutdown-20260912",
+        "nvidia-anthropic-ipo-anchor-investment-20260911",
+        "trump-chinese-automakers-us-plants-20260912",
+        "boeing-speea-tentative-contract-20260911",
+        "jpmorgan-situational-awareness-lending-cut-20260911",
+        "optus-outage-emergency-calls-20260912"
       ]
     }
   ]

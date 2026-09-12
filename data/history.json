@@ -1,10 +1,10 @@
 {
   "issues": [
     {
+      "html_path": "docs/index.html",
       "issue_id": "2026-05-24-1200",
       "published_at": "2026-05-24T12:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
       "topics": [
         "nikkei-64000-may2026",
         "boj-forex-intervention-may2026",
@@ -16,10 +16,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-08-29-1200.html",
       "issue_id": "2026-08-29-1200",
       "published_at": "2026-08-29T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/archive/2026-08-29-1200.html",
       "topics": [
         "fed-warsh-jackson-hole-inflation-20260828",
         "tokyo-cpi-august-20260828",
@@ -29,10 +29,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-08-30-0600.html",
       "issue_id": "2026-08-30-0600",
       "published_at": "2026-08-30T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/archive/2026-08-30-0600.html",
       "topics": [
         "cxmt-xiaomi-lpddr6-20260829",
         "bessent-yen-forced-unwinds-20260829",
@@ -40,10 +40,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-08-30-1200.html",
       "issue_id": "2026-08-30-1200",
       "published_at": "2026-08-30T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/archive/2026-08-30-1200.html",
       "topics": [
         "gm-canada-investment-unifor-20260829",
         "banque-misr-uae-fincen-review-20260829",
@@ -51,10 +51,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-08-31-0600.html",
       "issue_id": "2026-08-31-0600",
       "published_at": "2026-08-31T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/archive/2026-08-31-0600.html",
       "topics": [
         "us-strike-iran-larak-launchers-20260830",
         "iceland-rejects-eu-talks-20260830",
@@ -62,10 +62,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-08-31-1200.html",
       "issue_id": "2026-08-31-1200",
       "published_at": "2026-08-31T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/archive/2026-08-31-1200.html",
       "topics": [
         "china-august-pmi-20260831",
         "china-home-sales-reform-developer-shares-20260831",
@@ -73,10 +73,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-08-31-2200.html",
       "issue_id": "2026-08-31-2200",
       "published_at": "2026-08-31T22:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/archive/2026-08-31-2200.html",
       "topics": [
         "nvidia-mediatek-convertible-bonds-20260831",
         "slb-kelvion-data-center-cooling-20260831",
@@ -84,10 +84,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-01-0600.html",
       "issue_id": "2026-09-01-0600",
       "published_at": "2026-09-01T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/archive/2026-09-01-0600.html",
       "topics": [
         "glp-japan-logistics-fund-20260901",
         "india-fpi-august-inflows-20260831",
@@ -95,10 +95,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-01-1200.html",
       "issue_id": "2026-09-01-1200",
       "published_at": "2026-09-01T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/archive/2026-09-01-1200.html",
       "topics": [
         "japan-q2-capex-profits-20260901",
         "global-bond-selloff-oil-20260901",
@@ -108,10 +108,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-01-2200.html",
       "issue_id": "2026-09-01-2200",
       "published_at": "2026-09-01T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/archive/2026-09-01-2200.html",
       "topics": [
         "eurozone-inflation-august-20260901",
         "keppel-tokyo-data-centres-20260901",
@@ -121,10 +121,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-02-0600.html",
       "issue_id": "2026-09-02-0600",
       "published_at": "2026-09-02T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/archive/2026-09-02-0600.html",
       "topics": [
         "us-ism-jolts-20260901",
         "us-construction-spending-july-20260901",
@@ -135,10 +135,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-02-1200.html",
       "issue_id": "2026-09-02-1200",
       "published_at": "2026-09-02T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/archive/2026-09-02-1200.html",
       "topics": [
         "australia-q2-gdp-20260902",
         "boj-takata-rate-hikes-20260902",
@@ -148,10 +148,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-02-2200.html",
       "issue_id": "2026-09-02-2200",
       "published_at": "2026-09-02T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/archive/2026-09-02-2200.html",
       "topics": [
         "us-adp-private-payrolls-20260902",
         "honda-cost-cuts-suppliers-20260902",
@@ -162,10 +162,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-03-0600.html",
       "issue_id": "2026-09-03-0600",
       "published_at": "2026-09-03T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/archive/2026-09-03-0600.html",
       "topics": [
         "canada-rate-hold-hawkish-20260902",
         "uk-bcc-forecast-20260901",
@@ -175,10 +175,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-03-1200.html",
       "issue_id": "2026-09-03-1200",
       "published_at": "2026-09-03T12:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/archive/2026-09-03-1200.html",
       "topics": [
         "japan-services-pmi-20260903",
         "china-services-pmi-20260903",
@@ -190,10 +190,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-03-2200.html",
       "issue_id": "2026-09-03-2200",
       "published_at": "2026-09-03T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/archive/2026-09-03-2200.html",
       "topics": [
         "nvidia-hugging-face-acquisition-20260903",
         "broadcom-q3-ai-chip-outlook-20260902",
@@ -205,10 +205,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-04-0600.html",
       "issue_id": "2026-09-04-0600",
       "published_at": "2026-09-04T06:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/archive/2026-09-04-0600.html",
       "topics": [
         "fed-waller-neutral-rate-treasury-premium-20260903",
         "us-mortgage-rate-671-20260903",
@@ -220,10 +220,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-04-1200.html",
       "issue_id": "2026-09-04-1200",
       "published_at": "2026-09-04T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/archive/2026-09-04-1200.html",
       "topics": [
         "japan-july-household-spending-20260904",
         "japan-fy2027-budget-requests-143t-20260904",
@@ -234,10 +234,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-04-2200.html",
       "issue_id": "2026-09-04-2200",
       "published_at": "2026-09-04T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/archive/2026-09-04-2200.html",
       "topics": [
         "us-august-payrolls-162k-20260904",
         "canada-august-jobs-minus-41700-20260904",
@@ -248,10 +248,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-05-0600.html",
       "issue_id": "2026-09-05-0600",
       "published_at": "2026-09-05T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/archive/2026-09-05-0600.html",
       "topics": [
         "us-equity-fund-outflows-1112b-20260904",
         "xi-us-visit-ceo-delegation-20260904",
@@ -262,10 +262,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-05-1200.html",
       "issue_id": "2026-09-05-1200",
       "published_at": "2026-09-05T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/archive/2026-09-05-1200.html",
       "topics": [
         "norway-fund-us-treasury-cut-proposal-20260904",
         "china-banks-dollar-deposits-treasuries-20260904",
@@ -273,10 +273,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-05-2200.html",
       "issue_id": "2026-09-05-2200",
       "published_at": "2026-09-05T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/archive/2026-09-05-2200.html",
       "topics": [
         "south-korea-exports-record-7094b-20260905",
         "foxconn-august-revenue-ai-outlook-20260905",
@@ -286,10 +286,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-06-0600.html",
       "issue_id": "2026-09-06-0600",
       "published_at": "2026-09-06T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/archive/2026-09-06-0600.html",
       "topics": [
         "us-strikes-iranian-crude-carriers-20260905",
         "greece-four-year-income-plan-35b-euro-20260905",
@@ -297,10 +297,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-06-1200.html",
       "issue_id": "2026-09-06-1200",
       "published_at": "2026-09-06T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/archive/2026-09-06-1200.html",
       "topics": [
         "anak-krakatau-jakarta-flight-disruption-20260906",
         "spire-healthcare-toscafund-takeover-20260905",
@@ -308,30 +308,30 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-06-2200.html",
       "issue_id": "2026-09-06-2200",
       "published_at": "2026-09-06T22:00:00+09:00",
       "topic_count": 2,
-      "html_path": "docs/archive/2026-09-06-2200.html",
       "topics": [
         "china-state-financial-firms-capital-360b-20260906",
         "opec-plus-october-output-hold-20260906"
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-07-0600.html",
       "issue_id": "2026-09-07-0600",
       "published_at": "2026-09-07T06:00:00+09:00",
       "topic_count": 2,
-      "html_path": "docs/archive/2026-09-07-0600.html",
       "topics": [
         "sigma-lithium-grota-cirilo-license-suspension-20260906",
         "essilorluxottica-founder-family-strategy-call-20260906"
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-07-1200.html",
       "issue_id": "2026-09-07-1200",
       "published_at": "2026-09-07T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/archive/2026-09-07-1200.html",
       "topics": [
         "japan-foreign-reserves-record-drop-20260907",
         "global-ship-fuel-shortage-q3-20260907",
@@ -339,10 +339,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-07-2200.html",
       "issue_id": "2026-09-07-2200",
       "published_at": "2026-09-07T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/archive/2026-09-07-2200.html",
       "topics": [
         "rbi-vrrr-liquidity-absorption-20260907",
         "jlr-4000-job-cuts-turnaround-20260907",
@@ -352,10 +352,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-08-0600.html",
       "issue_id": "2026-09-08-0600",
       "published_at": "2026-09-08T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/archive/2026-09-08-0600.html",
       "topics": [
         "poste-italiane-tim-offer-increase-20260907",
         "trump-bombardier-us-sales-threat-20260907",
@@ -365,10 +365,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-08-1200.html",
       "issue_id": "2026-09-08-1200",
       "published_at": "2026-09-08T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/archive/2026-09-08-1200.html",
       "topics": [
         "japan-q2-gdp-second-estimate-20260908",
         "japan-july-real-wages-20260908",
@@ -379,10 +379,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-08-2200.html",
       "issue_id": "2026-09-08-2200",
       "published_at": "2026-09-08T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/archive/2026-09-08-2200.html",
       "topics": [
         "japan-us-fx-policy-alignment-20260908",
         "japan-august-overseas-securities-flows-20260908",
@@ -394,10 +394,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-09-0600.html",
       "issue_id": "2026-09-09-0600",
       "published_at": "2026-09-09T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/archive/2026-09-09-0600.html",
       "topics": [
         "us-consumer-expectations-jobs-inflation-20260908",
         "qualcomm-amazon-ai-chip-deal-20260908",
@@ -408,10 +408,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-09-1200.html",
       "issue_id": "2026-09-09-1200",
       "published_at": "2026-09-09T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/archive/2026-09-09-1200.html",
       "topics": [
         "japan-reuters-tankan-september-20260909",
         "china-august-cpi-ppi-20260909",
@@ -421,10 +421,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-09-2200.html",
       "issue_id": "2026-09-09-2200",
       "published_at": "2026-09-09T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/archive/2026-09-09-2200.html",
       "topics": [
         "google-finland-ai-nuclear-investment-20260909",
         "analog-devices-alif-acquisition-20260909",
@@ -434,10 +434,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-10-0600.html",
       "issue_id": "2026-09-10-0600",
       "published_at": "2026-09-10T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/archive/2026-09-10-0600.html",
       "topics": [
         "us-treasury-6b-buyback-20260909",
         "apple-iphone-duo-launch-20260909",
@@ -447,10 +447,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-10-1200.html",
       "issue_id": "2026-09-10-1200",
       "published_at": "2026-09-10T12:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/archive/2026-09-10-1200.html",
       "topics": [
         "boj-masu-rapid-hike-warning-20260910",
         "japan-firms-support-takaichi-policies-20260910",
@@ -462,10 +462,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-10-2200.html",
       "issue_id": "2026-09-10-2200",
       "published_at": "2026-09-10T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/archive/2026-09-10-2200.html",
       "topics": [
         "ecb-rate-hike-250-september-20260910",
         "us-august-ppi-54-20260910",
@@ -477,10 +477,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-11-0600.html",
       "issue_id": "2026-09-11-0600",
       "published_at": "2026-09-11T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/archive/2026-09-11-0600.html",
       "topics": [
         "fitch-japan-budget-fiscal-balance-20260910",
         "esma-abrupt-market-correction-risk-20260910",
@@ -490,10 +490,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-11-1200.html",
       "issue_id": "2026-09-11-1200",
       "published_at": "2026-09-11T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/archive/2026-09-11-1200.html",
       "topics": [
         "japan-august-wholesale-inflation-76-20260911",
         "global-bond-selloff-oil-yields-20260911",
@@ -504,10 +504,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-11-2200.html",
       "issue_id": "2026-09-11-2200",
       "published_at": "2026-09-11T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/archive/2026-09-11-2200.html",
       "topics": [
         "us-august-cpi-34-energy-20260911",
         "iea-2026-oil-supply-decline-57m-bpd-20260911",
@@ -518,10 +518,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-12-0600.html",
       "issue_id": "2026-09-12-0600",
       "published_at": "2026-09-12T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/archive/2026-09-12-0600.html",
       "topics": [
         "us-senate-ai-duty-of-care-proposal-20260911",
         "us-solar-import-duties-india-indonesia-laos-20260911",
@@ -532,10 +532,10 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-12-1200.html",
       "issue_id": "2026-09-12-1200",
       "published_at": "2026-09-12T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
       "topics": [
         "saudi-east-west-pipeline-shutdown-20260912",
         "nvidia-anthropic-ipo-anchor-investment-20260911",
@@ -543,6 +543,21 @@
         "boeing-speea-tentative-contract-20260911",
         "jpmorgan-situational-awareness-lending-cut-20260911",
         "optus-outage-emergency-calls-20260912"
+      ]
+    },
+    {
+      "issue_id": "2026-09-12-2200",
+      "published_at": "2026-09-12T22:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "brics-new-delhi-declaration-restraint-trade-20260912",
+        "us-defense-production-act-refining-capacity-20260911",
+        "canada-us-products-boycott-food-supply-20260912",
+        "sebi-derivatives-expiry-settlement-review-20260912",
+        "italy-2026-growth-one-percent-meloni-20260912",
+        "apollo-jj-depuy-synthes-deal-talks-20260911",
+        "hdfc-bank-ceo-candidates-rbi-20260912"
       ]
     }
   ]

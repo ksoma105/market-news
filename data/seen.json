@@ -1,428 +1,442 @@
-{
-  "items": [
-    {
-      "url_normalized": "reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09",
-      "title": "Google、フィンランドのAI基盤へ130億ユーロ—原発電力を長期調達",
-      "topic_key": "google-finland-ai-nuclear-investment-20260909",
-      "source": "Reuters / World Nuclear News",
-      "first_seen": "2026-09-09T22:00:00+09:00",
-      "issue": "2026-09-09-2200"
-    },
-    {
-      "url_normalized": "reuters.com/technology/analog-devices-buy-alif-semiconductor-135-billion-2026-09-09",
-      "title": "Analog Devices、Alifを13.5億ドルで買収へ—エッジAIを強化",
-      "topic_key": "analog-devices-alif-acquisition-20260909",
-      "source": "Analog Devices / Reuters",
-      "first_seen": "2026-09-09T22:00:00+09:00",
-      "issue": "2026-09-09-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/india/adani-enterprises-sell-up-554-stake-airport-unit-temasek-blackrock-2026-09-09",
-      "title": "Adani空港部門、10億ドルを調達—投資家持分は5.54%",
-      "topic_key": "adani-airports-equity-raise-20260909",
-      "source": "Reuters / The Indian Express",
-      "first_seen": "2026-09-09T22:00:00+09:00",
-      "issue": "2026-09-09-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/americas/argentinas-corn-exports-set-record-war-ukraine-european-heat-wave-reshape-trade-2026-09-09",
-      "title": "アルゼンチンのトウモロコシ輸出、8〜9月に過去最高1,000万トンへ",
-      "topic_key": "argentina-corn-record-exports-20260909",
-      "source": "Reuters / 米農務省",
-      "first_seen": "2026-09-09T22:00:00+09:00",
-      "issue": "2026-09-09-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/france-reduce-corporate-tax-surcharge-ease-employee-buyouts-2027-budget-pm-says-2026-09-09",
-      "title": "フランス、2027年予算で大企業付加税を軽減へ—新税は導入せず",
-      "topic_key": "france-2027-corporate-tax-budget-20260909",
-      "source": "Reuters",
-      "first_seen": "2026-09-09T22:00:00+09:00",
-      "issue": "2026-09-09-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/us-treasury-buy-up-6-billion-sept-10-buyback-operation-2026-09-09",
-      "title": "米財務省、長期国債を最大60億ドル買い戻しへ",
-      "topic_key": "us-treasury-6b-buyback-20260909",
-      "source": "Reuters / The Guardian",
-      "first_seen": "2026-09-10T06:00:00+09:00",
-      "issue": "2026-09-10-0600"
-    },
-    {
-      "url_normalized": "reuters.com/technology/foldable-iphone-pricier-18-pro-unveiled-apples-first-event-under-ternus-2026-09-09",
-      "title": "Apple、初の折りたたみiPhone「Duo」を1,999ドルで投入",
-      "topic_key": "apple-iphone-duo-launch-20260909",
-      "source": "Reuters / AP",
-      "first_seen": "2026-09-10T06:00:00+09:00",
-      "issue": "2026-09-10-0600"
-    },
-    {
-      "url_normalized": "reuters.com/world/china/eu-proposes-simpler-public-tender-rules-buy-european-criteria-cut-foreign-2026-09-09",
-      "title": "EU、公共調達を「価格偏重」から転換—欧州製を優遇可能に",
-      "topic_key": "eu-public-procurement-reform-20260909",
-      "source": "Reuters / The Guardian",
-      "first_seen": "2026-09-10T06:00:00+09:00",
-      "issue": "2026-09-10-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/busiest-us-seaport-set-new-three-month-volume-record-after-early-holiday-import-2026-09-09",
-      "title": "ロサンゼルス港、6〜8月の取扱量が過去最高290万TEU",
-      "topic_key": "port-los-angeles-three-month-record-20260909",
-      "source": "Reuters",
-      "first_seen": "2026-09-10T06:00:00+09:00",
-      "issue": "2026-09-10-0600"
-    },
-    {
-      "url_normalized": "imf.org/en/news/articles/2026/09/09/pr26286-angola-imf-staff-completes-post-financing-assessment-mission",
-      "title": "IMF、アンゴラに財政再建と為替柔軟化を要請",
-      "topic_key": "imf-angola-pfa-reforms-20260909",
-      "source": "IMF / Reuters",
-      "first_seen": "2026-09-10T06:00:00+09:00",
-      "issue": "2026-09-10-0600"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/boj-may-be-forced-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-2026-09-10",
-      "title": "日銀・益委員、インフレ加速なら「急速な利上げ」も",
-      "topic_key": "boj-masu-rapid-hike-warning-20260910",
-      "source": "Reuters",
-      "first_seen": "2026-09-10T12:00:00+09:00",
-      "issue": "2026-09-10-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/two-thirds-japan-firms-support-pm-takaichis-economic-policies-2026-09-09",
-      "title": "国内企業の68%、高市政権の経済政策を支持—Reuters調査",
-      "topic_key": "japan-firms-support-takaichi-policies-20260910",
-      "source": "Reuters",
-      "first_seen": "2026-09-10T12:00:00+09:00",
-      "issue": "2026-09-10-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10",
-      "title": "Brent原油、100ドル台を維持—海上攻撃の激化で供給懸念",
-      "topic_key": "brent-above-100-tanker-attacks-20260910",
-      "source": "Reuters / AP",
-      "first_seen": "2026-09-10T12:00:00+09:00",
-      "issue": "2026-09-10-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/eus-russian-energy-exit-faltering-auditors-say-2026-09-09",
-      "title": "EUのロシア産エネルギー脱却、投資実行に遅れ—監査院",
-      "topic_key": "eu-russian-energy-exit-audit-20260909",
-      "source": "Reuters",
-      "first_seen": "2026-09-10T12:00:00+09:00",
-      "issue": "2026-09-10-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/germany-calls-hundreds-billions-euros-cuts-to-eu-budget-2026-09-09",
-      "title": "ドイツ、EU長期予算に数千億ユーロの削減を要求",
-      "topic_key": "germany-eu-budget-cuts-20260909",
-      "source": "Reuters",
-      "first_seen": "2026-09-10T12:00:00+09:00",
-      "issue": "2026-09-10-1200"
-    },
-    {
-      "url_normalized": "reuters.com/technology/payment-firms-visa-mastercard-ant-international-team-up-ai-agent-trust-framework-2026-09-10",
-      "title": "Visa・Mastercard・Ant、AI購入代理の本人確認標準を共同開発",
-      "topic_key": "visa-mastercard-ant-agent-trust-framework-20260910",
-      "source": "Reuters",
-      "first_seen": "2026-09-10T12:00:00+09:00",
-      "issue": "2026-09-10-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/india/dutch-fintech-adyen-sees-long-term-india-opportunity-plans-local-expansion-2026-09-09",
-      "title": "Adyen、インド事業を拡大—人員は2023年比10倍の120人",
-      "topic_key": "adyen-india-expansion-20260909",
-      "source": "Reuters",
-      "first_seen": "2026-09-10T12:00:00+09:00",
-      "issue": "2026-09-10-1200"
-    },
-    {
-      "url_normalized": "ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
-      "title": "ECB、政策金利を0.25ポイント引き上げ—預金金利2.50%",
-      "topic_key": "ecb-rate-hike-250-september-20260910",
-      "source": "ECB / AP",
-      "first_seen": "2026-09-10T22:00:00+09:00",
-      "issue": "2026-09-10-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/sp-500-dow-futures-attempt-recovery-ahead-inflation-report-2026-09-10",
-      "title": "米卸売物価、8月は前年比5.4%上昇—市場予想を上回る",
-      "topic_key": "us-august-ppi-54-20260910",
-      "source": "Reuters / AP",
-      "first_seen": "2026-09-10T22:00:00+09:00",
-      "issue": "2026-09-10-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/us/us-weekly-jobless-claims-edge-down-layoffs-remain-low-2026-09-10",
-      "title": "米新規失業保険申請、20.6万件に減少—解雇は低水準",
-      "topic_key": "us-jobless-claims-206k-20260910",
-      "source": "Reuters / AP",
-      "first_seen": "2026-09-10T22:00:00+09:00",
-      "issue": "2026-09-10-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/china/eu-countries-seek-import-curbs-chemicals-plastics-sources-say-2026-09-10",
-      "title": "EU主要国、化学品・プラスチックの輸入制限を検討",
-      "topic_key": "eu-chemicals-plastics-safeguards-20260910",
-      "source": "Reuters",
-      "first_seen": "2026-09-10T22:00:00+09:00",
-      "issue": "2026-09-10-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10",
-      "title": "中国AI半導体が値上げ—HBM不足でHuaweiは最大50%高",
-      "topic_key": "china-ai-chip-price-hikes-hbm-20260910",
-      "source": "Reuters",
-      "first_seen": "2026-09-10T22:00:00+09:00",
-      "issue": "2026-09-10-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/nvidia-teams-up-with-australian-partners-build-ai-factory-capacity-2026-09-10",
-      "title": "Nvidia、豪州でAI計算容量を最大2GW増強へ",
-      "topic_key": "nvidia-australia-2gw-ai-capacity-20260910",
-      "source": "Reuters",
-      "first_seen": "2026-09-10T22:00:00+09:00",
-      "issue": "2026-09-10-2200"
-    },
-    {
-      "url_normalized": "reuters.com/legal/transactional/bending-spoons-buy-miro-136-billion-cash-deal-2026-09-10",
-      "title": "Bending Spoons、Miroを13.6億ドルで買収へ",
-      "topic_key": "bending-spoons-miro-deal-20260910",
-      "source": "Reuters",
-      "first_seen": "2026-09-10T22:00:00+09:00",
-      "issue": "2026-09-10-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/fitch-eyes-japan-budget-balance-between-growth-fiscal-discipline-2026-09-10",
-      "title": "Fitch、日本予算の「成長と財政規律の両立」を注視",
-      "topic_key": "fitch-japan-budget-fiscal-balance-20260910",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T06:00:00+09:00",
-      "issue": "2026-09-11-0600"
-    },
-    {
-      "url_normalized": "reuters.com/legal/government/eu-watchdog-flags-risk-abrupt-market-correction-2026-09-10",
-      "title": "ESMA、割高な資産価格と景気悪化の乖離に急落リスクを警告",
-      "topic_key": "esma-abrupt-market-correction-risk-20260910",
-      "source": "Reuters / Financial Times",
-      "first_seen": "2026-09-11T06:00:00+09:00",
-      "issue": "2026-09-11-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/us-average-diesel-prices-cross-6-gallon-first-time-gasbuddy-says-2026-09-10",
-      "title": "米ディーゼル平均価格、初の1ガロン6ドル超え",
-      "topic_key": "us-diesel-average-above-6-20260910",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T06:00:00+09:00",
-      "issue": "2026-09-11-0600"
-    },
-    {
-      "url_normalized": "reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10",
-      "title": "Oracle、AIクラウド需要で売上高30%増—受注残6640億ドル",
-      "topic_key": "oracle-q1-2027-revenue-backlog-capex-20260910",
-      "source": "Reuters / Financial Times",
-      "first_seen": "2026-09-11T06:00:00+09:00",
-      "issue": "2026-09-11-0600"
-    },
-    {
-      "url_normalized": "reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10",
-      "title": "Anthropic、ロシア系・中国系のClaude悪用を遮断",
-      "topic_key": "anthropic-claude-threat-campaigns-20260910",
-      "source": "Reuters / AP",
-      "first_seen": "2026-09-11T06:00:00+09:00",
-      "issue": "2026-09-11-0600"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/japans-wholesale-inflation-stays-elevated-august-boosts-case-rate-hike-2026-09-11",
-      "title": "日本の8月企業物価、前年比7.6%上昇—日銀利上げ観測を補強",
-      "topic_key": "japan-august-wholesale-inflation-76-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T12:00:00+09:00",
-      "issue": "2026-09-11-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/china/global-markets-corrected-2026-09-11",
-      "title": "原油急騰で世界の債券安加速—米10年債利回り4.9708%",
-      "topic_key": "global-bond-selloff-oil-yields-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T12:00:00+09:00",
-      "issue": "2026-09-11-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/asian-stocks-draw-foreign-buyers-after-nine-month-selloff-2026-09-10",
-      "title": "海外投資家、8月にアジア株47.2億ドル買い越し—9カ月の売り越し終了",
-      "topic_key": "asia-stocks-foreign-inflows-august-20260910",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T12:00:00+09:00",
-      "issue": "2026-09-11-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/tencent-backed-enflame-open-up-188-shanghai-debut-after-912-million-ipo-2026-09-11",
-      "title": "中国AI半導体Enflame、上海初日に約3倍—IPOで61.2億元調達",
-      "topic_key": "enflame-shanghai-ipo-surge-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T12:00:00+09:00",
-      "issue": "2026-09-11-1200"
-    },
-    {
-      "url_normalized": "reuters.com/legal/government/nasdaq-invest-100-million-kraken-parent-deepen-tokenization-push-2026-09-10",
-      "title": "Nasdaq、Kraken親会社へ1億ドル—トークン化株式を2027年投入へ",
-      "topic_key": "nasdaq-kraken-payward-tokenized-equities-20260910",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T12:00:00+09:00",
-      "issue": "2026-09-11-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/openai-launches-chatgpt-financial-services-industry-2026-09-10",
-      "title": "OpenAI、金融機関向けChatGPTを投入—Morgan Stanleyなどと設計",
-      "topic_key": "openai-chatgpt-financial-services-launch-20260910",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T12:00:00+09:00",
-      "issue": "2026-09-11-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/us/us-consumer-inflation-picks-up-august-2026-09-11",
-      "title": "米8月CPI、前月比0.4%上昇—エネルギー高が押し上げ",
-      "topic_key": "us-august-cpi-34-energy-20260911",
-      "source": "米労働統計局 / Reuters",
-      "first_seen": "2026-09-11T22:00:00+09:00",
-      "issue": "2026-09-11-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/global-2026-oil-supply-gap-deepen-delayed-return-normal-gulf-flows-iea-says-2026-09-11",
-      "title": "IEA、2026年の世界石油供給は日量570万バレル減と予測",
-      "topic_key": "iea-2026-oil-supply-decline-57m-bpd-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T22:00:00+09:00",
-      "issue": "2026-09-11-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/india/india-cenbank-announces-open-market-sale-bonds-withdraw-liquidity-2026-09-11",
-      "title": "インド中銀、1兆ルピーの国債売却へ—2年ぶり資金吸収",
-      "topic_key": "rbi-open-market-bond-sale-1tn-rupees-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T22:00:00+09:00",
-      "issue": "2026-09-11-2200"
-    },
-    {
-      "url_normalized": "reuters.com/business/retail-consumer/kroger-cuts-annual-sales-forecast-2026-09-11",
-      "title": "Kroger、通期既存店売上見通しを0.2〜0.8%増へ下方修正",
-      "topic_key": "kroger-2026-sales-outlook-cut-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T22:00:00+09:00",
-      "issue": "2026-09-11-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/hong-kong-draws-back-talent-ipo-boom-fuels-financial-hubs-revival-2026-09-11",
-      "title": "香港の資金調達額、1〜8月に835億ドル—前年比76%増",
-      "topic_key": "hong-kong-fundraising-835bn-revival-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T22:00:00+09:00",
-      "issue": "2026-09-11-2200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/china-ai-developer-zai-launches-5-billion-hong-kong-share-convertible-bond-sales-2026-09-11",
-      "title": "中国Z.AI、香港で総額50億ドル調達へ—株式と転換社債",
-      "topic_key": "zai-hong-kong-5bn-financing-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-11T22:00:00+09:00",
-      "issue": "2026-09-11-2200"
-    },
-    {
-      "url_normalized": "reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11",
-      "title": "米上院、最先端AIに「注意義務」案—政府に公開停止権限も",
-      "topic_key": "us-senate-ai-duty-of-care-proposal-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-12T06:00:00+09:00",
-      "issue": "2026-09-12-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/us-commerce-department-finalizes-steep-duties-solar-imports-india-indonesia-laos-2026-09-11",
-      "title": "米商務省、印・尼・ラオス産太陽光製品への高率関税を最終決定",
-      "topic_key": "us-solar-import-duties-india-indonesia-laos-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-12T06:00:00+09:00",
-      "issue": "2026-09-12-0600"
-    },
-    {
-      "url_normalized": "reuters.com/world/china/eu-dropped-aluminium-scrap-duty-plan-over-india-concerns-sources-say-2026-09-11",
-      "title": "EU、アルミスクラップ輸出15%関税案を撤回—インドFTAに配慮",
-      "topic_key": "eu-aluminium-scrap-duty-plan-dropped-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-12T06:00:00+09:00",
-      "issue": "2026-09-12-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/oil-tanker-rates-hit-record-highs-following-iran-us-shipping-attacks-2026-09-11",
-      "title": "大型原油タンカー運賃が過去最高—中東発中国向け約11.5ドル",
-      "topic_key": "oil-tanker-freight-rates-record-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-12T06:00:00+09:00",
-      "issue": "2026-09-12-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/finance/uk-backed-debt-coalition-push-wider-use-payment-pause-clauses-2026-09-11",
-      "title": "英支援の債務連合、危機時の支払い猶予条項普及を提言",
-      "topic_key": "uk-debt-pause-clauses-coalition-20260911",
-      "source": "ロンドン連合 / Reuters",
-      "first_seen": "2026-09-12T06:00:00+09:00",
-      "issue": "2026-09-12-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/new-fortress-completes-restructuring-cuts-debt-700-million-2026-09-11",
-      "title": "New Fortress、再編完了で債務を57億ドルから7億ドルへ圧縮",
-      "topic_key": "new-fortress-restructuring-debt-cut-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-12T06:00:00+09:00",
-      "issue": "2026-09-12-0600"
-    },
-    {
-      "url_normalized": "reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12",
-      "title": "サウジ、東西石油パイプラインを停止—世界供給の4〜5%規模",
-      "topic_key": "saudi-east-west-pipeline-shutdown-20260912",
-      "source": "Reuters",
-      "first_seen": "2026-09-12T12:00:00+09:00",
-      "issue": "2026-09-12-1200"
-    },
-    {
-      "url_normalized": "reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11",
-      "title": "Nvidia、Anthropicの大型IPOに最大100億ドル出資を検討",
-      "topic_key": "nvidia-anthropic-ipo-anchor-investment-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-12T12:00:00+09:00",
-      "issue": "2026-09-12-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/us/trump-says-he-would-be-ok-with-china-building-cars-us-2026-09-12",
-      "title": "トランプ氏、中国自動車メーカーの米国内生産を容認する考え",
-      "topic_key": "trump-chinese-automakers-us-plants-20260912",
-      "source": "Reuters",
-      "first_seen": "2026-09-12T12:00:00+09:00",
-      "issue": "2026-09-12-1200"
-    },
-    {
-      "url_normalized": "reuters.com/business/world-at-work/boeing-engineers-union-reach-tentative-contract-agreement-2026-09-11",
-      "title": "Boeingと技術者組合が暫定合意—初年度10%賃上げ",
-      "topic_key": "boeing-speea-tentative-contract-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-12T12:00:00+09:00",
-      "issue": "2026-09-12-1200"
-    },
-    {
-      "url_normalized": "reuters.com/legal/transactional/jpmorgan-cut-off-situational-awareness-lending-after-ai-losses-ft-reports-2026-09-11",
-      "title": "JPMorgan、AI集中ファンドへの融資を停止—7月に資産67%減",
-      "topic_key": "jpmorgan-situational-awareness-lending-cut-20260911",
-      "source": "Reuters",
-      "first_seen": "2026-09-12T12:00:00+09:00",
-      "issue": "2026-09-12-1200"
-    },
-    {
-      "url_normalized": "reuters.com/world/asia-pacific/australias-optus-apologises-outage-that-disrupted-emergency-calls-2026-09-12",
-      "title": "豪Optusで76分の通信障害—緊急通報にも影響",
-      "topic_key": "optus-outage-emergency-calls-20260912",
-      "source": "Reuters",
-      "first_seen": "2026-09-12T12:00:00+09:00",
-      "issue": "2026-09-12-1200"
-    }
-  ]
-}
+[
+  {
+    "first_seen": "2026-09-10T06:00:00+09:00",
+    "issue": "2026-09-10-0600",
+    "source": "Reuters / The Guardian",
+    "title": "米財務省、長期国債を最大60億ドル買い戻しへ",
+    "topic_key": "us-treasury-6b-buyback-20260909",
+    "url_normalized": "reuters.com/world/us-treasury-buy-up-6-billion-sept-10-buyback-operation-2026-09-09"
+  },
+  {
+    "first_seen": "2026-09-10T06:00:00+09:00",
+    "issue": "2026-09-10-0600",
+    "source": "Reuters / AP",
+    "title": "Apple、初の折りたたみiPhone「Duo」を1,999ドルで投入",
+    "topic_key": "apple-iphone-duo-launch-20260909",
+    "url_normalized": "reuters.com/technology/foldable-iphone-pricier-18-pro-unveiled-apples-first-event-under-ternus-2026-09-09"
+  },
+  {
+    "first_seen": "2026-09-10T06:00:00+09:00",
+    "issue": "2026-09-10-0600",
+    "source": "Reuters / The Guardian",
+    "title": "EU、公共調達を「価格偏重」から転換—欧州製を優遇可能に",
+    "topic_key": "eu-public-procurement-reform-20260909",
+    "url_normalized": "reuters.com/world/china/eu-proposes-simpler-public-tender-rules-buy-european-criteria-cut-foreign-2026-09-09"
+  },
+  {
+    "first_seen": "2026-09-10T06:00:00+09:00",
+    "issue": "2026-09-10-0600",
+    "source": "Reuters",
+    "title": "ロサンゼルス港、6〜8月の取扱量が過去最高290万TEU",
+    "topic_key": "port-los-angeles-three-month-record-20260909",
+    "url_normalized": "reuters.com/business/busiest-us-seaport-set-new-three-month-volume-record-after-early-holiday-import-2026-09-09"
+  },
+  {
+    "first_seen": "2026-09-10T06:00:00+09:00",
+    "issue": "2026-09-10-0600",
+    "source": "IMF / Reuters",
+    "title": "IMF、アンゴラに財政再建と為替柔軟化を要請",
+    "topic_key": "imf-angola-pfa-reforms-20260909",
+    "url_normalized": "imf.org/en/news/articles/2026/09/09/pr26286-angola-imf-staff-completes-post-financing-assessment-mission"
+  },
+  {
+    "first_seen": "2026-09-10T12:00:00+09:00",
+    "issue": "2026-09-10-1200",
+    "source": "Reuters",
+    "title": "日銀・益委員、インフレ加速なら「急速な利上げ」も",
+    "topic_key": "boj-masu-rapid-hike-warning-20260910",
+    "url_normalized": "reuters.com/world/asia-pacific/boj-may-be-forced-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-10T12:00:00+09:00",
+    "issue": "2026-09-10-1200",
+    "source": "Reuters",
+    "title": "国内企業の68%、高市政権の経済政策を支持—Reuters調査",
+    "topic_key": "japan-firms-support-takaichi-policies-20260910",
+    "url_normalized": "reuters.com/world/asia-pacific/two-thirds-japan-firms-support-pm-takaichis-economic-policies-2026-09-09"
+  },
+  {
+    "first_seen": "2026-09-10T12:00:00+09:00",
+    "issue": "2026-09-10-1200",
+    "source": "Reuters / AP",
+    "title": "Brent原油、100ドル台を維持—海上攻撃の激化で供給懸念",
+    "topic_key": "brent-above-100-tanker-attacks-20260910",
+    "url_normalized": "reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-10T12:00:00+09:00",
+    "issue": "2026-09-10-1200",
+    "source": "Reuters",
+    "title": "EUのロシア産エネルギー脱却、投資実行に遅れ—監査院",
+    "topic_key": "eu-russian-energy-exit-audit-20260909",
+    "url_normalized": "reuters.com/business/energy/eus-russian-energy-exit-faltering-auditors-say-2026-09-09"
+  },
+  {
+    "first_seen": "2026-09-10T12:00:00+09:00",
+    "issue": "2026-09-10-1200",
+    "source": "Reuters",
+    "title": "ドイツ、EU長期予算に数千億ユーロの削減を要求",
+    "topic_key": "germany-eu-budget-cuts-20260909",
+    "url_normalized": "reuters.com/business/germany-calls-hundreds-billions-euros-cuts-to-eu-budget-2026-09-09"
+  },
+  {
+    "first_seen": "2026-09-10T12:00:00+09:00",
+    "issue": "2026-09-10-1200",
+    "source": "Reuters",
+    "title": "Visa・Mastercard・Ant、AI購入代理の本人確認標準を共同開発",
+    "topic_key": "visa-mastercard-ant-agent-trust-framework-20260910",
+    "url_normalized": "reuters.com/technology/payment-firms-visa-mastercard-ant-international-team-up-ai-agent-trust-framework-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-10T12:00:00+09:00",
+    "issue": "2026-09-10-1200",
+    "source": "Reuters",
+    "title": "Adyen、インド事業を拡大—人員は2023年比10倍の120人",
+    "topic_key": "adyen-india-expansion-20260909",
+    "url_normalized": "reuters.com/world/india/dutch-fintech-adyen-sees-long-term-india-opportunity-plans-local-expansion-2026-09-09"
+  },
+  {
+    "first_seen": "2026-09-10T22:00:00+09:00",
+    "issue": "2026-09-10-2200",
+    "source": "ECB / AP",
+    "title": "ECB、政策金利を0.25ポイント引き上げ—預金金利2.50%",
+    "topic_key": "ecb-rate-hike-250-september-20260910",
+    "url_normalized": "ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html"
+  },
+  {
+    "first_seen": "2026-09-10T22:00:00+09:00",
+    "issue": "2026-09-10-2200",
+    "source": "Reuters / AP",
+    "title": "米卸売物価、8月は前年比5.4%上昇—市場予想を上回る",
+    "topic_key": "us-august-ppi-54-20260910",
+    "url_normalized": "reuters.com/business/sp-500-dow-futures-attempt-recovery-ahead-inflation-report-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-10T22:00:00+09:00",
+    "issue": "2026-09-10-2200",
+    "source": "Reuters / AP",
+    "title": "米新規失業保険申請、20.6万件に減少—解雇は低水準",
+    "topic_key": "us-jobless-claims-206k-20260910",
+    "url_normalized": "reuters.com/world/us/us-weekly-jobless-claims-edge-down-layoffs-remain-low-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-10T22:00:00+09:00",
+    "issue": "2026-09-10-2200",
+    "source": "Reuters",
+    "title": "EU主要国、化学品・プラスチックの輸入制限を検討",
+    "topic_key": "eu-chemicals-plastics-safeguards-20260910",
+    "url_normalized": "reuters.com/world/china/eu-countries-seek-import-curbs-chemicals-plastics-sources-say-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-10T22:00:00+09:00",
+    "issue": "2026-09-10-2200",
+    "source": "Reuters",
+    "title": "中国AI半導体が値上げ—HBM不足でHuaweiは最大50%高",
+    "topic_key": "china-ai-chip-price-hikes-hbm-20260910",
+    "url_normalized": "reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-10T22:00:00+09:00",
+    "issue": "2026-09-10-2200",
+    "source": "Reuters",
+    "title": "Nvidia、豪州でAI計算容量を最大2GW増強へ",
+    "topic_key": "nvidia-australia-2gw-ai-capacity-20260910",
+    "url_normalized": "reuters.com/world/asia-pacific/nvidia-teams-up-with-australian-partners-build-ai-factory-capacity-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-10T22:00:00+09:00",
+    "issue": "2026-09-10-2200",
+    "source": "Reuters",
+    "title": "Bending Spoons、Miroを13.6億ドルで買収へ",
+    "topic_key": "bending-spoons-miro-deal-20260910",
+    "url_normalized": "reuters.com/legal/transactional/bending-spoons-buy-miro-136-billion-cash-deal-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-11T06:00:00+09:00",
+    "issue": "2026-09-11-0600",
+    "source": "Reuters",
+    "title": "Fitch、日本予算の「成長と財政規律の両立」を注視",
+    "topic_key": "fitch-japan-budget-fiscal-balance-20260910",
+    "url_normalized": "reuters.com/world/asia-pacific/fitch-eyes-japan-budget-balance-between-growth-fiscal-discipline-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-11T06:00:00+09:00",
+    "issue": "2026-09-11-0600",
+    "source": "Reuters / Financial Times",
+    "title": "ESMA、割高な資産価格と景気悪化の乖離に急落リスクを警告",
+    "topic_key": "esma-abrupt-market-correction-risk-20260910",
+    "url_normalized": "reuters.com/legal/government/eu-watchdog-flags-risk-abrupt-market-correction-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-11T06:00:00+09:00",
+    "issue": "2026-09-11-0600",
+    "source": "Reuters",
+    "title": "米ディーゼル平均価格、初の1ガロン6ドル超え",
+    "topic_key": "us-diesel-average-above-6-20260910",
+    "url_normalized": "reuters.com/business/energy/us-average-diesel-prices-cross-6-gallon-first-time-gasbuddy-says-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-11T06:00:00+09:00",
+    "issue": "2026-09-11-0600",
+    "source": "Reuters / Financial Times",
+    "title": "Oracle、AIクラウド需要で売上高30%増—受注残6640億ドル",
+    "topic_key": "oracle-q1-2027-revenue-backlog-capex-20260910",
+    "url_normalized": "reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-11T06:00:00+09:00",
+    "issue": "2026-09-11-0600",
+    "source": "Reuters / AP",
+    "title": "Anthropic、ロシア系・中国系のClaude悪用を遮断",
+    "topic_key": "anthropic-claude-threat-campaigns-20260910",
+    "url_normalized": "reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-11T12:00:00+09:00",
+    "issue": "2026-09-11-1200",
+    "source": "Reuters",
+    "title": "日本の8月企業物価、前年比7.6%上昇—日銀利上げ観測を補強",
+    "topic_key": "japan-august-wholesale-inflation-76-20260911",
+    "url_normalized": "reuters.com/world/asia-pacific/japans-wholesale-inflation-stays-elevated-august-boosts-case-rate-hike-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-11T12:00:00+09:00",
+    "issue": "2026-09-11-1200",
+    "source": "Reuters",
+    "title": "原油急騰で世界の債券安加速—米10年債利回り4.9708%",
+    "topic_key": "global-bond-selloff-oil-yields-20260911",
+    "url_normalized": "reuters.com/world/china/global-markets-corrected-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-11T12:00:00+09:00",
+    "issue": "2026-09-11-1200",
+    "source": "Reuters",
+    "title": "海外投資家、8月にアジア株47.2億ドル買い越し—9カ月の売り越し終了",
+    "topic_key": "asia-stocks-foreign-inflows-august-20260910",
+    "url_normalized": "reuters.com/world/asia-pacific/asian-stocks-draw-foreign-buyers-after-nine-month-selloff-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-11T12:00:00+09:00",
+    "issue": "2026-09-11-1200",
+    "source": "Reuters",
+    "title": "中国AI半導体Enflame、上海初日に約3倍—IPOで61.2億元調達",
+    "topic_key": "enflame-shanghai-ipo-surge-20260911",
+    "url_normalized": "reuters.com/world/asia-pacific/tencent-backed-enflame-open-up-188-shanghai-debut-after-912-million-ipo-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-11T12:00:00+09:00",
+    "issue": "2026-09-11-1200",
+    "source": "Reuters",
+    "title": "Nasdaq、Kraken親会社へ1億ドル—トークン化株式を2027年投入へ",
+    "topic_key": "nasdaq-kraken-payward-tokenized-equities-20260910",
+    "url_normalized": "reuters.com/legal/government/nasdaq-invest-100-million-kraken-parent-deepen-tokenization-push-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-11T12:00:00+09:00",
+    "issue": "2026-09-11-1200",
+    "source": "Reuters",
+    "title": "OpenAI、金融機関向けChatGPTを投入—Morgan Stanleyなどと設計",
+    "topic_key": "openai-chatgpt-financial-services-launch-20260910",
+    "url_normalized": "reuters.com/business/openai-launches-chatgpt-financial-services-industry-2026-09-10"
+  },
+  {
+    "first_seen": "2026-09-11T22:00:00+09:00",
+    "issue": "2026-09-11-2200",
+    "source": "米労働統計局 / Reuters",
+    "title": "米8月CPI、前月比0.4%上昇—エネルギー高が押し上げ",
+    "topic_key": "us-august-cpi-34-energy-20260911",
+    "url_normalized": "reuters.com/world/us/us-consumer-inflation-picks-up-august-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-11T22:00:00+09:00",
+    "issue": "2026-09-11-2200",
+    "source": "Reuters",
+    "title": "IEA、2026年の世界石油供給は日量570万バレル減と予測",
+    "topic_key": "iea-2026-oil-supply-decline-57m-bpd-20260911",
+    "url_normalized": "reuters.com/business/energy/global-2026-oil-supply-gap-deepen-delayed-return-normal-gulf-flows-iea-says-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-11T22:00:00+09:00",
+    "issue": "2026-09-11-2200",
+    "source": "Reuters",
+    "title": "インド中銀、1兆ルピーの国債売却へ—2年ぶり資金吸収",
+    "topic_key": "rbi-open-market-bond-sale-1tn-rupees-20260911",
+    "url_normalized": "reuters.com/world/india/india-cenbank-announces-open-market-sale-bonds-withdraw-liquidity-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-11T22:00:00+09:00",
+    "issue": "2026-09-11-2200",
+    "source": "Reuters",
+    "title": "Kroger、通期既存店売上見通しを0.2〜0.8%増へ下方修正",
+    "topic_key": "kroger-2026-sales-outlook-cut-20260911",
+    "url_normalized": "reuters.com/business/retail-consumer/kroger-cuts-annual-sales-forecast-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-11T22:00:00+09:00",
+    "issue": "2026-09-11-2200",
+    "source": "Reuters",
+    "title": "香港の資金調達額、1〜8月に835億ドル—前年比76%増",
+    "topic_key": "hong-kong-fundraising-835bn-revival-20260911",
+    "url_normalized": "reuters.com/world/asia-pacific/hong-kong-draws-back-talent-ipo-boom-fuels-financial-hubs-revival-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-11T22:00:00+09:00",
+    "issue": "2026-09-11-2200",
+    "source": "Reuters",
+    "title": "中国Z.AI、香港で総額50億ドル調達へ—株式と転換社債",
+    "topic_key": "zai-hong-kong-5bn-financing-20260911",
+    "url_normalized": "reuters.com/world/asia-pacific/china-ai-developer-zai-launches-5-billion-hong-kong-share-convertible-bond-sales-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-12T06:00:00+09:00",
+    "issue": "2026-09-12-0600",
+    "source": "Reuters",
+    "title": "米上院、最先端AIに「注意義務」案—政府に公開停止権限も",
+    "topic_key": "us-senate-ai-duty-of-care-proposal-20260911",
+    "url_normalized": "reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-12T06:00:00+09:00",
+    "issue": "2026-09-12-0600",
+    "source": "Reuters",
+    "title": "米商務省、印・尼・ラオス産太陽光製品への高率関税を最終決定",
+    "topic_key": "us-solar-import-duties-india-indonesia-laos-20260911",
+    "url_normalized": "reuters.com/business/energy/us-commerce-department-finalizes-steep-duties-solar-imports-india-indonesia-laos-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-12T06:00:00+09:00",
+    "issue": "2026-09-12-0600",
+    "source": "Reuters",
+    "title": "EU、アルミスクラップ輸出15%関税案を撤回—インドFTAに配慮",
+    "topic_key": "eu-aluminium-scrap-duty-plan-dropped-20260911",
+    "url_normalized": "reuters.com/world/china/eu-dropped-aluminium-scrap-duty-plan-over-india-concerns-sources-say-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-12T06:00:00+09:00",
+    "issue": "2026-09-12-0600",
+    "source": "Reuters",
+    "title": "大型原油タンカー運賃が過去最高—中東発中国向け約11.5ドル",
+    "topic_key": "oil-tanker-freight-rates-record-20260911",
+    "url_normalized": "reuters.com/business/energy/oil-tanker-rates-hit-record-highs-following-iran-us-shipping-attacks-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-12T06:00:00+09:00",
+    "issue": "2026-09-12-0600",
+    "source": "ロンドン連合 / Reuters",
+    "title": "英支援の債務連合、危機時の支払い猶予条項普及を提言",
+    "topic_key": "uk-debt-pause-clauses-coalition-20260911",
+    "url_normalized": "reuters.com/business/finance/uk-backed-debt-coalition-push-wider-use-payment-pause-clauses-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-12T06:00:00+09:00",
+    "issue": "2026-09-12-0600",
+    "source": "Reuters",
+    "title": "New Fortress、再編完了で債務を57億ドルから7億ドルへ圧縮",
+    "topic_key": "new-fortress-restructuring-debt-cut-20260911",
+    "url_normalized": "reuters.com/business/energy/new-fortress-completes-restructuring-cuts-debt-700-million-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-12T12:00:00+09:00",
+    "issue": "2026-09-12-1200",
+    "source": "Reuters",
+    "title": "サウジ、東西石油パイプラインを停止—世界供給の4〜5%規模",
+    "topic_key": "saudi-east-west-pipeline-shutdown-20260912",
+    "url_normalized": "reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12"
+  },
+  {
+    "first_seen": "2026-09-12T12:00:00+09:00",
+    "issue": "2026-09-12-1200",
+    "source": "Reuters",
+    "title": "Nvidia、Anthropicの大型IPOに最大100億ドル出資を検討",
+    "topic_key": "nvidia-anthropic-ipo-anchor-investment-20260911",
+    "url_normalized": "reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-12T12:00:00+09:00",
+    "issue": "2026-09-12-1200",
+    "source": "Reuters",
+    "title": "トランプ氏、中国自動車メーカーの米国内生産を容認する考え",
+    "topic_key": "trump-chinese-automakers-us-plants-20260912",
+    "url_normalized": "reuters.com/world/us/trump-says-he-would-be-ok-with-china-building-cars-us-2026-09-12"
+  },
+  {
+    "first_seen": "2026-09-12T12:00:00+09:00",
+    "issue": "2026-09-12-1200",
+    "source": "Reuters",
+    "title": "Boeingと技術者組合が暫定合意—初年度10%賃上げ",
+    "topic_key": "boeing-speea-tentative-contract-20260911",
+    "url_normalized": "reuters.com/business/world-at-work/boeing-engineers-union-reach-tentative-contract-agreement-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-12T12:00:00+09:00",
+    "issue": "2026-09-12-1200",
+    "source": "Reuters",
+    "title": "JPMorgan、AI集中ファンドへの融資を停止—7月に資産67%減",
+    "topic_key": "jpmorgan-situational-awareness-lending-cut-20260911",
+    "url_normalized": "reuters.com/legal/transactional/jpmorgan-cut-off-situational-awareness-lending-after-ai-losses-ft-reports-2026-09-11"
+  },
+  {
+    "first_seen": "2026-09-12T12:00:00+09:00",
+    "issue": "2026-09-12-1200",
+    "source": "Reuters",
+    "title": "豪Optusで76分の通信障害—緊急通報にも影響",
+    "topic_key": "optus-outage-emergency-calls-20260912",
+    "url_normalized": "reuters.com/world/asia-pacific/australias-optus-apologises-outage-that-disrupted-emergency-calls-2026-09-12"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/brics-adopts-joint-declaration-urges-maximum-restraint-mideast-2026-09-12",
+    "title": "BRICS、中東情勢で「最大限の自制」—共同宣言を全会一致採択",
+    "topic_key": "brics-new-delhi-declaration-restraint-trade-20260912",
+    "source": "Reuters",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/white-house-weighs-how-use-defense-production-act-expand-us-oil-refining-2026-09-11",
+    "title": "米政権、国防生産法で石油精製能力の増強を検討",
+    "topic_key": "us-defense-production-act-refining-capacity-20260911",
+    "source": "Reuters",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/canadian-boycott-us-products-pushes-grocers-adapt-explore-new-supply-sources-2026-09-12",
+    "title": "カナダの米国製品離れ、食品調達網を再編—米産野菜比率が低下",
+    "topic_key": "canada-us-products-boycott-food-supply-20260912",
+    "source": "Reuters",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/india-regulator-plans-changes-set-expiry-days-settlement-prices-derivatives-2026-09-12",
+    "title": "インドSEBI、デリバティブ満期日の清算価格ルールを見直しへ",
+    "topic_key": "sebi-derivatives-expiry-settlement-review-20260912",
+    "source": "Reuters",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/meloni-sees-italy-2026-growth-1-matching-euro-zone-2026-09-12",
+    "title": "イタリア首相、2026年成長率を1%と予想—政府従来見通しを上回る",
+    "topic_key": "italy-2026-growth-one-percent-meloni-20260912",
+    "source": "Reuters",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/apollo-global-talks-acquire-jjs-orthopedics-unit-bloomberg-news-reports-2026-09-11",
+    "title": "Apollo、J&J整形外科部門を約200億ドルで買収協議",
+    "topic_key": "apollo-jj-depuy-synthes-deal-talks-20260911",
+    "source": "Reuters",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/indias-hdfc-bank-submits-two-candidates-rbi-next-ceo-2026-09-12",
+    "title": "HDFC銀行、次期CEO候補2人をインド中銀に提出",
+    "topic_key": "hdfc-bank-ceo-candidates-rbi-20260912",
+    "source": "Reuters",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200"
+  }
+]

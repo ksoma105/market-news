@@ -1,61 +1,5 @@
 [
   {
-    "first_seen": "2026-09-10T22:00:00+09:00",
-    "issue": "2026-09-10-2200",
-    "source": "ECB / AP",
-    "title": "ECB、政策金利を0.25ポイント引き上げ—預金金利2.50%",
-    "topic_key": "ecb-rate-hike-250-september-20260910",
-    "url_normalized": "ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html"
-  },
-  {
-    "first_seen": "2026-09-10T22:00:00+09:00",
-    "issue": "2026-09-10-2200",
-    "source": "Reuters / AP",
-    "title": "米卸売物価、8月は前年比5.4%上昇—市場予想を上回る",
-    "topic_key": "us-august-ppi-54-20260910",
-    "url_normalized": "reuters.com/business/sp-500-dow-futures-attempt-recovery-ahead-inflation-report-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-10T22:00:00+09:00",
-    "issue": "2026-09-10-2200",
-    "source": "Reuters / AP",
-    "title": "米新規失業保険申請、20.6万件に減少—解雇は低水準",
-    "topic_key": "us-jobless-claims-206k-20260910",
-    "url_normalized": "reuters.com/world/us/us-weekly-jobless-claims-edge-down-layoffs-remain-low-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-10T22:00:00+09:00",
-    "issue": "2026-09-10-2200",
-    "source": "Reuters",
-    "title": "EU主要国、化学品・プラスチックの輸入制限を検討",
-    "topic_key": "eu-chemicals-plastics-safeguards-20260910",
-    "url_normalized": "reuters.com/world/china/eu-countries-seek-import-curbs-chemicals-plastics-sources-say-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-10T22:00:00+09:00",
-    "issue": "2026-09-10-2200",
-    "source": "Reuters",
-    "title": "中国AI半導体が値上げ—HBM不足でHuaweiは最大50%高",
-    "topic_key": "china-ai-chip-price-hikes-hbm-20260910",
-    "url_normalized": "reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-10T22:00:00+09:00",
-    "issue": "2026-09-10-2200",
-    "source": "Reuters",
-    "title": "Nvidia、豪州でAI計算容量を最大2GW増強へ",
-    "topic_key": "nvidia-australia-2gw-ai-capacity-20260910",
-    "url_normalized": "reuters.com/world/asia-pacific/nvidia-teams-up-with-australian-partners-build-ai-factory-capacity-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-10T22:00:00+09:00",
-    "issue": "2026-09-10-2200",
-    "source": "Reuters",
-    "title": "Bending Spoons、Miroを13.6億ドルで買収へ",
-    "topic_key": "bending-spoons-miro-deal-20260910",
-    "url_normalized": "reuters.com/legal/transactional/bending-spoons-buy-miro-136-billion-cash-deal-2026-09-10"
-  },
-  {
     "first_seen": "2026-09-11T06:00:00+09:00",
     "issue": "2026-09-11-0600",
     "source": "Reuters",
@@ -398,5 +342,21 @@
     "title": "韓国、スパイ罪を全外国向けに拡大—半導体など技術流出に対応",
     "topic_key": "south-korea-expanded-espionage-law-chip-protection-20260913",
     "url_normalized": "reuters.com/world/china/south-koreas-expanded-espionage-law-takes-effect-amid-push-protect-chip-2026-09-13"
+  },
+  {
+    "first_seen": "2026-09-13T22:00:00+09:00",
+    "issue": "2026-09-13-2200",
+    "source": "Reuters / FuturesBench",
+    "title": "円先物、投機筋が2月以来の買い越し—1週間で10万枚超改善",
+    "topic_key": "japan-yen-speculators-net-long-cftc-20260913",
+    "url_normalized": "reuters.com/world/asia-pacific/speculators-turn-net-long-yen-first-time-since-february-2026-09-13"
+  },
+  {
+    "first_seen": "2026-09-13T22:00:00+09:00",
+    "issue": "2026-09-13-2200",
+    "source": "Reuters / Dong-A Ilbo",
+    "title": "韓国、3500億ドル対米投資の細部合意へ—今週の決着目指す",
+    "topic_key": "south-korea-us-investment-plan-final-talks-20260913",
+    "url_normalized": "reuters.com/world/asia-pacific/south-korea-aims-finalise-details-us-investment-plan-this-week-minister-says-2026-09-13"
   }
 ]

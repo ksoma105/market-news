@@ -1,61 +1,5 @@
 [
   {
-    "first_seen": "2026-09-10T12:00:00+09:00",
-    "issue": "2026-09-10-1200",
-    "source": "Reuters",
-    "title": "日銀・益委員、インフレ加速なら「急速な利上げ」も",
-    "topic_key": "boj-masu-rapid-hike-warning-20260910",
-    "url_normalized": "reuters.com/world/asia-pacific/boj-may-be-forced-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-10T12:00:00+09:00",
-    "issue": "2026-09-10-1200",
-    "source": "Reuters",
-    "title": "国内企業の68%、高市政権の経済政策を支持—Reuters調査",
-    "topic_key": "japan-firms-support-takaichi-policies-20260910",
-    "url_normalized": "reuters.com/world/asia-pacific/two-thirds-japan-firms-support-pm-takaichis-economic-policies-2026-09-09"
-  },
-  {
-    "first_seen": "2026-09-10T12:00:00+09:00",
-    "issue": "2026-09-10-1200",
-    "source": "Reuters / AP",
-    "title": "Brent原油、100ドル台を維持—海上攻撃の激化で供給懸念",
-    "topic_key": "brent-above-100-tanker-attacks-20260910",
-    "url_normalized": "reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-10T12:00:00+09:00",
-    "issue": "2026-09-10-1200",
-    "source": "Reuters",
-    "title": "EUのロシア産エネルギー脱却、投資実行に遅れ—監査院",
-    "topic_key": "eu-russian-energy-exit-audit-20260909",
-    "url_normalized": "reuters.com/business/energy/eus-russian-energy-exit-faltering-auditors-say-2026-09-09"
-  },
-  {
-    "first_seen": "2026-09-10T12:00:00+09:00",
-    "issue": "2026-09-10-1200",
-    "source": "Reuters",
-    "title": "ドイツ、EU長期予算に数千億ユーロの削減を要求",
-    "topic_key": "germany-eu-budget-cuts-20260909",
-    "url_normalized": "reuters.com/business/germany-calls-hundreds-billions-euros-cuts-to-eu-budget-2026-09-09"
-  },
-  {
-    "first_seen": "2026-09-10T12:00:00+09:00",
-    "issue": "2026-09-10-1200",
-    "source": "Reuters",
-    "title": "Visa・Mastercard・Ant、AI購入代理の本人確認標準を共同開発",
-    "topic_key": "visa-mastercard-ant-agent-trust-framework-20260910",
-    "url_normalized": "reuters.com/technology/payment-firms-visa-mastercard-ant-international-team-up-ai-agent-trust-framework-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-10T12:00:00+09:00",
-    "issue": "2026-09-10-1200",
-    "source": "Reuters",
-    "title": "Adyen、インド事業を拡大—人員は2023年比10倍の120人",
-    "topic_key": "adyen-india-expansion-20260909",
-    "url_normalized": "reuters.com/world/india/dutch-fintech-adyen-sees-long-term-india-opportunity-plans-local-expansion-2026-09-09"
-  },
-  {
     "first_seen": "2026-09-10T22:00:00+09:00",
     "issue": "2026-09-10-2200",
     "source": "ECB / AP",
@@ -344,60 +288,60 @@
     "url_normalized": "reuters.com/world/asia-pacific/australias-optus-apologises-outage-that-disrupted-emergency-calls-2026-09-12"
   },
   {
-    "url_normalized": "reuters.com/world/china/brics-adopts-joint-declaration-urges-maximum-restraint-mideast-2026-09-12",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200",
+    "source": "Reuters",
     "title": "BRICS、中東情勢で「最大限の自制」—共同宣言を全会一致採択",
     "topic_key": "brics-new-delhi-declaration-restraint-trade-20260912",
-    "source": "Reuters",
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200"
+    "url_normalized": "reuters.com/world/china/brics-adopts-joint-declaration-urges-maximum-restraint-mideast-2026-09-12"
   },
   {
-    "url_normalized": "reuters.com/business/energy/white-house-weighs-how-use-defense-production-act-expand-us-oil-refining-2026-09-11",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200",
+    "source": "Reuters",
     "title": "米政権、国防生産法で石油精製能力の増強を検討",
     "topic_key": "us-defense-production-act-refining-capacity-20260911",
-    "source": "Reuters",
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200"
+    "url_normalized": "reuters.com/business/energy/white-house-weighs-how-use-defense-production-act-expand-us-oil-refining-2026-09-11"
   },
   {
-    "url_normalized": "reuters.com/business/retail-consumer/canadian-boycott-us-products-pushes-grocers-adapt-explore-new-supply-sources-2026-09-12",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200",
+    "source": "Reuters",
     "title": "カナダの米国製品離れ、食品調達網を再編—米産野菜比率が低下",
     "topic_key": "canada-us-products-boycott-food-supply-20260912",
-    "source": "Reuters",
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200"
+    "url_normalized": "reuters.com/business/retail-consumer/canadian-boycott-us-products-pushes-grocers-adapt-explore-new-supply-sources-2026-09-12"
   },
   {
-    "url_normalized": "reuters.com/world/india/india-regulator-plans-changes-set-expiry-days-settlement-prices-derivatives-2026-09-12",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200",
+    "source": "Reuters",
     "title": "インドSEBI、デリバティブ満期日の清算価格ルールを見直しへ",
     "topic_key": "sebi-derivatives-expiry-settlement-review-20260912",
-    "source": "Reuters",
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200"
+    "url_normalized": "reuters.com/world/india/india-regulator-plans-changes-set-expiry-days-settlement-prices-derivatives-2026-09-12"
   },
   {
-    "url_normalized": "reuters.com/business/meloni-sees-italy-2026-growth-1-matching-euro-zone-2026-09-12",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200",
+    "source": "Reuters",
     "title": "イタリア首相、2026年成長率を1%と予想—政府従来見通しを上回る",
     "topic_key": "italy-2026-growth-one-percent-meloni-20260912",
-    "source": "Reuters",
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200"
+    "url_normalized": "reuters.com/business/meloni-sees-italy-2026-growth-1-matching-euro-zone-2026-09-12"
   },
   {
-    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/apollo-global-talks-acquire-jjs-orthopedics-unit-bloomberg-news-reports-2026-09-11",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200",
+    "source": "Reuters",
     "title": "Apollo、J&J整形外科部門を約200億ドルで買収協議",
     "topic_key": "apollo-jj-depuy-synthes-deal-talks-20260911",
-    "source": "Reuters",
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200"
+    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/apollo-global-talks-acquire-jjs-orthopedics-unit-bloomberg-news-reports-2026-09-11"
   },
   {
-    "url_normalized": "reuters.com/world/india/indias-hdfc-bank-submits-two-candidates-rbi-next-ceo-2026-09-12",
+    "first_seen": "2026-09-12T22:00:00+09:00",
+    "issue": "2026-09-12-2200",
+    "source": "Reuters",
     "title": "HDFC銀行、次期CEO候補2人をインド中銀に提出",
     "topic_key": "hdfc-bank-ceo-candidates-rbi-20260912",
-    "source": "Reuters",
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200"
+    "url_normalized": "reuters.com/world/india/indias-hdfc-bank-submits-two-candidates-rbi-next-ceo-2026-09-12"
   },
   {
     "first_seen": "2026-09-13T06:00:00+09:00",
@@ -438,5 +382,21 @@
     "title": "Tesla、次世代Roadsterを10月1日に発表へ—初公開から約9年",
     "topic_key": "tesla-roadster-october-launch-20260912",
     "url_normalized": "reuters.com/business/autos-transportation/tesla-signals-oct-1-launch-long-delayed-roadster-2026-09-12"
+  },
+  {
+    "first_seen": "2026-09-13T12:00:00+09:00",
+    "issue": "2026-09-13-1200",
+    "source": "Reuters",
+    "title": "現代自、独自運転支援を2029年末に延期—28年はNvidiaと展開",
+    "topic_key": "hyundai-inhouse-adas-2029-nvidia-2028-20260913",
+    "url_normalized": "reuters.com/business/autos-transportation/hyundai-motor-roll-out-in-house-driver-assist-system-2029-2026-09-13"
+  },
+  {
+    "first_seen": "2026-09-13T12:00:00+09:00",
+    "issue": "2026-09-13-1200",
+    "source": "Reuters / Aju Press",
+    "title": "韓国、スパイ罪を全外国向けに拡大—半導体など技術流出に対応",
+    "topic_key": "south-korea-expanded-espionage-law-chip-protection-20260913",
+    "url_normalized": "reuters.com/world/china/south-koreas-expanded-espionage-law-takes-effect-amid-push-protect-chip-2026-09-13"
   }
 ]

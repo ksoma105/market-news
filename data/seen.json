@@ -1,45 +1,5 @@
 [
   {
-    "first_seen": "2026-09-11T06:00:00+09:00",
-    "issue": "2026-09-11-0600",
-    "source": "Reuters",
-    "title": "Fitch、日本予算の「成長と財政規律の両立」を注視",
-    "topic_key": "fitch-japan-budget-fiscal-balance-20260910",
-    "url_normalized": "reuters.com/world/asia-pacific/fitch-eyes-japan-budget-balance-between-growth-fiscal-discipline-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-11T06:00:00+09:00",
-    "issue": "2026-09-11-0600",
-    "source": "Reuters / Financial Times",
-    "title": "ESMA、割高な資産価格と景気悪化の乖離に急落リスクを警告",
-    "topic_key": "esma-abrupt-market-correction-risk-20260910",
-    "url_normalized": "reuters.com/legal/government/eu-watchdog-flags-risk-abrupt-market-correction-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-11T06:00:00+09:00",
-    "issue": "2026-09-11-0600",
-    "source": "Reuters",
-    "title": "米ディーゼル平均価格、初の1ガロン6ドル超え",
-    "topic_key": "us-diesel-average-above-6-20260910",
-    "url_normalized": "reuters.com/business/energy/us-average-diesel-prices-cross-6-gallon-first-time-gasbuddy-says-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-11T06:00:00+09:00",
-    "issue": "2026-09-11-0600",
-    "source": "Reuters / Financial Times",
-    "title": "Oracle、AIクラウド需要で売上高30%増—受注残6640億ドル",
-    "topic_key": "oracle-q1-2027-revenue-backlog-capex-20260910",
-    "url_normalized": "reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-11T06:00:00+09:00",
-    "issue": "2026-09-11-0600",
-    "source": "Reuters / AP",
-    "title": "Anthropic、ロシア系・中国系のClaude悪用を遮断",
-    "topic_key": "anthropic-claude-threat-campaigns-20260910",
-    "url_normalized": "reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10"
-  },
-  {
     "first_seen": "2026-09-11T12:00:00+09:00",
     "issue": "2026-09-11-1200",
     "source": "Reuters",
@@ -358,5 +318,29 @@
     "title": "韓国、3500億ドル対米投資の細部合意へ—今週の決着目指す",
     "topic_key": "south-korea-us-investment-plan-final-talks-20260913",
     "url_normalized": "reuters.com/world/asia-pacific/south-korea-aims-finalise-details-us-investment-plan-this-week-minister-says-2026-09-13"
+  },
+  {
+    "first_seen": "2026-09-14T06:00:00+09:00",
+    "issue": "2026-09-14-0600",
+    "source": "Reuters / Handelsblatt",
+    "title": "独企業の対中投資、上期に3分の1増—対米は3分の2近く減",
+    "topic_key": "german-firms-china-us-investment-shift-20260913",
+    "url_normalized": "reuters.com/world/china/german-firms-lift-china-investment-us-outlays-fall-iw-study-shows-2026-09-13"
+  },
+  {
+    "first_seen": "2026-09-14T06:00:00+09:00",
+    "issue": "2026-09-14-0600",
+    "source": "Reuters / AP",
+    "title": "トランプ氏、アイリッシュウイスキー10%関税の撤廃を表明",
+    "topic_key": "us-irish-whiskey-tariff-removal-20260913",
+    "url_normalized": "reuters.com/world/us/trump-says-he-is-lifting-tariffs-irish-whiskey-2026-09-13"
+  },
+  {
+    "first_seen": "2026-09-14T06:00:00+09:00",
+    "issue": "2026-09-14-0600",
+    "source": "Reuters / AP",
+    "title": "米成人への5000ドル給付案、下院議長「議会承認が必要」",
+    "topic_key": "trump-5000-dividend-congress-approval-20260913",
+    "url_normalized": "reuters.com/world/us/trump-calls-5000-payouts-easy-fit-into-federal-budget-2026-09-13"
   }
 ]

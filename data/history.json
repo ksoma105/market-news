@@ -584,13 +584,24 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-13-2200.html",
       "issue_id": "2026-09-13-2200",
       "published_at": "2026-09-13T22:00:00+09:00",
       "topic_count": 2,
       "topics": [
         "japan-yen-speculators-net-long-cftc-20260913",
         "south-korea-us-investment-plan-final-talks-20260913"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-14-0600",
+      "published_at": "2026-09-14T06:00:00+09:00",
+      "topic_count": 3,
+      "topics": [
+        "german-firms-china-us-investment-shift-20260913",
+        "us-irish-whiskey-tariff-removal-20260913",
+        "trump-5000-dividend-congress-approval-20260913"
       ]
     }
   ]

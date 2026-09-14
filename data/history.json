@@ -594,7 +594,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-14-0600.html",
       "issue_id": "2026-09-14-0600",
       "published_at": "2026-09-14T06:00:00+09:00",
       "topic_count": 3,
@@ -602,6 +602,17 @@
         "german-firms-china-us-investment-shift-20260913",
         "us-irish-whiskey-tariff-removal-20260913",
         "trump-5000-dividend-congress-approval-20260913"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-14-1200",
+      "published_at": "2026-09-14T12:00:00+09:00",
+      "topic_count": 3,
+      "topics": [
+        "china-ligent-hong-kong-ipo-ai-optics-20260914",
+        "samsung-sk-hynix-reject-kepco-power-prepayment-20260914",
+        "asia-stocks-fall-oil-rate-hike-expectations-20260914"
       ]
     }
   ]

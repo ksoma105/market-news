@@ -1,53 +1,5 @@
 [
   {
-    "first_seen": "2026-09-11T12:00:00+09:00",
-    "issue": "2026-09-11-1200",
-    "source": "Reuters",
-    "title": "日本の8月企業物価、前年比7.6%上昇—日銀利上げ観測を補強",
-    "topic_key": "japan-august-wholesale-inflation-76-20260911",
-    "url_normalized": "reuters.com/world/asia-pacific/japans-wholesale-inflation-stays-elevated-august-boosts-case-rate-hike-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-11T12:00:00+09:00",
-    "issue": "2026-09-11-1200",
-    "source": "Reuters",
-    "title": "原油急騰で世界の債券安加速—米10年債利回り4.9708%",
-    "topic_key": "global-bond-selloff-oil-yields-20260911",
-    "url_normalized": "reuters.com/world/china/global-markets-corrected-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-11T12:00:00+09:00",
-    "issue": "2026-09-11-1200",
-    "source": "Reuters",
-    "title": "海外投資家、8月にアジア株47.2億ドル買い越し—9カ月の売り越し終了",
-    "topic_key": "asia-stocks-foreign-inflows-august-20260910",
-    "url_normalized": "reuters.com/world/asia-pacific/asian-stocks-draw-foreign-buyers-after-nine-month-selloff-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-11T12:00:00+09:00",
-    "issue": "2026-09-11-1200",
-    "source": "Reuters",
-    "title": "中国AI半導体Enflame、上海初日に約3倍—IPOで61.2億元調達",
-    "topic_key": "enflame-shanghai-ipo-surge-20260911",
-    "url_normalized": "reuters.com/world/asia-pacific/tencent-backed-enflame-open-up-188-shanghai-debut-after-912-million-ipo-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-11T12:00:00+09:00",
-    "issue": "2026-09-11-1200",
-    "source": "Reuters",
-    "title": "Nasdaq、Kraken親会社へ1億ドル—トークン化株式を2027年投入へ",
-    "topic_key": "nasdaq-kraken-payward-tokenized-equities-20260910",
-    "url_normalized": "reuters.com/legal/government/nasdaq-invest-100-million-kraken-parent-deepen-tokenization-push-2026-09-10"
-  },
-  {
-    "first_seen": "2026-09-11T12:00:00+09:00",
-    "issue": "2026-09-11-1200",
-    "source": "Reuters",
-    "title": "OpenAI、金融機関向けChatGPTを投入—Morgan Stanleyなどと設計",
-    "topic_key": "openai-chatgpt-financial-services-launch-20260910",
-    "url_normalized": "reuters.com/business/openai-launches-chatgpt-financial-services-industry-2026-09-10"
-  },
-  {
     "first_seen": "2026-09-11T22:00:00+09:00",
     "issue": "2026-09-11-2200",
     "source": "米労働統計局 / Reuters",
@@ -342,5 +294,29 @@
     "title": "米成人への5000ドル給付案、下院議長「議会承認が必要」",
     "topic_key": "trump-5000-dividend-congress-approval-20260913",
     "url_normalized": "reuters.com/world/us/trump-calls-5000-payouts-easy-fit-into-federal-budget-2026-09-13"
+  },
+  {
+    "first_seen": "2026-09-14T12:00:00+09:00",
+    "issue": "2026-09-14-1200",
+    "source": "Reuters / HKEX",
+    "title": "中国・Ligent、香港IPOで約7.23億ドル調達へ—AI向け光通信を増産",
+    "topic_key": "china-ligent-hong-kong-ipo-ai-optics-20260914",
+    "url_normalized": "reuters.com/business/media-telecom/chinas-ligent-technologies-seeks-723-million-hong-kong-ipo-2026-09-13"
+  },
+  {
+    "first_seen": "2026-09-14T12:00:00+09:00",
+    "issue": "2026-09-14-1200",
+    "source": "Reuters / MBC",
+    "title": "サムスン・SKハイニックス、韓電の25兆ウォン電気料金前払い案を拒否",
+    "topic_key": "samsung-sk-hynix-reject-kepco-power-prepayment-20260914",
+    "url_normalized": "reuters.com/world/asia-pacific/samsung-sk-hynix-reject-kepcos-19-billion-power-prepayment-proposal-document-2026-09-14"
+  },
+  {
+    "first_seen": "2026-09-14T12:00:00+09:00",
+    "issue": "2026-09-14-1200",
+    "source": "Reuters / WSJ",
+    "title": "アジア株が下落、日経平均1.7%安・韓国株3.3%安—原油高と利上げ観測",
+    "topic_key": "asia-stocks-fall-oil-rate-hike-expectations-20260914",
+    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-09-13"
   }
 ]

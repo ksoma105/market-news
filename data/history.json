@@ -605,7 +605,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-14-1200.html",
       "issue_id": "2026-09-14-1200",
       "published_at": "2026-09-14T12:00:00+09:00",
       "topic_count": 3,
@@ -613,6 +613,19 @@
         "china-ligent-hong-kong-ipo-ai-optics-20260914",
         "samsung-sk-hynix-reject-kepco-power-prepayment-20260914",
         "asia-stocks-fall-oil-rate-hike-expectations-20260914"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-14-2200",
+      "published_at": "2026-09-14T22:00:00+09:00",
+      "topic_count": 5,
+      "topics": [
+        "ecb-kazaks-further-tightening-20260914",
+        "jpmorgan-gbi-em-edge-frontier-index-20260914",
+        "canada-investment-summit-160-projects-20260914",
+        "dangote-refinery-ipo-launch-20260914",
+        "bis-ai-private-credit-vulnerability-20260914"
       ]
     }
   ]

@@ -1,53 +1,5 @@
 [
   {
-    "first_seen": "2026-09-11T22:00:00+09:00",
-    "issue": "2026-09-11-2200",
-    "source": "米労働統計局 / Reuters",
-    "title": "米8月CPI、前月比0.4%上昇—エネルギー高が押し上げ",
-    "topic_key": "us-august-cpi-34-energy-20260911",
-    "url_normalized": "reuters.com/world/us/us-consumer-inflation-picks-up-august-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-11T22:00:00+09:00",
-    "issue": "2026-09-11-2200",
-    "source": "Reuters",
-    "title": "IEA、2026年の世界石油供給は日量570万バレル減と予測",
-    "topic_key": "iea-2026-oil-supply-decline-57m-bpd-20260911",
-    "url_normalized": "reuters.com/business/energy/global-2026-oil-supply-gap-deepen-delayed-return-normal-gulf-flows-iea-says-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-11T22:00:00+09:00",
-    "issue": "2026-09-11-2200",
-    "source": "Reuters",
-    "title": "インド中銀、1兆ルピーの国債売却へ—2年ぶり資金吸収",
-    "topic_key": "rbi-open-market-bond-sale-1tn-rupees-20260911",
-    "url_normalized": "reuters.com/world/india/india-cenbank-announces-open-market-sale-bonds-withdraw-liquidity-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-11T22:00:00+09:00",
-    "issue": "2026-09-11-2200",
-    "source": "Reuters",
-    "title": "Kroger、通期既存店売上見通しを0.2〜0.8%増へ下方修正",
-    "topic_key": "kroger-2026-sales-outlook-cut-20260911",
-    "url_normalized": "reuters.com/business/retail-consumer/kroger-cuts-annual-sales-forecast-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-11T22:00:00+09:00",
-    "issue": "2026-09-11-2200",
-    "source": "Reuters",
-    "title": "香港の資金調達額、1〜8月に835億ドル—前年比76%増",
-    "topic_key": "hong-kong-fundraising-835bn-revival-20260911",
-    "url_normalized": "reuters.com/world/asia-pacific/hong-kong-draws-back-talent-ipo-boom-fuels-financial-hubs-revival-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-11T22:00:00+09:00",
-    "issue": "2026-09-11-2200",
-    "source": "Reuters",
-    "title": "中国Z.AI、香港で総額50億ドル調達へ—株式と転換社債",
-    "topic_key": "zai-hong-kong-5bn-financing-20260911",
-    "url_normalized": "reuters.com/world/asia-pacific/china-ai-developer-zai-launches-5-billion-hong-kong-share-convertible-bond-sales-2026-09-11"
-  },
-  {
     "first_seen": "2026-09-12T06:00:00+09:00",
     "issue": "2026-09-12-0600",
     "source": "Reuters",
@@ -318,5 +270,45 @@
     "title": "アジア株が下落、日経平均1.7%安・韓国株3.3%安—原油高と利上げ観測",
     "topic_key": "asia-stocks-fall-oil-rate-hike-expectations-20260914",
     "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-09-13"
+  },
+  {
+    "first_seen": "2026-09-14T22:00:00+09:00",
+    "issue": "2026-09-14-2200",
+    "source": "Reuters",
+    "title": "ECBカザークス氏、追加利上げの必要性が高まると指摘",
+    "topic_key": "ecb-kazaks-further-tightening-20260914",
+    "url_normalized": "reuters.com/business/finance/ecbs-kazaks-sees-growing-case-more-tightening-2026-09-14"
+  },
+  {
+    "first_seen": "2026-09-14T22:00:00+09:00",
+    "issue": "2026-09-14-2200",
+    "source": "Reuters",
+    "title": "JPMorgan、フロンティア国の現地通貨建て債指数を月末導入へ",
+    "topic_key": "jpmorgan-gbi-em-edge-frontier-index-20260914",
+    "url_normalized": "reuters.com/world/asia-pacific/jpmorgan-launch-frontier-market-local-currency-debt-index-by-month-end-source-2026-09-14"
+  },
+  {
+    "first_seen": "2026-09-14T22:00:00+09:00",
+    "issue": "2026-09-14-2200",
+    "source": "Reuters",
+    "title": "カナダ、160超の案件を世界の投資家に提示—5年で1兆加ドル目標",
+    "topic_key": "canada-investment-summit-160-projects-20260914",
+    "url_normalized": "reuters.com/business/carney-locked-us-trade-war-pitches-canada-global-investment-titans-2026-09-14"
+  },
+  {
+    "first_seen": "2026-09-14T22:00:00+09:00",
+    "issue": "2026-09-14-2200",
+    "source": "Reuters",
+    "title": "ダンゴート製油所、アフリカ最大IPOを開始—最大21億ドル調達",
+    "topic_key": "dangote-refinery-ipo-launch-20260914",
+    "url_normalized": "reuters.com/business/energy/nigerian-billionaire-dangote-launches-oil-refinery-ipo-africas-biggest-share-2026-09-14"
+  },
+  {
+    "first_seen": "2026-09-14T22:00:00+09:00",
+    "issue": "2026-09-14-2200",
+    "source": "Reuters / BIS",
+    "title": "BIS、AI相場の脆弱性を警告—テック向け民間融資は1兆ドル超",
+    "topic_key": "bis-ai-private-credit-vulnerability-20260914",
+    "url_normalized": "reuters.com/markets/europe/global-markets-bis-pix-2026-09-14"
   }
 ]

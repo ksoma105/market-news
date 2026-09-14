@@ -1,7 +1,7 @@
 {
   "issues": [
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-14-2200.html",
       "issue_id": "2026-05-24-1200",
       "published_at": "2026-05-24T12:00:00+09:00",
       "topic_count": 7,
@@ -616,7 +616,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-14-2200.html",
       "issue_id": "2026-09-14-2200",
       "published_at": "2026-09-14T22:00:00+09:00",
       "topic_count": 5,
@@ -626,6 +626,19 @@
         "canada-investment-summit-160-projects-20260914",
         "dangote-refinery-ipo-launch-20260914",
         "bis-ai-private-credit-vulnerability-20260914"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-15-0600",
+      "published_at": "2026-09-15T06:00:00+09:00",
+      "topic_count": 5,
+      "topics": [
+        "us-treasury-yield-5-chip-stocks-20260914",
+        "us-spr-lowest-1982-20260914",
+        "us-vtb-iran-sanctions-20260914",
+        "bofa-q3-investment-banking-fees-20260914",
+        "lagarde-europe-ai-sovereignty-20260914"
       ]
     }
   ]

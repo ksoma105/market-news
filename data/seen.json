@@ -1,53 +1,5 @@
 [
   {
-    "first_seen": "2026-09-12T06:00:00+09:00",
-    "issue": "2026-09-12-0600",
-    "source": "Reuters",
-    "title": "米上院、最先端AIに「注意義務」案—政府に公開停止権限も",
-    "topic_key": "us-senate-ai-duty-of-care-proposal-20260911",
-    "url_normalized": "reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-12T06:00:00+09:00",
-    "issue": "2026-09-12-0600",
-    "source": "Reuters",
-    "title": "米商務省、印・尼・ラオス産太陽光製品への高率関税を最終決定",
-    "topic_key": "us-solar-import-duties-india-indonesia-laos-20260911",
-    "url_normalized": "reuters.com/business/energy/us-commerce-department-finalizes-steep-duties-solar-imports-india-indonesia-laos-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-12T06:00:00+09:00",
-    "issue": "2026-09-12-0600",
-    "source": "Reuters",
-    "title": "EU、アルミスクラップ輸出15%関税案を撤回—インドFTAに配慮",
-    "topic_key": "eu-aluminium-scrap-duty-plan-dropped-20260911",
-    "url_normalized": "reuters.com/world/china/eu-dropped-aluminium-scrap-duty-plan-over-india-concerns-sources-say-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-12T06:00:00+09:00",
-    "issue": "2026-09-12-0600",
-    "source": "Reuters",
-    "title": "大型原油タンカー運賃が過去最高—中東発中国向け約11.5ドル",
-    "topic_key": "oil-tanker-freight-rates-record-20260911",
-    "url_normalized": "reuters.com/business/energy/oil-tanker-rates-hit-record-highs-following-iran-us-shipping-attacks-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-12T06:00:00+09:00",
-    "issue": "2026-09-12-0600",
-    "source": "ロンドン連合 / Reuters",
-    "title": "英支援の債務連合、危機時の支払い猶予条項普及を提言",
-    "topic_key": "uk-debt-pause-clauses-coalition-20260911",
-    "url_normalized": "reuters.com/business/finance/uk-backed-debt-coalition-push-wider-use-payment-pause-clauses-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-12T06:00:00+09:00",
-    "issue": "2026-09-12-0600",
-    "source": "Reuters",
-    "title": "New Fortress、再編完了で債務を57億ドルから7億ドルへ圧縮",
-    "topic_key": "new-fortress-restructuring-debt-cut-20260911",
-    "url_normalized": "reuters.com/business/energy/new-fortress-completes-restructuring-cuts-debt-700-million-2026-09-11"
-  },
-  {
     "first_seen": "2026-09-12T12:00:00+09:00",
     "issue": "2026-09-12-1200",
     "source": "Reuters",
@@ -310,5 +262,45 @@
     "title": "BIS、AI相場の脆弱性を警告—テック向け民間融資は1兆ドル超",
     "topic_key": "bis-ai-private-credit-vulnerability-20260914",
     "url_normalized": "reuters.com/markets/europe/global-markets-bis-pix-2026-09-14"
+  },
+  {
+    "first_seen": "2026-09-15T06:00:00+09:00",
+    "issue": "2026-09-15-0600",
+    "source": "Reuters / WSJ",
+    "title": "米10年債利回りが5%突破、半導体株安で主要3指数下落",
+    "topic_key": "us-treasury-yield-5-chip-stocks-20260914",
+    "url_normalized": "reuters.com/business/us-10-year-yields-reach-5-highest-since-2023-2026-09-14"
+  },
+  {
+    "first_seen": "2026-09-15T06:00:00+09:00",
+    "issue": "2026-09-15-0600",
+    "source": "Reuters / EIA",
+    "title": "米戦略石油備蓄、2.85億バレル—1982年以来の低水準",
+    "topic_key": "us-spr-lowest-1982-20260914",
+    "url_normalized": "reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-lowest-level-since-1982-2026-09-14"
+  },
+  {
+    "first_seen": "2026-09-15T06:00:00+09:00",
+    "issue": "2026-09-15-0600",
+    "source": "Reuters / 米財務省",
+    "title": "米財務省、ロシアVTB銀行に対イラン追加制裁",
+    "topic_key": "us-vtb-iran-sanctions-20260914",
+    "url_normalized": "reuters.com/world/middle-east/us-imposes-iran-related-sanctions-russias-vtb-2026-09-14"
+  },
+  {
+    "first_seen": "2026-09-15T06:00:00+09:00",
+    "issue": "2026-09-15-0600",
+    "source": "Reuters / Bank of America",
+    "title": "バンカメ、7〜9月投資銀行手数料は少なくとも10%減へ",
+    "topic_key": "bofa-q3-investment-banking-fees-20260914",
+    "url_normalized": "reuters.com/business/finance/bank-america-ceo-sees-least-10-drop-q3-investment-banking-fees-2026-09-14"
+  },
+  {
+    "first_seen": "2026-09-15T06:00:00+09:00",
+    "issue": "2026-09-15-0600",
+    "source": "Reuters / ECB",
+    "title": "ラガルドECB総裁、欧州のAI自立へ最大6,000億ユーロ投資を示唆",
+    "topic_key": "lagarde-europe-ai-sovereignty-20260914",
+    "url_normalized": "reuters.com/business/finance/europe-facing-unprecedented-risk-being-cut-off-ai-lagarde-warns-2026-09-14"
   }
 ]

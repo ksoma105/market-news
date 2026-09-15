@@ -629,7 +629,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-15-0600.html",
       "issue_id": "2026-09-15-0600",
       "published_at": "2026-09-15T06:00:00+09:00",
       "topic_count": 5,
@@ -639,6 +639,20 @@
         "us-vtb-iran-sanctions-20260914",
         "bofa-q3-investment-banking-fees-20260914",
         "lagarde-europe-ai-sovereignty-20260914"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-15-1200",
+      "published_at": "2026-09-15T12:00:00+09:00",
+      "topic_count": 6,
+      "topics": [
+        "japan-food-tax-cut-outline-funding-20260915",
+        "china-august-industrial-retail-investment-20260915",
+        "sb-energy-japan-investor-shares-us-ipo-20260915",
+        "waymo-go-nihon-kotsu-tokyo-2027-20260915",
+        "asia-lng-china-india-demand-recovery-20260915",
+        "anthropic-claude-financial-advisors-20260914"
       ]
     }
   ]

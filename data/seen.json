@@ -1,61 +1,5 @@
 [
   {
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200",
-    "source": "Reuters",
-    "title": "BRICS、中東情勢で「最大限の自制」—共同宣言を全会一致採択",
-    "topic_key": "brics-new-delhi-declaration-restraint-trade-20260912",
-    "url_normalized": "reuters.com/world/china/brics-adopts-joint-declaration-urges-maximum-restraint-mideast-2026-09-12"
-  },
-  {
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200",
-    "source": "Reuters",
-    "title": "米政権、国防生産法で石油精製能力の増強を検討",
-    "topic_key": "us-defense-production-act-refining-capacity-20260911",
-    "url_normalized": "reuters.com/business/energy/white-house-weighs-how-use-defense-production-act-expand-us-oil-refining-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200",
-    "source": "Reuters",
-    "title": "カナダの米国製品離れ、食品調達網を再編—米産野菜比率が低下",
-    "topic_key": "canada-us-products-boycott-food-supply-20260912",
-    "url_normalized": "reuters.com/business/retail-consumer/canadian-boycott-us-products-pushes-grocers-adapt-explore-new-supply-sources-2026-09-12"
-  },
-  {
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200",
-    "source": "Reuters",
-    "title": "インドSEBI、デリバティブ満期日の清算価格ルールを見直しへ",
-    "topic_key": "sebi-derivatives-expiry-settlement-review-20260912",
-    "url_normalized": "reuters.com/world/india/india-regulator-plans-changes-set-expiry-days-settlement-prices-derivatives-2026-09-12"
-  },
-  {
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200",
-    "source": "Reuters",
-    "title": "イタリア首相、2026年成長率を1%と予想—政府従来見通しを上回る",
-    "topic_key": "italy-2026-growth-one-percent-meloni-20260912",
-    "url_normalized": "reuters.com/business/meloni-sees-italy-2026-growth-1-matching-euro-zone-2026-09-12"
-  },
-  {
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200",
-    "source": "Reuters",
-    "title": "Apollo、J&J整形外科部門を約200億ドルで買収協議",
-    "topic_key": "apollo-jj-depuy-synthes-deal-talks-20260911",
-    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/apollo-global-talks-acquire-jjs-orthopedics-unit-bloomberg-news-reports-2026-09-11"
-  },
-  {
-    "first_seen": "2026-09-12T22:00:00+09:00",
-    "issue": "2026-09-12-2200",
-    "source": "Reuters",
-    "title": "HDFC銀行、次期CEO候補2人をインド中銀に提出",
-    "topic_key": "hdfc-bank-ceo-candidates-rbi-20260912",
-    "url_normalized": "reuters.com/world/india/indias-hdfc-bank-submits-two-candidates-rbi-next-ceo-2026-09-12"
-  },
-  {
     "first_seen": "2026-09-13T06:00:00+09:00",
     "issue": "2026-09-13-0600",
     "source": "Reuters",
@@ -302,5 +246,61 @@
     "title": "Anthropic、金融アドバイザー向けClaudeを投入",
     "topic_key": "anthropic-claude-financial-advisors-20260914",
     "url_normalized": "reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14"
+  },
+  {
+    "first_seen": "2026-09-15T22:00:00+09:00",
+    "issue": "2026-09-15-2200",
+    "source": "Reuters / 国土交通省",
+    "title": "全国の地価1.5%上昇、5年連続—三大都市圏は4.4%",
+    "topic_key": "japan-land-prices-fifth-year-20260915",
+    "url_normalized": "reuters.com/world/asia-pacific/japanese-land-prices-rise-fifth-year-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-15T22:00:00+09:00",
+    "issue": "2026-09-15-2200",
+    "source": "Reuters / 韓国銀行",
+    "title": "韓国中銀、連続利上げは6対1—議事録で慎重論が判明",
+    "topic_key": "bok-minutes-policy-split-20260915",
+    "url_normalized": "reuters.com/world/asia-pacific/bank-korea-minutes-show-possible-policy-rift-back-to-back-rate-hikes-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-15T22:00:00+09:00",
+    "issue": "2026-09-15-2200",
+    "source": "Reuters / Anadolu Agency",
+    "title": "独ZEW景況感34.7、予想下回る—現況判断は大幅改善",
+    "topic_key": "germany-zew-september-sentiment-20260915",
+    "url_normalized": "reuters.com/world/europe/german-investor-morale-rises-less-than-expected-september-zew-finds-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-15T22:00:00+09:00",
+    "issue": "2026-09-15-2200",
+    "source": "Reuters / WTO",
+    "title": "WTO、貿易分断で2050年の世界GDP最大6.9%減と試算",
+    "topic_key": "wto-trade-fragmentation-gdp-20260915",
+    "url_normalized": "reuters.com/world/africa/wto-says-global-trade-system-critical-juncture-urges-reform-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-15T22:00:00+09:00",
+    "issue": "2026-09-15-2200",
+    "source": "Reuters",
+    "title": "欧州Axelera、AI推論用「Europa」投入—商談規模15億ドル",
+    "topic_key": "axelera-europa-ai-chip-deals-20260915",
+    "url_normalized": "reuters.com/business/european-chip-startup-axelera-wins-ai-factory-supply-deals-launches-second-chip-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-15T22:00:00+09:00",
+    "issue": "2026-09-15-2200",
+    "source": "Reuters",
+    "title": "コンゴ、米国との重要鉱物協定を加速する特別チーム設置",
+    "topic_key": "drc-us-minerals-task-force-20260915",
+    "url_normalized": "reuters.com/world/china/congo-creates-task-force-us-minerals-deal-cabinet-minutes-say-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-15T22:00:00+09:00",
+    "issue": "2026-09-15-2200",
+    "source": "Reuters / Einride",
+    "title": "独Lidl、国内初の運転席なしレベル4トラックを実運用",
+    "topic_key": "einride-lidl-germany-cabless-truck-20260915",
+    "url_normalized": "reuters.com/business/retail-consumer/einride-lidl-deploy-first-cab-less-autonomous-truck-germany-2026-09-15"
   }
 ]

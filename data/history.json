@@ -642,7 +642,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-15-1200.html",
       "issue_id": "2026-09-15-1200",
       "published_at": "2026-09-15T12:00:00+09:00",
       "topic_count": 6,
@@ -653,6 +653,21 @@
         "waymo-go-nihon-kotsu-tokyo-2027-20260915",
         "asia-lng-china-india-demand-recovery-20260915",
         "anthropic-claude-financial-advisors-20260914"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-15-2200",
+      "published_at": "2026-09-15T22:00:00+09:00",
+      "topic_count": 7,
+      "topics": [
+        "japan-land-prices-fifth-year-20260915",
+        "bok-minutes-policy-split-20260915",
+        "germany-zew-september-sentiment-20260915",
+        "wto-trade-fragmentation-gdp-20260915",
+        "axelera-europa-ai-chip-deals-20260915",
+        "drc-us-minerals-task-force-20260915",
+        "einride-lidl-germany-cabless-truck-20260915"
       ]
     }
   ]

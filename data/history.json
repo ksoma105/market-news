@@ -656,7 +656,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-15-2200.html",
       "issue_id": "2026-09-15-2200",
       "published_at": "2026-09-15T22:00:00+09:00",
       "topic_count": 7,
@@ -668,6 +668,20 @@
         "axelera-europa-ai-chip-deals-20260915",
         "drc-us-minerals-task-force-20260915",
         "einride-lidl-germany-cabless-truck-20260915"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-16-0600",
+      "published_at": "2026-09-16T06:00:00+09:00",
+      "topic_count": 6,
+      "topics": [
+        "us-crypto-bill-senate-fails-market-20260915",
+        "canada-airport-concessions-investment-20260915",
+        "argentina-2027-budget-growth-inflation-20260915",
+        "spain-ai-agent-data-breach-20260915",
+        "renault-geely-brazil-investment-20260915",
+        "truist-auto-loan-sale-20260915"
       ]
     }
   ]

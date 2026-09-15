@@ -1,45 +1,5 @@
 [
   {
-    "first_seen": "2026-09-13T06:00:00+09:00",
-    "issue": "2026-09-13-0600",
-    "source": "Reuters",
-    "title": "ウクライナ、攻撃・港湾封鎖の経済損失はGDP比1.5ポイント",
-    "topic_key": "ukraine-attacks-blockade-economic-toll-20260912",
-    "url_normalized": "reuters.com/world/ukraine-braces-harsh-winter-russian-attacks-hit-economy-2026-09-12"
-  },
-  {
-    "first_seen": "2026-09-13T06:00:00+09:00",
-    "issue": "2026-09-13-0600",
-    "source": "Reuters",
-    "title": "印中首脳、経済関係の再構築へ—貿易不均衡と市場アクセスを協議",
-    "topic_key": "india-china-business-links-trade-imbalance-20260912",
-    "url_normalized": "reuters.com/world/china/chinas-xi-lands-delhi-brics-summit-indian-tv-channels-report-2026-09-12"
-  },
-  {
-    "first_seen": "2026-09-13T06:00:00+09:00",
-    "issue": "2026-09-13-0600",
-    "source": "Reuters",
-    "title": "インド中銀、Tata Sonsの登録解除を拒否—上場義務に接近",
-    "topic_key": "rbi-tata-sons-deregistration-rejected-20260912",
-    "url_normalized": "reuters.com/world/india/indias-central-bank-rejects-tata-sons-request-avoid-public-listing-sources-say-2026-09-12"
-  },
-  {
-    "first_seen": "2026-09-13T06:00:00+09:00",
-    "issue": "2026-09-13-0600",
-    "source": "Reuters",
-    "title": "OpenAI、2026年のIPOを見送り—AI安全性への対応を優先",
-    "topic_key": "openai-no-2026-ipo-ai-safety-20260912",
-    "url_normalized": "reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12"
-  },
-  {
-    "first_seen": "2026-09-13T06:00:00+09:00",
-    "issue": "2026-09-13-0600",
-    "source": "Reuters",
-    "title": "Tesla、次世代Roadsterを10月1日に発表へ—初公開から約9年",
-    "topic_key": "tesla-roadster-october-launch-20260912",
-    "url_normalized": "reuters.com/business/autos-transportation/tesla-signals-oct-1-launch-long-delayed-roadster-2026-09-12"
-  },
-  {
     "first_seen": "2026-09-13T12:00:00+09:00",
     "issue": "2026-09-13-1200",
     "source": "Reuters",
@@ -302,5 +262,53 @@
     "title": "独Lidl、国内初の運転席なしレベル4トラックを実運用",
     "topic_key": "einride-lidl-germany-cabless-truck-20260915",
     "url_normalized": "reuters.com/business/retail-consumer/einride-lidl-deploy-first-cab-less-autonomous-truck-germany-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-16T06:00:00+09:00",
+    "issue": "2026-09-16-0600",
+    "source": "Reuters / AP",
+    "title": "米上院、暗号資産包括法案を前進できず—関連株約9%安",
+    "topic_key": "us-crypto-bill-senate-fails-market-20260915",
+    "url_normalized": "reuters.com/business/bitcoin-crypto-stocks-remain-down-after-us-senate-fails-advance-regulatory-bill-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-16T06:00:00+09:00",
+    "issue": "2026-09-16-0600",
+    "source": "Reuters / カナダ首相府",
+    "title": "カナダ、4大空港運営に民間資金—投資公約は約5000億加ドル",
+    "topic_key": "canada-airport-concessions-investment-20260915",
+    "url_normalized": "reuters.com/business/canada-expects-strong-investment-interest-domestic-pension-funds-countrys-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-16T06:00:00+09:00",
+    "issue": "2026-09-16-0600",
+    "source": "Reuters / El Cronista",
+    "title": "アルゼンチン、2027年成長率4%・インフレ18%の予算案",
+    "topic_key": "argentina-2027-budget-growth-inflation-20260915",
+    "url_normalized": "reuters.com/world/americas/argentina-submits-2027-budget-bill-congress-foresees-4-gdp-growth-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-16T06:00:00+09:00",
+    "issue": "2026-09-16-0600",
+    "source": "Reuters / EFE",
+    "title": "スペイン当局、AIエージェント実行の初の個人情報侵害を受理",
+    "topic_key": "spain-ai-agent-data-breach-20260915",
+    "url_normalized": "reuters.com/business/spanish-data-watchdog-publicises-first-ai-agent-linked-data-breach-report-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-16T06:00:00+09:00",
+    "issue": "2026-09-16-0600",
+    "source": "Reuters / Cinco Días",
+    "title": "Renault・Geely、ブラジルに3.19億ユーロ追加投資",
+    "topic_key": "renault-geely-brazil-investment-20260915",
+    "url_normalized": "reuters.com/world/asia-pacific/renault-geely-invest-319-million-euros-brazil-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-16T06:00:00+09:00",
+    "issue": "2026-09-16-0600",
+    "source": "Reuters / Banking Dive",
+    "title": "Truist、55億ドルの自動車ローン売却—準プライム撤退",
+    "topic_key": "truist-auto-loan-sale-20260915",
+    "url_normalized": "reuters.com/legal/transactional/truist-financial-sell-55-billion-auto-loans-amid-overhaul-2026-09-15"
   }
 ]

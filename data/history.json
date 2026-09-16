@@ -685,7 +685,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-16-1200.html",
       "issue_id": "2026-09-16-1200",
       "published_at": "2026-09-16T12:00:00+09:00",
       "topic_count": 5,
@@ -695,6 +695,20 @@
         "us-iran-war-cbo-cost-estimate-20260915",
         "new-york-data-center-community-investment-20260915",
         "tesla-cybercab-nhtsa-certification-questions-20260915"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-16-2200",
+      "published_at": "2026-09-16T22:00:00+09:00",
+      "topic_count": 6,
+      "topics": [
+        "us-august-retail-sales-rebound-20260916",
+        "uk-august-cpi-31-20260916",
+        "india-nse-ipo-launch-20260916",
+        "google-terradot-brazil-carbon-removal-20260916",
+        "mccormick-unilever-uk-cma-probe-20260916",
+        "revolut-swiss-bank-license-investment-20260916"
       ]
     }
   ]

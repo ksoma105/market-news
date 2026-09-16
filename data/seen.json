@@ -1,21 +1,5 @@
 [
   {
-    "first_seen": "2026-09-13T22:00:00+09:00",
-    "issue": "2026-09-13-2200",
-    "source": "Reuters / FuturesBench",
-    "title": "円先物、投機筋が2月以来の買い越し—1週間で10万枚超改善",
-    "topic_key": "japan-yen-speculators-net-long-cftc-20260913",
-    "url_normalized": "reuters.com/world/asia-pacific/speculators-turn-net-long-yen-first-time-since-february-2026-09-13"
-  },
-  {
-    "first_seen": "2026-09-13T22:00:00+09:00",
-    "issue": "2026-09-13-2200",
-    "source": "Reuters / Dong-A Ilbo",
-    "title": "韓国、3500億ドル対米投資の細部合意へ—今週の決着目指す",
-    "topic_key": "south-korea-us-investment-plan-final-talks-20260913",
-    "url_normalized": "reuters.com/world/asia-pacific/south-korea-aims-finalise-details-us-investment-plan-this-week-minister-says-2026-09-13"
-  },
-  {
     "first_seen": "2026-09-14T06:00:00+09:00",
     "issue": "2026-09-14-0600",
     "source": "Reuters / Handelsblatt",
@@ -334,5 +318,53 @@
     "title": "米当局、TeslaにCybercab認証の回答要求—期限は9月30日",
     "topic_key": "tesla-cybercab-nhtsa-certification-questions-20260915",
     "url_normalized": "reuters.com/business/autos-transportation/us-agency-orders-tesla-answer-questions-cybercab-certification-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-16T22:00:00+09:00",
+    "issue": "2026-09-16-2200",
+    "source": "Reuters / 米国勢調査局",
+    "title": "米8月小売売上高1.2%増、予想上回る—個人消費の底堅さ示す",
+    "topic_key": "us-august-retail-sales-rebound-20260916",
+    "url_normalized": "reuters.com/business/retail-consumer/us-retail-sales-rebound-sharply-august-2026-09-16"
+  },
+  {
+    "first_seen": "2026-09-16T22:00:00+09:00",
+    "issue": "2026-09-16-2200",
+    "source": "Reuters / Financial Times",
+    "title": "英国8月CPI、5カ月ぶり高水準の3.1%—基調インフレは横ばい",
+    "topic_key": "uk-august-cpi-31-20260916",
+    "url_normalized": "reuters.com/world/uk/uk-inflation-speeds-up-31-august-2026-09-16"
+  },
+  {
+    "first_seen": "2026-09-16T22:00:00+09:00",
+    "issue": "2026-09-16-2200",
+    "source": "Reuters / Financial Express",
+    "title": "インドNSE、23億ドルIPO始動—評価額460億ドル",
+    "topic_key": "india-nse-ipo-launch-20260916",
+    "url_normalized": "reuters.com/world/india/indias-nse-launch-ipo-amid-investor-caution-over-derivatives-fuelled-growth-2026-09-16"
+  },
+  {
+    "first_seen": "2026-09-16T22:00:00+09:00",
+    "issue": "2026-09-16-2200",
+    "source": "Reuters",
+    "title": "Google、過去最大の炭素除去契約—ブラジル20万ヘクタールで実施",
+    "topic_key": "google-terradot-brazil-carbon-removal-20260916",
+    "url_normalized": "reuters.com/business/energy/google-agrees-biggest-carbon-removal-deal-yet-aims-scale-new-model-2026-09-16"
+  },
+  {
+    "first_seen": "2026-09-16T22:00:00+09:00",
+    "issue": "2026-09-16-2200",
+    "source": "Reuters / 英CMA",
+    "title": "英CMA、McCormick・Unilever食品事業の650億ドル統合を審査",
+    "topic_key": "mccormick-unilever-uk-cma-probe-20260916",
+    "url_normalized": "reuters.com/legal/litigation/mccormick-unilever-food-deal-faces-uk-competition-scrutiny-2026-09-16"
+  },
+  {
+    "first_seen": "2026-09-16T22:00:00+09:00",
+    "issue": "2026-09-16-2200",
+    "source": "Reuters",
+    "title": "Revolut、スイス銀行免許を申請—5年で1.5億フラン超投資",
+    "topic_key": "revolut-swiss-bank-license-investment-20260916",
+    "url_normalized": "reuters.com/business/finance/revolut-applies-swiss-banking-license-unveils-investment-plans-2026-09-16"
   }
 ]

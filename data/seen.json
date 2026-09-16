@@ -1,29 +1,5 @@
 [
   {
-    "first_seen": "2026-09-14T06:00:00+09:00",
-    "issue": "2026-09-14-0600",
-    "source": "Reuters / Handelsblatt",
-    "title": "独企業の対中投資、上期に3分の1増—対米は3分の2近く減",
-    "topic_key": "german-firms-china-us-investment-shift-20260913",
-    "url_normalized": "reuters.com/world/china/german-firms-lift-china-investment-us-outlays-fall-iw-study-shows-2026-09-13"
-  },
-  {
-    "first_seen": "2026-09-14T06:00:00+09:00",
-    "issue": "2026-09-14-0600",
-    "source": "Reuters / AP",
-    "title": "トランプ氏、アイリッシュウイスキー10%関税の撤廃を表明",
-    "topic_key": "us-irish-whiskey-tariff-removal-20260913",
-    "url_normalized": "reuters.com/world/us/trump-says-he-is-lifting-tariffs-irish-whiskey-2026-09-13"
-  },
-  {
-    "first_seen": "2026-09-14T06:00:00+09:00",
-    "issue": "2026-09-14-0600",
-    "source": "Reuters / AP",
-    "title": "米成人への5000ドル給付案、下院議長「議会承認が必要」",
-    "topic_key": "trump-5000-dividend-congress-approval-20260913",
-    "url_normalized": "reuters.com/world/us/trump-calls-5000-payouts-easy-fit-into-federal-budget-2026-09-13"
-  },
-  {
     "first_seen": "2026-09-14T12:00:00+09:00",
     "issue": "2026-09-14-1200",
     "source": "Reuters / HKEX",
@@ -366,5 +342,45 @@
     "title": "Revolut、スイス銀行免許を申請—5年で1.5億フラン超投資",
     "topic_key": "revolut-swiss-bank-license-investment-20260916",
     "url_normalized": "reuters.com/business/finance/revolut-applies-swiss-banking-license-unveils-investment-plans-2026-09-16"
+  },
+  {
+    "first_seen": "2026-09-17T06:00:00+09:00",
+    "issue": "2026-09-17-0600",
+    "source": "Reuters / FRB",
+    "title": "FRB、政策金利を0.25ポイント引き上げ—年内追加利上げを示唆",
+    "topic_key": "fed-september-rate-hike-375-400-20260916",
+    "url_normalized": "reuters.com/business/warshs-words-may-matter-more-than-anticipated-fed-rate-hike-2026-09-16"
+  },
+  {
+    "first_seen": "2026-09-17T06:00:00+09:00",
+    "issue": "2026-09-17-0600",
+    "source": "Reuters / Cohere",
+    "title": "CohereとAleph Alpha、正式な統合契約—評価額約200億ドル",
+    "topic_key": "cohere-aleph-alpha-definitive-merger-20260916",
+    "url_normalized": "reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16"
+  },
+  {
+    "first_seen": "2026-09-17T06:00:00+09:00",
+    "issue": "2026-09-17-0600",
+    "source": "Reuters",
+    "title": "米DFC、ウクライナDTEKに8,500万ユーロ融資—蓄電容量を拡大",
+    "topic_key": "us-dfc-dtek-battery-loan-20260916",
+    "url_normalized": "reuters.com/business/us-dfc-approves-85-million-loan-ukraines-dtek-2026-09-16"
+  },
+  {
+    "first_seen": "2026-09-17T06:00:00+09:00",
+    "issue": "2026-09-17-0600",
+    "source": "Reuters",
+    "title": "RWE、独送電大手Amprionの実質持分を約58%へ引き上げ",
+    "topic_key": "rwe-m31-amprion-stake-58-20260916",
+    "url_normalized": "reuters.com/business/finance/rwe-buys-3-more-m31-lifts-its-amprion-stake-about-58-2026-09-16"
+  },
+  {
+    "first_seen": "2026-09-17T06:00:00+09:00",
+    "issue": "2026-09-17-0600",
+    "source": "Reuters",
+    "title": "Hy24・COFIDES、スペイン大型グリーン水素計画の29%取得へ",
+    "topic_key": "hy24-cofides-moeve-onuba-hydrogen-20260916",
+    "url_normalized": "reuters.com/business/energy/hy24-cofides-buy-29-stake-moeves-green-hydrogen-project-southern-spain-2026-09-16"
   }
 ]

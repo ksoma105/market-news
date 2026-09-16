@@ -698,7 +698,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-16-2200.html",
       "issue_id": "2026-09-16-2200",
       "published_at": "2026-09-16T22:00:00+09:00",
       "topic_count": 6,
@@ -709,6 +709,19 @@
         "google-terradot-brazil-carbon-removal-20260916",
         "mccormick-unilever-uk-cma-probe-20260916",
         "revolut-swiss-bank-license-investment-20260916"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-17-0600",
+      "published_at": "2026-09-17T06:00:00+09:00",
+      "topic_count": 5,
+      "topics": [
+        "fed-september-rate-hike-375-400-20260916",
+        "cohere-aleph-alpha-definitive-merger-20260916",
+        "us-dfc-dtek-battery-loan-20260916",
+        "rwe-m31-amprion-stake-58-20260916",
+        "hy24-cofides-moeve-onuba-hydrogen-20260916"
       ]
     }
   ]

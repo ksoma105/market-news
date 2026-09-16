@@ -671,7 +671,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-16-0600.html",
       "issue_id": "2026-09-16-0600",
       "published_at": "2026-09-16T06:00:00+09:00",
       "topic_count": 6,
@@ -682,6 +682,19 @@
         "spain-ai-agent-data-breach-20260915",
         "renault-geely-brazil-investment-20260915",
         "truist-auto-loan-sale-20260915"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-16-1200",
+      "published_at": "2026-09-16T12:00:00+09:00",
+      "topic_count": 5,
+      "topics": [
+        "japan-august-trade-imports-exports-20260916",
+        "boeing-korean-air-103-aircraft-order-finalized-20260916",
+        "us-iran-war-cbo-cost-estimate-20260915",
+        "new-york-data-center-community-investment-20260915",
+        "tesla-cybercab-nhtsa-certification-questions-20260915"
       ]
     }
   ]

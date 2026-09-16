@@ -1,21 +1,5 @@
 [
   {
-    "first_seen": "2026-09-13T12:00:00+09:00",
-    "issue": "2026-09-13-1200",
-    "source": "Reuters",
-    "title": "現代自、独自運転支援を2029年末に延期—28年はNvidiaと展開",
-    "topic_key": "hyundai-inhouse-adas-2029-nvidia-2028-20260913",
-    "url_normalized": "reuters.com/business/autos-transportation/hyundai-motor-roll-out-in-house-driver-assist-system-2029-2026-09-13"
-  },
-  {
-    "first_seen": "2026-09-13T12:00:00+09:00",
-    "issue": "2026-09-13-1200",
-    "source": "Reuters / Aju Press",
-    "title": "韓国、スパイ罪を全外国向けに拡大—半導体など技術流出に対応",
-    "topic_key": "south-korea-expanded-espionage-law-chip-protection-20260913",
-    "url_normalized": "reuters.com/world/china/south-koreas-expanded-espionage-law-takes-effect-amid-push-protect-chip-2026-09-13"
-  },
-  {
     "first_seen": "2026-09-13T22:00:00+09:00",
     "issue": "2026-09-13-2200",
     "source": "Reuters / FuturesBench",
@@ -310,5 +294,45 @@
     "title": "Truist、55億ドルの自動車ローン売却—準プライム撤退",
     "topic_key": "truist-auto-loan-sale-20260915",
     "url_normalized": "reuters.com/legal/transactional/truist-financial-sell-55-billion-auto-loans-amid-overhaul-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-16T12:00:00+09:00",
+    "issue": "2026-09-16-1200",
+    "source": "Reuters / 財務省",
+    "title": "日本の8月輸入28%増、貿易赤字1.1兆円—原油高が押し上げ",
+    "topic_key": "japan-august-trade-imports-exports-20260916",
+    "url_normalized": "reuters.com/world/asia-pacific/japan-august-imports-jump-oil-prices-lift-costs-exports-stay-firm-2026-09-16"
+  },
+  {
+    "first_seen": "2026-09-16T12:00:00+09:00",
+    "issue": "2026-09-16-1200",
+    "source": "Reuters / Boeing",
+    "title": "大韓航空、Boeing機103機の発注を確定—定価362億ドル",
+    "topic_key": "boeing-korean-air-103-aircraft-order-finalized-20260916",
+    "url_normalized": "reuters.com/business/aerospace-defense/boeing-korean-air-finalize-order-103-aircraft-2026-09-16"
+  },
+  {
+    "first_seen": "2026-09-16T12:00:00+09:00",
+    "issue": "2026-09-16-1200",
+    "source": "Reuters / CBO",
+    "title": "米国の対イラン戦費380億ドル、月20億〜30億ドル増—CBO",
+    "topic_key": "us-iran-war-cbo-cost-estimate-20260915",
+    "url_normalized": "reuters.com/world/middle-east/iran-war-cost-hits-38-billion-forecast-rise-3-billion-month-cbo-says-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-16T12:00:00+09:00",
+    "issue": "2026-09-16-1200",
+    "source": "Reuters / NY州政府",
+    "title": "NY州、データセンターに1MW当たり100万ドルの地域投資を推奨",
+    "topic_key": "new-york-data-center-community-investment-20260915",
+    "url_normalized": "reuters.com/business/retail-consumer/new-york-proposes-1-million-per-megawatt-community-investment-data-centers-2026-09-15"
+  },
+  {
+    "first_seen": "2026-09-16T12:00:00+09:00",
+    "issue": "2026-09-16-1200",
+    "source": "Reuters / NHTSA",
+    "title": "米当局、TeslaにCybercab認証の回答要求—期限は9月30日",
+    "topic_key": "tesla-cybercab-nhtsa-certification-questions-20260915",
+    "url_normalized": "reuters.com/business/autos-transportation/us-agency-orders-tesla-answer-questions-cybercab-certification-2026-09-15"
   }
 ]

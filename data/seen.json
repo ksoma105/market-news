@@ -1,45 +1,5 @@
 [
   {
-    "first_seen": "2026-09-15T06:00:00+09:00",
-    "issue": "2026-09-15-0600",
-    "source": "Reuters / WSJ",
-    "title": "米10年債利回りが5%突破、半導体株安で主要3指数下落",
-    "topic_key": "us-treasury-yield-5-chip-stocks-20260914",
-    "url_normalized": "reuters.com/business/us-10-year-yields-reach-5-highest-since-2023-2026-09-14"
-  },
-  {
-    "first_seen": "2026-09-15T06:00:00+09:00",
-    "issue": "2026-09-15-0600",
-    "source": "Reuters / EIA",
-    "title": "米戦略石油備蓄、2.85億バレル—1982年以来の低水準",
-    "topic_key": "us-spr-lowest-1982-20260914",
-    "url_normalized": "reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-lowest-level-since-1982-2026-09-14"
-  },
-  {
-    "first_seen": "2026-09-15T06:00:00+09:00",
-    "issue": "2026-09-15-0600",
-    "source": "Reuters / 米財務省",
-    "title": "米財務省、ロシアVTB銀行に対イラン追加制裁",
-    "topic_key": "us-vtb-iran-sanctions-20260914",
-    "url_normalized": "reuters.com/world/middle-east/us-imposes-iran-related-sanctions-russias-vtb-2026-09-14"
-  },
-  {
-    "first_seen": "2026-09-15T06:00:00+09:00",
-    "issue": "2026-09-15-0600",
-    "source": "Reuters / Bank of America",
-    "title": "バンカメ、7〜9月投資銀行手数料は少なくとも10%減へ",
-    "topic_key": "bofa-q3-investment-banking-fees-20260914",
-    "url_normalized": "reuters.com/business/finance/bank-america-ceo-sees-least-10-drop-q3-investment-banking-fees-2026-09-14"
-  },
-  {
-    "first_seen": "2026-09-15T06:00:00+09:00",
-    "issue": "2026-09-15-0600",
-    "source": "Reuters / ECB",
-    "title": "ラガルドECB総裁、欧州のAI自立へ最大6,000億ユーロ投資を示唆",
-    "topic_key": "lagarde-europe-ai-sovereignty-20260914",
-    "url_normalized": "reuters.com/business/finance/europe-facing-unprecedented-risk-being-cut-off-ai-lagarde-warns-2026-09-14"
-  },
-  {
     "first_seen": "2026-09-15T12:00:00+09:00",
     "issue": "2026-09-15-1200",
     "source": "Reuters / WSJ",
@@ -406,5 +366,61 @@
     "title": "LucidとBolt、欧州で自動運転車2万5,000台を展開へ",
     "topic_key": "lucid-bolt-europe-25000-robotaxis-20260917",
     "url_normalized": "reuters.com/technology/lucid-bolt-team-up-deploy-25000-robotaxis-across-europe-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-18T06:00:00+09:00",
+    "issue": "2026-09-18-0600",
+    "source": "Reuters / 米SEC",
+    "title": "米SEC、トークン化株式に5年間の「イノベーション免除」",
+    "topic_key": "us-sec-tokenized-stock-innovation-exemption-20260917",
+    "url_normalized": "reuters.com/world/us-securities-regulator-rolls-out-five-year-exemption-tokenized-stock-trading-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-18T06:00:00+09:00",
+    "issue": "2026-09-18-0600",
+    "source": "Reuters / 世界銀行",
+    "title": "世界銀行、民間資金動員が過去最高の1,120億ドル",
+    "topic_key": "world-bank-private-capital-record-112b-20260917",
+    "url_normalized": "reuters.com/legal/transactional/world-bank-boosts-private-capital-mobilization-record-112-billion-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-18T06:00:00+09:00",
+    "issue": "2026-09-18-0600",
+    "source": "Reuters",
+    "title": "NexperiaとTata、インドで半導体の製造・後工程を提携",
+    "topic_key": "nexperia-tata-india-chip-partnership-20260917",
+    "url_normalized": "reuters.com/world/china/nexperia-says-it-will-partner-with-tata-chip-production-packaging-india-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-18T06:00:00+09:00",
+    "issue": "2026-09-18-0600",
+    "source": "Reuters",
+    "title": "GlobalFoundriesとMarvell、AIデータセンター向け光通信半導体を増産",
+    "topic_key": "globalfoundries-marvell-sige-capacity-20260917",
+    "url_normalized": "reuters.com/business/globalfoundries-marvell-expand-chip-capacity-deal-ai-data-center-connectivity-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-18T06:00:00+09:00",
+    "issue": "2026-09-18-0600",
+    "source": "Reuters",
+    "title": "CoreWeave、転換社債30億ドルを発行へ—追加枠5億ドル",
+    "topic_key": "coreweave-convertible-debt-3b-20260917",
+    "url_normalized": "reuters.com/legal/transactional/coreweave-launches-3-billion-convertible-debt-sale-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-18T06:00:00+09:00",
+    "issue": "2026-09-18-0600",
+    "source": "Reuters",
+    "title": "GM Defense、Patriot迎撃弾部品を22日で初納入",
+    "topic_key": "lockheed-gm-patriot-parts-20260917",
+    "url_normalized": "reuters.com/business/autos-transportation/lockheed-martin-gets-first-batch-patriot-interceptor-parts-general-motors-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-18T06:00:00+09:00",
+    "issue": "2026-09-18-0600",
+    "source": "Reuters",
+    "title": "仏CEAとAlice & Bob、量子・スーパーコンピューター連携ソフトを共同開発",
+    "topic_key": "cea-alice-bob-quantum-supercomputing-software-20260917",
+    "url_normalized": "reuters.com/technology/frances-cea-alice-bob-partner-quantum-supercomputing-software-2026-09-17"
   }
 ]

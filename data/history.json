@@ -738,7 +738,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-17-2200.html",
       "issue_id": "2026-09-17-2200",
       "published_at": "2026-09-17T22:00:00+09:00",
       "topic_count": 6,
@@ -749,6 +749,21 @@
         "germany-imk-growth-forecast-13-20260917",
         "novo-orbis-oral-drugs-deal-14b-20260917",
         "lucid-bolt-europe-25000-robotaxis-20260917"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-18-0600",
+      "published_at": "2026-09-18T06:00:00+09:00",
+      "topic_count": 7,
+      "topics": [
+        "us-sec-tokenized-stock-innovation-exemption-20260917",
+        "world-bank-private-capital-record-112b-20260917",
+        "nexperia-tata-india-chip-partnership-20260917",
+        "globalfoundries-marvell-sige-capacity-20260917",
+        "coreweave-convertible-debt-3b-20260917",
+        "lockheed-gm-patriot-parts-20260917",
+        "cea-alice-bob-quantum-supercomputing-software-20260917"
       ]
     }
   ]

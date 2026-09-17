@@ -725,16 +725,30 @@
       ]
     },
     {
+      "html_path": "docs/archive/2026-09-17-1200.html",
       "issue_id": "2026-09-17-1200",
       "published_at": "2026-09-17T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
       "topics": [
         "us-house-ratepayer-protection-act-data-centers-20260916",
         "new-zealand-q2-gdp-growth-20260917",
         "brazil-central-bank-fifth-rate-cut-1375-20260916",
         "jera-overseas-lng-sales-expansion-20260917",
         "huawei-2027-ai-chips-960dt-960pr-20260917"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-17-2200",
+      "published_at": "2026-09-17T22:00:00+09:00",
+      "topic_count": 6,
+      "topics": [
+        "boe-september-hold-375-inflation-upside-20260917",
+        "us-weekly-jobless-claims-196k-20260917",
+        "eu-kids-act-under13-social-media-ban-20260917",
+        "germany-imk-growth-forecast-13-20260917",
+        "novo-orbis-oral-drugs-deal-14b-20260917",
+        "lucid-bolt-europe-25000-robotaxis-20260917"
       ]
     }
   ]

@@ -1,45 +1,5 @@
 [
   {
-    "first_seen": "2026-09-14T22:00:00+09:00",
-    "issue": "2026-09-14-2200",
-    "source": "Reuters",
-    "title": "ECBカザークス氏、追加利上げの必要性が高まると指摘",
-    "topic_key": "ecb-kazaks-further-tightening-20260914",
-    "url_normalized": "reuters.com/business/finance/ecbs-kazaks-sees-growing-case-more-tightening-2026-09-14"
-  },
-  {
-    "first_seen": "2026-09-14T22:00:00+09:00",
-    "issue": "2026-09-14-2200",
-    "source": "Reuters",
-    "title": "JPMorgan、フロンティア国の現地通貨建て債指数を月末導入へ",
-    "topic_key": "jpmorgan-gbi-em-edge-frontier-index-20260914",
-    "url_normalized": "reuters.com/world/asia-pacific/jpmorgan-launch-frontier-market-local-currency-debt-index-by-month-end-source-2026-09-14"
-  },
-  {
-    "first_seen": "2026-09-14T22:00:00+09:00",
-    "issue": "2026-09-14-2200",
-    "source": "Reuters",
-    "title": "カナダ、160超の案件を世界の投資家に提示—5年で1兆加ドル目標",
-    "topic_key": "canada-investment-summit-160-projects-20260914",
-    "url_normalized": "reuters.com/business/carney-locked-us-trade-war-pitches-canada-global-investment-titans-2026-09-14"
-  },
-  {
-    "first_seen": "2026-09-14T22:00:00+09:00",
-    "issue": "2026-09-14-2200",
-    "source": "Reuters",
-    "title": "ダンゴート製油所、アフリカ最大IPOを開始—最大21億ドル調達",
-    "topic_key": "dangote-refinery-ipo-launch-20260914",
-    "url_normalized": "reuters.com/business/energy/nigerian-billionaire-dangote-launches-oil-refinery-ipo-africas-biggest-share-2026-09-14"
-  },
-  {
-    "first_seen": "2026-09-14T22:00:00+09:00",
-    "issue": "2026-09-14-2200",
-    "source": "Reuters / BIS",
-    "title": "BIS、AI相場の脆弱性を警告—テック向け民間融資は1兆ドル超",
-    "topic_key": "bis-ai-private-credit-vulnerability-20260914",
-    "url_normalized": "reuters.com/markets/europe/global-markets-bis-pix-2026-09-14"
-  },
-  {
     "first_seen": "2026-09-15T06:00:00+09:00",
     "issue": "2026-09-15-0600",
     "source": "Reuters / WSJ",
@@ -360,43 +320,91 @@
     "url_normalized": "reuters.com/business/energy/hy24-cofides-buy-29-stake-moeves-green-hydrogen-project-southern-spain-2026-09-16"
   },
   {
-    "url_normalized": "reuters.com/world/us-house-advances-first-bill-addressing-economic-impacts-data-center-boom-2026-09-16",
+    "first_seen": "2026-09-17T12:00:00+09:00",
+    "issue": "2026-09-17-1200",
+    "source": "Reuters / 米下院議員事務所",
     "title": "米下院、データセンター電力費の家計転嫁抑制法案を417対3で可決",
     "topic_key": "us-house-ratepayer-protection-act-data-centers-20260916",
-    "source": "Reuters / 米下院議員事務所",
-    "first_seen": "2026-09-17T12:00:00+09:00",
-    "issue": "2026-09-17-1200"
+    "url_normalized": "reuters.com/world/us-house-advances-first-bill-addressing-economic-impacts-data-center-boom-2026-09-16"
   },
   {
-    "url_normalized": "reuters.com/world/asia-pacific/new-zealands-economy-grows-02-q2-2026-09-16",
+    "first_seen": "2026-09-17T12:00:00+09:00",
+    "issue": "2026-09-17-1200",
+    "source": "Reuters",
     "title": "ニュージーランド4〜6月GDP、前期比0.2%増—市場予想を上回る",
     "topic_key": "new-zealand-q2-gdp-growth-20260917",
-    "source": "Reuters",
-    "first_seen": "2026-09-17T12:00:00+09:00",
-    "issue": "2026-09-17-1200"
+    "url_normalized": "reuters.com/world/asia-pacific/new-zealands-economy-grows-02-q2-2026-09-16"
   },
   {
-    "url_normalized": "reuters.com/world/americas/brazil-central-bank-cuts-rates-fifth-straight-meeting-2026-09-16",
+    "first_seen": "2026-09-17T12:00:00+09:00",
+    "issue": "2026-09-17-1200",
+    "source": "Reuters / Folha de S.Paulo",
     "title": "ブラジル中銀、5会合連続で利下げ—政策金利13.75%",
     "topic_key": "brazil-central-bank-fifth-rate-cut-1375-20260916",
-    "source": "Reuters / Folha de S.Paulo",
-    "first_seen": "2026-09-17T12:00:00+09:00",
-    "issue": "2026-09-17-1200"
+    "url_normalized": "reuters.com/world/americas/brazil-central-bank-cuts-rates-fifth-straight-meeting-2026-09-16"
   },
   {
-    "url_normalized": "reuters.com/business/energy/jera-expects-more-overseas-lng-sales-it-expands-trading-portfolio-2026-09-17",
+    "first_seen": "2026-09-17T12:00:00+09:00",
+    "issue": "2026-09-17-1200",
+    "source": "Reuters",
     "title": "JERA、海外向けLNG販売を拡大へ—年3,500万〜4,000万トンを運用",
     "topic_key": "jera-overseas-lng-sales-expansion-20260917",
-    "source": "Reuters",
-    "first_seen": "2026-09-17T12:00:00+09:00",
-    "issue": "2026-09-17-1200"
+    "url_normalized": "reuters.com/business/energy/jera-expects-more-overseas-lng-sales-it-expands-trading-portfolio-2026-09-17"
   },
   {
-    "url_normalized": "reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17",
+    "first_seen": "2026-09-17T12:00:00+09:00",
+    "issue": "2026-09-17-1200",
+    "source": "Reuters",
     "title": "Huawei、2027年にAI半導体2種を投入へ",
     "topic_key": "huawei-2027-ai-chips-960dt-960pr-20260917",
+    "url_normalized": "reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-17T22:00:00+09:00",
+    "issue": "2026-09-17-2200",
+    "source": "Reuters / Bank of England",
+    "title": "英中銀、政策金利3.75%を維持—3人は4%への利上げを主張",
+    "topic_key": "boe-september-hold-375-inflation-upside-20260917",
+    "url_normalized": "reuters.com/business/finance/bank-england-sounds-inflation-alarm-it-holds-interest-rates-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-17T22:00:00+09:00",
+    "issue": "2026-09-17-2200",
+    "source": "Reuters / U.S. Department of Labor",
+    "title": "米新規失業保険申請、19.6万件へ減少—市場予想を下回る",
+    "topic_key": "us-weekly-jobless-claims-196k-20260917",
+    "url_normalized": "reuters.com/business/us-weekly-jobless-claims-unexpectedly-fall-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-17T22:00:00+09:00",
+    "issue": "2026-09-17-2200",
+    "source": "Reuters / European Commission",
+    "title": "EU、13歳未満のSNS利用禁止案—違反時は世界売上高の最大6%",
+    "topic_key": "eu-kids-act-under13-social-media-ban-20260917",
+    "url_normalized": "reuters.com/world/eu-commission-proposes-social-media-ban-children-under-13-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-17T22:00:00+09:00",
+    "issue": "2026-09-17-2200",
+    "source": "Reuters / Hans-Böckler-Stiftung",
+    "title": "独IMK、2026年成長率予想を1.3%へ上方修正",
+    "topic_key": "germany-imk-growth-forecast-13-20260917",
+    "url_normalized": "reuters.com/business/germanys-imk-institute-more-than-doubles-economic-growth-forecast-2026-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-17T22:00:00+09:00",
+    "issue": "2026-09-17-2200",
     "source": "Reuters",
-    "first_seen": "2026-09-17T12:00:00+09:00",
-    "issue": "2026-09-17-1200"
+    "title": "Novo NordiskとOrbis、最大14億ドルの経口薬開発契約",
+    "topic_key": "novo-orbis-oral-drugs-deal-14b-20260917",
+    "url_normalized": "reuters.com/legal/litigation/novo-orbis-sign-up-14-billion-deal-develop-oral-drugs-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-17T22:00:00+09:00",
+    "issue": "2026-09-17-2200",
+    "source": "Reuters",
+    "title": "LucidとBolt、欧州で自動運転車2万5,000台を展開へ",
+    "topic_key": "lucid-bolt-europe-25000-robotaxis-20260917",
+    "url_normalized": "reuters.com/technology/lucid-bolt-team-up-deploy-25000-robotaxis-across-europe-2026-09-17"
   }
 ]

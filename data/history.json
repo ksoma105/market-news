@@ -712,7 +712,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-17-0600.html",
       "issue_id": "2026-09-17-0600",
       "published_at": "2026-09-17T06:00:00+09:00",
       "topic_count": 5,
@@ -722,6 +722,19 @@
         "us-dfc-dtek-battery-loan-20260916",
         "rwe-m31-amprion-stake-58-20260916",
         "hy24-cofides-moeve-onuba-hydrogen-20260916"
+      ]
+    },
+    {
+      "issue_id": "2026-09-17-1200",
+      "published_at": "2026-09-17T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-house-ratepayer-protection-act-data-centers-20260916",
+        "new-zealand-q2-gdp-growth-20260917",
+        "brazil-central-bank-fifth-rate-cut-1375-20260916",
+        "jera-overseas-lng-sales-expansion-20260917",
+        "huawei-2027-ai-chips-960dt-960pr-20260917"
       ]
     }
   ]

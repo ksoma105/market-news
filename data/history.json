@@ -752,7 +752,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-18-0600.html",
       "issue_id": "2026-09-18-0600",
       "published_at": "2026-09-18T06:00:00+09:00",
       "topic_count": 7,
@@ -764,6 +764,20 @@
         "coreweave-convertible-debt-3b-20260917",
         "lockheed-gm-patriot-parts-20260917",
         "cea-alice-bob-quantum-supercomputing-software-20260917"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-18-1200",
+      "published_at": "2026-09-18T12:00:00+09:00",
+      "topic_count": 6,
+      "topics": [
+        "boj-rate-hike-125-20260918",
+        "rba-inflation-risks-materialising-20260918",
+        "vietnam-ftse-secondary-emerging-20260918",
+        "south-korea-fuel-tax-cuts-november-20260918",
+        "tata-sons-chairman-listing-20260917",
+        "highpeak-energy-sale-exploration-20260917"
       ]
     }
   ]

@@ -1,53 +1,5 @@
 [
   {
-    "first_seen": "2026-09-15T12:00:00+09:00",
-    "issue": "2026-09-15-1200",
-    "source": "Reuters / WSJ",
-    "title": "日本、食品消費税1%化の大綱案—財源明記見送りで国債警戒",
-    "topic_key": "japan-food-tax-cut-outline-funding-20260915",
-    "url_normalized": "reuters.com/world/asia-pacific/japan-sidestep-funding-tax-cut-outline-keep-fiscal-concern-alive-2026-09-15"
-  },
-  {
-    "first_seen": "2026-09-15T12:00:00+09:00",
-    "issue": "2026-09-15-1200",
-    "source": "Reuters / 中国国家統計局",
-    "title": "中国8月の工業生産5.2%増、消費は0.4%増へ鈍化",
-    "topic_key": "china-august-industrial-retail-investment-20260915",
-    "url_normalized": "reuters.com/world/china/chinas-factory-output-growth-quickens-in-august-retail-sales-slow-2026-09-15"
-  },
-  {
-    "first_seen": "2026-09-15T12:00:00+09:00",
-    "issue": "2026-09-15-1200",
-    "source": "Reuters / ソフトバンクグループ",
-    "title": "SB Energy、米IPOで日本投資家向け最大5億ドルを設定",
-    "topic_key": "sb-energy-japan-investor-shares-us-ipo-20260915",
-    "url_normalized": "reuters.com/business/energy/sb-energy-sell-up-500-million-shares-japan-investors-part-us-ipo-2026-09-15"
-  },
-  {
-    "first_seen": "2026-09-15T12:00:00+09:00",
-    "issue": "2026-09-15-1200",
-    "source": "Reuters / Waymo",
-    "title": "Waymo・GO・日本交通、2027年に東京で無人タクシー",
-    "topic_key": "waymo-go-nihon-kotsu-tokyo-2027-20260915",
-    "url_normalized": "reuters.com/world/asia-pacific/waymo-japanese-partners-target-driverless-taxi-service-tokyo-2027-2026-09-15"
-  },
-  {
-    "first_seen": "2026-09-15T12:00:00+09:00",
-    "issue": "2026-09-15-1200",
-    "source": "Reuters",
-    "title": "アジアLNG価格30ドル近辺、印中需要は供給正常化後に回復見通し",
-    "topic_key": "asia-lng-china-india-demand-recovery-20260915",
-    "url_normalized": "reuters.com/business/energy/lng-demand-china-india-expected-recover-when-mideast-war-ends-2026-09-15"
-  },
-  {
-    "first_seen": "2026-09-15T12:00:00+09:00",
-    "issue": "2026-09-15-1200",
-    "source": "Reuters / Anthropic",
-    "title": "Anthropic、金融アドバイザー向けClaudeを投入",
-    "topic_key": "anthropic-claude-financial-advisors-20260914",
-    "url_normalized": "reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14"
-  },
-  {
     "first_seen": "2026-09-15T22:00:00+09:00",
     "issue": "2026-09-15-2200",
     "source": "Reuters / 国土交通省",
@@ -422,5 +374,53 @@
     "title": "仏CEAとAlice & Bob、量子・スーパーコンピューター連携ソフトを共同開発",
     "topic_key": "cea-alice-bob-quantum-supercomputing-software-20260917",
     "url_normalized": "reuters.com/technology/frances-cea-alice-bob-partner-quantum-supercomputing-software-2026-09-17"
+  },
+  {
+    "first_seen": "2026-09-18T12:00:00+09:00",
+    "issue": "2026-09-18-1200",
+    "source": "Reuters",
+    "title": "日銀、政策金利を1.25%へ引き上げ—31年ぶり高水準",
+    "topic_key": "boj-rate-hike-125-20260918",
+    "url_normalized": "reuters.com/live/boj-decision-live-japans-policy-interest-rate-set-rise-31-year-high-2026-09-18/"
+  },
+  {
+    "first_seen": "2026-09-18T12:00:00+09:00",
+    "issue": "2026-09-18-1200",
+    "source": "Reuters",
+    "title": "豪中銀総裁、インフレ上振れリスクの顕在化を警告",
+    "topic_key": "rba-inflation-risks-materialising-20260918",
+    "url_normalized": "reuters.com/world/asia-pacific/australias-central-bank-chief-warns-inflation-risks-materialising-2026-09-18/"
+  },
+  {
+    "first_seen": "2026-09-18T12:00:00+09:00",
+    "issue": "2026-09-18-1200",
+    "source": "Reuters",
+    "title": "ベトナム株、FTSE新興国昇格を前に海外資金が流入",
+    "topic_key": "vietnam-ftse-secondary-emerging-20260918",
+    "url_normalized": "reuters.com/world/asia-pacific/foreign-investors-buy-vietnam-stocks-ahead-ftse-market-upgrade-2026-09-18/"
+  },
+  {
+    "first_seen": "2026-09-18T12:00:00+09:00",
+    "issue": "2026-09-18-1200",
+    "source": "Reuters",
+    "title": "韓国、燃料税引き下げを11月末まで延長",
+    "topic_key": "south-korea-fuel-tax-cuts-november-20260918",
+    "url_normalized": "reuters.com/business/energy/south-korea-extends-fuel-tax-cuts-until-end-november-2026-09-17/"
+  },
+  {
+    "first_seen": "2026-09-18T12:00:00+09:00",
+    "issue": "2026-09-18-1200",
+    "source": "Reuters",
+    "title": "Tata Sons、会長を5年再任—上場検討で筆頭株主と対立",
+    "topic_key": "tata-sons-chairman-listing-20260917",
+    "url_normalized": "reuters.com/world/india/indias-tata-sons-board-approves-fresh-five-year-term-chairman-chandrasekaran-2026-09-17/"
+  },
+  {
+    "first_seen": "2026-09-18T12:00:00+09:00",
+    "issue": "2026-09-18-1200",
+    "source": "Reuters",
+    "title": "米シェールHighPeak、買収提案受け会社売却を検討",
+    "topic_key": "highpeak-energy-sale-exploration-20260917",
+    "url_normalized": "reuters.com/business/energy/us-shale-oil-producer-highpeak-energy-exploring-sale-sources-say-2026-09-17/"
   }
 ]

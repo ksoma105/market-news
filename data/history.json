@@ -781,7 +781,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-18-2200.html",
       "issue_id": "2026-09-18-2200",
       "published_at": "2026-09-18T22:00:00+09:00",
       "topic_count": 7,
@@ -793,6 +793,19 @@
         "berkshire-buffett-chairman-succession-20260918",
         "anthropic-biology-wet-lab-20260918",
         "china-rare-earth-shenghe-acquisition-talks-20260918"
+      ]
+    },
+    {
+      "html_path": "docs/index.html",
+      "issue_id": "2026-09-19-0600",
+      "published_at": "2026-09-19T06:00:00+09:00",
+      "topic_count": 5,
+      "topics": [
+        "us-factory-output-august-decline-20260918",
+        "nasa-spacex-three-crew-missions-20260918",
+        "inpost-fedex-advent-tender-acceptance-20260918",
+        "nscale-us-ipo-filing-20260918",
+        "us-auto-groups-china-market-letter-20260918"
       ]
     }
   ]

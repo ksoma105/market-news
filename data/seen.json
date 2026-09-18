@@ -1,53 +1,5 @@
 [
   {
-    "first_seen": "2026-09-16T06:00:00+09:00",
-    "issue": "2026-09-16-0600",
-    "source": "Reuters / AP",
-    "title": "米上院、暗号資産包括法案を前進できず—関連株約9%安",
-    "topic_key": "us-crypto-bill-senate-fails-market-20260915",
-    "url_normalized": "reuters.com/business/bitcoin-crypto-stocks-remain-down-after-us-senate-fails-advance-regulatory-bill-2026-09-15"
-  },
-  {
-    "first_seen": "2026-09-16T06:00:00+09:00",
-    "issue": "2026-09-16-0600",
-    "source": "Reuters / カナダ首相府",
-    "title": "カナダ、4大空港運営に民間資金—投資公約は約5000億加ドル",
-    "topic_key": "canada-airport-concessions-investment-20260915",
-    "url_normalized": "reuters.com/business/canada-expects-strong-investment-interest-domestic-pension-funds-countrys-2026-09-15"
-  },
-  {
-    "first_seen": "2026-09-16T06:00:00+09:00",
-    "issue": "2026-09-16-0600",
-    "source": "Reuters / El Cronista",
-    "title": "アルゼンチン、2027年成長率4%・インフレ18%の予算案",
-    "topic_key": "argentina-2027-budget-growth-inflation-20260915",
-    "url_normalized": "reuters.com/world/americas/argentina-submits-2027-budget-bill-congress-foresees-4-gdp-growth-2026-09-15"
-  },
-  {
-    "first_seen": "2026-09-16T06:00:00+09:00",
-    "issue": "2026-09-16-0600",
-    "source": "Reuters / EFE",
-    "title": "スペイン当局、AIエージェント実行の初の個人情報侵害を受理",
-    "topic_key": "spain-ai-agent-data-breach-20260915",
-    "url_normalized": "reuters.com/business/spanish-data-watchdog-publicises-first-ai-agent-linked-data-breach-report-2026-09-15"
-  },
-  {
-    "first_seen": "2026-09-16T06:00:00+09:00",
-    "issue": "2026-09-16-0600",
-    "source": "Reuters / Cinco Días",
-    "title": "Renault・Geely、ブラジルに3.19億ユーロ追加投資",
-    "topic_key": "renault-geely-brazil-investment-20260915",
-    "url_normalized": "reuters.com/world/asia-pacific/renault-geely-invest-319-million-euros-brazil-2026-09-15"
-  },
-  {
-    "first_seen": "2026-09-16T06:00:00+09:00",
-    "issue": "2026-09-16-0600",
-    "source": "Reuters / Banking Dive",
-    "title": "Truist、55億ドルの自動車ローン売却—準プライム撤退",
-    "topic_key": "truist-auto-loan-sale-20260915",
-    "url_normalized": "reuters.com/legal/transactional/truist-financial-sell-55-billion-auto-loans-amid-overhaul-2026-09-15"
-  },
-  {
     "first_seen": "2026-09-16T12:00:00+09:00",
     "issue": "2026-09-16-1200",
     "source": "Reuters / 財務省",
@@ -422,5 +374,45 @@
     "title": "中国レアアース集団、盛和資源の買収を協議と報道",
     "topic_key": "china-rare-earth-shenghe-acquisition-talks-20260918",
     "url_normalized": "reuters.com/world/china/china-rare-earth-group-talks-buy-mp-materials-shareholder-shenghe-resources-2026-09-18"
+  },
+  {
+    "first_seen": "2026-09-19T06:00:00+09:00",
+    "issue": "2026-09-19-0600",
+    "source": "Reuters / FRB",
+    "title": "米製造業生産、8月は0.3%低下—8カ月ぶりのマイナス",
+    "topic_key": "us-factory-output-august-decline-20260918",
+    "url_normalized": "reuters.com/business/us-manufacturing-output-falls-august-after-rising-seven-straight-months-2026-09-18"
+  },
+  {
+    "first_seen": "2026-09-19T06:00:00+09:00",
+    "issue": "2026-09-19-0600",
+    "source": "Reuters / NASA",
+    "title": "NASA、SpaceXに有人飛行3便を追加発注—契約総額59.2億ドル",
+    "topic_key": "nasa-spacex-three-crew-missions-20260918",
+    "url_normalized": "reuters.com/business/media-telecom/spacex-fly-more-nasa-crews-space-station-under-expanded-592-billion-deal-2026-09-18"
+  },
+  {
+    "first_seen": "2026-09-19T06:00:00+09:00",
+    "issue": "2026-09-19-0600",
+    "source": "Reuters / AWP",
+    "title": "FedEx・Advent連合、InPost株89.81%を確保—買収条件を突破",
+    "topic_key": "inpost-fedex-advent-tender-acceptance-20260918",
+    "url_normalized": "reuters.com/business/fedex-advent-led-consortium-secures-over-89-inpost-shares-takeover-offer-2026-09-18"
+  },
+  {
+    "first_seen": "2026-09-19T06:00:00+09:00",
+    "issue": "2026-09-19-0600",
+    "source": "Reuters / Nscale",
+    "title": "英AIクラウドNscale、米IPOを申請—売上急増も赤字拡大",
+    "topic_key": "nscale-us-ipo-filing-20260918",
+    "url_normalized": "reuters.com/technology/ai-cloud-firm-nscale-files-us-ipo-2026-09-18"
+  },
+  {
+    "first_seen": "2026-09-19T06:00:00+09:00",
+    "issue": "2026-09-19-0600",
+    "source": "Reuters / WSJ",
+    "title": "米自動車6団体、中国メーカーの市場参入阻止を政権に要請",
+    "topic_key": "us-auto-groups-china-market-letter-20260918",
+    "url_normalized": "reuters.com/business/autos-transportation/auto-industry-urges-trump-keep-chinese-automakers-out-ahead-xi-meeting-2026-09-18"
   }
 ]

@@ -414,5 +414,47 @@
     "title": "外国勢力、米コロラド州の小規模水道2カ所をサイバー攻撃",
     "topic_key": "colorado-water-systems-cyberattacks-20260919",
     "url_normalized": "reuters.com/legal/litigation/foreign-hackers-targeted-colorado-water-systems-august-governors-office-says-2026-09-19"
+  },
+  {
+    "normalized_url": "reuters.com/world/asia-pacific/china-central-bank-adviser-says-ai-could-deepen-supply-demand-imbalance-2026-09-19",
+    "topic_key": "china-ai-supply-demand-imbalance-huang-20260919",
+    "first_seen": "2026-09-19T22:00:00+09:00",
+    "issue": "2026-09-19-2200"
+  },
+  {
+    "normalized_url": "reuters.com/business/imf-tells-eu-ministers-ai-could-boost-growth-increase-economic-strains-2026-09-19",
+    "topic_key": "imf-europe-ai-productivity-grid-risks-20260919",
+    "first_seen": "2026-09-19T22:00:00+09:00",
+    "issue": "2026-09-19-2200"
+  },
+  {
+    "normalized_url": "reuters.com/business/finance/canada-optimistic-about-concluding-trade-talks-with-india-by-year-end-minister-2026-09-19",
+    "topic_key": "canada-india-cepa-year-end-energy-20260919",
+    "first_seen": "2026-09-19T22:00:00+09:00",
+    "issue": "2026-09-19-2200"
+  },
+  {
+    "normalized_url": "reuters.com/business/world-at-work/porsche-could-face-another-4000-job-cuts-handelsblatt-reports-2026-09-19",
+    "topic_key": "porsche-additional-4100-job-cuts-20260919",
+    "first_seen": "2026-09-19T22:00:00+09:00",
+    "issue": "2026-09-19-2200"
+  },
+  {
+    "normalized_url": "reuters.com/world/us/russia-sanctions-bill-gives-trump-sweeping-new-tariff-powers-2026-09-18",
+    "topic_key": "us-russia-sanctions-law-100pct-tariffs-20260918",
+    "first_seen": "2026-09-19T22:00:00+09:00",
+    "issue": "2026-09-19-2200"
+  },
+  {
+    "normalized_url": "reuters.com/business/anthropic-accenture-invest-2-billion-ai-model-evaluation-safety-concerns-rise-2026-09-18",
+    "topic_key": "anthropic-accenture-embedded-evaluation-2b-20260918",
+    "first_seen": "2026-09-19T22:00:00+09:00",
+    "issue": "2026-09-19-2200"
+  },
+  {
+    "normalized_url": "reuters.com/world/china/defence-firm-anduril-says-us-delay-taiwan-arms-sales-affecting-its-business-2026-09-19",
+    "topic_key": "anduril-taiwan-arms-package-delay-20260919",
+    "first_seen": "2026-09-19T22:00:00+09:00",
+    "issue": "2026-09-19-2200"
   }
 ]

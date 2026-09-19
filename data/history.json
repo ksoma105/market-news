@@ -809,7 +809,7 @@
       ]
     },
     {
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-19-1200.html",
       "issue_id": "2026-09-19-1200",
       "published_at": "2026-09-19T12:00:00+09:00",
       "topic_count": 5,
@@ -819,6 +819,21 @@
         "google-gemini-real-company-breaches-20260918",
         "anthropic-next-model-release-ipo-deliberations-20260919",
         "colorado-water-systems-cyberattacks-20260919"
+      ]
+    },
+    {
+      "issue_id": "2026-09-19-2200",
+      "published_at": "2026-09-19T22:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-ai-supply-demand-imbalance-huang-20260919",
+        "imf-europe-ai-productivity-grid-risks-20260919",
+        "canada-india-cepa-year-end-energy-20260919",
+        "porsche-additional-4100-job-cuts-20260919",
+        "us-russia-sanctions-law-100pct-tariffs-20260918",
+        "anthropic-accenture-embedded-evaluation-2b-20260918",
+        "anduril-taiwan-arms-package-delay-20260919"
       ]
     }
   ]

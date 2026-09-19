@@ -1,53 +1,5 @@
 [
   {
-    "first_seen": "2026-09-16T22:00:00+09:00",
-    "issue": "2026-09-16-2200",
-    "source": "Reuters / 米国勢調査局",
-    "title": "米8月小売売上高1.2%増、予想上回る—個人消費の底堅さ示す",
-    "topic_key": "us-august-retail-sales-rebound-20260916",
-    "url_normalized": "reuters.com/business/retail-consumer/us-retail-sales-rebound-sharply-august-2026-09-16"
-  },
-  {
-    "first_seen": "2026-09-16T22:00:00+09:00",
-    "issue": "2026-09-16-2200",
-    "source": "Reuters / Financial Times",
-    "title": "英国8月CPI、5カ月ぶり高水準の3.1%—基調インフレは横ばい",
-    "topic_key": "uk-august-cpi-31-20260916",
-    "url_normalized": "reuters.com/world/uk/uk-inflation-speeds-up-31-august-2026-09-16"
-  },
-  {
-    "first_seen": "2026-09-16T22:00:00+09:00",
-    "issue": "2026-09-16-2200",
-    "source": "Reuters / Financial Express",
-    "title": "インドNSE、23億ドルIPO始動—評価額460億ドル",
-    "topic_key": "india-nse-ipo-launch-20260916",
-    "url_normalized": "reuters.com/world/india/indias-nse-launch-ipo-amid-investor-caution-over-derivatives-fuelled-growth-2026-09-16"
-  },
-  {
-    "first_seen": "2026-09-16T22:00:00+09:00",
-    "issue": "2026-09-16-2200",
-    "source": "Reuters",
-    "title": "Google、過去最大の炭素除去契約—ブラジル20万ヘクタールで実施",
-    "topic_key": "google-terradot-brazil-carbon-removal-20260916",
-    "url_normalized": "reuters.com/business/energy/google-agrees-biggest-carbon-removal-deal-yet-aims-scale-new-model-2026-09-16"
-  },
-  {
-    "first_seen": "2026-09-16T22:00:00+09:00",
-    "issue": "2026-09-16-2200",
-    "source": "Reuters / 英CMA",
-    "title": "英CMA、McCormick・Unilever食品事業の650億ドル統合を審査",
-    "topic_key": "mccormick-unilever-uk-cma-probe-20260916",
-    "url_normalized": "reuters.com/legal/litigation/mccormick-unilever-food-deal-faces-uk-competition-scrutiny-2026-09-16"
-  },
-  {
-    "first_seen": "2026-09-16T22:00:00+09:00",
-    "issue": "2026-09-16-2200",
-    "source": "Reuters",
-    "title": "Revolut、スイス銀行免許を申請—5年で1.5億フラン超投資",
-    "topic_key": "revolut-swiss-bank-license-investment-20260916",
-    "url_normalized": "reuters.com/business/finance/revolut-applies-swiss-banking-license-unveils-investment-plans-2026-09-16"
-  },
-  {
     "first_seen": "2026-09-17T06:00:00+09:00",
     "issue": "2026-09-17-0600",
     "source": "Reuters / FRB",
@@ -456,5 +408,61 @@
     "topic_key": "anduril-taiwan-arms-package-delay-20260919",
     "first_seen": "2026-09-19T22:00:00+09:00",
     "issue": "2026-09-19-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-2026-09-19",
+    "title": "米財務長官と中国副首相、AI安全保障・貿易を20日に協議",
+    "topic_key": "us-china-bessent-he-new-york-meeting-20260919",
+    "source": "Reuters",
+    "first_seen": "2026-09-20T06:00:00+09:00",
+    "issue": "2026-09-20-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/china-investigates-meituan-unit-suspected-violations-unfair-competition-laws-2026-09-19",
+    "title": "中国当局、Meituan・Alibaba傘下など旅行予約4社を競争法調査",
+    "topic_key": "china-meituan-alibaba-unfair-competition-probes-20260919",
+    "source": "Reuters",
+    "first_seen": "2026-09-20T06:00:00+09:00",
+    "issue": "2026-09-20-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/french-finance-ministry-expects-record-debt-2026-reaching-nearly-120-gdp-2026-09-19",
+    "title": "フランス政府債務、2026年にGDP比119.3%の過去最高へ",
+    "topic_key": "france-debt-1193pct-gdp-2026-20260919",
+    "source": "Reuters",
+    "first_seen": "2026-09-20T06:00:00+09:00",
+    "issue": "2026-09-20-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/oracles-18-billion-data-center-debt-under-pressure-ft-reports-2026-09-18",
+    "title": "OracleのAIデータセンター向け180億ドル融資、額面割れで圧力",
+    "topic_key": "oracle-project-jupiter-18b-debt-pressure-20260918",
+    "source": "Reuters / Financial Times",
+    "first_seen": "2026-09-20T06:00:00+09:00",
+    "issue": "2026-09-20-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/brazils-petrobras-board-approves-joining-diesel-subsidy-program-2026-09-19",
+    "title": "Petrobras、ブラジル政府の軽油補助制度に参加—1リットル1レアル",
+    "topic_key": "petrobras-brazil-diesel-subsidy-1-real-20260919",
+    "source": "Reuters",
+    "first_seen": "2026-09-20T06:00:00+09:00",
+    "issue": "2026-09-20-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/totalenergies-offshore-project-suriname-track-first-output-mid-2028-2026-09-19",
+    "title": "TotalEnergiesのスリナム沖120億ドル計画、2028年半ば生産開始へ",
+    "topic_key": "totalenergies-suriname-granmorgu-12b-2028-20260919",
+    "source": "Reuters",
+    "first_seen": "2026-09-20T06:00:00+09:00",
+    "issue": "2026-09-20-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19",
+    "title": "トランプ米大統領、「AI責任者」と専門組織の新設を表明",
+    "topic_key": "trump-ai-czar-ai-force-plan-20260919",
+    "source": "Reuters",
+    "first_seen": "2026-09-20T06:00:00+09:00",
+    "issue": "2026-09-20-0600"
   }
 ]

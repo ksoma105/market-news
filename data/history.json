@@ -825,7 +825,7 @@
       "issue_id": "2026-09-19-2200",
       "published_at": "2026-09-19T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-19-2200.html",
       "topics": [
         "china-ai-supply-demand-imbalance-huang-20260919",
         "imf-europe-ai-productivity-grid-risks-20260919",
@@ -834,6 +834,21 @@
         "us-russia-sanctions-law-100pct-tariffs-20260918",
         "anthropic-accenture-embedded-evaluation-2b-20260918",
         "anduril-taiwan-arms-package-delay-20260919"
+      ]
+    },
+    {
+      "issue_id": "2026-09-20-0600",
+      "published_at": "2026-09-20T06:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-china-bessent-he-new-york-meeting-20260919",
+        "china-meituan-alibaba-unfair-competition-probes-20260919",
+        "france-debt-1193pct-gdp-2026-20260919",
+        "oracle-project-jupiter-18b-debt-pressure-20260918",
+        "petrobras-brazil-diesel-subsidy-1-real-20260919",
+        "totalenergies-suriname-granmorgu-12b-2028-20260919",
+        "trump-ai-czar-ai-force-plan-20260919"
       ]
     }
   ]

@@ -1,53 +1,5 @@
 [
   {
-    "first_seen": "2026-09-17T22:00:00+09:00",
-    "issue": "2026-09-17-2200",
-    "source": "Reuters / Bank of England",
-    "title": "英中銀、政策金利3.75%を維持—3人は4%への利上げを主張",
-    "topic_key": "boe-september-hold-375-inflation-upside-20260917",
-    "url_normalized": "reuters.com/business/finance/bank-england-sounds-inflation-alarm-it-holds-interest-rates-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-17T22:00:00+09:00",
-    "issue": "2026-09-17-2200",
-    "source": "Reuters / U.S. Department of Labor",
-    "title": "米新規失業保険申請、19.6万件へ減少—市場予想を下回る",
-    "topic_key": "us-weekly-jobless-claims-196k-20260917",
-    "url_normalized": "reuters.com/business/us-weekly-jobless-claims-unexpectedly-fall-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-17T22:00:00+09:00",
-    "issue": "2026-09-17-2200",
-    "source": "Reuters / European Commission",
-    "title": "EU、13歳未満のSNS利用禁止案—違反時は世界売上高の最大6%",
-    "topic_key": "eu-kids-act-under13-social-media-ban-20260917",
-    "url_normalized": "reuters.com/world/eu-commission-proposes-social-media-ban-children-under-13-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-17T22:00:00+09:00",
-    "issue": "2026-09-17-2200",
-    "source": "Reuters / Hans-Böckler-Stiftung",
-    "title": "独IMK、2026年成長率予想を1.3%へ上方修正",
-    "topic_key": "germany-imk-growth-forecast-13-20260917",
-    "url_normalized": "reuters.com/business/germanys-imk-institute-more-than-doubles-economic-growth-forecast-2026-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-17T22:00:00+09:00",
-    "issue": "2026-09-17-2200",
-    "source": "Reuters",
-    "title": "Novo NordiskとOrbis、最大14億ドルの経口薬開発契約",
-    "topic_key": "novo-orbis-oral-drugs-deal-14b-20260917",
-    "url_normalized": "reuters.com/legal/litigation/novo-orbis-sign-up-14-billion-deal-develop-oral-drugs-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-17T22:00:00+09:00",
-    "issue": "2026-09-17-2200",
-    "source": "Reuters",
-    "title": "LucidとBolt、欧州で自動運転車2万5,000台を展開へ",
-    "topic_key": "lucid-bolt-europe-25000-robotaxis-20260917",
-    "url_normalized": "reuters.com/technology/lucid-bolt-team-up-deploy-25000-robotaxis-across-europe-2026-09-17"
-  },
-  {
     "first_seen": "2026-09-18T06:00:00+09:00",
     "issue": "2026-09-18-0600",
     "source": "Reuters / 米SEC",
@@ -432,5 +384,29 @@
     "source": "Reuters",
     "first_seen": "2026-09-20T22:00:00+09:00",
     "issue": "2026-09-20-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-fox-news-interview-2026-09-20",
+    "title": "カシュカリ総裁、米インフレは「全分野で高すぎる」—年内追加利上げ観測",
+    "topic_key": "fed-kashkari-inflation-additional-hike-20260920",
+    "source": "Reuters",
+    "first_seen": "2026-09-21T06:00:00+09:00",
+    "issue": "2026-09-21-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/middle-east/qatar-launches-wealth-fund-division-domestic-investments-2026-09-20",
+    "title": "カタール政府系ファンド、国内投資部門を新設—国有45社を集約",
+    "topic_key": "qatar-qia-doha-investment-domestic-division-20260920",
+    "source": "Reuters",
+    "first_seen": "2026-09-21T06:00:00+09:00",
+    "issue": "2026-09-21-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/iran-warns-against-new-escalation-by-us-allies-2026-09-20",
+    "title": "米・イランが再び威嚇、ホルムズ封鎖と紅海航路リスクがエネルギー市場を圧迫",
+    "topic_key": "us-iran-threats-hormuz-red-sea-energy-risk-20260920",
+    "source": "Reuters",
+    "first_seen": "2026-09-21T06:00:00+09:00",
+    "issue": "2026-09-21-0600"
   }
 ]

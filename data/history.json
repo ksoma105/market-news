@@ -840,7 +840,7 @@
       "issue_id": "2026-09-20-0600",
       "published_at": "2026-09-20T06:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-20-0600.html",
       "topics": [
         "us-china-bessent-he-new-york-meeting-20260919",
         "china-meituan-alibaba-unfair-competition-probes-20260919",
@@ -849,6 +849,17 @@
         "petrobras-brazil-diesel-subsidy-1-real-20260919",
         "totalenergies-suriname-granmorgu-12b-2028-20260919",
         "trump-ai-czar-ai-force-plan-20260919"
+      ]
+    },
+    {
+      "issue_id": "2026-09-20-1200",
+      "published_at": "2026-09-20T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-september-lpr-hold-16th-month-20260920",
+        "apple-cook-australia-social-media-curbs-20260920",
+        "venezuela-totalenergies-mou-20260919"
       ]
     }
   ]

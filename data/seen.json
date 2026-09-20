@@ -1,45 +1,5 @@
 [
   {
-    "first_seen": "2026-09-17T06:00:00+09:00",
-    "issue": "2026-09-17-0600",
-    "source": "Reuters / FRB",
-    "title": "FRB、政策金利を0.25ポイント引き上げ—年内追加利上げを示唆",
-    "topic_key": "fed-september-rate-hike-375-400-20260916",
-    "url_normalized": "reuters.com/business/warshs-words-may-matter-more-than-anticipated-fed-rate-hike-2026-09-16"
-  },
-  {
-    "first_seen": "2026-09-17T06:00:00+09:00",
-    "issue": "2026-09-17-0600",
-    "source": "Reuters / Cohere",
-    "title": "CohereとAleph Alpha、正式な統合契約—評価額約200億ドル",
-    "topic_key": "cohere-aleph-alpha-definitive-merger-20260916",
-    "url_normalized": "reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16"
-  },
-  {
-    "first_seen": "2026-09-17T06:00:00+09:00",
-    "issue": "2026-09-17-0600",
-    "source": "Reuters",
-    "title": "米DFC、ウクライナDTEKに8,500万ユーロ融資—蓄電容量を拡大",
-    "topic_key": "us-dfc-dtek-battery-loan-20260916",
-    "url_normalized": "reuters.com/business/us-dfc-approves-85-million-loan-ukraines-dtek-2026-09-16"
-  },
-  {
-    "first_seen": "2026-09-17T06:00:00+09:00",
-    "issue": "2026-09-17-0600",
-    "source": "Reuters",
-    "title": "RWE、独送電大手Amprionの実質持分を約58%へ引き上げ",
-    "topic_key": "rwe-m31-amprion-stake-58-20260916",
-    "url_normalized": "reuters.com/business/finance/rwe-buys-3-more-m31-lifts-its-amprion-stake-about-58-2026-09-16"
-  },
-  {
-    "first_seen": "2026-09-17T06:00:00+09:00",
-    "issue": "2026-09-17-0600",
-    "source": "Reuters",
-    "title": "Hy24・COFIDES、スペイン大型グリーン水素計画の29%取得へ",
-    "topic_key": "hy24-cofides-moeve-onuba-hydrogen-20260916",
-    "url_normalized": "reuters.com/business/energy/hy24-cofides-buy-29-stake-moeves-green-hydrogen-project-southern-spain-2026-09-16"
-  },
-  {
     "first_seen": "2026-09-17T12:00:00+09:00",
     "issue": "2026-09-17-1200",
     "source": "Reuters / 米下院議員事務所",
@@ -464,5 +424,29 @@
     "source": "Reuters",
     "first_seen": "2026-09-20T06:00:00+09:00",
     "issue": "2026-09-20-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/china-keeps-benchmark-lending-rates-unchanged-16th-month-september-2026-09-20",
+    "title": "中国、LPRを16カ月連続据え置き—1年物3.00%、5年物3.50%",
+    "topic_key": "china-september-lpr-hold-16th-month-20260920",
+    "source": "Reuters",
+    "first_seen": "2026-09-20T12:00:00+09:00",
+    "issue": "2026-09-20-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/apples-tim-cook-sees-australias-social-media-curbs-world-leading-pm-says-2026-09-20",
+    "title": "Appleクック氏、豪州のSNS規制を「世界を先導」と評価",
+    "topic_key": "apple-cook-australia-social-media-curbs-20260920",
+    "source": "Reuters",
+    "first_seen": "2026-09-20T12:00:00+09:00",
+    "issue": "2026-09-20-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/venezuela-leader-rodriguez-signs-agreement-with-french-oil-company-total-2026-09-19",
+    "title": "ベネズエラ暫定大統領、TotalEnergiesと石油・ガス協力覚書",
+    "topic_key": "venezuela-totalenergies-mou-20260919",
+    "source": "Reuters",
+    "first_seen": "2026-09-20T12:00:00+09:00",
+    "issue": "2026-09-20-1200"
   }
 ]

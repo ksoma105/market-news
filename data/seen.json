@@ -1,45 +1,5 @@
 [
   {
-    "first_seen": "2026-09-17T12:00:00+09:00",
-    "issue": "2026-09-17-1200",
-    "source": "Reuters / 米下院議員事務所",
-    "title": "米下院、データセンター電力費の家計転嫁抑制法案を417対3で可決",
-    "topic_key": "us-house-ratepayer-protection-act-data-centers-20260916",
-    "url_normalized": "reuters.com/world/us-house-advances-first-bill-addressing-economic-impacts-data-center-boom-2026-09-16"
-  },
-  {
-    "first_seen": "2026-09-17T12:00:00+09:00",
-    "issue": "2026-09-17-1200",
-    "source": "Reuters",
-    "title": "ニュージーランド4〜6月GDP、前期比0.2%増—市場予想を上回る",
-    "topic_key": "new-zealand-q2-gdp-growth-20260917",
-    "url_normalized": "reuters.com/world/asia-pacific/new-zealands-economy-grows-02-q2-2026-09-16"
-  },
-  {
-    "first_seen": "2026-09-17T12:00:00+09:00",
-    "issue": "2026-09-17-1200",
-    "source": "Reuters / Folha de S.Paulo",
-    "title": "ブラジル中銀、5会合連続で利下げ—政策金利13.75%",
-    "topic_key": "brazil-central-bank-fifth-rate-cut-1375-20260916",
-    "url_normalized": "reuters.com/world/americas/brazil-central-bank-cuts-rates-fifth-straight-meeting-2026-09-16"
-  },
-  {
-    "first_seen": "2026-09-17T12:00:00+09:00",
-    "issue": "2026-09-17-1200",
-    "source": "Reuters",
-    "title": "JERA、海外向けLNG販売を拡大へ—年3,500万〜4,000万トンを運用",
-    "topic_key": "jera-overseas-lng-sales-expansion-20260917",
-    "url_normalized": "reuters.com/business/energy/jera-expects-more-overseas-lng-sales-it-expands-trading-portfolio-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-17T12:00:00+09:00",
-    "issue": "2026-09-17-1200",
-    "source": "Reuters",
-    "title": "Huawei、2027年にAI半導体2種を投入へ",
-    "topic_key": "huawei-2027-ai-chips-960dt-960pr-20260917",
-    "url_normalized": "reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17"
-  },
-  {
     "first_seen": "2026-09-17T22:00:00+09:00",
     "issue": "2026-09-17-2200",
     "source": "Reuters / Bank of England",
@@ -448,5 +408,29 @@
     "source": "Reuters",
     "first_seen": "2026-09-20T12:00:00+09:00",
     "issue": "2026-09-20-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-2026-09-20",
+    "title": "中国CXMT、第5世代DRAM基盤を量産—ウエハー当たりチップ数50%以上増",
+    "topic_key": "cxmt-fifth-generation-dram-mass-production-20260920",
+    "source": "Reuters",
+    "first_seen": "2026-09-20T22:00:00+09:00",
+    "issue": "2026-09-20-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/middle-east/saudi-gulf-stocks-fall-after-houthis-claim-riyadh-attacks-2026-09-20",
+    "title": "フーシ派のリヤド攻撃受け湾岸株安—サウジ指数0.5%下落",
+    "topic_key": "saudi-gulf-stocks-houthi-riyadh-attacks-20260920",
+    "source": "Reuters",
+    "first_seen": "2026-09-20T22:00:00+09:00",
+    "issue": "2026-09-20-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/europe/two-dead-moscow-region-drones-hit-oil-refinery-russian-capital-2026-09-20",
+    "title": "モスクワ製油所に無人機攻撃、ロシアの燃料供給不安が一段と強まる",
+    "topic_key": "moscow-refinery-drone-attack-fuel-supply-20260920",
+    "source": "Reuters",
+    "first_seen": "2026-09-20T22:00:00+09:00",
+    "issue": "2026-09-20-2200"
   }
 ]

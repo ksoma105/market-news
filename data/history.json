@@ -855,11 +855,22 @@
       "issue_id": "2026-09-20-1200",
       "published_at": "2026-09-20T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-20-1200.html",
       "topics": [
         "china-september-lpr-hold-16th-month-20260920",
         "apple-cook-australia-social-media-curbs-20260920",
         "venezuela-totalenergies-mou-20260919"
+      ]
+    },
+    {
+      "issue_id": "2026-09-20-2200",
+      "published_at": "2026-09-20T22:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "cxmt-fifth-generation-dram-mass-production-20260920",
+        "saudi-gulf-stocks-houthi-riyadh-attacks-20260920",
+        "moscow-refinery-drone-attack-fuel-supply-20260920"
       ]
     }
   ]

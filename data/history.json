@@ -902,7 +902,7 @@
       "issue_id": "2026-09-21-2200",
       "published_at": "2026-09-21T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-21-2200.html",
       "topics": [
         "china-yuan-multiyear-high-pboc-summit-20260921",
         "taiwan-kaohsiung-tsmc-packaging-park-20260921",
@@ -910,6 +910,19 @@
         "ecb-pontes-blockchain-settlement-20260921",
         "china-humanoid-robot-ipo-slowdown-20260921",
         "global-diesel-shortage-through-2027-20260921"
+      ]
+    },
+    {
+      "issue_id": "2026-09-22-0600",
+      "published_at": "2026-09-22T06:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "amd-one-trillion-market-cap-20260921",
+        "fed-musalem-reuters-interview-rate-hikes-20260921",
+        "us-spr-2846m-lowest-since-1982-20260921",
+        "paramount-wbd-states-wga-settlement-20260921",
+        "ireland-google-location-data-gdpr-fine-20260921"
       ]
     }
   ]

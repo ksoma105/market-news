@@ -1,45 +1,5 @@
 [
   {
-    "first_seen": "2026-09-19T06:00:00+09:00",
-    "issue": "2026-09-19-0600",
-    "source": "Reuters / FRB",
-    "title": "米製造業生産、8月は0.3%低下—8カ月ぶりのマイナス",
-    "topic_key": "us-factory-output-august-decline-20260918",
-    "url_normalized": "reuters.com/business/us-manufacturing-output-falls-august-after-rising-seven-straight-months-2026-09-18"
-  },
-  {
-    "first_seen": "2026-09-19T06:00:00+09:00",
-    "issue": "2026-09-19-0600",
-    "source": "Reuters / NASA",
-    "title": "NASA、SpaceXに有人飛行3便を追加発注—契約総額59.2億ドル",
-    "topic_key": "nasa-spacex-three-crew-missions-20260918",
-    "url_normalized": "reuters.com/business/media-telecom/spacex-fly-more-nasa-crews-space-station-under-expanded-592-billion-deal-2026-09-18"
-  },
-  {
-    "first_seen": "2026-09-19T06:00:00+09:00",
-    "issue": "2026-09-19-0600",
-    "source": "Reuters / AWP",
-    "title": "FedEx・Advent連合、InPost株89.81%を確保—買収条件を突破",
-    "topic_key": "inpost-fedex-advent-tender-acceptance-20260918",
-    "url_normalized": "reuters.com/business/fedex-advent-led-consortium-secures-over-89-inpost-shares-takeover-offer-2026-09-18"
-  },
-  {
-    "first_seen": "2026-09-19T06:00:00+09:00",
-    "issue": "2026-09-19-0600",
-    "source": "Reuters / Nscale",
-    "title": "英AIクラウドNscale、米IPOを申請—売上急増も赤字拡大",
-    "topic_key": "nscale-us-ipo-filing-20260918",
-    "url_normalized": "reuters.com/technology/ai-cloud-firm-nscale-files-us-ipo-2026-09-18"
-  },
-  {
-    "first_seen": "2026-09-19T06:00:00+09:00",
-    "issue": "2026-09-19-0600",
-    "source": "Reuters / WSJ",
-    "title": "米自動車6団体、中国メーカーの市場参入阻止を政権に要請",
-    "topic_key": "us-auto-groups-china-market-letter-20260918",
-    "url_normalized": "reuters.com/business/autos-transportation/auto-industry-urges-trump-keep-chinese-automakers-out-ahead-xi-meeting-2026-09-18"
-  },
-  {
     "first_seen": "2026-09-19T12:00:00+09:00",
     "issue": "2026-09-19-1200",
     "source": "Reuters / AP",
@@ -344,5 +304,45 @@
     "source": "Reuters",
     "first_seen": "2026-09-21T22:00:00+09:00",
     "issue": "2026-09-21-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-2026-09-21",
+    "title": "AMDの時価総額、初の1兆ドル超え",
+    "topic_key": "amd-one-trillion-market-cap-20260921",
+    "source": "Reuters",
+    "first_seen": "2026-09-22T06:00:00+09:00",
+    "issue": "2026-09-22-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/feds-musalem-says-more-rate-hikes-likely-needed-quell-inflation-2026-09-21",
+    "title": "FRBのムサレム総裁、追加利上げの必要性に言及",
+    "topic_key": "fed-musalem-reuters-interview-rate-hikes-20260921",
+    "source": "Reuters",
+    "first_seen": "2026-09-22T06:00:00+09:00",
+    "issue": "2026-09-22-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-lowest-level-since-1982-2026-09-21",
+    "title": "米戦略石油備蓄、1982年以来の低水準に",
+    "topic_key": "us-spr-2846m-lowest-since-1982-20260921",
+    "source": "Reuters",
+    "first_seen": "2026-09-22T06:00:00+09:00",
+    "issue": "2026-09-22-0600"
+  },
+  {
+    "url_normalized": "reuters.com/legal/litigation/paramount-settles-with-california-other-states-clearing-major-hurdle-warner-bros-2026-09-21",
+    "title": "Paramount、Warner Bros買収を巡る州・脚本家組合との訴訟で和解",
+    "topic_key": "paramount-wbd-states-wga-settlement-20260921",
+    "source": "Reuters",
+    "first_seen": "2026-09-22T06:00:00+09:00",
+    "issue": "2026-09-22-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/irish-regulator-fines-google-403-million-over-location-data-processing-2026-09-21",
+    "title": "アイルランド当局、Googleの位置情報処理に4億300万ユーロの制裁金",
+    "topic_key": "ireland-google-location-data-gdpr-fine-20260921",
+    "source": "Reuters",
+    "first_seen": "2026-09-22T06:00:00+09:00",
+    "issue": "2026-09-22-0600"
   }
 ]

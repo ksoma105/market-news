@@ -1,109 +1,5 @@
 [
   {
-    "first_seen": "2026-09-18T06:00:00+09:00",
-    "issue": "2026-09-18-0600",
-    "source": "Reuters / 米SEC",
-    "title": "米SEC、トークン化株式に5年間の「イノベーション免除」",
-    "topic_key": "us-sec-tokenized-stock-innovation-exemption-20260917",
-    "url_normalized": "reuters.com/world/us-securities-regulator-rolls-out-five-year-exemption-tokenized-stock-trading-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-18T06:00:00+09:00",
-    "issue": "2026-09-18-0600",
-    "source": "Reuters / 世界銀行",
-    "title": "世界銀行、民間資金動員が過去最高の1,120億ドル",
-    "topic_key": "world-bank-private-capital-record-112b-20260917",
-    "url_normalized": "reuters.com/legal/transactional/world-bank-boosts-private-capital-mobilization-record-112-billion-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-18T06:00:00+09:00",
-    "issue": "2026-09-18-0600",
-    "source": "Reuters",
-    "title": "NexperiaとTata、インドで半導体の製造・後工程を提携",
-    "topic_key": "nexperia-tata-india-chip-partnership-20260917",
-    "url_normalized": "reuters.com/world/china/nexperia-says-it-will-partner-with-tata-chip-production-packaging-india-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-18T06:00:00+09:00",
-    "issue": "2026-09-18-0600",
-    "source": "Reuters",
-    "title": "GlobalFoundriesとMarvell、AIデータセンター向け光通信半導体を増産",
-    "topic_key": "globalfoundries-marvell-sige-capacity-20260917",
-    "url_normalized": "reuters.com/business/globalfoundries-marvell-expand-chip-capacity-deal-ai-data-center-connectivity-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-18T06:00:00+09:00",
-    "issue": "2026-09-18-0600",
-    "source": "Reuters",
-    "title": "CoreWeave、転換社債30億ドルを発行へ—追加枠5億ドル",
-    "topic_key": "coreweave-convertible-debt-3b-20260917",
-    "url_normalized": "reuters.com/legal/transactional/coreweave-launches-3-billion-convertible-debt-sale-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-18T06:00:00+09:00",
-    "issue": "2026-09-18-0600",
-    "source": "Reuters",
-    "title": "GM Defense、Patriot迎撃弾部品を22日で初納入",
-    "topic_key": "lockheed-gm-patriot-parts-20260917",
-    "url_normalized": "reuters.com/business/autos-transportation/lockheed-martin-gets-first-batch-patriot-interceptor-parts-general-motors-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-18T06:00:00+09:00",
-    "issue": "2026-09-18-0600",
-    "source": "Reuters",
-    "title": "仏CEAとAlice & Bob、量子・スーパーコンピューター連携ソフトを共同開発",
-    "topic_key": "cea-alice-bob-quantum-supercomputing-software-20260917",
-    "url_normalized": "reuters.com/technology/frances-cea-alice-bob-partner-quantum-supercomputing-software-2026-09-17"
-  },
-  {
-    "first_seen": "2026-09-18T12:00:00+09:00",
-    "issue": "2026-09-18-1200",
-    "source": "Reuters",
-    "title": "日銀、政策金利を1.25%へ引き上げ—31年ぶり高水準",
-    "topic_key": "boj-rate-hike-125-20260918",
-    "url_normalized": "reuters.com/live/boj-decision-live-japans-policy-interest-rate-set-rise-31-year-high-2026-09-18/"
-  },
-  {
-    "first_seen": "2026-09-18T12:00:00+09:00",
-    "issue": "2026-09-18-1200",
-    "source": "Reuters",
-    "title": "豪中銀総裁、インフレ上振れリスクの顕在化を警告",
-    "topic_key": "rba-inflation-risks-materialising-20260918",
-    "url_normalized": "reuters.com/world/asia-pacific/australias-central-bank-chief-warns-inflation-risks-materialising-2026-09-18/"
-  },
-  {
-    "first_seen": "2026-09-18T12:00:00+09:00",
-    "issue": "2026-09-18-1200",
-    "source": "Reuters",
-    "title": "ベトナム株、FTSE新興国昇格を前に海外資金が流入",
-    "topic_key": "vietnam-ftse-secondary-emerging-20260918",
-    "url_normalized": "reuters.com/world/asia-pacific/foreign-investors-buy-vietnam-stocks-ahead-ftse-market-upgrade-2026-09-18/"
-  },
-  {
-    "first_seen": "2026-09-18T12:00:00+09:00",
-    "issue": "2026-09-18-1200",
-    "source": "Reuters",
-    "title": "韓国、燃料税引き下げを11月末まで延長",
-    "topic_key": "south-korea-fuel-tax-cuts-november-20260918",
-    "url_normalized": "reuters.com/business/energy/south-korea-extends-fuel-tax-cuts-until-end-november-2026-09-17/"
-  },
-  {
-    "first_seen": "2026-09-18T12:00:00+09:00",
-    "issue": "2026-09-18-1200",
-    "source": "Reuters",
-    "title": "Tata Sons、会長を5年再任—上場検討で筆頭株主と対立",
-    "topic_key": "tata-sons-chairman-listing-20260917",
-    "url_normalized": "reuters.com/world/india/indias-tata-sons-board-approves-fresh-five-year-term-chairman-chandrasekaran-2026-09-17/"
-  },
-  {
-    "first_seen": "2026-09-18T12:00:00+09:00",
-    "issue": "2026-09-18-1200",
-    "source": "Reuters",
-    "title": "米シェールHighPeak、買収提案受け会社売却を検討",
-    "topic_key": "highpeak-energy-sale-exploration-20260917",
-    "url_normalized": "reuters.com/business/energy/us-shale-oil-producer-highpeak-energy-exploring-sale-sources-say-2026-09-17/"
-  },
-  {
     "first_seen": "2026-09-18T22:00:00+09:00",
     "issue": "2026-09-18-2200",
     "source": "Reuters",
@@ -408,5 +304,53 @@
     "source": "Reuters",
     "first_seen": "2026-09-21T06:00:00+09:00",
     "issue": "2026-09-21-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-09-21",
+    "title": "アジア株上昇、半導体高と原油2%安—韓国株1.5%高",
+    "topic_key": "asia-stocks-tech-oil-fed-hike-20260921",
+    "source": "Reuters",
+    "first_seen": "2026-09-21T12:00:00+09:00",
+    "issue": "2026-09-21-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/volatile-yen-draws-intervention-watch-other-currencies-subdued-2026-09-21",
+    "title": "円は1ドル156円台、当局のレートチェック報道で介入警戒",
+    "topic_key": "yen-156-rate-check-intervention-watch-20260921",
+    "source": "Reuters",
+    "first_seen": "2026-09-21T12:00:00+09:00",
+    "issue": "2026-09-21-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/softbank-group-launches-over-10-billion-bonds-openai-investment-term-sheet-shows-2026-09-21",
+    "title": "ソフトバンクG、OpenAI投資向けに100億ドル・10億ユーロの社債",
+    "topic_key": "softbank-openai-10b-dollar-1b-euro-bonds-20260921",
+    "source": "Reuters",
+    "first_seen": "2026-09-21T12:00:00+09:00",
+    "issue": "2026-09-21-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/europe-faces-q4-jet-fuel-supply-deficit-even-south-korea-becomes-latest-big-2026-09-21",
+    "title": "欧州、10〜12月のジェット燃料が日量51万バレル不足へ",
+    "topic_key": "europe-q4-jet-fuel-deficit-korea-supply-20260921",
+    "source": "Reuters",
+    "first_seen": "2026-09-21T12:00:00+09:00",
+    "issue": "2026-09-21-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/chinas-robotechnik-launches-hong-kong-share-sale-up-6603-million-2026-09-20",
+    "title": "中国企業4社、香港上場で最大18.3億ドル調達へ",
+    "topic_key": "hong-kong-four-china-listings-183b-20260921",
+    "source": "Reuters",
+    "first_seen": "2026-09-21T12:00:00+09:00",
+    "issue": "2026-09-21-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/australia-warns-risks-ageing-population-falling-birth-rates-2026-09-21",
+    "title": "豪州、2060年代に死亡数が出生数を上回る見通し",
+    "topic_key": "australia-2060s-deaths-births-population-growth-20260921",
+    "source": "Reuters",
+    "first_seen": "2026-09-21T12:00:00+09:00",
+    "issue": "2026-09-21-1200"
   }
 ]

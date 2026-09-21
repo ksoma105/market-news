@@ -877,11 +877,25 @@
       "issue_id": "2026-09-21-0600",
       "published_at": "2026-09-21T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-21-0600.html",
       "topics": [
         "fed-kashkari-inflation-additional-hike-20260920",
         "qatar-qia-doha-investment-domestic-division-20260920",
         "us-iran-threats-hormuz-red-sea-energy-risk-20260920"
+      ]
+    },
+    {
+      "issue_id": "2026-09-21-1200",
+      "published_at": "2026-09-21T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "asia-stocks-tech-oil-fed-hike-20260921",
+        "yen-156-rate-check-intervention-watch-20260921",
+        "softbank-openai-10b-dollar-1b-euro-bonds-20260921",
+        "europe-q4-jet-fuel-deficit-korea-supply-20260921",
+        "hong-kong-four-china-listings-183b-20260921",
+        "australia-2060s-deaths-births-population-growth-20260921"
       ]
     }
   ]

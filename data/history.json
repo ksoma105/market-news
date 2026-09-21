@@ -888,7 +888,7 @@
       "issue_id": "2026-09-21-1200",
       "published_at": "2026-09-21T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-21-1200.html",
       "topics": [
         "asia-stocks-tech-oil-fed-hike-20260921",
         "yen-156-rate-check-intervention-watch-20260921",
@@ -896,6 +896,20 @@
         "europe-q4-jet-fuel-deficit-korea-supply-20260921",
         "hong-kong-four-china-listings-183b-20260921",
         "australia-2060s-deaths-births-population-growth-20260921"
+      ]
+    },
+    {
+      "issue_id": "2026-09-21-2200",
+      "published_at": "2026-09-21T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-yuan-multiyear-high-pboc-summit-20260921",
+        "taiwan-kaohsiung-tsmc-packaging-park-20260921",
+        "eu-data-centre-energy-water-label-20260921",
+        "ecb-pontes-blockchain-settlement-20260921",
+        "china-humanoid-robot-ipo-slowdown-20260921",
+        "global-diesel-shortage-through-2027-20260921"
       ]
     }
   ]

@@ -929,7 +929,7 @@
       "issue_id": "2026-09-26-2200",
       "published_at": "2026-09-26T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-26-2200.html",
       "topics": [
         "global-bond-yields-us-japan-multidecade-highs-20260925",
         "yen-rallies-japan-us-intervention-stance-20260925",
@@ -937,6 +937,19 @@
         "meta-connect-model-api-muse-20260924",
         "td-synnex-q3-record-revenue-20260924",
         "trump-xi-summit-no-breakthrough-20260925"
+      ]
+    },
+    {
+      "issue_id": "2026-09-27-0600",
+      "published_at": "2026-09-27T06:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "trump-fuel-economy-standards-ev-mandate-20260926",
+        "boeing-737-max-landing-navigation-software-glitch-20260926",
+        "apple-taction-haptic-patent-verdict-57b-20260926",
+        "openai-agent-data-leak-review-20260925",
+        "anthropic-pentagon-blacklist-appeals-court-20260925"
       ]
     }
   ]

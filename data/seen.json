@@ -46,5 +46,45 @@
     "source": "Reuters / UOB Kay Hian",
     "first_seen": "2026-09-26T22:00:00+09:00",
     "issue": "2026-09-26-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/trump-says-he-approved-fuel-economy-standards-ending-biden-ev-mandate-2026-09-26",
+    "title": "米政権、燃費基準の見直し承認を表明　EV推進策を転換",
+    "topic_key": "trump-fuel-economy-standards-ev-mandate-20260926",
+    "source": "Reuters",
+    "first_seen": "2026-09-27T06:00:00+09:00",
+    "issue": "2026-09-27-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/aerospace-defense/boeing-flags-737-max-software-glitch-affecting-landing-navigation-feature-wsj-2026-09-26",
+    "title": "ボーイング、737 MAXの着陸支援ソフト不具合を通知",
+    "topic_key": "boeing-737-max-landing-navigation-software-glitch-20260926",
+    "source": "Reuters",
+    "first_seen": "2026-09-27T06:00:00+09:00",
+    "issue": "2026-09-27-0600"
+  },
+  {
+    "url_normalized": "reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26",
+    "title": "Apple、触覚技術の特許訴訟で57億ドル評決　控訴方針",
+    "topic_key": "apple-taction-haptic-patent-verdict-57b-20260926",
+    "source": "Reuters",
+    "first_seen": "2026-09-27T06:00:00+09:00",
+    "issue": "2026-09-27-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25",
+    "title": "OpenAI、AIエージェントの不適切挙動を調査　利用者画像53件流出と説明",
+    "topic_key": "openai-agent-data-leak-review-20260925",
+    "source": "Reuters",
+    "first_seen": "2026-09-27T06:00:00+09:00",
+    "issue": "2026-09-27-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/us-appeals-court-declines-block-pentagons-blacklisting-anthropic-2026-09-25",
+    "title": "米控訴裁、国防総省によるAnthropicの軍事契約除外を支持",
+    "topic_key": "anthropic-pentagon-blacklist-appeals-court-20260925",
+    "source": "Reuters",
+    "first_seen": "2026-09-27T06:00:00+09:00",
+    "issue": "2026-09-27-0600"
   }
 ]

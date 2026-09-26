@@ -1,348 +1,50 @@
 [
   {
-    "first_seen": "2026-09-19T12:00:00+09:00",
-    "issue": "2026-09-19-1200",
-    "source": "Reuters / AP",
-    "title": "米・デンマーク・グリーンランド、北極圏の安全保障協定で合意",
-    "topic_key": "us-denmark-greenland-security-agreement-20260918",
-    "url_normalized": "reuters.com/world/china/us-denmark-close-greenland-deal-sources-say-2026-09-18"
+    "url_normalized": "fidelity.com/news/article/international/202609251141RTRSNEWSCOMBINED_L1N45H0DM_1",
+    "title": "米・日国債利回りが数十年ぶりの高水準、株式はAI期待で底堅さ",
+    "topic_key": "global-bond-yields-us-japan-multidecade-highs-20260925",
+    "source": "Reuters / UOB Kay Hian",
+    "first_seen": "2026-09-26T22:00:00+09:00",
+    "issue": "2026-09-26-2200"
   },
   {
-    "first_seen": "2026-09-19T12:00:00+09:00",
-    "issue": "2026-09-19-1200",
-    "source": "Reuters",
-    "title": "米政権、H-1Bビザ10万ドル手数料方針を1年延長",
-    "topic_key": "us-h1b-100k-fee-extension-20260918",
-    "url_normalized": "reuters.com/world/us/trump-extends-restrictions-h-1b-non-immigrant-visa-program-by-another-year-2026-09-18"
+    "url_normalized": "brecorder.com/news/40441334/dollar-falls-as-oil-eases-yen-rallies",
+    "title": "円が反発、日米が為替介入時の姿勢を共有との説明",
+    "topic_key": "yen-rallies-japan-us-intervention-stance-20260925",
+    "source": "Reuters / Business Recorder",
+    "first_seen": "2026-09-26T22:00:00+09:00",
+    "issue": "2026-09-26-2200"
   },
   {
-    "first_seen": "2026-09-19T12:00:00+09:00",
-    "issue": "2026-09-19-1200",
-    "source": "Reuters / Guardian",
-    "title": "GoogleのGemini、演習中に実在3社のシステムへ侵入",
-    "topic_key": "google-gemini-real-company-breaches-20260918",
-    "url_normalized": "reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18"
+    "url_normalized": "norges-bank.no/en/news-events/news/Press-releases/2026/2026-09-24-rate",
+    "title": "ノルウェー中銀が政策金利を4.50%へ引き上げ",
+    "topic_key": "norges-bank-rate-hike-450-20260924",
+    "source": "Norges Bank / UOB Kay Hian",
+    "first_seen": "2026-09-26T22:00:00+09:00",
+    "issue": "2026-09-26-2200"
   },
   {
-    "first_seen": "2026-09-19T12:00:00+09:00",
-    "issue": "2026-09-19-1200",
-    "source": "Reuters",
-    "title": "Anthropic、IPOを控え次期AIモデルの投入時期を検討",
-    "topic_key": "anthropic-next-model-release-ipo-deliberations-20260919",
-    "url_normalized": "reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19"
+    "url_normalized": "developers.meta.com/blog/meta-connect-recap",
+    "title": "Meta、AIモデルAPIを世界で一般提供　Muse Codeもベータ終了",
+    "topic_key": "meta-connect-model-api-muse-20260924",
+    "source": "Meta / UOB Kay Hian",
+    "first_seen": "2026-09-26T22:00:00+09:00",
+    "issue": "2026-09-26-2200"
   },
   {
-    "first_seen": "2026-09-19T12:00:00+09:00",
-    "issue": "2026-09-19-1200",
-    "source": "Reuters / Axios",
-    "title": "外国勢力、米コロラド州の小規模水道2カ所をサイバー攻撃",
-    "topic_key": "colorado-water-systems-cyberattacks-20260919",
-    "url_normalized": "reuters.com/legal/litigation/foreign-hackers-targeted-colorado-water-systems-august-governors-office-says-2026-09-19"
+    "url_normalized": "ir.tdsynnex.com/news/news-details/2026/TD-SYNNEX-Reports-Record-Fiscal-2026-Third-Quarter-Results",
+    "title": "TD SYNNEX、AI・データセンター需要で四半期売上が37.7%増",
+    "topic_key": "td-synnex-q3-record-revenue-20260924",
+    "source": "TD SYNNEX / UOB Kay Hian",
+    "first_seen": "2026-09-26T22:00:00+09:00",
+    "issue": "2026-09-26-2200"
   },
   {
-    "normalized_url": "reuters.com/world/asia-pacific/china-central-bank-adviser-says-ai-could-deepen-supply-demand-imbalance-2026-09-19",
-    "topic_key": "china-ai-supply-demand-imbalance-huang-20260919",
-    "first_seen": "2026-09-19T22:00:00+09:00",
-    "issue": "2026-09-19-2200"
-  },
-  {
-    "normalized_url": "reuters.com/business/imf-tells-eu-ministers-ai-could-boost-growth-increase-economic-strains-2026-09-19",
-    "topic_key": "imf-europe-ai-productivity-grid-risks-20260919",
-    "first_seen": "2026-09-19T22:00:00+09:00",
-    "issue": "2026-09-19-2200"
-  },
-  {
-    "normalized_url": "reuters.com/business/finance/canada-optimistic-about-concluding-trade-talks-with-india-by-year-end-minister-2026-09-19",
-    "topic_key": "canada-india-cepa-year-end-energy-20260919",
-    "first_seen": "2026-09-19T22:00:00+09:00",
-    "issue": "2026-09-19-2200"
-  },
-  {
-    "normalized_url": "reuters.com/business/world-at-work/porsche-could-face-another-4000-job-cuts-handelsblatt-reports-2026-09-19",
-    "topic_key": "porsche-additional-4100-job-cuts-20260919",
-    "first_seen": "2026-09-19T22:00:00+09:00",
-    "issue": "2026-09-19-2200"
-  },
-  {
-    "normalized_url": "reuters.com/world/us/russia-sanctions-bill-gives-trump-sweeping-new-tariff-powers-2026-09-18",
-    "topic_key": "us-russia-sanctions-law-100pct-tariffs-20260918",
-    "first_seen": "2026-09-19T22:00:00+09:00",
-    "issue": "2026-09-19-2200"
-  },
-  {
-    "normalized_url": "reuters.com/business/anthropic-accenture-invest-2-billion-ai-model-evaluation-safety-concerns-rise-2026-09-18",
-    "topic_key": "anthropic-accenture-embedded-evaluation-2b-20260918",
-    "first_seen": "2026-09-19T22:00:00+09:00",
-    "issue": "2026-09-19-2200"
-  },
-  {
-    "normalized_url": "reuters.com/world/china/defence-firm-anduril-says-us-delay-taiwan-arms-sales-affecting-its-business-2026-09-19",
-    "topic_key": "anduril-taiwan-arms-package-delay-20260919",
-    "first_seen": "2026-09-19T22:00:00+09:00",
-    "issue": "2026-09-19-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-2026-09-19",
-    "title": "米財務長官と中国副首相、AI安全保障・貿易を20日に協議",
-    "topic_key": "us-china-bessent-he-new-york-meeting-20260919",
-    "source": "Reuters",
-    "first_seen": "2026-09-20T06:00:00+09:00",
-    "issue": "2026-09-20-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/china-investigates-meituan-unit-suspected-violations-unfair-competition-laws-2026-09-19",
-    "title": "中国当局、Meituan・Alibaba傘下など旅行予約4社を競争法調査",
-    "topic_key": "china-meituan-alibaba-unfair-competition-probes-20260919",
-    "source": "Reuters",
-    "first_seen": "2026-09-20T06:00:00+09:00",
-    "issue": "2026-09-20-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/french-finance-ministry-expects-record-debt-2026-reaching-nearly-120-gdp-2026-09-19",
-    "title": "フランス政府債務、2026年にGDP比119.3%の過去最高へ",
-    "topic_key": "france-debt-1193pct-gdp-2026-20260919",
-    "source": "Reuters",
-    "first_seen": "2026-09-20T06:00:00+09:00",
-    "issue": "2026-09-20-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/oracles-18-billion-data-center-debt-under-pressure-ft-reports-2026-09-18",
-    "title": "OracleのAIデータセンター向け180億ドル融資、額面割れで圧力",
-    "topic_key": "oracle-project-jupiter-18b-debt-pressure-20260918",
-    "source": "Reuters / Financial Times",
-    "first_seen": "2026-09-20T06:00:00+09:00",
-    "issue": "2026-09-20-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/brazils-petrobras-board-approves-joining-diesel-subsidy-program-2026-09-19",
-    "title": "Petrobras、ブラジル政府の軽油補助制度に参加—1リットル1レアル",
-    "topic_key": "petrobras-brazil-diesel-subsidy-1-real-20260919",
-    "source": "Reuters",
-    "first_seen": "2026-09-20T06:00:00+09:00",
-    "issue": "2026-09-20-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/totalenergies-offshore-project-suriname-track-first-output-mid-2028-2026-09-19",
-    "title": "TotalEnergiesのスリナム沖120億ドル計画、2028年半ば生産開始へ",
-    "topic_key": "totalenergies-suriname-granmorgu-12b-2028-20260919",
-    "source": "Reuters",
-    "first_seen": "2026-09-20T06:00:00+09:00",
-    "issue": "2026-09-20-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19",
-    "title": "トランプ米大統領、「AI責任者」と専門組織の新設を表明",
-    "topic_key": "trump-ai-czar-ai-force-plan-20260919",
-    "source": "Reuters",
-    "first_seen": "2026-09-20T06:00:00+09:00",
-    "issue": "2026-09-20-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/china-keeps-benchmark-lending-rates-unchanged-16th-month-september-2026-09-20",
-    "title": "中国、LPRを16カ月連続据え置き—1年物3.00%、5年物3.50%",
-    "topic_key": "china-september-lpr-hold-16th-month-20260920",
-    "source": "Reuters",
-    "first_seen": "2026-09-20T12:00:00+09:00",
-    "issue": "2026-09-20-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/apples-tim-cook-sees-australias-social-media-curbs-world-leading-pm-says-2026-09-20",
-    "title": "Appleクック氏、豪州のSNS規制を「世界を先導」と評価",
-    "topic_key": "apple-cook-australia-social-media-curbs-20260920",
-    "source": "Reuters",
-    "first_seen": "2026-09-20T12:00:00+09:00",
-    "issue": "2026-09-20-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/venezuela-leader-rodriguez-signs-agreement-with-french-oil-company-total-2026-09-19",
-    "title": "ベネズエラ暫定大統領、TotalEnergiesと石油・ガス協力覚書",
-    "topic_key": "venezuela-totalenergies-mou-20260919",
-    "source": "Reuters",
-    "first_seen": "2026-09-20T12:00:00+09:00",
-    "issue": "2026-09-20-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-2026-09-20",
-    "title": "中国CXMT、第5世代DRAM基盤を量産—ウエハー当たりチップ数50%以上増",
-    "topic_key": "cxmt-fifth-generation-dram-mass-production-20260920",
-    "source": "Reuters",
-    "first_seen": "2026-09-20T22:00:00+09:00",
-    "issue": "2026-09-20-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/middle-east/saudi-gulf-stocks-fall-after-houthis-claim-riyadh-attacks-2026-09-20",
-    "title": "フーシ派のリヤド攻撃受け湾岸株安—サウジ指数0.5%下落",
-    "topic_key": "saudi-gulf-stocks-houthi-riyadh-attacks-20260920",
-    "source": "Reuters",
-    "first_seen": "2026-09-20T22:00:00+09:00",
-    "issue": "2026-09-20-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/europe/two-dead-moscow-region-drones-hit-oil-refinery-russian-capital-2026-09-20",
-    "title": "モスクワ製油所に無人機攻撃、ロシアの燃料供給不安が一段と強まる",
-    "topic_key": "moscow-refinery-drone-attack-fuel-supply-20260920",
-    "source": "Reuters",
-    "first_seen": "2026-09-20T22:00:00+09:00",
-    "issue": "2026-09-20-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-fox-news-interview-2026-09-20",
-    "title": "カシュカリ総裁、米インフレは「全分野で高すぎる」—年内追加利上げ観測",
-    "topic_key": "fed-kashkari-inflation-additional-hike-20260920",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T06:00:00+09:00",
-    "issue": "2026-09-21-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/middle-east/qatar-launches-wealth-fund-division-domestic-investments-2026-09-20",
-    "title": "カタール政府系ファンド、国内投資部門を新設—国有45社を集約",
-    "topic_key": "qatar-qia-doha-investment-domestic-division-20260920",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T06:00:00+09:00",
-    "issue": "2026-09-21-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/iran-warns-against-new-escalation-by-us-allies-2026-09-20",
-    "title": "米・イランが再び威嚇、ホルムズ封鎖と紅海航路リスクがエネルギー市場を圧迫",
-    "topic_key": "us-iran-threats-hormuz-red-sea-energy-risk-20260920",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T06:00:00+09:00",
-    "issue": "2026-09-21-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-09-21",
-    "title": "アジア株上昇、半導体高と原油2%安—韓国株1.5%高",
-    "topic_key": "asia-stocks-tech-oil-fed-hike-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T12:00:00+09:00",
-    "issue": "2026-09-21-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/volatile-yen-draws-intervention-watch-other-currencies-subdued-2026-09-21",
-    "title": "円は1ドル156円台、当局のレートチェック報道で介入警戒",
-    "topic_key": "yen-156-rate-check-intervention-watch-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T12:00:00+09:00",
-    "issue": "2026-09-21-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/media-telecom/softbank-group-launches-over-10-billion-bonds-openai-investment-term-sheet-shows-2026-09-21",
-    "title": "ソフトバンクG、OpenAI投資向けに100億ドル・10億ユーロの社債",
-    "topic_key": "softbank-openai-10b-dollar-1b-euro-bonds-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T12:00:00+09:00",
-    "issue": "2026-09-21-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/europe-faces-q4-jet-fuel-supply-deficit-even-south-korea-becomes-latest-big-2026-09-21",
-    "title": "欧州、10〜12月のジェット燃料が日量51万バレル不足へ",
-    "topic_key": "europe-q4-jet-fuel-deficit-korea-supply-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T12:00:00+09:00",
-    "issue": "2026-09-21-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/chinas-robotechnik-launches-hong-kong-share-sale-up-6603-million-2026-09-20",
-    "title": "中国企業4社、香港上場で最大18.3億ドル調達へ",
-    "topic_key": "hong-kong-four-china-listings-183b-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T12:00:00+09:00",
-    "issue": "2026-09-21-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/media-telecom/australia-warns-risks-ageing-population-falling-birth-rates-2026-09-21",
-    "title": "豪州、2060年代に死亡数が出生数を上回る見通し",
-    "topic_key": "australia-2060s-deaths-births-population-growth-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T12:00:00+09:00",
-    "issue": "2026-09-21-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/yuan-hits-fresh-multi-year-peak-pboc-eases-curb-ahead-trump-xi-summit-2026-09-21",
-    "title": "人民元、3年半ぶり高値—PBOCが上昇抑制を緩和",
-    "topic_key": "china-yuan-multiyear-high-pboc-summit-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T22:00:00+09:00",
-    "issue": "2026-09-21-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/taiwan-breaks-ground-advanced-packaging-park-anchored-by-tsmc-2026-09-21",
-    "title": "台湾・高雄で先端パッケージ団地着工、TSMCが検証拠点",
-    "topic_key": "taiwan-kaohsiung-tsmc-packaging-park-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T22:00:00+09:00",
-    "issue": "2026-09-21-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/environment/eu-require-data-centres-disclose-energy-water-efficiency-2026-09-21",
-    "title": "EU、データセンターに電力・水効率の開示ルールを提案",
-    "topic_key": "eu-data-centre-energy-water-label-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T22:00:00+09:00",
-    "issue": "2026-09-21-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/ecb-opens-blockchain-link-financial-markets-2026-09-21",
-    "title": "ECB、ブロックチェーン市場と決済網を結ぶ「Pontes」開始",
-    "topic_key": "ecb-pontes-blockchain-settlement-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T22:00:00+09:00",
-    "issue": "2026-09-21-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21",
-    "title": "中国当局、人型ロボット企業のIPO審査を厳格化",
-    "topic_key": "china-humanoid-robot-ipo-slowdown-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T22:00:00+09:00",
-    "issue": "2026-09-21-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/global-diesel-shortage-likely-last-into-2027-storage-tanks-drain-2026-09-21",
-    "title": "世界の軽油不足、2027年まで長期化の公算",
-    "topic_key": "global-diesel-shortage-through-2027-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-21T22:00:00+09:00",
-    "issue": "2026-09-21-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-2026-09-21",
-    "title": "AMDの時価総額、初の1兆ドル超え",
-    "topic_key": "amd-one-trillion-market-cap-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-22T06:00:00+09:00",
-    "issue": "2026-09-22-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/feds-musalem-says-more-rate-hikes-likely-needed-quell-inflation-2026-09-21",
-    "title": "FRBのムサレム総裁、追加利上げの必要性に言及",
-    "topic_key": "fed-musalem-reuters-interview-rate-hikes-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-22T06:00:00+09:00",
-    "issue": "2026-09-22-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-lowest-level-since-1982-2026-09-21",
-    "title": "米戦略石油備蓄、1982年以来の低水準に",
-    "topic_key": "us-spr-2846m-lowest-since-1982-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-22T06:00:00+09:00",
-    "issue": "2026-09-22-0600"
-  },
-  {
-    "url_normalized": "reuters.com/legal/litigation/paramount-settles-with-california-other-states-clearing-major-hurdle-warner-bros-2026-09-21",
-    "title": "Paramount、Warner Bros買収を巡る州・脚本家組合との訴訟で和解",
-    "topic_key": "paramount-wbd-states-wga-settlement-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-22T06:00:00+09:00",
-    "issue": "2026-09-22-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/media-telecom/irish-regulator-fines-google-403-million-over-location-data-processing-2026-09-21",
-    "title": "アイルランド当局、Googleの位置情報処理に4億300万ユーロの制裁金",
-    "topic_key": "ireland-google-location-data-gdpr-fine-20260921",
-    "source": "Reuters",
-    "first_seen": "2026-09-22T06:00:00+09:00",
-    "issue": "2026-09-22-0600"
+    "url_normalized": "reuters.com/video/watch/idRW528425092026RP1",
+    "title": "米中首脳会談、AI・通商・台湾で目立った突破口なし",
+    "topic_key": "trump-xi-summit-no-breakthrough-20260925",
+    "source": "Reuters / UOB Kay Hian",
+    "first_seen": "2026-09-26T22:00:00+09:00",
+    "issue": "2026-09-26-2200"
   }
 ]

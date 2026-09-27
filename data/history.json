@@ -943,13 +943,24 @@
       "issue_id": "2026-09-27-0600",
       "published_at": "2026-09-27T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-27-0600.html",
       "topics": [
         "trump-fuel-economy-standards-ev-mandate-20260926",
         "boeing-737-max-landing-navigation-software-glitch-20260926",
         "apple-taction-haptic-patent-verdict-57b-20260926",
         "openai-agent-data-leak-review-20260925",
         "anthropic-pentagon-blacklist-appeals-court-20260925"
+      ]
+    },
+    {
+      "issue_id": "2026-09-27-1200",
+      "published_at": "2026-09-27T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "costco-q4-sales-9572b-comparable-growth-20260924",
+        "tiktok-alabama-teen-harms-settlement-20260925",
+        "meta-new-mexico-data-practices-verdict-20260925"
       ]
     }
   ]

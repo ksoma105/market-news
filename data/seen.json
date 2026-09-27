@@ -86,5 +86,29 @@
     "source": "Reuters",
     "first_seen": "2026-09-27T06:00:00+09:00",
     "issue": "2026-09-27-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/costco-beats-quarterly-sales-estimates-resilient-demand-essentials-2026-09-24",
+    "title": "Costco、売上高957.2億ドルで予想上回る　節約志向が追い風",
+    "topic_key": "costco-q4-sales-9572b-comparable-growth-20260924",
+    "source": "Reuters / Costco",
+    "first_seen": "2026-09-27T12:00:00+09:00",
+    "issue": "2026-09-27-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/us/tiktok-settles-with-alabama-ahead-first-state-trial-over-claims-teen-harms-2026-09-25",
+    "title": "TikTok、米アラバマ州と和解　最低1億ドルを支払い",
+    "topic_key": "tiktok-alabama-teen-harms-settlement-20260925",
+    "source": "Reuters",
+    "first_seen": "2026-09-27T12:00:00+09:00",
+    "issue": "2026-09-27-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25",
+    "title": "Meta、利用者データ説明などで陪審が「誤認招く」と判断",
+    "topic_key": "meta-new-mexico-data-practices-verdict-20260925",
+    "source": "Reuters",
+    "first_seen": "2026-09-27T12:00:00+09:00",
+    "issue": "2026-09-27-1200"
   }
 ]

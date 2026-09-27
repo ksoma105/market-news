@@ -110,5 +110,29 @@
     "source": "Reuters",
     "first_seen": "2026-09-27T12:00:00+09:00",
     "issue": "2026-09-27-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/wall-st-week-ahead-jobs-report-inflation-data-test-us-rate-path-economic-2026-09-25",
+    "title": "米雇用・物価統計が金利見通しを左右へ　株高の裾野縮小も警戒",
+    "topic_key": "us-jobs-pce-rate-path-market-breadth-20260925",
+    "source": "Reuters",
+    "first_seen": "2026-09-27T22:00:00+09:00",
+    "issue": "2026-09-27-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/us-appeals-court-rules-against-kalshi-says-states-can-regulate-prediction-2026-09-25",
+    "title": "米控訴裁、Kalshiに不利な判断　予測市場への州規制を容認",
+    "topic_key": "kalshi-state-regulation-sixth-circuit-20260925",
+    "source": "Reuters",
+    "first_seen": "2026-09-27T22:00:00+09:00",
+    "issue": "2026-09-27-2200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/litigation/openai-anthropic-ceos-called-appear-australian-ai-probe-2026-09-27",
+    "title": "豪上院、OpenAI・Anthropic首脳をAI調査に招致　規制強化観測",
+    "topic_key": "australia-ai-probe-openai-anthropic-ceos-20260927",
+    "source": "Reuters",
+    "first_seen": "2026-09-27T22:00:00+09:00",
+    "issue": "2026-09-27-2200"
   }
 ]

@@ -956,11 +956,22 @@
       "issue_id": "2026-09-27-1200",
       "published_at": "2026-09-27T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-27-1200.html",
       "topics": [
         "costco-q4-sales-9572b-comparable-growth-20260924",
         "tiktok-alabama-teen-harms-settlement-20260925",
         "meta-new-mexico-data-practices-verdict-20260925"
+      ]
+    },
+    {
+      "issue_id": "2026-09-27-2200",
+      "published_at": "2026-09-27T22:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-jobs-pce-rate-path-market-breadth-20260925",
+        "kalshi-state-regulation-sixth-circuit-20260925",
+        "australia-ai-probe-openai-anthropic-ceos-20260927"
       ]
     }
   ]

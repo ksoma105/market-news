@@ -134,5 +134,37 @@
     "source": "Reuters",
     "first_seen": "2026-09-27T22:00:00+09:00",
     "issue": "2026-09-27-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/china-weighs-allowing-bytedance-alibaba-buy-new-nvidia-chips-information-reports-2026-09-27",
+    "title": "中国、ByteDance・AlibabaのNVIDIA新型チップ購入容認を検討か",
+    "topic_key": "china-nvidia-rtx-pro-5500-purchase-signal-20260927",
+    "source": "Reuters",
+    "first_seen": "2026-09-28T06:00:00+09:00",
+    "issue": "2026-09-28-0600"
+  },
+  {
+    "url_normalized": "reuters.com/legal/transactional/foreign-banks-have-expressed-ubs-merger-interest-swiss-newspaper-reports-2026-09-27",
+    "title": "UBSに海外大手銀8行が統合関心か　スイス資本規制が再編圧力",
+    "topic_key": "ubs-foreign-merger-interest-capital-rules-20260927",
+    "source": "Reuters",
+    "first_seen": "2026-09-28T06:00:00+09:00",
+    "issue": "2026-09-28-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/aerospace-defense/russia-hits-ukraines-largest-mobile-provider-strikes-data-centres-2026-09-27",
+    "title": "ロシア、ウクライナ最大手通信社本社とデータセンターを攻撃",
+    "topic_key": "russia-ukraine-telecom-data-centre-strikes-20260927",
+    "source": "Reuters",
+    "first_seen": "2026-09-28T06:00:00+09:00",
+    "issue": "2026-09-28-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/africa/barrick-mining-reaches-deal-with-mali-gold-unions-bloomberg-news-reports-2026-09-27",
+    "title": "Barrick、マリ金鉱労組と協約締結　9月末のスト回避",
+    "topic_key": "barrick-mali-union-deal-strike-cancelled-20260927",
+    "source": "Reuters",
+    "first_seen": "2026-09-28T06:00:00+09:00",
+    "issue": "2026-09-28-0600"
   }
 ]

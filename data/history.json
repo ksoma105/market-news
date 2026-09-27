@@ -967,11 +967,23 @@
       "issue_id": "2026-09-27-2200",
       "published_at": "2026-09-27T22:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-27-2200.html",
       "topics": [
         "us-jobs-pce-rate-path-market-breadth-20260925",
         "kalshi-state-regulation-sixth-circuit-20260925",
         "australia-ai-probe-openai-anthropic-ceos-20260927"
+      ]
+    },
+    {
+      "issue_id": "2026-09-28-0600",
+      "published_at": "2026-09-28T06:00:00+09:00",
+      "topic_count": 4,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-nvidia-rtx-pro-5500-purchase-signal-20260927",
+        "ubs-foreign-merger-interest-capital-rules-20260927",
+        "russia-ukraine-telecom-data-centre-strikes-20260927",
+        "barrick-mali-union-deal-strike-cancelled-20260927"
       ]
     }
   ]

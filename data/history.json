@@ -978,12 +978,25 @@
       "issue_id": "2026-09-28-0600",
       "published_at": "2026-09-28T06:00:00+09:00",
       "topic_count": 4,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-28-0600.html",
       "topics": [
         "china-nvidia-rtx-pro-5500-purchase-signal-20260927",
         "ubs-foreign-merger-interest-capital-rules-20260927",
         "russia-ukraine-telecom-data-centre-strikes-20260927",
         "barrick-mali-union-deal-strike-cancelled-20260927"
+      ]
+    },
+    {
+      "issue_id": "2026-09-28-1200",
+      "published_at": "2026-09-28T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-industrial-profits-august-tech-demand-divergence-20260928",
+        "oil-rebounds-us-iran-talks-stalemate-20260928",
+        "hong-kong-eight-etfs-overseas-assets-mainland-demand-20260928",
+        "hong-kong-euro-digital-green-bond-hsbc-orion-20260928",
+        "gold-falls-oil-inflation-fed-rate-bets-20260928"
       ]
     }
   ]

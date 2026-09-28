@@ -206,5 +206,61 @@
     "source": "Reuters",
     "first_seen": "2026-09-28T12:00:00+09:00",
     "issue": "2026-09-28-1200"
+  },
+  {
+    "url_normalized": "wtaq.com/2026/09/28/exclusive-japan-top-fx-diplomat-urges-markets-to-heed-very-clear-warning-on-yen",
+    "title": "日本当局、円安への「明確な警告」を市場に要求　介入警戒が再燃",
+    "topic_key": "japan-mimura-clear-yen-warning-intervention-20260928",
+    "source": "Reuters配信（WTAQ）",
+    "first_seen": "2026-09-28T22:00:00+09:00",
+    "issue": "2026-09-28-2200"
+  },
+  {
+    "url_normalized": "wsau.com/2026/09/28/global-ai-trade-could-revive-after-recent-pullback-j-p-morgan-says",
+    "title": "JPモルガン、AI投資の再加速を予想　半導体を選好",
+    "topic_key": "jpmorgan-ai-trade-reengagement-semiconductors-20260928",
+    "source": "Reuters配信（WSAU）",
+    "first_seen": "2026-09-28T22:00:00+09:00",
+    "issue": "2026-09-28-2200"
+  },
+  {
+    "url_normalized": "wtaq.com/2026/09/28/european-shares-rise-as-uk-homebuilder-rally-offsets-oil-bond-pressures",
+    "title": "英住宅株が13.5〜15%上昇　初回購入者向け融資支援を予算案に",
+    "topic_key": "uk-homebuilders-equity-loan-program-rally-20260928",
+    "source": "Reuters配信（WTAQ）",
+    "first_seen": "2026-09-28T22:00:00+09:00",
+    "issue": "2026-09-28-2200"
+  },
+  {
+    "url_normalized": "theduke.fm/2026/09/28/indias-top-court-disposes-of-fortis-petition-against-ihh-healthcare-unit",
+    "title": "印最高裁、Fortis巡る法廷監査を容認　IHHの出資案件に不透明感",
+    "topic_key": "fortis-ihh-forensic-audit-india-supreme-court-20260928",
+    "source": "Reuters配信（Duke FM）",
+    "first_seen": "2026-09-28T22:00:00+09:00",
+    "issue": "2026-09-28-2200"
+  },
+  {
+    "url_normalized": "theduke.fm/2026/09/28/nvidia-adds-150-billion-to-existing-share-repurchase-plan",
+    "title": "NVIDIA、自社株買い枠を1500億ドル増額　残枠2350億ドル",
+    "topic_key": "nvidia-150b-buyback-235b-authorization-20260928",
+    "source": "Reuters配信（Duke FM）",
+    "first_seen": "2026-09-28T22:00:00+09:00",
+    "issue": "2026-09-28-2200"
+  },
+  {
+    "url_normalized": "theduke.fm/2026/09/28/defense-tech-firm-redlattice-strikes-spac-deal-to-go-public-in-us",
+    "title": "米防衛テックREDLattice、SPAC上場へ　企業価値12.5億ドル",
+    "topic_key": "redlattice-bold-eagle-spac-125b-20260928",
+    "source": "Reuters配信（Duke FM）",
+    "first_seen": "2026-09-28T22:00:00+09:00",
+    "issue": "2026-09-28-2200"
+  },
+  {
+    "url_normalized": "theduke.fm/2026/09/28/mirums-liver-infection-drug-lowers-virus-levels-in-late-stage-study",
+    "title": "Mirumの肝炎薬、後期試験で主要評価項目を達成",
+    "topic_key": "mirum-brelovitug-hepatitis-d-phase3-20260928",
+    "source": "Reuters配信（Duke FM）",
+    "first_seen": "2026-09-28T22:00:00+09:00",
+    "issue": "2026-09-28-2200"
   }
 ]

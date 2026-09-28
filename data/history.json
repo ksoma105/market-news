@@ -990,13 +990,28 @@
       "issue_id": "2026-09-28-1200",
       "published_at": "2026-09-28T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-28-1200.html",
       "topics": [
         "china-industrial-profits-august-tech-demand-divergence-20260928",
         "oil-rebounds-us-iran-talks-stalemate-20260928",
         "hong-kong-eight-etfs-overseas-assets-mainland-demand-20260928",
         "hong-kong-euro-digital-green-bond-hsbc-orion-20260928",
         "gold-falls-oil-inflation-fed-rate-bets-20260928"
+      ]
+    },
+    {
+      "issue_id": "2026-09-28-2200",
+      "published_at": "2026-09-28T22:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-mimura-clear-yen-warning-intervention-20260928",
+        "jpmorgan-ai-trade-reengagement-semiconductors-20260928",
+        "uk-homebuilders-equity-loan-program-rally-20260928",
+        "fortis-ihh-forensic-audit-india-supreme-court-20260928",
+        "nvidia-150b-buyback-235b-authorization-20260928",
+        "redlattice-bold-eagle-spac-125b-20260928",
+        "mirum-brelovitug-hepatitis-d-phase3-20260928"
       ]
     }
   ]

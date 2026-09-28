@@ -1003,7 +1003,7 @@
       "issue_id": "2026-09-28-2200",
       "published_at": "2026-09-28T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-28-2200.html",
       "topics": [
         "japan-mimura-clear-yen-warning-intervention-20260928",
         "jpmorgan-ai-trade-reengagement-semiconductors-20260928",
@@ -1012,6 +1012,21 @@
         "nvidia-150b-buyback-235b-authorization-20260928",
         "redlattice-bold-eagle-spac-125b-20260928",
         "mirum-brelovitug-hepatitis-d-phase3-20260928"
+      ]
+    },
+    {
+      "issue_id": "2026-09-29-0600",
+      "published_at": "2026-09-29T06:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "seligman-ventures-ai-hardware-capital-1b-20260928",
+        "cerebras-gimlet-100mw-ai-systems-20260928",
+        "gotion-volkswagen-valencia-battery-11b-euro-20260928",
+        "shein-q2-profit-down-67-europe-sales-20260928",
+        "airbus-a321neo-quality-20-deliveries-q4-20260928",
+        "us-air-traffic-control-additional-30b-20260928",
+        "russia-2027-defense-spending-171t-roubles-20260928"
       ]
     }
   ]

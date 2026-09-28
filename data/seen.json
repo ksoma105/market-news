@@ -262,5 +262,61 @@
     "source": "Reuters配信（Duke FM）",
     "first_seen": "2026-09-28T22:00:00+09:00",
     "issue": "2026-09-28-2200"
+  },
+  {
+    "url_normalized": "www.marketscreener.com/news/seligman-ventures-doubles-capital-to-1-billion-as-ai-boom-revives-hardware-bets-ce785adcdf8cf624",
+    "title": "AIハード投資再燃、Seligman Venturesの運用可能資金が10億ドルに倍増",
+    "topic_key": "seligman-ventures-ai-hardware-capital-1b-20260928",
+    "source": "Reuters配信（MarketScreener）",
+    "first_seen": "2026-09-29T06:00:00+09:00",
+    "issue": "2026-09-29-0600"
+  },
+  {
+    "url_normalized": "wtaq.com/2026/09/28/cerebras-to-supply-ai-systems-to-cloud-computing-startup-gimlet-labs",
+    "title": "Cerebras、Gimlet Labsへ約100MWのAIシステム供給",
+    "topic_key": "cerebras-gimlet-100mw-ai-systems-20260928",
+    "source": "Reuters配信（WTAQ）",
+    "first_seen": "2026-09-29T06:00:00+09:00",
+    "issue": "2026-09-29-0600"
+  },
+  {
+    "url_normalized": "www.marketscreener.com/news/china-s-gotion-invests-1-25-bln-in-volkswagen-battery-plant-in-spain-ce785adcdf80f224",
+    "title": "中国Gotion、VWのスペイン電池工場へ11億ユーロ出資",
+    "topic_key": "gotion-volkswagen-valencia-battery-11b-euro-20260928",
+    "source": "Reuters配信（MarketScreener）",
+    "first_seen": "2026-09-29T06:00:00+09:00",
+    "issue": "2026-09-29-0600"
+  },
+  {
+    "url_normalized": "www.ksl.com/article/51629477/shein-returns-to-profit-in-second-quarter-but-warns-of-uncertain-second-half",
+    "title": "Shein、四半期利益67%減　欧州売上13.9%減でコスト負担重く",
+    "topic_key": "shein-q2-profit-down-67-europe-sales-20260928",
+    "source": "Reuters配信（KSL）",
+    "first_seen": "2026-09-29T06:00:00+09:00",
+    "issue": "2026-09-29-0600"
+  },
+  {
+    "url_normalized": "kfgo.com/2026/09/28/airbus-faces-dip-in-september-deliveries-after-quality-snag-sources-say",
+    "title": "Airbus、A321neo品質問題で9月納入に遅れ　20機を第4四半期へ",
+    "topic_key": "airbus-a321neo-quality-20-deliveries-q4-20260928",
+    "source": "Reuters配信（KFGO）",
+    "first_seen": "2026-09-29T06:00:00+09:00",
+    "issue": "2026-09-29-0600"
+  },
+  {
+    "url_normalized": "ca.investing.com/news/stock-market-news/duffy-airlines-urge-congress-to-quickly-approve-30-billion-for-aviation-reforms-4856555",
+    "title": "米航空管制刷新、追加300億ドルを要請　設備・ソフト更新へ",
+    "topic_key": "us-air-traffic-control-additional-30b-20260928",
+    "source": "Reuters配信（Investing.com Canada）",
+    "first_seen": "2026-09-29T06:00:00+09:00",
+    "issue": "2026-09-29-0600"
+  },
+  {
+    "url_normalized": "www.defensenews.com/global/europe/2026/09/28/russia-raises-2027-military-spending-by-27-budget-documents-show",
+    "title": "ロシア、2027年国防費を27%増の17.1兆ルーブルへ",
+    "topic_key": "russia-2027-defense-spending-171t-roubles-20260928",
+    "source": "Reuters（Defense News）",
+    "first_seen": "2026-09-29T06:00:00+09:00",
+    "issue": "2026-09-29-0600"
   }
 ]

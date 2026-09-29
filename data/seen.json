@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "fidelity.com/news/article/international/202609251141RTRSNEWSCOMBINED_L1N45H0DM_1",
-    "title": "米・日国債利回りが数十年ぶりの高水準、株式はAI期待で底堅さ",
-    "topic_key": "global-bond-yields-us-japan-multidecade-highs-20260925",
-    "source": "Reuters / UOB Kay Hian",
-    "first_seen": "2026-09-26T22:00:00+09:00",
-    "issue": "2026-09-26-2200"
-  },
-  {
-    "url_normalized": "brecorder.com/news/40441334/dollar-falls-as-oil-eases-yen-rallies",
-    "title": "円が反発、日米が為替介入時の姿勢を共有との説明",
-    "topic_key": "yen-rallies-japan-us-intervention-stance-20260925",
-    "source": "Reuters / Business Recorder",
-    "first_seen": "2026-09-26T22:00:00+09:00",
-    "issue": "2026-09-26-2200"
-  },
-  {
-    "url_normalized": "norges-bank.no/en/news-events/news/Press-releases/2026/2026-09-24-rate",
-    "title": "ノルウェー中銀が政策金利を4.50%へ引き上げ",
-    "topic_key": "norges-bank-rate-hike-450-20260924",
-    "source": "Norges Bank / UOB Kay Hian",
-    "first_seen": "2026-09-26T22:00:00+09:00",
-    "issue": "2026-09-26-2200"
-  },
-  {
-    "url_normalized": "developers.meta.com/blog/meta-connect-recap",
-    "title": "Meta、AIモデルAPIを世界で一般提供　Muse Codeもベータ終了",
-    "topic_key": "meta-connect-model-api-muse-20260924",
-    "source": "Meta / UOB Kay Hian",
-    "first_seen": "2026-09-26T22:00:00+09:00",
-    "issue": "2026-09-26-2200"
-  },
-  {
-    "url_normalized": "ir.tdsynnex.com/news/news-details/2026/TD-SYNNEX-Reports-Record-Fiscal-2026-Third-Quarter-Results",
-    "title": "TD SYNNEX、AI・データセンター需要で四半期売上が37.7%増",
-    "topic_key": "td-synnex-q3-record-revenue-20260924",
-    "source": "TD SYNNEX / UOB Kay Hian",
-    "first_seen": "2026-09-26T22:00:00+09:00",
-    "issue": "2026-09-26-2200"
-  },
-  {
-    "url_normalized": "reuters.com/video/watch/idRW528425092026RP1",
-    "title": "米中首脳会談、AI・通商・台湾で目立った突破口なし",
-    "topic_key": "trump-xi-summit-no-breakthrough-20260925",
-    "source": "Reuters / UOB Kay Hian",
-    "first_seen": "2026-09-26T22:00:00+09:00",
-    "issue": "2026-09-26-2200"
-  },
-  {
     "url_normalized": "reuters.com/world/trump-says-he-approved-fuel-economy-standards-ending-biden-ev-mandate-2026-09-26",
     "title": "米政権、燃費基準の見直し承認を表明　EV推進策を転換",
     "topic_key": "trump-fuel-economy-standards-ev-mandate-20260926",
@@ -406,5 +358,53 @@
     "source": "Reuters / Novo Nordisk",
     "first_seen": "2026-09-29T22:00:00+09:00",
     "issue": "2026-09-29-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/feds-williams-sees-no-urgency-next-fed-rate-hike-2026-09-29",
+    "title": "NY連銀ウィリアムズ総裁、追加利上げは「急ぐ必要なし」",
+    "topic_key": "fed-williams-no-urgency-one-more-hike-20260929",
+    "source": "Reuters / Federal Reserve Bank of New York",
+    "first_seen": "2026-09-30T06:00:00+09:00",
+    "issue": "2026-09-30-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/oil-prices-rise-second-session-continued-middle-east-supply-concern-2026-09-29",
+    "title": "原油、輸出回復の兆しで2.5%安　中東供給懸念は残る",
+    "topic_key": "oil-settles-lower-middle-east-exports-recover-20260929",
+    "source": "Reuters",
+    "first_seen": "2026-09-30T06:00:00+09:00",
+    "issue": "2026-09-30-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/us-lawmakers-including-sen-warren-push-energy-regulators-reject-acquisition-2026-09-29",
+    "title": "米議員、AESの334億ドル買収をFERCに拒否要請",
+    "topic_key": "aes-gip-eqt-ferc-lawmakers-reject-20260929",
+    "source": "Reuters / AES",
+    "first_seen": "2026-09-30T06:00:00+09:00",
+    "issue": "2026-09-30-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/eib-bnp-paribas-sign-700-million-grid-guarantee-deal-2026-09-29",
+    "title": "EIB・BNPパリバ、欧州送電網向け7億ユーロ保証",
+    "topic_key": "eib-bnp-grid-guarantee-700m-20260929",
+    "source": "Reuters / European Investment Bank",
+    "first_seen": "2026-09-30T06:00:00+09:00",
+    "issue": "2026-09-30-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/canadian-institutions-should-not-fear-using-liquidity-facility-says-bank-canada-2026-09-29",
+    "title": "カナダ中銀、翌日物流動性制度の利用は通常業務と強調",
+    "topic_key": "bank-canada-slf-routine-liquidity-20260929",
+    "source": "Reuters / Bank of Canada",
+    "first_seen": "2026-09-30T06:00:00+09:00",
+    "issue": "2026-09-30-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/us/trump-tech-executives-sign-morally-binding-ai-document-2026-09-29",
+    "title": "米政権とIT幹部、AI原則文書に署名　監督委員会も検討",
+    "topic_key": "us-ai-morally-binding-document-oversight-20260929",
+    "source": "Reuters",
+    "first_seen": "2026-09-30T06:00:00+09:00",
+    "issue": "2026-09-30-0600"
   }
 ]

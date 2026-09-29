@@ -1046,7 +1046,7 @@
       "issue_id": "2026-09-29-2200",
       "published_at": "2026-09-29T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-29-2200.html",
       "topics": [
         "china-psl-rate-cut-mortgage-subsidy-growth-20260929",
         "rba-cash-rate-460-september-20260929",
@@ -1054,6 +1054,20 @@
         "lindt-2026-sales-guidance-cut-0-2-20260929",
         "julius-baer-finma-enforcement-concluded-20260929",
         "novo-hengrui-hrs1596-license-26b-20260929"
+      ]
+    },
+    {
+      "issue_id": "2026-09-30-0600",
+      "published_at": "2026-09-30T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "fed-williams-no-urgency-one-more-hike-20260929",
+        "oil-settles-lower-middle-east-exports-recover-20260929",
+        "aes-gip-eqt-ferc-lawmakers-reject-20260929",
+        "eib-bnp-grid-guarantee-700m-20260929",
+        "bank-canada-slf-routine-liquidity-20260929",
+        "us-ai-morally-binding-document-oversight-20260929"
       ]
     }
   ]

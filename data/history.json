@@ -1018,7 +1018,7 @@
       "issue_id": "2026-09-29-0600",
       "published_at": "2026-09-29T06:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-29-0600.html",
       "topics": [
         "seligman-ventures-ai-hardware-capital-1b-20260928",
         "cerebras-gimlet-100mw-ai-systems-20260928",
@@ -1027,6 +1027,19 @@
         "airbus-a321neo-quality-20-deliveries-q4-20260928",
         "us-air-traffic-control-additional-30b-20260928",
         "russia-2027-defense-spending-171t-roubles-20260928"
+      ]
+    },
+    {
+      "issue_id": "2026-09-29-1200",
+      "published_at": "2026-09-29T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "robotechnik-hong-kong-ipo-debut-down-20260929",
+        "samsung-helix-digital-ai-infrastructure-1b-20260929",
+        "anthropic-ipo-filing-ai-risk-disclosure-20260929",
+        "astrazeneca-hutchmed-orpathys-tagrisso-fda-20260929",
+        "csl-aws-ai-cloud-rd-clinical-development-20260929"
       ]
     }
   ]

@@ -318,5 +318,45 @@
     "source": "Reuters（Defense News）",
     "first_seen": "2026-09-29T06:00:00+09:00",
     "issue": "2026-09-29-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/chinas-robotechnik-slip-hong-kong-trading-debut-2026-09-29",
+    "title": "RoboTechnik、香港上場初日に最大8.5%安　IPO市場の選別鮮明",
+    "topic_key": "robotechnik-hong-kong-ipo-debut-down-20260929",
+    "source": "Reuters",
+    "first_seen": "2026-09-29T12:00:00+09:00",
+    "issue": "2026-09-29-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/samsung-electronics-commits-1-billion-kkr-backed-helix-digital-ai-buildout-2026-09-28",
+    "title": "Samsung各社、Helix DigitalのAI基盤整備へ10億ドル拠出",
+    "topic_key": "samsung-helix-digital-ai-infrastructure-1b-20260929",
+    "source": "Reuters",
+    "first_seen": "2026-09-29T12:00:00+09:00",
+    "issue": "2026-09-29-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29",
+    "title": "Anthropic、IPO目論見書でAIの重大リスクを異例開示",
+    "topic_key": "anthropic-ipo-filing-ai-risk-disclosure-20260929",
+    "source": "Reuters",
+    "first_seen": "2026-09-29T12:00:00+09:00",
+    "issue": "2026-09-29-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/astrazeneca-files-us-fda-application-hutchmed-lung-cancer-drug-combination-2026-09-29",
+    "title": "AstraZeneca、HUTCHMEDの肺がん併用療法を米FDAへ申請",
+    "topic_key": "astrazeneca-hutchmed-orpathys-tagrisso-fda-20260929",
+    "source": "Reuters",
+    "first_seen": "2026-09-29T12:00:00+09:00",
+    "issue": "2026-09-29-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/australias-csl-taps-amazons-cloud-unit-boost-research-pipeline-2026-09-29",
+    "title": "豪CSL、AWSのAI・クラウドを研究・臨床開発へ導入",
+    "topic_key": "csl-aws-ai-cloud-rd-clinical-development-20260929",
+    "source": "Reuters / CSL",
+    "first_seen": "2026-09-29T12:00:00+09:00",
+    "issue": "2026-09-29-1200"
   }
 ]

@@ -358,5 +358,53 @@
     "source": "Reuters / CSL",
     "first_seen": "2026-09-29T12:00:00+09:00",
     "issue": "2026-09-29-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/china-unveils-rate-cut-mortgage-subsidies-spur-growth-2026-09-29",
+    "title": "中国、PSL金利引き下げと住宅ローン利子補給で景気下支え",
+    "topic_key": "china-psl-rate-cut-mortgage-subsidy-growth-20260929",
+    "source": "Reuters",
+    "first_seen": "2026-09-29T22:00:00+09:00",
+    "issue": "2026-09-29-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/australias-central-bank-raises-cash-rate-15-year-peak-2026-09-29",
+    "title": "豪中銀、政策金利を15年ぶり高水準の4.60%へ引き上げ",
+    "topic_key": "rba-cash-rate-460-september-20260929",
+    "source": "Reuters / Reserve Bank of Australia",
+    "first_seen": "2026-09-29T22:00:00+09:00",
+    "issue": "2026-09-29-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/canadas-economic-growth-unchanged-july-august-likely-expand-02-2026-09-29",
+    "title": "カナダ7月GDPは横ばい、製造業減速　8月は0.2%増の暫定推計",
+    "topic_key": "canada-july-gdp-flat-august-estimate-02-20260929",
+    "source": "Reuters / Statistics Canada",
+    "first_seen": "2026-09-29T22:00:00+09:00",
+    "issue": "2026-09-29-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/lindt-cuts-2026-growth-forecast-weak-demand-heatwave-weigh-sales-2026-09-29",
+    "title": "Lindt、2026年売上成長率見通しを0〜2%へ再下方修正",
+    "topic_key": "lindt-2026-sales-guidance-cut-0-2-20260929",
+    "source": "Reuters / Lindt & Sprüngli",
+    "first_seen": "2026-09-29T22:00:00+09:00",
+    "issue": "2026-09-29-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/julius-baer-seriously-breached-risk-money-laundering-rules-swiss-regulator-says-2026-09-29",
+    "title": "FINMA、Julius Baerへの措置を一部解除　株価は一時8.8%高",
+    "topic_key": "julius-baer-finma-enforcement-concluded-20260929",
+    "source": "Reuters / Julius Baer",
+    "first_seen": "2026-09-29T22:00:00+09:00",
+    "issue": "2026-09-29-2200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/litigation/chinas-hengrui-inks-up-26-billion-deal-with-novo-nordisk-obesity-drug-2026-09-29",
+    "title": "Novo Nordisk、中国Hengruiの肥満薬候補を最大26億ドルで導入",
+    "topic_key": "novo-hengrui-hrs1596-license-26b-20260929",
+    "source": "Reuters / Novo Nordisk",
+    "first_seen": "2026-09-29T22:00:00+09:00",
+    "issue": "2026-09-29-2200"
   }
 ]

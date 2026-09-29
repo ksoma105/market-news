@@ -1033,13 +1033,27 @@
       "issue_id": "2026-09-29-1200",
       "published_at": "2026-09-29T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-29-1200.html",
       "topics": [
         "robotechnik-hong-kong-ipo-debut-down-20260929",
         "samsung-helix-digital-ai-infrastructure-1b-20260929",
         "anthropic-ipo-filing-ai-risk-disclosure-20260929",
         "astrazeneca-hutchmed-orpathys-tagrisso-fda-20260929",
         "csl-aws-ai-cloud-rd-clinical-development-20260929"
+      ]
+    },
+    {
+      "issue_id": "2026-09-29-2200",
+      "published_at": "2026-09-29T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-psl-rate-cut-mortgage-subsidy-growth-20260929",
+        "rba-cash-rate-460-september-20260929",
+        "canada-july-gdp-flat-august-estimate-02-20260929",
+        "lindt-2026-sales-guidance-cut-0-2-20260929",
+        "julius-baer-finma-enforcement-concluded-20260929",
+        "novo-hengrui-hrs1596-license-26b-20260929"
       ]
     }
   ]

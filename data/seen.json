@@ -1,69 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/trump-says-he-approved-fuel-economy-standards-ending-biden-ev-mandate-2026-09-26",
-    "title": "米政権、燃費基準の見直し承認を表明　EV推進策を転換",
-    "topic_key": "trump-fuel-economy-standards-ev-mandate-20260926",
-    "source": "Reuters",
-    "first_seen": "2026-09-27T06:00:00+09:00",
-    "issue": "2026-09-27-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/aerospace-defense/boeing-flags-737-max-software-glitch-affecting-landing-navigation-feature-wsj-2026-09-26",
-    "title": "ボーイング、737 MAXの着陸支援ソフト不具合を通知",
-    "topic_key": "boeing-737-max-landing-navigation-software-glitch-20260926",
-    "source": "Reuters",
-    "first_seen": "2026-09-27T06:00:00+09:00",
-    "issue": "2026-09-27-0600"
-  },
-  {
-    "url_normalized": "reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26",
-    "title": "Apple、触覚技術の特許訴訟で57億ドル評決　控訴方針",
-    "topic_key": "apple-taction-haptic-patent-verdict-57b-20260926",
-    "source": "Reuters",
-    "first_seen": "2026-09-27T06:00:00+09:00",
-    "issue": "2026-09-27-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25",
-    "title": "OpenAI、AIエージェントの不適切挙動を調査　利用者画像53件流出と説明",
-    "topic_key": "openai-agent-data-leak-review-20260925",
-    "source": "Reuters",
-    "first_seen": "2026-09-27T06:00:00+09:00",
-    "issue": "2026-09-27-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/us-appeals-court-declines-block-pentagons-blacklisting-anthropic-2026-09-25",
-    "title": "米控訴裁、国防総省によるAnthropicの軍事契約除外を支持",
-    "topic_key": "anthropic-pentagon-blacklist-appeals-court-20260925",
-    "source": "Reuters",
-    "first_seen": "2026-09-27T06:00:00+09:00",
-    "issue": "2026-09-27-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/costco-beats-quarterly-sales-estimates-resilient-demand-essentials-2026-09-24",
-    "title": "Costco、売上高957.2億ドルで予想上回る　節約志向が追い風",
-    "topic_key": "costco-q4-sales-9572b-comparable-growth-20260924",
-    "source": "Reuters / Costco",
-    "first_seen": "2026-09-27T12:00:00+09:00",
-    "issue": "2026-09-27-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/us/tiktok-settles-with-alabama-ahead-first-state-trial-over-claims-teen-harms-2026-09-25",
-    "title": "TikTok、米アラバマ州と和解　最低1億ドルを支払い",
-    "topic_key": "tiktok-alabama-teen-harms-settlement-20260925",
-    "source": "Reuters",
-    "first_seen": "2026-09-27T12:00:00+09:00",
-    "issue": "2026-09-27-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25",
-    "title": "Meta、利用者データ説明などで陪審が「誤認招く」と判断",
-    "topic_key": "meta-new-mexico-data-practices-verdict-20260925",
-    "source": "Reuters",
-    "first_seen": "2026-09-27T12:00:00+09:00",
-    "issue": "2026-09-27-1200"
-  },
-  {
     "url_normalized": "reuters.com/business/wall-st-week-ahead-jobs-report-inflation-data-test-us-rate-path-economic-2026-09-25",
     "title": "米雇用・物価統計が金利見通しを左右へ　株高の裾野縮小も警戒",
     "topic_key": "us-jobs-pce-rate-path-market-breadth-20260925",
@@ -406,5 +342,45 @@
     "source": "Reuters",
     "first_seen": "2026-09-30T06:00:00+09:00",
     "issue": "2026-09-30-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-august-factory-output-falls-17-month-on-month-2026-09-29",
+    "title": "日本の8月鉱工業生産、前月比1.7%減　自動車が6.8%落ち込む",
+    "topic_key": "japan-august-industrial-output-down-17-20260930",
+    "source": "Reuters",
+    "first_seen": "2026-09-30T12:00:00+09:00",
+    "issue": "2026-09-30-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/chinas-factory-activity-returns-growth-september-amid-ai-boom-2026-09-30",
+    "title": "中国製造業PMI、9月は50.1　3カ月ぶり拡大圏",
+    "topic_key": "china-manufacturing-pmi-501-september-20260930",
+    "source": "Reuters",
+    "first_seen": "2026-09-30T12:00:00+09:00",
+    "issue": "2026-09-30-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/asia-share-sales-poised-test-2021-record-ai-boom-fuels-deal-pipeline-2026-09-30",
+    "title": "アジア太平洋の株式調達、年初来3271億ドル　AI投資がけん引",
+    "topic_key": "asia-equity-fundraising-3271b-ai-pipeline-20260930",
+    "source": "Reuters / LSEG",
+    "first_seen": "2026-09-30T12:00:00+09:00",
+    "issue": "2026-09-30-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-09-30",
+    "title": "米10年債利回り5.2383%　世界債券は大幅安の9月",
+    "topic_key": "global-bonds-september-selloff-us10y-52383-20260930",
+    "source": "Reuters",
+    "first_seen": "2026-09-30T12:00:00+09:00",
+    "issue": "2026-09-30-1200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/litigation/netlist-seeks-us-import-ban-micron-chips-used-google-nvidia-ai-computing-2026-09-29",
+    "title": "Netlist、Micron製HBMなどの米輸入差し止めを申請",
+    "topic_key": "netlist-micron-hbm-itc-import-ban-20260929",
+    "source": "Reuters",
+    "first_seen": "2026-09-30T12:00:00+09:00",
+    "issue": "2026-09-30-1200"
   }
 ]

@@ -1060,7 +1060,7 @@
       "issue_id": "2026-09-30-0600",
       "published_at": "2026-09-30T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-30-0600.html",
       "topics": [
         "fed-williams-no-urgency-one-more-hike-20260929",
         "oil-settles-lower-middle-east-exports-recover-20260929",
@@ -1068,6 +1068,19 @@
         "eib-bnp-grid-guarantee-700m-20260929",
         "bank-canada-slf-routine-liquidity-20260929",
         "us-ai-morally-binding-document-oversight-20260929"
+      ]
+    },
+    {
+      "issue_id": "2026-09-30-1200",
+      "published_at": "2026-09-30T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-august-industrial-output-down-17-20260930",
+        "china-manufacturing-pmi-501-september-20260930",
+        "asia-equity-fundraising-3271b-ai-pipeline-20260930",
+        "global-bonds-september-selloff-us10y-52383-20260930",
+        "netlist-micron-hbm-itc-import-ban-20260929"
       ]
     }
   ]

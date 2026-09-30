@@ -1087,7 +1087,7 @@
       "issue_id": "2026-09-30-2200",
       "published_at": "2026-09-30T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-30-2200.html",
       "topics": [
         "us-august-pce-03-consumer-spending-09-20260930",
         "us-adp-private-payrolls-90k-september-20260930",
@@ -1096,6 +1096,20 @@
         "india-rbi-fx-forward-book-record-200b-20260930",
         "china-us-trade-barrier-probes-extended-dec27-20260930",
         "uk-fca-sustainability-disclosure-comply-explain-20260930"
+      ]
+    },
+    {
+      "issue_id": "2026-10-01-0600",
+      "published_at": "2026-10-01T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "toyota-argentina-ev-plant-134b-20260930",
+        "micron-fq4-2026-ai-memory-guidance-20260930",
+        "google-gemini-4-argon-launch-20260930",
+        "fed-bank-stress-test-overhaul-final-20260930",
+        "dallas-fed-q3-oil-gas-output-wti-88-20260930",
+        "us-senate-chinese-vehicle-ban-vote-november-20260930"
       ]
     }
   ]

@@ -1,37 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/retail-consumer/china-weighs-allowing-bytedance-alibaba-buy-new-nvidia-chips-information-reports-2026-09-27",
-    "title": "中国、ByteDance・AlibabaのNVIDIA新型チップ購入容認を検討か",
-    "topic_key": "china-nvidia-rtx-pro-5500-purchase-signal-20260927",
-    "source": "Reuters",
-    "first_seen": "2026-09-28T06:00:00+09:00",
-    "issue": "2026-09-28-0600"
-  },
-  {
-    "url_normalized": "reuters.com/legal/transactional/foreign-banks-have-expressed-ubs-merger-interest-swiss-newspaper-reports-2026-09-27",
-    "title": "UBSに海外大手銀8行が統合関心か　スイス資本規制が再編圧力",
-    "topic_key": "ubs-foreign-merger-interest-capital-rules-20260927",
-    "source": "Reuters",
-    "first_seen": "2026-09-28T06:00:00+09:00",
-    "issue": "2026-09-28-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/aerospace-defense/russia-hits-ukraines-largest-mobile-provider-strikes-data-centres-2026-09-27",
-    "title": "ロシア、ウクライナ最大手通信社本社とデータセンターを攻撃",
-    "topic_key": "russia-ukraine-telecom-data-centre-strikes-20260927",
-    "source": "Reuters",
-    "first_seen": "2026-09-28T06:00:00+09:00",
-    "issue": "2026-09-28-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/africa/barrick-mining-reaches-deal-with-mali-gold-unions-bloomberg-news-reports-2026-09-27",
-    "title": "Barrick、マリ金鉱労組と協約締結　9月末のスト回避",
-    "topic_key": "barrick-mali-union-deal-strike-cancelled-20260927",
-    "source": "Reuters",
-    "first_seen": "2026-09-28T06:00:00+09:00",
-    "issue": "2026-09-28-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/china-industrial-profits-rise-157-january-august-2026-09-28",
     "title": "中国工業利益、8月は4.2%増に鈍化　AI関連と内需の明暗鮮明",
     "topic_key": "china-industrial-profits-august-tech-demand-divergence-20260928",
@@ -414,5 +382,53 @@
     "source": "Reuters / FCA",
     "first_seen": "2026-09-30T22:00:00+09:00",
     "issue": "2026-09-30-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/toyota-invest-134-billion-argentina-production-plant-2026-09-30",
+    "title": "トヨタ、アルゼンチンEV工場に13.4億ドル投資",
+    "topic_key": "toyota-argentina-ev-plant-134b-20260930",
+    "source": "Reuters",
+    "first_seen": "2026-10-01T06:00:00+09:00",
+    "issue": "2026-10-01-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/micron-forecasts-quarterly-revenue-above-estimates-2026-09-30",
+    "title": "Micron、AIメモリー需要で予想上回る業績・見通し",
+    "topic_key": "micron-fq4-2026-ai-memory-guidance-20260930",
+    "source": "Reuters / Investor’s Business Daily",
+    "first_seen": "2026-10-01T06:00:00+09:00",
+    "issue": "2026-10-01-0600"
+  },
+  {
+    "url_normalized": "reuters.com/legal/litigation/google-announces-gemini-4-flagship-ai-model-after-months-delays-2026-09-30",
+    "title": "Google、次世代AI「Gemini 4 Argon」を発表",
+    "topic_key": "google-gemini-4-argon-launch-20260930",
+    "source": "Reuters",
+    "first_seen": "2026-10-01T06:00:00+09:00",
+    "issue": "2026-10-01-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/fed-finalizes-bank-stress-test-overhaul-2026-09-30",
+    "title": "FRB、大手銀行ストレステストを改革　資本要件の変動半減へ",
+    "topic_key": "fed-bank-stress-test-overhaul-final-20260930",
+    "source": "Reuters / FRB",
+    "first_seen": "2026-10-01T06:00:00+09:00",
+    "issue": "2026-10-01-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/us-oil-gas-production-rises-q3-2026-price-uncertainty-plagues-producers-dallas-2026-09-30",
+    "title": "米石油・ガス生産が増加　原油価格見通しは不確実性大",
+    "topic_key": "dallas-fed-q3-oil-gas-output-wti-88-20260930",
+    "source": "Reuters / ダラス連銀",
+    "first_seen": "2026-10-01T06:00:00+09:00",
+    "issue": "2026-10-01-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/us/senators-will-try-win-approval-permanent-chinese-car-ban-november-2026-09-30",
+    "title": "米上院の中国車恒久禁止法案、採決は11月へ持ち越し",
+    "topic_key": "us-senate-chinese-vehicle-ban-vote-november-20260930",
+    "source": "Reuters / 米上院議員事務所",
+    "first_seen": "2026-10-01T06:00:00+09:00",
+    "issue": "2026-10-01-0600"
   }
 ]

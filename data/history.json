@@ -1074,13 +1074,28 @@
       "issue_id": "2026-09-30-1200",
       "published_at": "2026-09-30T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-09-30-1200.html",
       "topics": [
         "japan-august-industrial-output-down-17-20260930",
         "china-manufacturing-pmi-501-september-20260930",
         "asia-equity-fundraising-3271b-ai-pipeline-20260930",
         "global-bonds-september-selloff-us10y-52383-20260930",
         "netlist-micron-hbm-itc-import-ban-20260929"
+      ]
+    },
+    {
+      "issue_id": "2026-09-30-2200",
+      "published_at": "2026-09-30T22:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-august-pce-03-consumer-spending-09-20260930",
+        "us-adp-private-payrolls-90k-september-20260930",
+        "eurozone-september-inflation-ecb-hike-pressure-20260930",
+        "japan-cefp-boj-independence-fiscal-coordination-20260930",
+        "india-rbi-fx-forward-book-record-200b-20260930",
+        "china-us-trade-barrier-probes-extended-dec27-20260930",
+        "uk-fca-sustainability-disclosure-comply-explain-20260930"
       ]
     }
   ]

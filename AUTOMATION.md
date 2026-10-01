@@ -5,7 +5,7 @@
 ## 成功条件
 
 - JSTの対象スケジュール枠について1号だけ発行する。
-- `docs/index.html`、旧号アーカイブ、`data/seen.json`、`data/history.json` を整合させる。
+- `docs/index.html`、旧号アーカイブ、`data/seen.json`、`data/history.json`、`docs/narration/<号ID>.txt` を整合させる。
 - 全変更を `digest: <号ID>` という1コミットで `main` にfast-forward反映する。
 - 掲載したすべての情報を、実際に開いた出典で確認する。
 
@@ -25,6 +25,7 @@ GitHubプラグインで次を行う。
 3. 必ず `ref=parent_sha` を指定して次のファイルを読む。途中でデフォルトブランチを読み直してスナップショットを混在させない。
    - `AGENTS.md`
    - `AUTOMATION.md`
+   - `NARRATION.md`
    - `docs/index.html`
    - `data/seen.json`
    - `data/history.json`
@@ -90,6 +91,15 @@ GitHubプラグインで次を行う。
 - 同じ `issue_id` を重複させない。
 - 有効なJSONとして整形する。
 
+### 読み上げ原稿
+
+- `NARRATION.md` の規約を完全に読み、確認済みの新号記事を日本語の自然な音声解説に書き直す。
+- `docs/narration/<新号ID>.txt` をUTF-8のプレーンテキストとして作る。旧号の原稿は保持する。
+- 全ニュースの重要な事実、関連業種、注目点・リスクを保ち、短い文と自然なつなぎで聞き取りやすくする。
+- 新号のリード文の後に `<p><a href="narration/<新号ID>.txt">音声向け原稿</a></p>` を追加する。前号の原稿リンクは新号へ置き換える。
+- 旧indexのアーカイブ化では `href="narration/` を `href="../narration/` に変換し、原稿へのリンクを保つ。
+- ElevenLabs接続が未設定の間は音声生成済みと表示・報告しない。
+
 ## 6. コミット前検証
 
 次をすべて確認する。1つでも失敗したらGitHubへ書き込まない。
@@ -103,16 +113,20 @@ GitHubプラグインで次を行う。
 - 新アーカイブのCSSと過去号リンクがアーカイブ階層向け相対パスになっている。
 - indexとアーカイブの両方に投資助言免責がある。
 - 新規URLを推測で生成していない。
+- 新号の原稿が存在し、本文と数値・時点・対象・条件が一致する。本文の各ニュースが原稿に含まれている。
+- 原稿がURLやHTMLの読み上げではなく、自然な日本語の解説になっている。
+- indexと新アーカイブの原稿リンクが正しい階層のファイルを指す。
 
-## 7. 4ファイルを1コミットで反映する
+## 7. 5ファイルを1コミットで反映する
 
 GitHubのGit data操作を使い、Contents APIでファイルごとの複数コミットを作らない。
 
-1. 次の完成内容からUTF-8 blobを4つ作成する。
+1. 次の完成内容からUTF-8 blobを5つ作成する。
    - `docs/archive/<旧号ID>.html`
    - `docs/index.html`
    - `data/seen.json`
    - `data/history.json`
+   - `docs/narration/<新号ID>.txt`
 2. `base_tree_sha` を親treeとして、各blobを `mode: 100644`、`type: blob` で配置したtreeを作る。
 3. `parent_sha` を唯一の親、作成したtreeをtree、`digest: <新号ID>` をmessageとしてcommitを作る。
 4. `main` の先端SHAをもう一度読む。`parent_sha` から変わっていたらrefを更新せず、最新状態から全手順をやり直す。
@@ -121,4 +135,4 @@ GitHubのGit data操作を使い、Contents APIでファイルごとの複数コ
 
 ## 8. 実行結果を報告する
 
-成功時は号ID、記事数、commit SHA、`https://news.butterfalcon.com` を簡潔に報告する。重要ニュース不足で件数を減らした場合はその旨も書く。失敗時はGitHubを部分更新せず、失敗した段階と理由を報告する。
+成功時は号ID、記事数、commit SHA、`https://news.butterfalcon.com` を簡潔に報告する。読み上げ原稿のURLと、音声生成の実際の状態（接続未設定・未生成・生成済みなど）も報告する。重要ニュース不足で件数を減らした場合はその旨も書く。失敗時はGitHubを部分更新せず、失敗した段階と理由を報告する。

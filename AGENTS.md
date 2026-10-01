@@ -19,6 +19,8 @@
 - `data/history.json`: 発行履歴
 - `AUTOMATION.md`: Web 定期実行の完全な手順
 - `SCHEDULE_PROMPT.md`: ChatGPT Web の Scheduled task に登録するプロンプト
+- `NARRATION.md`: 音声向け原稿の作成規約とElevenLabs接続の準備
+- `docs/narration/<号ID>.txt`: 各号の日本語読み上げ原稿
 
 ## 発行規約
 
@@ -27,6 +29,7 @@
 - 日本、米国、世界のニュースを可能な範囲でバランスさせる。
 - `docs/index.html` を更新する前に、旧indexをアーカイブ向け相対パスへ変換して保存する。
 - `seen.json` と `history.json` を毎号更新する。
+- 毎号 `NARRATION.md` に従う読み上げ原稿を作り、`docs/narration/<号ID>.txt` を同じ発行コミットに含める。原稿の保存と音声生成の成功を混同しない。
 - 同じ号IDを二度発行しない。
 
 ## 情報品質

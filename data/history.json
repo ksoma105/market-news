@@ -1116,13 +1116,27 @@
       "issue_id": "2026-10-01-1200",
       "published_at": "2026-10-01T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-01-1200.html",
       "topics": [
         "boj-tankan-big-manufacturers-eight-year-high-20261001",
         "south-korea-september-exports-record-ai-chips-20261001",
         "asia-factory-pmi-ai-boom-september-20261001",
         "asia-stocks-us-treasury-yields-oil-october-20261001",
         "mynt-gcash-philippines-ipo-price-20261001"
+      ]
+    },
+    {
+      "issue_id": "2026-10-01-2200",
+      "published_at": "2026-10-01T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "tencent-oracle-ai-chips-lease-100000-20261001",
+        "jera-dell-rhaelm-chiba-ai-datacenter-400mw-20261001",
+        "nidec-october-audit-opinion-new-ceo-20261001",
+        "germany-v2g-mispel-rules-20261001",
+        "broadcom-anthropic-42b-chip-financing-20261001",
+        "us-jobless-claims-197000-sep26-20261001"
       ]
     }
   ]

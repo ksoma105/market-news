@@ -1129,7 +1129,7 @@
       "issue_id": "2026-10-01-2200",
       "published_at": "2026-10-01T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-01-2200.html",
       "topics": [
         "tencent-oracle-ai-chips-lease-100000-20261001",
         "jera-dell-rhaelm-chiba-ai-datacenter-400mw-20261001",
@@ -1137,6 +1137,20 @@
         "germany-v2g-mispel-rules-20261001",
         "broadcom-anthropic-42b-chip-financing-20261001",
         "us-jobless-claims-197000-sep26-20261001"
+      ]
+    },
+    {
+      "issue_id": "2026-10-02-0600",
+      "published_at": "2026-10-02T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "fed-cook-ai-inflation-risk-2027-20261001",
+        "nike-q1-sales-miss-cuts-restructure-20261001",
+        "sec-crypto-custody-advisers-funds-proposal-20261001",
+        "global-ma-q3-993b-borrowing-costs-20261001",
+        "bank-canada-housing-affordability-long-way-20261001",
+        "europe-diesel-stocks-release-wright-confidence-20261001"
       ]
     }
   ]

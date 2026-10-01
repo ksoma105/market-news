@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/china-industrial-profits-rise-157-january-august-2026-09-28",
-    "title": "中国工業利益、8月は4.2%増に鈍化　AI関連と内需の明暗鮮明",
-    "topic_key": "china-industrial-profits-august-tech-demand-divergence-20260928",
-    "source": "Reuters",
-    "first_seen": "2026-09-28T12:00:00+09:00",
-    "issue": "2026-09-28-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/oil-rebounds-after-trump-rejects-iran-peace-deal-2026-09-27",
-    "title": "米・イラン協議停滞で原油反発　ブレント105ドル台",
-    "topic_key": "oil-rebounds-us-iran-talks-stalemate-20260928",
-    "source": "Reuters",
-    "first_seen": "2026-09-28T12:00:00+09:00",
-    "issue": "2026-09-28-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/hong-kong-lists-eight-etfs-tap-chinese-demand-overseas-assets-2026-09-28",
-    "title": "香港に海外資産連動ETF8本上場　中国マネーの分散需要を取り込む",
-    "topic_key": "hong-kong-eight-etfs-overseas-assets-mainland-demand-20260928",
-    "source": "Reuters",
-    "first_seen": "2026-09-28T12:00:00+09:00",
-    "issue": "2026-09-28-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/hong-kong-launches-4-year-euro-digital-green-bond-term-sheet-shows-2026-09-28",
-    "title": "香港政府、ユーロ建てデジタル・グリーン債を起債",
-    "topic_key": "hong-kong-euro-digital-green-bond-hsbc-orion-20260928",
-    "source": "Reuters",
-    "first_seen": "2026-09-28T12:00:00+09:00",
-    "issue": "2026-09-28-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28",
-    "title": "金、1.5%下落　原油高と米追加利上げ観測が重荷",
-    "topic_key": "gold-falls-oil-inflation-fed-rate-bets-20260928",
-    "source": "Reuters",
-    "first_seen": "2026-09-28T12:00:00+09:00",
-    "issue": "2026-09-28-1200"
-  },
-  {
     "url_normalized": "wtaq.com/2026/09/28/exclusive-japan-top-fx-diplomat-urges-markets-to-heed-very-clear-warning-on-yen",
     "title": "日本当局、円安への「明確な警告」を市場に要求　介入警戒が再燃",
     "topic_key": "japan-mimura-clear-yen-warning-intervention-20260928",
@@ -430,5 +390,45 @@
     "source": "Reuters / 米上院議員事務所",
     "first_seen": "2026-10-01T06:00:00+09:00",
     "issue": "2026-10-01-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-business-mood-improves-tankan-survey-shows-2026-10-01",
+    "title": "日銀短観、大企業製造業の景況感が8年ぶり高水準",
+    "topic_key": "boj-tankan-big-manufacturers-eight-year-high-20261001",
+    "source": "Reuters",
+    "first_seen": "2026-10-01T12:00:00+09:00",
+    "issue": "2026-10-01-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/south-korea-september-exports-rise-835-yy-monthly-record-2026-10-01",
+    "title": "韓国の9月輸出、1209億ドルで過去最高　半導体が2.6倍",
+    "topic_key": "south-korea-september-exports-record-ai-chips-20261001",
+    "source": "Reuters",
+    "first_seen": "2026-10-01T12:00:00+09:00",
+    "issue": "2026-10-01-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/global-economy-asian-factory-activity-expands-thanks-global-ai-boom-2026-10-01",
+    "title": "アジア製造業、AI需要で拡大　韓国・台湾が加速",
+    "topic_key": "asia-factory-pmi-ai-boom-september-20261001",
+    "source": "Reuters",
+    "first_seen": "2026-10-01T12:00:00+09:00",
+    "issue": "2026-10-01-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-01",
+    "title": "アジア株は上値重い　米10年債利回り5.3%台",
+    "topic_key": "asia-stocks-us-treasury-yields-oil-october-20261001",
+    "source": "Reuters",
+    "first_seen": "2026-10-01T12:00:00+09:00",
+    "issue": "2026-10-01-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/gcash-owner-mynt-prices-philippine-ipo-66-pesos-per-share-sources-say-2026-10-01",
+    "title": "GCash親会社Mynt、フィリピン大型IPOを1株6.60ペソに設定",
+    "topic_key": "mynt-gcash-philippines-ipo-price-20261001",
+    "source": "Reuters",
+    "first_seen": "2026-10-01T12:00:00+09:00",
+    "issue": "2026-10-01-1200"
   }
 ]

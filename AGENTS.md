@@ -31,6 +31,7 @@
 - `seen.json` と `history.json` を毎号更新する。
 - 毎号 `NARRATION.md` に従う読み上げ原稿を作り、`docs/narration/<号ID>.txt` を同じ発行コミットに含める。原稿の保存と音声生成の成功を混同しない。
 - 同じ号IDを二度発行しない。
+- 音声生成は任意の後続処理とし、ElevenLabsの契約失効や使用制限でも記事の作成・公開を止めない。詳細は `NARRATION.md` に従う。
 
 ## 情報品質
 

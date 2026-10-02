@@ -1171,7 +1171,7 @@
       "issue_id": "2026-10-02-2200",
       "published_at": "2026-10-02T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-02-2200.html",
       "topics": [
         "japan-kiuchi-no-excessive-monetary-easing-20261002",
         "us-september-payrolls-29k-unemployment-42-20261002",
@@ -1179,6 +1179,20 @@
         "china-anglo-teck-copper-supply-remedy-20261002",
         "europe-supercomputer-memory-supply-gap-bull-20261002",
         "jdcom-ceconomy-eu-approval-remedies-20261002"
+      ]
+    },
+    {
+      "issue_id": "2026-10-03-0600",
+      "published_at": "2026-10-03T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "tesla-q3-deliveries-486532-beat-20261002",
+        "g7-iea-100m-barrels-diesel-reserve-release-20261002",
+        "trump-jay-clayton-ai-czar-expected-20261002",
+        "paramount-warner-combined-skydance-name-20261002",
+        "germany-2026-growth-around-1pct-bundesbank-20261002",
+        "us-community-banks-sue-occ-crypto-charters-20261002"
       ]
     }
   ]

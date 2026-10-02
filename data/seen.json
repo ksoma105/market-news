@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/feds-williams-sees-no-urgency-next-fed-rate-hike-2026-09-29",
-    "title": "NY連銀ウィリアムズ総裁、追加利上げは「急ぐ必要なし」",
-    "topic_key": "fed-williams-no-urgency-one-more-hike-20260929",
-    "source": "Reuters / Federal Reserve Bank of New York",
-    "first_seen": "2026-09-30T06:00:00+09:00",
-    "issue": "2026-09-30-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/oil-prices-rise-second-session-continued-middle-east-supply-concern-2026-09-29",
-    "title": "原油、輸出回復の兆しで2.5%安　中東供給懸念は残る",
-    "topic_key": "oil-settles-lower-middle-east-exports-recover-20260929",
-    "source": "Reuters",
-    "first_seen": "2026-09-30T06:00:00+09:00",
-    "issue": "2026-09-30-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/us-lawmakers-including-sen-warren-push-energy-regulators-reject-acquisition-2026-09-29",
-    "title": "米議員、AESの334億ドル買収をFERCに拒否要請",
-    "topic_key": "aes-gip-eqt-ferc-lawmakers-reject-20260929",
-    "source": "Reuters / AES",
-    "first_seen": "2026-09-30T06:00:00+09:00",
-    "issue": "2026-09-30-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/eib-bnp-paribas-sign-700-million-grid-guarantee-deal-2026-09-29",
-    "title": "EIB・BNPパリバ、欧州送電網向け7億ユーロ保証",
-    "topic_key": "eib-bnp-grid-guarantee-700m-20260929",
-    "source": "Reuters / European Investment Bank",
-    "first_seen": "2026-09-30T06:00:00+09:00",
-    "issue": "2026-09-30-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/americas/canadian-institutions-should-not-fear-using-liquidity-facility-says-bank-canada-2026-09-29",
-    "title": "カナダ中銀、翌日物流動性制度の利用は通常業務と強調",
-    "topic_key": "bank-canada-slf-routine-liquidity-20260929",
-    "source": "Reuters / Bank of Canada",
-    "first_seen": "2026-09-30T06:00:00+09:00",
-    "issue": "2026-09-30-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/us/trump-tech-executives-sign-morally-binding-ai-document-2026-09-29",
-    "title": "米政権とIT幹部、AI原則文書に署名　監督委員会も検討",
-    "topic_key": "us-ai-morally-binding-document-oversight-20260929",
-    "source": "Reuters",
-    "first_seen": "2026-09-30T06:00:00+09:00",
-    "issue": "2026-09-30-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/japan-august-factory-output-falls-17-month-on-month-2026-09-29",
     "title": "日本の8月鉱工業生産、前月比1.7%減　自動車が6.8%落ち込む",
     "topic_key": "japan-august-industrial-output-down-17-20260930",
@@ -422,5 +374,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-02T22:00:00+09:00",
     "issue": "2026-10-02-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/autos-transportation/tesla-posts-stronger-than-expected-quarterly-deliveries-2026-10-02",
+    "title": "Teslaの7〜9月納車48万6532台、市場予想を上回る",
+    "topic_key": "tesla-q3-deliveries-486532-beat-20261002",
+    "source": "Reuters",
+    "first_seen": "2026-10-03T06:00:00+09:00",
+    "issue": "2026-10-03-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/g7-release-100-million-barrels-diesel-other-reserves-through-iea-2026-10-02",
+    "title": "G7、軽油など1億バレルを4カ月かけ協調放出",
+    "topic_key": "g7-iea-100m-barrels-diesel-reserve-release-20261002",
+    "source": "Reuters",
+    "first_seen": "2026-10-03T06:00:00+09:00",
+    "issue": "2026-10-03-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/us/trump-expected-name-jay-clayton-ai-czar-cnn-reports-2026-10-02",
+    "title": "トランプ氏、情報長官をAI政策トップに起用へ＝関係者",
+    "topic_key": "trump-jay-clayton-ai-czar-expected-20261002",
+    "source": "Reuters",
+    "first_seen": "2026-10-03T06:00:00+09:00",
+    "issue": "2026-10-03-0600"
+  },
+  {
+    "url_normalized": "reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02",
+    "title": "Paramount・Warner統合会社、名称を「Skydance」に",
+    "topic_key": "paramount-warner-combined-skydance-name-20261002",
+    "source": "Reuters",
+    "first_seen": "2026-10-03T06:00:00+09:00",
+    "issue": "2026-10-03-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/europe/germany-may-grow-twice-fast-this-year-earlier-thought-bundesbank-says-2026-10-02",
+    "title": "ドイツ成長率、2026年は約1%も　従来予測の約2倍",
+    "topic_key": "germany-2026-growth-around-1pct-bundesbank-20261002",
+    "source": "Reuters",
+    "first_seen": "2026-10-03T06:00:00+09:00",
+    "issue": "2026-10-03-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/community-banks-sue-us-regulator-over-crypto-firm-charters-2026-10-02",
+    "title": "米地銀団体、暗号資産企業への限定銀行免許を巡りOCC提訴",
+    "topic_key": "us-community-banks-sue-occ-crypto-charters-20261002",
+    "source": "Reuters",
+    "first_seen": "2026-10-03T06:00:00+09:00",
+    "issue": "2026-10-03-0600"
   }
 ]

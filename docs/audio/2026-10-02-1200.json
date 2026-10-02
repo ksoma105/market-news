@@ -1,0 +1,7 @@
+{
+  "issue_id": "2026-10-02-1200",
+  "model_id": "eleven_v4",
+  "status": "skipped",
+  "checked_at": "2026-10-02T06:39:59.288100+00:00",
+  "reason": "audio_processing_error"
+}

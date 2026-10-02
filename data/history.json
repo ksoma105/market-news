@@ -1143,7 +1143,7 @@
       "issue_id": "2026-10-02-0600",
       "published_at": "2026-10-02T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-02-0600.html",
       "topics": [
         "fed-cook-ai-inflation-risk-2027-20261001",
         "nike-q1-sales-miss-cuts-restructure-20261001",
@@ -1151,6 +1151,20 @@
         "global-ma-q3-993b-borrowing-costs-20261001",
         "bank-canada-housing-affordability-long-way-20261001",
         "europe-diesel-stocks-release-wright-confidence-20261001"
+      ]
+    },
+    {
+      "issue_id": "2026-10-02-1200",
+      "published_at": "2026-10-02T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "tokyo-core-cpi-september-27-boj-hikes-20261002",
+        "south-korea-september-cpi-29-diesel-20-20261002",
+        "dollar-17-month-high-us10y-5344-20261002",
+        "gold-415478-second-weekly-loss-20261002",
+        "meta-new-mexico-40b-penalty-request-20261001",
+        "g20-food-trade-coercion-excess-capacity-no-consensus-20261001"
       ]
     }
   ]

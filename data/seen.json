@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/chinas-robotechnik-slip-hong-kong-trading-debut-2026-09-29",
-    "title": "RoboTechnik、香港上場初日に最大8.5%安　IPO市場の選別鮮明",
-    "topic_key": "robotechnik-hong-kong-ipo-debut-down-20260929",
-    "source": "Reuters",
-    "first_seen": "2026-09-29T12:00:00+09:00",
-    "issue": "2026-09-29-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/samsung-electronics-commits-1-billion-kkr-backed-helix-digital-ai-buildout-2026-09-28",
-    "title": "Samsung各社、Helix DigitalのAI基盤整備へ10億ドル拠出",
-    "topic_key": "samsung-helix-digital-ai-infrastructure-1b-20260929",
-    "source": "Reuters",
-    "first_seen": "2026-09-29T12:00:00+09:00",
-    "issue": "2026-09-29-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29",
-    "title": "Anthropic、IPO目論見書でAIの重大リスクを異例開示",
-    "topic_key": "anthropic-ipo-filing-ai-risk-disclosure-20260929",
-    "source": "Reuters",
-    "first_seen": "2026-09-29T12:00:00+09:00",
-    "issue": "2026-09-29-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/astrazeneca-files-us-fda-application-hutchmed-lung-cancer-drug-combination-2026-09-29",
-    "title": "AstraZeneca、HUTCHMEDの肺がん併用療法を米FDAへ申請",
-    "topic_key": "astrazeneca-hutchmed-orpathys-tagrisso-fda-20260929",
-    "source": "Reuters",
-    "first_seen": "2026-09-29T12:00:00+09:00",
-    "issue": "2026-09-29-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/australias-csl-taps-amazons-cloud-unit-boost-research-pipeline-2026-09-29",
-    "title": "豪CSL、AWSのAI・クラウドを研究・臨床開発へ導入",
-    "topic_key": "csl-aws-ai-cloud-rd-clinical-development-20260929",
-    "source": "Reuters / CSL",
-    "first_seen": "2026-09-29T12:00:00+09:00",
-    "issue": "2026-09-29-1200"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/china-unveils-rate-cut-mortgage-subsidies-spur-growth-2026-09-29",
     "title": "中国、PSL金利引き下げと住宅ローン利子補給で景気下支え",
     "topic_key": "china-psl-rate-cut-mortgage-subsidy-growth-20260929",
@@ -414,5 +374,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-02T06:00:00+09:00",
     "issue": "2026-10-02-0600"
+  },
+  {
+    "url_normalized": "www.reuters.com/world/asia-pacific/tokyo-core-inflation-jumps-september-bolsters-case-more-boj-hikes-2026-10-01",
+    "title": "東京9月コアCPI、前年比2.7%　日銀追加利上げ観測を補強",
+    "topic_key": "tokyo-core-cpi-september-27-boj-hikes-20261002",
+    "source": "Reuters",
+    "first_seen": "2026-10-02T12:00:00+09:00",
+    "issue": "2026-10-02-1200"
+  },
+  {
+    "url_normalized": "www.reuters.com/world/asia-pacific/south-korea-september-inflation-eases-29-yy-matches-forecast-2026-10-01",
+    "title": "韓国9月CPI、前年比2.9%へ鈍化　軽油は20%上昇",
+    "topic_key": "south-korea-september-cpi-29-diesel-20-20261002",
+    "source": "Reuters",
+    "first_seen": "2026-10-02T12:00:00+09:00",
+    "issue": "2026-10-02-1200"
+  },
+  {
+    "url_normalized": "www.reuters.com/world/asia-pacific/dollar-17-month-high-global-bond-rout-hits-euro-2026-10-02",
+    "title": "ドル17カ月ぶり高値、米10年債利回りは一時5.344%",
+    "topic_key": "dollar-17-month-high-us10y-5344-20261002",
+    "source": "Reuters",
+    "first_seen": "2026-10-02T12:00:00+09:00",
+    "issue": "2026-10-02-1200"
+  },
+  {
+    "url_normalized": "www.reuters.com/world/india/gold-slips-before-us-payrolls-data-set-second-weekly-loss-2026-10-02",
+    "title": "金、1オンス4154.78ドルへ下落　2週連続安の見通し",
+    "topic_key": "gold-415478-second-weekly-loss-20261002",
+    "source": "Reuters",
+    "first_seen": "2026-10-02T12:00:00+09:00",
+    "issue": "2026-10-02-1200"
+  },
+  {
+    "url_normalized": "www.reuters.com/world/us/new-mexico-wants-meta-pay-up-40-billion-penalties-after-data-privacy-trial-2026-10-01",
+    "title": "ニューメキシコ州、Metaに最大400億ドルの制裁金を請求",
+    "topic_key": "meta-new-mexico-40b-penalty-request-20261001",
+    "source": "Reuters",
+    "first_seen": "2026-10-02T12:00:00+09:00",
+    "issue": "2026-10-02-1200"
+  },
+  {
+    "url_normalized": "www.reuters.com/world/china/g20-trade-chiefs-denounce-food-trade-coercion-not-excess-factory-capacity-2026-10-01",
+    "title": "G20貿易相、食料の貿易威圧を非難へ　過剰生産能力では合意せず",
+    "topic_key": "g20-food-trade-coercion-excess-capacity-no-consensus-20261001",
+    "source": "Reuters",
+    "first_seen": "2026-10-02T12:00:00+09:00",
+    "issue": "2026-10-02-1200"
   }
 ]

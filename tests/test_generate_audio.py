@@ -76,6 +76,16 @@ class AudioTests(unittest.TestCase):
         state = self.run_audio(validator=Mock(side_effect=ValueError('invalid')))
         self.assertEqual(state['status'], 'skipped')
         self.assertEqual(list((self.root / 'docs/audio').glob('*.mp3*')), [])
+        self.assertEqual(state['failure_stage'], 'validation')
+        self.assertTrue((self.root / 'audio-work' / (self.issue + '.mp3')).exists())
+
+    def test_missing_validator_does_not_bill(self):
+        with patch('scripts.generate_audio.shutil.which', return_value=None):
+            from scripts.generate_audio import validate_audio
+            state = self.run_audio(validator=validate_audio)
+        self.assertEqual(state['status'], 'skipped')
+        self.assertEqual(state['failure_stage'], 'prepare')
+        self.convert.assert_not_called()
 
     def test_new_issue_after_skip_can_generate(self):
         self.run_audio(env={})

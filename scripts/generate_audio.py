@@ -4,6 +4,7 @@ import json
 import os
 from pathlib import Path
 import re
+import shutil
 import socket
 import subprocess
 from datetime import datetime, timezone
@@ -58,7 +59,7 @@ def convert(text, key, voice):
         "xi-api-key": key, "Content-Type": "application/json", "Accept": "audio/mpeg",
     }, method="POST")
     with request.build_opener(NoRedirect()).open(req, timeout=120) as response:
-        if response.headers.get_content_type() != "audio/mpeg":
+        if response.headers.get_content_type() not in ("audio/mpeg", "audio/mp3", "application/octet-stream"):
             raise ValueError("Unexpected audio content type")
         audio = response.read(15 * 1024 * 1024 + 1)
         if not audio or len(audio) > 15 * 1024 * 1024:
@@ -108,6 +109,7 @@ def generate(root, issue, env=None, converter=convert, validator=validate_audio)
         return json.loads(status_path.read_text(encoding="utf-8"))
     state = {"issue_id": issue, "model_id": "eleven_v4", "status": "skipped", "checked_at": datetime.now(timezone.utc).isoformat()}
     temporary = audio_dir / (issue + ".mp3.tmp")
+    stage = "prepare"
     try:
         text = (root / "docs/narration" / (issue + ".txt")).read_text(encoding="utf-8").strip()
         key = env.get("ELEVENLABS_API_KEY", "").strip()
@@ -117,12 +119,18 @@ def generate(root, issue, env=None, converter=convert, validator=validate_audio)
         elif not text or len(text) > 9500:
             state["reason"] = "invalid_narration_length"
         else:
+            if validator is validate_audio and shutil.which("ffprobe") is None:
+                raise FileNotFoundError("MP3 validator unavailable")
             # A validated existing file can be recovered without billing again.
             if audio_path.exists():
+                stage = "validation"
                 duration = validator(audio_path)
             else:
+                stage = "request"
                 temporary.write_bytes(converter(text, key, voice))
+                stage = "validation"
                 duration = validator(temporary)
+                stage = "save"
                 temporary.replace(audio_path)
             state.update(status="ready", file=issue + ".mp3", duration_seconds=round(duration, 2),
                          narration_sha256=hashlib.sha256(text.encode("utf-8")).hexdigest())
@@ -133,9 +141,16 @@ def generate(root, issue, env=None, converter=convert, validator=validate_audio)
         state["reason"] = "timeout"
     except error.URLError:
         state["reason"] = "connection_error"
-    except Exception:
+    except Exception as exc:
         state["reason"] = "audio_processing_error"
+        state["failure_stage"] = stage
+        state["error_type"] = type(exc).__name__
     finally:
+        if temporary.exists():
+            # Keep a failed validation response as a private run artifact, not a public asset.
+            recovery = root / "audio-work"
+            recovery.mkdir(exist_ok=True)
+            temporary.replace(recovery / (issue + ".mp3"))
         temporary.unlink(missing_ok=True)
     pending_status = status_path.with_suffix(".json.tmp")
     pending_status.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

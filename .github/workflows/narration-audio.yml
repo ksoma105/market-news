@@ -39,6 +39,7 @@ jobs:
           fi
           ffprobe -version
       - name: Generate this issue's audio (best effort)
+        id: generate
         continue-on-error: true
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
@@ -50,8 +51,8 @@ jobs:
         with:
           name: narration-audio-${{ github.run_id }}
           path: |
-            docs/audio/
-            audio-work/
+            docs/audio/${{ steps.generate.outputs.issue_id }}.*
+            audio-work/${{ steps.generate.outputs.issue_id }}.mp3
           if-no-files-found: ignore
           retention-days: 7
       - name: Commit only audio assets

@@ -162,6 +162,10 @@ def main():
     root = Path(__file__).resolve().parents[1]
     state = generate(root, current_issue(root))
     print(json.dumps(state, ensure_ascii=False))
+    output = os.environ.get("GITHUB_OUTPUT")
+    if output:
+        with open(output, "a", encoding="utf-8") as target:
+            target.write("issue_id=" + state["issue_id"] + "\n")
     summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if summary:
         message = "音声生成済み" if state["status"] == "ready" else "音声スキップ：" + state.get("reason", "unknown")

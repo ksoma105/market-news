@@ -21,6 +21,11 @@
 - `SCHEDULE_PROMPT.md`: ChatGPT Web の Scheduled task に登録するプロンプト
 - `NARRATION.md`: 音声向け原稿の作成規約とElevenLabs接続の準備
 - `docs/narration/<号ID>.txt`: 各号の日本語読み上げ原稿
+- `docs/audio/<号ID>.mp3`: 1号分をまとめた音声
+- `docs/audio/<号ID>.json`: 音声の生成結果（ready / skipped）
+- `docs/assets/audio.js`: 音声プレーヤー
+- `.github/workflows/narration-audio.yml`: 発行コミット後の独立した音声生成
+- `scripts/generate_audio.py`: ElevenLabs API呼出し・音声検証
 
 ## 発行規約
 
@@ -52,3 +57,4 @@
 - PRや別ブランチを作らず、fast-forwardの場合だけ `main` を更新する。
 - 親コミット取得後に `main` が進んでいた場合は更新せず、最新状態からやり直す。
 - force pushを禁止する。
+- 音声の後続処理だけはGitHub Actionsが `audio: publish narration result` という別コミットで `docs/audio/` のみを更新する。記事・台帳・履歴は変更しない。音声の失敗は記事の発行に影響させない。

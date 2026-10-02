@@ -1,0 +1,70 @@
+name: Narration audio
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/narration/*.txt'
+      - 'scripts/generate_audio.py'
+      - '.github/workflows/narration-audio.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: narration-audio
+  cancel-in-progress: false
+
+jobs:
+  audio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Verify failure isolation
+        run: python -m unittest discover -s tests -v
+      - name: Generate this issue's audio (best effort)
+        continue-on-error: true
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID }}
+        run: python scripts/generate_audio.py
+      - name: Preserve audio and status
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: narration-audio-${{ github.run_id }}
+          path: docs/audio/
+          if-no-files-found: ignore
+          retention-days: 7
+      - name: Commit only audio assets
+        id: publish
+        if: success()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if [ ! -d docs/audio ]; then exit 0; fi
+          git add docs/audio/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'audio: publish narration result'
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              echo 'changed=true' >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          done
+          exit 1
+      - name: Request Pages rebuild after bot commit
+        if: steps.publish.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST 'repos/${{ github.repository }}/pages/builds'

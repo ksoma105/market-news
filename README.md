@@ -16,8 +16,9 @@ ChatGPT WebのScheduled taskが、Web検索とGitHubプラグインを使って�
 2. 72時間以内のニュースを検索・検証する
 3. 重複を除いて2〜7件を選ぶ
 4. 最新号、旧号アーカイブ、重複台帳、発行履歴を生成する
-5. 4ファイルを単一commitにして `main` をfast-forward更新する
-6. GitHub Pagesが自動反映する
+5. 音声向け原稿を含む5ファイルを単一commitにして `main` をfast-forward更新する
+6. GitHub Pagesが記事を自動反映する
+7. GitHub Actionsがその号の原稿からElevenLabsでMP3を生成し、検証後に音声を公開する
 
 ## Web Scheduled taskのセットアップ
 
@@ -35,7 +36,7 @@ Scheduled taskを有効にする前に、`SCHEDULE_PROMPT.md` の本文を通常
 
 - GitHubから `AGENTS.md` と `AUTOMATION.md` を読める
 - Web検索で記事URLを開ける
-- 4ファイルが1コミットで更新される
+- 原稿を含む5ファイルが1コミットで更新される
 - `main` へのforce updateや別branch作成がない
 - 公開サイトに新号が反映される
 
@@ -75,9 +76,19 @@ market-news/
 
 - 号ID: `YYYY-MM-DD-HHmm`（JSTの定時枠、分は `00`）
 - コミット: `digest: <号ID>`
-- 1号につき1コミット
+- 記事の発行は1号につき1コミット。音声の任意後続処理は `docs/audio/` だけを別コミットで保存する
 - `main` へのfast-forward更新のみ
 
 ## 運用監視
 
 初回数回はScheduledの実行履歴と公開サイトを確認してください。失敗時は部分更新せず、Scheduledの実行結果に失敗段階が記録される設計です。
+
+## 音声
+
+各号の原稿は `docs/narration/<号ID>.txt`、生成済み音声は `docs/audio/<号ID>.mp3` です。各号につき1つの音声を、ページの「音声で聴く」から再生できます。
+
+GitHub Actionsの `Narration audio` がRepository secret `ELEVENLABS_API_KEY` とRepository variable `ELEVENLABS_VOICE_ID` を使用します。APIキーをファイルに書かないでください。
+
+契約・クレジット・使用量の制限、API障害、タイムアウト時は音声のみスキップし、記事発行を続けます。結果JSONがある号は再試行しません。次号は再び生成を試みます。詳細は `NARRATION.md` を参照してください。
+
+Pagesは既存の `main` / `docs` からの公開を維持します。音声を保存したbotコミット後は、ActionsがPages再ビルドを明示的に要求します。

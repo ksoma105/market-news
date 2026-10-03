@@ -1185,7 +1185,7 @@
       "issue_id": "2026-10-03-0600",
       "published_at": "2026-10-03T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-03-0600.html",
       "topics": [
         "tesla-q3-deliveries-486532-beat-20261002",
         "g7-iea-100m-barrels-diesel-reserve-release-20261002",
@@ -1193,6 +1193,16 @@
         "paramount-warner-combined-skydance-name-20261002",
         "germany-2026-growth-around-1pct-bundesbank-20261002",
         "us-community-banks-sue-occ-crypto-charters-20261002"
+      ]
+    },
+    {
+      "issue_id": "2026-10-03-1200",
+      "published_at": "2026-10-03T12:00:00+09:00",
+      "topic_count": 2,
+      "html_path": "docs/index.html",
+      "topics": [
+        "softbank-openai-final-tranche-10b-completed-20261001",
+        "amazon-built-together-community-1b-five-years-20261002"
       ]
     }
   ]

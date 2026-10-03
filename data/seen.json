@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-august-factory-output-falls-17-month-on-month-2026-09-29",
-    "title": "日本の8月鉱工業生産、前月比1.7%減　自動車が6.8%落ち込む",
-    "topic_key": "japan-august-industrial-output-down-17-20260930",
-    "source": "Reuters",
-    "first_seen": "2026-09-30T12:00:00+09:00",
-    "issue": "2026-09-30-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/chinas-factory-activity-returns-growth-september-amid-ai-boom-2026-09-30",
-    "title": "中国製造業PMI、9月は50.1　3カ月ぶり拡大圏",
-    "topic_key": "china-manufacturing-pmi-501-september-20260930",
-    "source": "Reuters",
-    "first_seen": "2026-09-30T12:00:00+09:00",
-    "issue": "2026-09-30-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/asia-share-sales-poised-test-2021-record-ai-boom-fuels-deal-pipeline-2026-09-30",
-    "title": "アジア太平洋の株式調達、年初来3271億ドル　AI投資がけん引",
-    "topic_key": "asia-equity-fundraising-3271b-ai-pipeline-20260930",
-    "source": "Reuters / LSEG",
-    "first_seen": "2026-09-30T12:00:00+09:00",
-    "issue": "2026-09-30-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-09-30",
-    "title": "米10年債利回り5.2383%　世界債券は大幅安の9月",
-    "topic_key": "global-bonds-september-selloff-us10y-52383-20260930",
-    "source": "Reuters",
-    "first_seen": "2026-09-30T12:00:00+09:00",
-    "issue": "2026-09-30-1200"
-  },
-  {
-    "url_normalized": "reuters.com/legal/litigation/netlist-seeks-us-import-ban-micron-chips-used-google-nvidia-ai-computing-2026-09-29",
-    "title": "Netlist、Micron製HBMなどの米輸入差し止めを申請",
-    "topic_key": "netlist-micron-hbm-itc-import-ban-20260929",
-    "source": "Reuters",
-    "first_seen": "2026-09-30T12:00:00+09:00",
-    "issue": "2026-09-30-1200"
-  },
-  {
     "url_normalized": "reuters.com/markets/us/us-inflation-rises-less-than-expected-august-consumer-spending-surges-2026-09-30",
     "title": "米PCE物価、8月は前月比0.3%上昇　個人消費は0.9%増",
     "topic_key": "us-august-pce-03-consumer-spending-09-20260930",
@@ -422,5 +382,21 @@
     "source": "Reuters",
     "first_seen": "2026-10-03T06:00:00+09:00",
     "issue": "2026-10-03-0600"
+  },
+  {
+    "url_normalized": "group.softbank/news/press/20261001",
+    "title": "ソフトバンク、OpenAIへの300億ドル追加出資を完了",
+    "topic_key": "softbank-openai-final-tranche-10b-completed-20261001",
+    "source": "ソフトバンクグループ",
+    "first_seen": "2026-10-03T12:00:00+09:00",
+    "issue": "2026-10-03-1200"
+  },
+  {
+    "url_normalized": "sustainability.aboutamazon.com/builttogether",
+    "title": "Amazon、米データセンター地域に5年で10億ドル超を追加投資",
+    "topic_key": "amazon-built-together-community-1b-five-years-20261002",
+    "source": "Amazon",
+    "first_seen": "2026-10-03T12:00:00+09:00",
+    "issue": "2026-10-03-1200"
   }
 ]

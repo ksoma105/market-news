@@ -1199,10 +1199,22 @@
       "issue_id": "2026-10-03-1200",
       "published_at": "2026-10-03T12:00:00+09:00",
       "topic_count": 2,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-03-1200.html",
       "topics": [
         "softbank-openai-final-tranche-10b-completed-20261001",
         "amazon-built-together-community-1b-five-years-20261002"
+      ]
+    },
+    {
+      "issue_id": "2026-10-03-2200",
+      "published_at": "2026-10-03T22:00:00+09:00",
+      "topic_count": 4,
+      "html_path": "docs/index.html",
+      "topics": [
+        "renault-france-ev-affordable-cars-investment-10b-20261003",
+        "us-russia-ukraine-talks-lukoil-oil-deal-report-20261003",
+        "us-listed-etf-inflows-record-1-54t-september-20261002",
+        "opec-plus-capacity-review-delayed-mid-november-20261002"
       ]
     }
   ]

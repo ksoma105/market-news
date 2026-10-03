@@ -1,61 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/markets/us/us-inflation-rises-less-than-expected-august-consumer-spending-surges-2026-09-30",
-    "title": "米PCE物価、8月は前月比0.3%上昇　個人消費は0.9%増",
-    "topic_key": "us-august-pce-03-consumer-spending-09-20260930",
-    "source": "Reuters / BEA",
-    "first_seen": "2026-09-30T22:00:00+09:00",
-    "issue": "2026-09-30-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/us-private-payrolls-growth-picks-up-september-adp-says-2026-09-30",
-    "title": "米民間雇用、9月は9万人増　前月から持ち直し",
-    "topic_key": "us-adp-private-payrolls-90k-september-20260930",
-    "source": "Reuters / ADP",
-    "first_seen": "2026-09-30T22:00:00+09:00",
-    "issue": "2026-09-30-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/europe/inflation-jumps-across-euro-zone-raising-pressure-ecb-hike-2026-09-30",
-    "title": "欧州主要国で9月インフレ加速　ECB利上げ圧力強まる",
-    "topic_key": "eurozone-september-inflation-ecb-hike-pressure-20260930",
-    "source": "Reuters / 各国統計当局",
-    "first_seen": "2026-09-30T22:00:00+09:00",
-    "issue": "2026-09-30-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/japanese-economic-panel-members-emphasise-bojs-independence-2026-09-30",
-    "title": "政府有識者、日銀の独立性を明記　長期金利上昇下で政策連携",
-    "topic_key": "japan-cefp-boj-independence-fiscal-coordination-20260930",
-    "source": "Reuters / 経済財政諮問会議",
-    "first_seen": "2026-09-30T22:00:00+09:00",
-    "issue": "2026-09-30-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/india-rbis-fx-forward-book-touches-record-200-billion-2026-09-30",
-    "title": "インド中銀のドル先物売り残高、8月に過去最高2000億ドル",
-    "topic_key": "india-rbi-fx-forward-book-record-200b-20260930",
-    "source": "Reuters / RBI",
-    "first_seen": "2026-09-30T22:00:00+09:00",
-    "issue": "2026-09-30-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/china-extends-two-trade-barrier-probes-into-us-till-december-27-2026-09-30",
-    "title": "中国、対米通商障壁調査2件を12月27日まで延長",
-    "topic_key": "china-us-trade-barrier-probes-extended-dec27-20260930",
-    "source": "Reuters / 中国商務省",
-    "first_seen": "2026-09-30T22:00:00+09:00",
-    "issue": "2026-09-30-2200"
-  },
-  {
-    "url_normalized": "reuters.com/legal/government/uk-regulator-abandons-mandatory-climate-disclosures-listed-companies-2026-09-30",
-    "title": "英FCA、上場企業のサステナビリティ開示を「順守か説明」に",
-    "topic_key": "uk-fca-sustainability-disclosure-comply-explain-20260930",
-    "source": "Reuters / FCA",
-    "first_seen": "2026-09-30T22:00:00+09:00",
-    "issue": "2026-09-30-2200"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/toyota-invest-134-billion-argentina-production-plant-2026-09-30",
     "title": "トヨタ、アルゼンチンEV工場に13.4億ドル投資",
     "topic_key": "toyota-argentina-ev-plant-134b-20260930",
@@ -398,5 +342,37 @@
     "source": "Amazon",
     "first_seen": "2026-10-03T12:00:00+09:00",
     "issue": "2026-10-03-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/renault-invest-over-10-bln-euros-france-evs-affordable-cars-ceo-says-2026-10-03",
+    "title": "ルノー、フランスでEVなどに5年間で100億ユーロ超を投資へ",
+    "topic_key": "renault-france-ev-affordable-cars-investment-10b-20261003",
+    "source": "Reuters",
+    "first_seen": "2026-10-03T22:00:00+09:00",
+    "issue": "2026-10-03-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/us-russia-talks-ukraine-involve-multi-billion-dollar-oil-deal-nyt-reports-2026-10-03",
+    "title": "米露のウクライナ協議、Lukoil資産の石油取引案も浮上＝報道",
+    "topic_key": "us-russia-ukraine-talks-lukoil-oil-deal-report-20261003",
+    "source": "Reuters / New York Times",
+    "first_seen": "2026-10-03T22:00:00+09:00",
+    "issue": "2026-10-03-2200"
+  },
+  {
+    "url_normalized": "reuters.com/markets/wealth/us-listed-etfs-course-record-annual-inflows-state-street-says-2026-10-02",
+    "title": "米上場ETF、9月末までの流入額が年間最高記録を更新",
+    "topic_key": "us-listed-etf-inflows-record-1-54t-september-20261002",
+    "source": "Reuters / State Street",
+    "first_seen": "2026-10-03T22:00:00+09:00",
+    "issue": "2026-10-03-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/opec-delays-oil-capacity-review-after-iran-war-disrupts-expansion-plans-sources-2026-10-02",
+    "title": "OPECプラス、2027年生産枠に使う能力審査を11月半ばへ延期か",
+    "topic_key": "opec-plus-capacity-review-delayed-mid-november-20261002",
+    "source": "Reuters / OPEC",
+    "first_seen": "2026-10-03T22:00:00+09:00",
+    "issue": "2026-10-03-2200"
   }
 ]

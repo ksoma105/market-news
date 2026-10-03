@@ -1209,12 +1209,25 @@
       "issue_id": "2026-10-03-2200",
       "published_at": "2026-10-03T22:00:00+09:00",
       "topic_count": 4,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-03-2200.html",
       "topics": [
         "renault-france-ev-affordable-cars-investment-10b-20261003",
         "us-russia-ukraine-talks-lukoil-oil-deal-report-20261003",
         "us-listed-etf-inflows-record-1-54t-september-20261002",
         "opec-plus-capacity-review-delayed-mid-november-20261002"
+      ]
+    },
+    {
+      "issue_id": "2026-10-04-0600",
+      "published_at": "2026-10-04T06:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-policy-messaging-not-reflationary-katayama-20261003",
+        "vietnam-q3-gdp-995-inflation-trade-deficit-20261003",
+        "trump-ai-voluntary-safeguards-enforcement-gap-20261003",
+        "us-ukraine-fund-first-critical-minerals-deal-20261002",
+        "iraq-state-tanker-2m-barrels-hormuz-20261003"
       ]
     }
   ]

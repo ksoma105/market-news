@@ -366,5 +366,45 @@
     "source": "Reuters / Iran International",
     "first_seen": "2026-10-04T06:00:00+09:00",
     "issue": "2026-10-04-0600"
+  },
+  {
+    "url_normalized": "reuters.com/legal/litigation/us-lend-42-billion-vistra-boost-nuclear-power-output-source-says-2026-10-03",
+    "title": "米政府、Vistraに約42億ドル融資へ　既存原発の出力増強",
+    "topic_key": "us-vistra-4-2b-nuclear-uprate-loan-20261003",
+    "source": "Reuters",
+    "first_seen": "2026-10-04T12:00:00+09:00",
+    "issue": "2026-10-04-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/australias-treasurer-heads-japan-inaugural-finance-ministerial-forum-2026-10-04",
+    "title": "日豪、初の財務相対話へ　投資・戦略金融の協力を協議",
+    "topic_key": "australia-japan-first-finance-ministerial-dialogue-20261004",
+    "source": "Reuters",
+    "first_seen": "2026-10-04T12:00:00+09:00",
+    "issue": "2026-10-04-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/italys-intesa-raises-mps-takeover-offer-price-warns-it-could-drop-bid-2026-10-03",
+    "title": "伊Intesa、MPS買収案を増額　株主判断で撤回の可能性も",
+    "topic_key": "intesa-raises-mps-takeover-offer-20261003",
+    "source": "Reuters",
+    "first_seen": "2026-10-04T12:00:00+09:00",
+    "issue": "2026-10-04-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/ais-race-transform-world-before-money-runs-out-2026-10-03",
+    "title": "AI投資、収益化との時間差が焦点　データセンター支出30兆ドル予測",
+    "topic_key": "ai-capex-productivity-revenue-gap-analysis-20261003",
+    "source": "Reuters",
+    "first_seen": "2026-10-04T12:00:00+09:00",
+    "issue": "2026-10-04-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/states-cities-sue-us-agencies-over-weaker-vehicle-fuel-economy-rules-2026-10-02",
+    "title": "米燃費規制の緩和に州・自治体が提訴　EV優遇縮小を巡り法廷へ",
+    "topic_key": "us-states-sue-weaker-fuel-economy-rules-20261002",
+    "source": "Reuters",
+    "first_seen": "2026-10-04T12:00:00+09:00",
+    "issue": "2026-10-04-1200"
   }
 ]

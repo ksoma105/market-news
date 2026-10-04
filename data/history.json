@@ -1221,13 +1221,26 @@
       "issue_id": "2026-10-04-0600",
       "published_at": "2026-10-04T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-04-0600.html",
       "topics": [
         "japan-policy-messaging-not-reflationary-katayama-20261003",
         "vietnam-q3-gdp-995-inflation-trade-deficit-20261003",
         "trump-ai-voluntary-safeguards-enforcement-gap-20261003",
         "us-ukraine-fund-first-critical-minerals-deal-20261002",
         "iraq-state-tanker-2m-barrels-hormuz-20261003"
+      ]
+    },
+    {
+      "issue_id": "2026-10-04-1200",
+      "published_at": "2026-10-04T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-vistra-4-2b-nuclear-uprate-loan-20261003",
+        "australia-japan-first-finance-ministerial-dialogue-20261004",
+        "intesa-raises-mps-takeover-offer-20261003",
+        "ai-capex-productivity-revenue-gap-analysis-20261003",
+        "us-states-sue-weaker-fuel-economy-rules-20261002"
       ]
     }
   ]

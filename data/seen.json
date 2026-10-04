@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/china/chinas-tencent-leases-100000-chips-oracle-accelerate-ai-push-ft-reports-2026-10-01",
-    "title": "テンセント、オラクルからAIチップ10万個を5年賃借へ＝FT",
-    "topic_key": "tencent-oracle-ai-chips-lease-100000-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-01T22:00:00+09:00",
-    "issue": "2026-10-01-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/jera-teams-up-with-dell-rhaelm-ai-infrastructure-development-japan-2026-10-01",
-    "title": "JERA・デル・RHAELM、千葉に400MW級AIデータセンター",
-    "topic_key": "jera-dell-rhaelm-chiba-ai-datacenter-400mw-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-01T22:00:00+09:00",
-    "issue": "2026-10-01-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/nidec-aims-october-audit-sign-off-new-ceo-vows-restore-trust-2026-10-01",
-    "title": "ニデック新社長、10月中の監査意見取得を目標",
-    "topic_key": "nidec-october-audit-opinion-new-ceo-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-01T22:00:00+09:00",
-    "issue": "2026-10-01-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/german-regulator-clears-path-ev-batteries-power-homes-feed-grid-2026-10-01",
-    "title": "ドイツ、EV電池の家庭給電・系統放電に新ルール",
-    "topic_key": "germany-v2g-mispel-rules-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-01T22:00:00+09:00",
-    "issue": "2026-10-01-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01",
-    "title": "ブロードコム、Anthropic向け最大420億ドル融資枠",
-    "topic_key": "broadcom-anthropic-42b-chip-financing-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-01T22:00:00+09:00",
-    "issue": "2026-10-01-2200"
-  },
-  {
-    "url_normalized": "reuters.com/legal/litigation/us-weekly-jobless-claims-fall-layoffs-drop-september-2026-10-01",
-    "title": "米新規失業保険申請、19万7000件へ小幅減",
-    "topic_key": "us-jobless-claims-197000-sep26-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-01T22:00:00+09:00",
-    "issue": "2026-10-01-2200"
-  },
-  {
     "url_normalized": "www.reuters.com/business/feds-cook-sees-ai-inflationary-push-top-2027-risk-2026-10-01",
     "title": "Fedクック理事、AI投資のインフレ圧力を2027年の主要リスクに",
     "topic_key": "fed-cook-ai-inflation-risk-2027-20261001",
@@ -390,5 +342,21 @@
     "source": "Reuters / AP",
     "first_seen": "2026-10-04T22:00:00+09:00",
     "issue": "2026-10-04-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/frances-schneider-electric-nears-20-billion-deal-buy-us-software-group-ptc-ft-2026-10-04",
+    "title": "Schneider Electric、PTCを約200億ドルで買収する交渉が進展",
+    "topic_key": "schneider-electric-ptc-20b-talks-20261004",
+    "source": "Reuters / Financial Times",
+    "first_seen": "2026-10-05T06:00:00+09:00",
+    "issue": "2026-10-05-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/europe/latvian-pm-track-lead-pro-ukraine-coalition-after-election-win-2026-10-04",
+    "title": "ラトビア総選挙、親ウクライナの首相与党が第1党",
+    "topic_key": "latvia-united-list-election-42-seats-20261004",
+    "source": "Reuters / AP",
+    "first_seen": "2026-10-05T06:00:00+09:00",
+    "issue": "2026-10-05-0600"
   }
 ]

@@ -1247,11 +1247,21 @@
       "issue_id": "2026-10-04-2200",
       "published_at": "2026-10-04T22:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-04-2200.html",
       "topics": [
         "opec-plus-keeps-november-output-targets-steady-20261004",
         "yemen-government-major-operation-against-houthis-20261004",
         "brazil-presidential-election-first-round-voting-20261004"
+      ]
+    },
+    {
+      "issue_id": "2026-10-05-0600",
+      "published_at": "2026-10-05T06:00:00+09:00",
+      "topic_count": 2,
+      "html_path": "docs/index.html",
+      "topics": [
+        "schneider-electric-ptc-20b-talks-20261004",
+        "latvia-united-list-election-42-seats-20261004"
       ]
     }
   ]

@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-business-mood-improves-tankan-survey-shows-2026-10-01",
-    "title": "日銀短観、大企業製造業の景況感が8年ぶり高水準",
-    "topic_key": "boj-tankan-big-manufacturers-eight-year-high-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-01T12:00:00+09:00",
-    "issue": "2026-10-01-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/south-korea-september-exports-rise-835-yy-monthly-record-2026-10-01",
-    "title": "韓国の9月輸出、1209億ドルで過去最高　半導体が2.6倍",
-    "topic_key": "south-korea-september-exports-record-ai-chips-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-01T12:00:00+09:00",
-    "issue": "2026-10-01-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/global-economy-asian-factory-activity-expands-thanks-global-ai-boom-2026-10-01",
-    "title": "アジア製造業、AI需要で拡大　韓国・台湾が加速",
-    "topic_key": "asia-factory-pmi-ai-boom-september-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-01T12:00:00+09:00",
-    "issue": "2026-10-01-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-01",
-    "title": "アジア株は上値重い　米10年債利回り5.3%台",
-    "topic_key": "asia-stocks-us-treasury-yields-oil-october-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-01T12:00:00+09:00",
-    "issue": "2026-10-01-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/gcash-owner-mynt-prices-philippine-ipo-66-pesos-per-share-sources-say-2026-10-01",
-    "title": "GCash親会社Mynt、フィリピン大型IPOを1株6.60ペソに設定",
-    "topic_key": "mynt-gcash-philippines-ipo-price-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-01T12:00:00+09:00",
-    "issue": "2026-10-01-1200"
-  },
-  {
     "url_normalized": "reuters.com/world/china/chinas-tencent-leases-100000-chips-oracle-accelerate-ai-push-ft-reports-2026-10-01",
     "title": "テンセント、オラクルからAIチップ10万個を5年賃借へ＝FT",
     "topic_key": "tencent-oracle-ai-chips-lease-100000-20261001",
@@ -406,5 +366,29 @@
     "source": "Reuters",
     "first_seen": "2026-10-04T12:00:00+09:00",
     "issue": "2026-10-04-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04",
+    "title": "OPECプラス、11月の原油生産目標を据え置き",
+    "topic_key": "opec-plus-keeps-november-output-targets-steady-20261004",
+    "source": "Reuters / El País・EFE",
+    "first_seen": "2026-10-04T22:00:00+09:00",
+    "issue": "2026-10-04-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/head-yemens-presidential-council-announces-military-operations-retake-territory-2026-10-04",
+    "title": "イエメン政府、フーシ派支配地域の奪還へ大規模作戦を開始",
+    "topic_key": "yemen-government-major-operation-against-houthis-20261004",
+    "source": "Reuters / Al Jazeera",
+    "first_seen": "2026-10-04T22:00:00+09:00",
+    "issue": "2026-10-04-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/brazilians-head-polls-high-stakes-polarized-election-2026-10-04",
+    "title": "ブラジル大統領選が投票入り　財政・成長政策が市場の焦点",
+    "topic_key": "brazil-presidential-election-first-round-voting-20261004",
+    "source": "Reuters / AP",
+    "first_seen": "2026-10-04T22:00:00+09:00",
+    "issue": "2026-10-04-2200"
   }
 ]

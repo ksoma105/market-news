@@ -1234,13 +1234,24 @@
       "issue_id": "2026-10-04-1200",
       "published_at": "2026-10-04T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-04-1200.html",
       "topics": [
         "us-vistra-4-2b-nuclear-uprate-loan-20261003",
         "australia-japan-first-finance-ministerial-dialogue-20261004",
         "intesa-raises-mps-takeover-offer-20261003",
         "ai-capex-productivity-revenue-gap-analysis-20261003",
         "us-states-sue-weaker-fuel-economy-rules-20261002"
+      ]
+    },
+    {
+      "issue_id": "2026-10-04-2200",
+      "published_at": "2026-10-04T22:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "opec-plus-keeps-november-output-targets-steady-20261004",
+        "yemen-government-major-operation-against-houthis-20261004",
+        "brazil-presidential-election-first-round-voting-20261004"
       ]
     }
   ]

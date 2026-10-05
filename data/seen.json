@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-does-not-need-excessively-loose-monetary-policy-economy-minister-says-2026-10-02",
-    "title": "日本は過度な金融緩和不要、城内経財相が「脱デフレ」を強調",
-    "topic_key": "japan-kiuchi-no-excessive-monetary-easing-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T22:00:00+09:00",
-    "issue": "2026-10-02-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/us-job-growth-slows-sharply-september-unemployment-rate-rises-42-2026-10-02",
-    "title": "米9月雇用は2.9万人増に急減、失業率4.2%",
-    "topic_key": "us-september-payrolls-29k-unemployment-42-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T22:00:00+09:00",
-    "issue": "2026-10-02-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/glencore-raises-2026-marketing-profit-outlook-resets-long-term-guidance-2026-10-02",
-    "title": "Glencore、2026年商品取引利益を50億ドル超へ上方修正",
-    "topic_key": "glencore-2026-marketing-ebit-over-5b-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T22:00:00+09:00",
-    "issue": "2026-10-02-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/china-demands-copper-supply-commitments-anglo-teck-merger-approval-sources-say-2026-10-02",
-    "title": "中国、Anglo・Teck統合に銅精鉱の安定供給を要求か",
-    "topic_key": "china-anglo-teck-copper-supply-remedy-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T22:00:00+09:00",
-    "issue": "2026-10-02-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/memory-not-processors-remains-europes-supercomputing-weakness-bull-ceo-says-2026-10-02",
-    "title": "欧州スーパーコンピューター、メモリーが供給網の最大の空白",
-    "topic_key": "europe-supercomputer-memory-supply-gap-bull-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T22:00:00+09:00",
-    "issue": "2026-10-02-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/jdcom-set-win-eu-approval-ceconomy-deal-source-says-2026-10-02",
-    "title": "JD.com、25億ドルのCeconomy買収でEU承認獲得へ",
-    "topic_key": "jdcom-ceconomy-eu-approval-remedies-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T22:00:00+09:00",
-    "issue": "2026-10-02-2200"
-  },
-  {
     "url_normalized": "reuters.com/business/autos-transportation/tesla-posts-stronger-than-expected-quarterly-deliveries-2026-10-02",
     "title": "Teslaの7〜9月納車48万6532台、市場予想を上回る",
     "topic_key": "tesla-q3-deliveries-486532-beat-20261002",
@@ -342,5 +294,45 @@
     "source": "The Guardian / UK Government",
     "first_seen": "2026-10-05T22:00:00+09:00",
     "issue": "2026-10-05-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/middle-east/us-says-foreign-financial-institutions-doing-business-with-iran-may-be-2026-10-05",
+    "title": "米財務省、イラン取引を続ける外国金融機関へ無通告制裁を警告",
+    "topic_key": "us-ofac-iran-foreign-bank-sanctions-warning-20261005",
+    "source": "Reuters / 米財務省OFAC",
+    "first_seen": "2026-10-06T06:00:00+09:00",
+    "issue": "2026-10-06-0600"
+  },
+  {
+    "url_normalized": "investing.com/news/stock-market-news/lucids-thirdquarter-deliveries-miss-estimates-as-it-cuts-output-to-run-down-inventory-4932825",
+    "title": "Lucidの7〜9月納車3806台、市場予想を下回る",
+    "topic_key": "lucid-q3-deliveries-production-miss-inventory-reset-20261005",
+    "source": "Investing.com / Reuters",
+    "first_seen": "2026-10-06T06:00:00+09:00",
+    "issue": "2026-10-06-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/mattel-faces-growing-shareholder-pressure-consider-sale-wsj-reports-2026-10-05",
+    "title": "Mattel株主Ariel、売却を含む戦略的選択肢の検討を要求",
+    "topic_key": "mattel-ariel-sale-strategic-alternatives-20261005",
+    "source": "Reuters / The Wall Street Journal",
+    "first_seen": "2026-10-06T06:00:00+09:00",
+    "issue": "2026-10-06-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05",
+    "title": "C.H. Robinson、RXOを58億ドルで買収へ",
+    "topic_key": "ch-robinson-rxo-5-8b-acquisition-20261005",
+    "source": "Reuters / RXO",
+    "first_seen": "2026-10-06T06:00:00+09:00",
+    "issue": "2026-10-06-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/brazil-markets-set-rally-bolsonaro-leads-first-round-vote-2026-10-05",
+    "title": "ブラジル株、1回目投票後に7.7%高で最高値",
+    "topic_key": "brazil-election-market-rally-bovespa-real-20261005",
+    "source": "Reuters / Folha de S.Paulo",
+    "first_seen": "2026-10-06T06:00:00+09:00",
+    "issue": "2026-10-06-0600"
   }
 ]

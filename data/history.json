@@ -1281,13 +1281,26 @@
       "issue_id": "2026-10-05-2200",
       "published_at": "2026-10-05T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-05-2200.html",
       "topics": [
         "boj-uchida-ai-demand-neutral-rate-market-risk-20261005",
         "eurozone-september-composite-pmi-53-1-inflation-20261005",
         "foxconn-q3-revenue-47-ai-demand-20261005",
         "us-treasury-528-tech-futures-fed-hold-20261005",
         "bt-talktalk-400m-rescue-regulatory-review-20261005"
+      ]
+    },
+    {
+      "issue_id": "2026-10-06-0600",
+      "published_at": "2026-10-06T06:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-ofac-iran-foreign-bank-sanctions-warning-20261005",
+        "lucid-q3-deliveries-production-miss-inventory-reset-20261005",
+        "mattel-ariel-sale-strategic-alternatives-20261005",
+        "ch-robinson-rxo-5-8b-acquisition-20261005",
+        "brazil-election-market-rally-bovespa-real-20261005"
       ]
     }
   ]

@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "www.reuters.com/world/asia-pacific/tokyo-core-inflation-jumps-september-bolsters-case-more-boj-hikes-2026-10-01",
-    "title": "東京9月コアCPI、前年比2.7%　日銀追加利上げ観測を補強",
-    "topic_key": "tokyo-core-cpi-september-27-boj-hikes-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T12:00:00+09:00",
-    "issue": "2026-10-02-1200"
-  },
-  {
-    "url_normalized": "www.reuters.com/world/asia-pacific/south-korea-september-inflation-eases-29-yy-matches-forecast-2026-10-01",
-    "title": "韓国9月CPI、前年比2.9%へ鈍化　軽油は20%上昇",
-    "topic_key": "south-korea-september-cpi-29-diesel-20-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T12:00:00+09:00",
-    "issue": "2026-10-02-1200"
-  },
-  {
-    "url_normalized": "www.reuters.com/world/asia-pacific/dollar-17-month-high-global-bond-rout-hits-euro-2026-10-02",
-    "title": "ドル17カ月ぶり高値、米10年債利回りは一時5.344%",
-    "topic_key": "dollar-17-month-high-us10y-5344-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T12:00:00+09:00",
-    "issue": "2026-10-02-1200"
-  },
-  {
-    "url_normalized": "www.reuters.com/world/india/gold-slips-before-us-payrolls-data-set-second-weekly-loss-2026-10-02",
-    "title": "金、1オンス4154.78ドルへ下落　2週連続安の見通し",
-    "topic_key": "gold-415478-second-weekly-loss-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T12:00:00+09:00",
-    "issue": "2026-10-02-1200"
-  },
-  {
-    "url_normalized": "www.reuters.com/world/us/new-mexico-wants-meta-pay-up-40-billion-penalties-after-data-privacy-trial-2026-10-01",
-    "title": "ニューメキシコ州、Metaに最大400億ドルの制裁金を請求",
-    "topic_key": "meta-new-mexico-40b-penalty-request-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T12:00:00+09:00",
-    "issue": "2026-10-02-1200"
-  },
-  {
-    "url_normalized": "www.reuters.com/world/china/g20-trade-chiefs-denounce-food-trade-coercion-not-excess-factory-capacity-2026-10-01",
-    "title": "G20貿易相、食料の貿易威圧を非難へ　過剰生産能力では合意せず",
-    "topic_key": "g20-food-trade-coercion-excess-capacity-no-consensus-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T12:00:00+09:00",
-    "issue": "2026-10-02-1200"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/japan-does-not-need-excessively-loose-monetary-policy-economy-minister-says-2026-10-02",
     "title": "日本は過度な金融緩和不要、城内経財相が「脱デフレ」を強調",
     "topic_key": "japan-kiuchi-no-excessive-monetary-easing-20261002",
@@ -350,5 +302,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-05T12:00:00+09:00",
     "issue": "2026-10-05-1200"
+  },
+  {
+    "url_normalized": "channelnewsasia.com/business/boj-says-ai-boom-may-have-eased-financial-conditions-warns-market-risks-6432176",
+    "title": "日銀副総裁、AIは需要・物価と中立金利を押し上げ得ると指摘",
+    "topic_key": "boj-uchida-ai-demand-neutral-rate-market-risk-20261005",
+    "source": "CNA / Reuters",
+    "first_seen": "2026-10-05T22:00:00+09:00",
+    "issue": "2026-10-05-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/europe/euro-zone-business-growth-hits-over-3-12-year-high-despite-inflation-worries-pmi-2026-10-05",
+    "title": "ユーロ圏9月総合PMI、2023年4月以来の高水準",
+    "topic_key": "eurozone-september-composite-pmi-53-1-inflation-20261005",
+    "source": "Reuters",
+    "first_seen": "2026-10-05T22:00:00+09:00",
+    "issue": "2026-10-05-2200"
+  },
+  {
+    "url_normalized": "marketscreener.com/news/foxconn-third-quarter-revenue-jumps-47-y-y-beats-market-forecast-ce785ddbde81f221",
+    "title": "鴻海の7〜9月売上高、AI需要で前年同期比47%増",
+    "topic_key": "foxconn-q3-revenue-47-ai-demand-20261005",
+    "source": "MarketScreener / Reuters",
+    "first_seen": "2026-10-05T22:00:00+09:00",
+    "issue": "2026-10-05-2200"
+  },
+  {
+    "url_normalized": "streetinsider.com/Market+Check/Wall+St+futures+dip+as+tech+stocks+take+a+breather/27145296.html",
+    "title": "米長期金利高止まり、ハイテク株先物は小幅安",
+    "topic_key": "us-treasury-528-tech-futures-fed-hold-20261005",
+    "source": "StreetInsider / Reuters",
+    "first_seen": "2026-10-05T22:00:00+09:00",
+    "issue": "2026-10-05-2200"
+  },
+  {
+    "url_normalized": "theguardian.com/business/2026/oct/05/bt-buy-broadband-supplier-talktalk-jobs",
+    "title": "BTがTalkTalkを4億ポンドで救済、競争審査へ",
+    "topic_key": "bt-talktalk-400m-rescue-regulatory-review-20261005",
+    "source": "The Guardian / UK Government",
+    "first_seen": "2026-10-05T22:00:00+09:00",
+    "issue": "2026-10-05-2200"
   }
 ]

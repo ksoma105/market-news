@@ -1268,13 +1268,26 @@
       "issue_id": "2026-10-05-1200",
       "published_at": "2026-10-05T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-05-1200.html",
       "topics": [
         "asia-stocks-fed-october-hike-odds-22-20261005",
         "japan-september-services-pmi-51-3-20261005",
         "noguchi-boj-december-rate-1-5-forecast-20261005",
         "india-rbi-october-rate-hike-bets-20261005",
         "revolut-115b-valuation-monetization-risks-20261004"
+      ]
+    },
+    {
+      "issue_id": "2026-10-05-2200",
+      "published_at": "2026-10-05T22:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "boj-uchida-ai-demand-neutral-rate-market-risk-20261005",
+        "eurozone-september-composite-pmi-53-1-inflation-20261005",
+        "foxconn-q3-revenue-47-ai-demand-20261005",
+        "us-treasury-528-tech-futures-fed-hold-20261005",
+        "bt-talktalk-400m-rescue-regulatory-review-20261005"
       ]
     }
   ]

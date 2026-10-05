@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "www.reuters.com/business/feds-cook-sees-ai-inflationary-push-top-2027-risk-2026-10-01",
-    "title": "Fedクック理事、AI投資のインフレ圧力を2027年の主要リスクに",
-    "topic_key": "fed-cook-ai-inflation-risk-2027-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T06:00:00+09:00",
-    "issue": "2026-10-02-0600"
-  },
-  {
-    "url_normalized": "www.reuters.com/business/retail-consumer/nike-quarterly-sales-miss-estimates-china-weakness-competition-weigh-2026-10-01",
-    "title": "ナイキ、売上高が予想未達　追加人員削減と事業再編へ",
-    "topic_key": "nike-q1-sales-miss-cuts-restructure-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T06:00:00+09:00",
-    "issue": "2026-10-02-0600"
-  },
-  {
-    "url_normalized": "www.reuters.com/world/wall-street-regulator-proposes-rules-investment-adviser-crypto-asset-custody-2026-10-01",
-    "title": "米SEC、投資顧問・ファンドの暗号資産保管ルールを提案",
-    "topic_key": "sec-crypto-custody-advisers-funds-proposal-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T06:00:00+09:00",
-    "issue": "2026-10-02-0600"
-  },
-  {
-    "url_normalized": "www.reuters.com/business/finance/global-ma-deal-rush-fades-third-quarter-rising-borrowing-costs-bite-2026-10-01",
-    "title": "世界M&A、7〜9月は前期比41%減の9930億ドル",
-    "topic_key": "global-ma-q3-993b-borrowing-costs-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T06:00:00+09:00",
-    "issue": "2026-10-02-0600"
-  },
-  {
-    "url_normalized": "www.reuters.com/world/americas/canada-is-not-close-restoring-housing-affordability-says-central-bank-2026-10-01",
-    "title": "カナダ中銀、住宅取得能力の回復には「なお長い道のり」",
-    "topic_key": "bank-canada-housing-affordability-long-way-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T06:00:00+09:00",
-    "issue": "2026-10-02-0600"
-  },
-  {
-    "url_normalized": "www.reuters.com/business/us-energy-secretary-wright-highly-confident-europe-will-release-diesel-stocks-2026-10-01",
-    "title": "米エネルギー長官、欧州の軽油備蓄放出に「強い確信」",
-    "topic_key": "europe-diesel-stocks-release-wright-confidence-20261001",
-    "source": "Reuters",
-    "first_seen": "2026-10-02T06:00:00+09:00",
-    "issue": "2026-10-02-0600"
-  },
-  {
     "url_normalized": "www.reuters.com/world/asia-pacific/tokyo-core-inflation-jumps-september-bolsters-case-more-boj-hikes-2026-10-01",
     "title": "東京9月コアCPI、前年比2.7%　日銀追加利上げ観測を補強",
     "topic_key": "tokyo-core-cpi-september-27-boj-hikes-20261002",
@@ -358,5 +310,45 @@
     "source": "Reuters / AP",
     "first_seen": "2026-10-05T06:00:00+09:00",
     "issue": "2026-10-05-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-05",
+    "title": "米利上げ観測後退でアジア株高、日経平均は朝方2%上昇",
+    "topic_key": "asia-stocks-fed-october-hike-odds-22-20261005",
+    "source": "Reuters",
+    "first_seen": "2026-10-05T12:00:00+09:00",
+    "issue": "2026-10-05-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-service-sector-activity-slows-5-month-high-pmi-shows-2026-10-05",
+    "title": "日本の9月サービス業PMI、51.3へ低下",
+    "topic_key": "japan-september-services-pmi-51-3-20261005",
+    "source": "Reuters / S&P Global",
+    "first_seen": "2026-10-05T12:00:00+09:00",
+    "issue": "2026-10-05-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/reflationist-ex-boj-policymaker-calls-end-low-rates-big-spending-2026-10-05",
+    "title": "元日銀委員、12月の政策金利1.5%を予想",
+    "topic_key": "noguchi-boj-december-rate-1-5-forecast-20261005",
+    "source": "Reuters",
+    "first_seen": "2026-10-05T12:00:00+09:00",
+    "issue": "2026-10-05-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/markets-bet-rbi-rate-hike-inflation-pressure-builds-2026-10-05",
+    "title": "インド中銀、約4年ぶり利上げ観測が強まる",
+    "topic_key": "india-rbi-october-rate-hike-bets-20261005",
+    "source": "Reuters",
+    "first_seen": "2026-10-05T12:00:00+09:00",
+    "issue": "2026-10-05-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/revoluts-rise-become-europes-115-billion-big-bank-rival-2026-10-04",
+    "title": "Revolut、評価額1150億ドルでも収益化と融資拡大が課題",
+    "topic_key": "revolut-115b-valuation-monetization-risks-20261004",
+    "source": "Reuters",
+    "first_seen": "2026-10-05T12:00:00+09:00",
+    "issue": "2026-10-05-1200"
   }
 ]

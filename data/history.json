@@ -1258,10 +1258,23 @@
       "issue_id": "2026-10-05-0600",
       "published_at": "2026-10-05T06:00:00+09:00",
       "topic_count": 2,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-05-0600.html",
       "topics": [
         "schneider-electric-ptc-20b-talks-20261004",
         "latvia-united-list-election-42-seats-20261004"
+      ]
+    },
+    {
+      "issue_id": "2026-10-05-1200",
+      "published_at": "2026-10-05T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "asia-stocks-fed-october-hike-odds-22-20261005",
+        "japan-september-services-pmi-51-3-20261005",
+        "noguchi-boj-december-rate-1-5-forecast-20261005",
+        "india-rbi-october-rate-hike-bets-20261005",
+        "revolut-115b-valuation-monetization-risks-20261004"
       ]
     }
   ]

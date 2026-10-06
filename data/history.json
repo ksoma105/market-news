@@ -1294,13 +1294,26 @@
       "issue_id": "2026-10-06-0600",
       "published_at": "2026-10-06T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-06-0600.html",
       "topics": [
         "us-ofac-iran-foreign-bank-sanctions-warning-20261005",
         "lucid-q3-deliveries-production-miss-inventory-reset-20261005",
         "mattel-ariel-sale-strategic-alternatives-20261005",
         "ch-robinson-rxo-5-8b-acquisition-20261005",
         "brazil-election-market-rally-bovespa-real-20261005"
+      ]
+    },
+    {
+      "issue_id": "2026-10-06-1200",
+      "published_at": "2026-10-06T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "global-yields-euro-asia-stocks-20261006",
+        "asean-energy-security-apsa-power-grid-20261006",
+        "mynt-gcash-philippine-ipo-20261006",
+        "india-power-shortage-coal-storage-20261006",
+        "jio-platforms-3-8b-ipo-plan-20261005"
       ]
     }
   ]

@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/autos-transportation/tesla-posts-stronger-than-expected-quarterly-deliveries-2026-10-02",
-    "title": "Teslaの7〜9月納車48万6532台、市場予想を上回る",
-    "topic_key": "tesla-q3-deliveries-486532-beat-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-03T06:00:00+09:00",
-    "issue": "2026-10-03-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/g7-release-100-million-barrels-diesel-other-reserves-through-iea-2026-10-02",
-    "title": "G7、軽油など1億バレルを4カ月かけ協調放出",
-    "topic_key": "g7-iea-100m-barrels-diesel-reserve-release-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-03T06:00:00+09:00",
-    "issue": "2026-10-03-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/us/trump-expected-name-jay-clayton-ai-czar-cnn-reports-2026-10-02",
-    "title": "トランプ氏、情報長官をAI政策トップに起用へ＝関係者",
-    "topic_key": "trump-jay-clayton-ai-czar-expected-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-03T06:00:00+09:00",
-    "issue": "2026-10-03-0600"
-  },
-  {
-    "url_normalized": "reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02",
-    "title": "Paramount・Warner統合会社、名称を「Skydance」に",
-    "topic_key": "paramount-warner-combined-skydance-name-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-03T06:00:00+09:00",
-    "issue": "2026-10-03-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/europe/germany-may-grow-twice-fast-this-year-earlier-thought-bundesbank-says-2026-10-02",
-    "title": "ドイツ成長率、2026年は約1%も　従来予測の約2倍",
-    "topic_key": "germany-2026-growth-around-1pct-bundesbank-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-03T06:00:00+09:00",
-    "issue": "2026-10-03-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/community-banks-sue-us-regulator-over-crypto-firm-charters-2026-10-02",
-    "title": "米地銀団体、暗号資産企業への限定銀行免許を巡りOCC提訴",
-    "topic_key": "us-community-banks-sue-occ-crypto-charters-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-03T06:00:00+09:00",
-    "issue": "2026-10-03-0600"
-  },
-  {
     "url_normalized": "group.softbank/news/press/20261001",
     "title": "ソフトバンク、OpenAIへの300億ドル追加出資を完了",
     "topic_key": "softbank-openai-final-tranche-10b-completed-20261001",
@@ -334,5 +286,45 @@
     "source": "Reuters / Folha de S.Paulo",
     "first_seen": "2026-10-06T06:00:00+09:00",
     "issue": "2026-10-06-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-06",
+    "title": "米長期金利が24年ぶり高水準、アジア株は小幅高",
+    "topic_key": "global-yields-euro-asia-stocks-20261006",
+    "source": "Reuters / The Guardian",
+    "first_seen": "2026-10-06T12:00:00+09:00",
+    "issue": "2026-10-06-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/middle-east-war-sharpens-focus-asean-energy-security-plans-2026-10-05",
+    "title": "ASEAN、原油輸入リスク受け緊急対応と電力網を協議へ",
+    "topic_key": "asean-energy-security-apsa-power-grid-20261006",
+    "source": "Reuters / ASEAN Centre for Energy",
+    "first_seen": "2026-10-06T12:00:00+09:00",
+    "issue": "2026-10-06-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/mynt-opens-844-million-philippine-ipo-offers-gcash-users-real-time-share-2026-10-06",
+    "title": "GCash親会社Mynt、最大609億ペソのIPOを開始",
+    "topic_key": "mynt-gcash-philippine-ipo-20261006",
+    "source": "Reuters / Mynt",
+    "first_seen": "2026-10-06T12:00:00+09:00",
+    "issue": "2026-10-06-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/indian-states-seek-extra-power-avoid-outages-nighttime-supply-tightens-officials-2026-10-06",
+    "title": "インドの9月電力不足、2023年8月以来の大きさ",
+    "topic_key": "india-power-shortage-coal-storage-20261006",
+    "source": "Reuters / The Indian Express",
+    "first_seen": "2026-10-06T12:00:00+09:00",
+    "issue": "2026-10-06-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/ambanis-jio-platforms-plans-launch-ipo-october-21-sources-say-2026-10-05",
+    "title": "Jio Platforms、38億ドル規模のIPOを10月21日に開始か",
+    "topic_key": "jio-platforms-3-8b-ipo-plan-20261005",
+    "source": "Reuters / Financial Express",
+    "first_seen": "2026-10-06T12:00:00+09:00",
+    "issue": "2026-10-06-1200"
   }
 ]

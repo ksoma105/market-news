@@ -1320,7 +1320,7 @@
       "issue_id": "2026-10-06-2200",
       "published_at": "2026-10-06T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-06-2200.html",
       "topics": [
         "us-august-trade-deficit-1056b-imports-20261006",
         "canada-august-trade-surplus-42b-20261006",
@@ -1328,6 +1328,20 @@
         "uber-ezcater-23b-acquisition-20261006",
         "sap-techwolf-workforce-data-acquisition-20261006",
         "paramount-wbd-skydance-merger-complete-20261006"
+      ]
+    },
+    {
+      "issue_id": "2026-10-07-0600",
+      "published_at": "2026-10-07T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "boj-ueda-inflation-anchor-rate-hikes-20261006",
+        "fed-bank-supervision-five-regions-thresholds-20261006",
+        "marvell-fy2028-20b-fy2031-ai-revenue-outlook-20261006",
+        "google-uk-play-store-1b-class-action-20261006",
+        "europe-renewables-8547-exposed-systems-cyber-20261006",
+        "anthropic-cyber-verification-program-vulnerabilities-20261006"
       ]
     }
   ]

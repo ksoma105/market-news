@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-shifts-messaging-counter-view-its-policies-are-reflationary-katayama-says-2026-10-03",
-    "title": "日本政府、「リフレ政策」との見方を打ち消す市場発信へ",
-    "topic_key": "japan-policy-messaging-not-reflationary-katayama-20261003",
-    "source": "Reuters",
-    "first_seen": "2026-10-04T06:00:00+09:00",
-    "issue": "2026-10-04-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/vietnam-q3-economic-growth-up-995-yy-2026-10-03",
-    "title": "ベトナム7〜9月GDPは9.95%増、輸出好調も物価と貿易赤字が重荷",
-    "topic_key": "vietnam-q3-gdp-995-inflation-trade-deficit-20261003",
-    "source": "Reuters / ベトナム国家統計局",
-    "first_seen": "2026-10-04T06:00:00+09:00",
-    "issue": "2026-10-04-0600"
-  },
-  {
-    "url_normalized": "reuters.com/legal/litigation/public-fears-ai-grow-trump-digs-voluntary-safeguards-2026-10-03",
-    "title": "米政権、AI安全策は自主協定を軸に　強制力の欠如が焦点",
-    "topic_key": "trump-ai-voluntary-safeguards-enforcement-gap-20261003",
-    "source": "Reuters",
-    "first_seen": "2026-10-04T06:00:00+09:00",
-    "issue": "2026-10-04-0600"
-  },
-  {
-    "url_normalized": "reuters.com/legal/transactional/us-ukrainian-investment-fund-seals-first-critical-minerals-deal-2026-10-02",
-    "title": "米・ウクライナ復興基金、初の重要鉱物案件に約3000万ドル",
-    "topic_key": "us-ukraine-fund-first-critical-minerals-deal-20261002",
-    "source": "Reuters / 米国際開発金融公社",
-    "first_seen": "2026-10-04T06:00:00+09:00",
-    "issue": "2026-10-04-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/iraq-says-it-transported-2-million-barrels-crude-through-strait-hormuz-2026-10-03",
-    "title": "イラク国営タンカー、原油200万バレルをホルムズ海峡経由で輸送",
-    "topic_key": "iraq-state-tanker-2m-barrels-hormuz-20261003",
-    "source": "Reuters / Iran International",
-    "first_seen": "2026-10-04T06:00:00+09:00",
-    "issue": "2026-10-04-0600"
-  },
-  {
     "url_normalized": "reuters.com/legal/litigation/us-lend-42-billion-vistra-boost-nuclear-power-output-source-says-2026-10-03",
     "title": "米政府、Vistraに約42億ドル融資へ　既存原発の出力増強",
     "topic_key": "us-vistra-4-2b-nuclear-uprate-loan-20261003",
@@ -326,5 +286,53 @@
     "source": "Reuters / Associated Press",
     "first_seen": "2026-10-06T22:00:00+09:00",
     "issue": "2026-10-06-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/boj-chief-calls-more-focus-anchoring-inflation-around-target-2026-10-06",
+    "title": "日銀総裁、基調物価2%定着へ追加利上げ方針を維持",
+    "topic_key": "boj-ueda-inflation-anchor-rate-hikes-20261006",
+    "source": "Reuters / 日本銀行",
+    "first_seen": "2026-10-07T06:00:00+09:00",
+    "issue": "2026-10-07-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/fed-plans-overhaul-bank-supervision-responsibilities-bowman-says-2026-10-06",
+    "title": "FRB、銀行監督を5地域体制へ再編",
+    "topic_key": "fed-bank-supervision-five-regions-thresholds-20261006",
+    "source": "Reuters / Federal Reserve",
+    "first_seen": "2026-10-07T06:00:00+09:00",
+    "issue": "2026-10-07-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/marvell-raises-2028-revenue-forecast-strong-ai-data-center-demand-2026-10-06",
+    "title": "Marvell、2028年度売上高見通しを約200億ドルへ引き上げ",
+    "topic_key": "marvell-fy2028-20b-fy2031-ai-revenue-outlook-20261006",
+    "source": "Reuters / Barron's",
+    "first_seen": "2026-10-07T06:00:00+09:00",
+    "issue": "2026-10-07-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/google-fights-1-billion-uk-lawsuit-over-app-store-fees-latest-big-tech-case-2026-10-06",
+    "title": "Google、英Playストア手数料巡る10億ポンド超の集団訴訟に反論",
+    "topic_key": "google-uk-play-store-1b-class-action-20261006",
+    "source": "Reuters",
+    "first_seen": "2026-10-07T06:00:00+09:00",
+    "issue": "2026-10-07-0600"
+  },
+  {
+    "url_normalized": "reuters.com/technology/thousands-european-wind-solar-power-systems-exposed-online-dutch-researchers-say-2026-10-06",
+    "title": "欧州の再エネ設備8547システム、ネット公開で制御リスク",
+    "topic_key": "europe-renewables-8547-exposed-systems-cyber-20261006",
+    "source": "Reuters / Modat / NCSC-NL",
+    "first_seen": "2026-10-07T06:00:00+09:00",
+    "issue": "2026-10-07-0600"
+  },
+  {
+    "url_normalized": "reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06",
+    "title": "Anthropic、強力なAIモデルの防御目的アクセスを拡大",
+    "topic_key": "anthropic-cyber-verification-program-vulnerabilities-20261006",
+    "source": "Reuters",
+    "first_seen": "2026-10-07T06:00:00+09:00",
+    "issue": "2026-10-07-0600"
   }
 ]

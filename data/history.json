@@ -1307,13 +1307,27 @@
       "issue_id": "2026-10-06-1200",
       "published_at": "2026-10-06T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-06-1200.html",
       "topics": [
         "global-yields-euro-asia-stocks-20261006",
         "asean-energy-security-apsa-power-grid-20261006",
         "mynt-gcash-philippine-ipo-20261006",
         "india-power-shortage-coal-storage-20261006",
         "jio-platforms-3-8b-ipo-plan-20261005"
+      ]
+    },
+    {
+      "issue_id": "2026-10-06-2200",
+      "published_at": "2026-10-06T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-august-trade-deficit-1056b-imports-20261006",
+        "canada-august-trade-surplus-42b-20261006",
+        "google-constellation-3590mw-power-deal-20261006",
+        "uber-ezcater-23b-acquisition-20261006",
+        "sap-techwolf-workforce-data-acquisition-20261006",
+        "paramount-wbd-skydance-merger-complete-20261006"
       ]
     }
   ]

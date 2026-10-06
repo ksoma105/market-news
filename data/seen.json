@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "group.softbank/news/press/20261001",
-    "title": "ソフトバンク、OpenAIへの300億ドル追加出資を完了",
-    "topic_key": "softbank-openai-final-tranche-10b-completed-20261001",
-    "source": "ソフトバンクグループ",
-    "first_seen": "2026-10-03T12:00:00+09:00",
-    "issue": "2026-10-03-1200"
-  },
-  {
-    "url_normalized": "sustainability.aboutamazon.com/builttogether",
-    "title": "Amazon、米データセンター地域に5年で10億ドル超を追加投資",
-    "topic_key": "amazon-built-together-community-1b-five-years-20261002",
-    "source": "Amazon",
-    "first_seen": "2026-10-03T12:00:00+09:00",
-    "issue": "2026-10-03-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/renault-invest-over-10-bln-euros-france-evs-affordable-cars-ceo-says-2026-10-03",
-    "title": "ルノー、フランスでEVなどに5年間で100億ユーロ超を投資へ",
-    "topic_key": "renault-france-ev-affordable-cars-investment-10b-20261003",
-    "source": "Reuters",
-    "first_seen": "2026-10-03T22:00:00+09:00",
-    "issue": "2026-10-03-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/us-russia-talks-ukraine-involve-multi-billion-dollar-oil-deal-nyt-reports-2026-10-03",
-    "title": "米露のウクライナ協議、Lukoil資産の石油取引案も浮上＝報道",
-    "topic_key": "us-russia-ukraine-talks-lukoil-oil-deal-report-20261003",
-    "source": "Reuters / New York Times",
-    "first_seen": "2026-10-03T22:00:00+09:00",
-    "issue": "2026-10-03-2200"
-  },
-  {
-    "url_normalized": "reuters.com/markets/wealth/us-listed-etfs-course-record-annual-inflows-state-street-says-2026-10-02",
-    "title": "米上場ETF、9月末までの流入額が年間最高記録を更新",
-    "topic_key": "us-listed-etf-inflows-record-1-54t-september-20261002",
-    "source": "Reuters / State Street",
-    "first_seen": "2026-10-03T22:00:00+09:00",
-    "issue": "2026-10-03-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/opec-delays-oil-capacity-review-after-iran-war-disrupts-expansion-plans-sources-2026-10-02",
-    "title": "OPECプラス、2027年生産枠に使う能力審査を11月半ばへ延期か",
-    "topic_key": "opec-plus-capacity-review-delayed-mid-november-20261002",
-    "source": "Reuters / OPEC",
-    "first_seen": "2026-10-03T22:00:00+09:00",
-    "issue": "2026-10-03-2200"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/japan-shifts-messaging-counter-view-its-policies-are-reflationary-katayama-says-2026-10-03",
     "title": "日本政府、「リフレ政策」との見方を打ち消す市場発信へ",
     "topic_key": "japan-policy-messaging-not-reflationary-katayama-20261003",
@@ -326,5 +278,53 @@
     "source": "Reuters / Financial Express",
     "first_seen": "2026-10-06T12:00:00+09:00",
     "issue": "2026-10-06-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06",
+    "title": "米8月貿易赤字、13.7%増の1056億ドル",
+    "topic_key": "us-august-trade-deficit-1056b-imports-20261006",
+    "source": "Reuters / 米商務省BEA",
+    "first_seen": "2026-10-06T22:00:00+09:00",
+    "issue": "2026-10-06-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/canadas-trade-surplus-surprisingly-widens-over-four-year-high-august-2026-10-06",
+    "title": "カナダ8月貿易黒字、4年超ぶり高水準の42億加ドル",
+    "topic_key": "canada-august-trade-surplus-42b-20261006",
+    "source": "Reuters / Statistics Canada",
+    "first_seen": "2026-10-06T22:00:00+09:00",
+    "issue": "2026-10-06-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/google-enters-massive-36-gw-power-deal-with-constellation-energy-2026-10-06",
+    "title": "Google、Constellationと3590MWの長期電力契約",
+    "topic_key": "google-constellation-3590mw-power-deal-20261006",
+    "source": "Reuters / Google / Constellation Energy",
+    "first_seen": "2026-10-06T22:00:00+09:00",
+    "issue": "2026-10-06-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/uber-buy-us-catering-platform-ezcater-23-billion-2026-10-06",
+    "title": "Uber、法人向けケータリングezCaterを23億ドルで買収へ",
+    "topic_key": "uber-ezcater-23b-acquisition-20261006",
+    "source": "Reuters",
+    "first_seen": "2026-10-06T22:00:00+09:00",
+    "issue": "2026-10-06-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/sap-acquire-workforce-data-firm-techwolf-2026-10-06",
+    "title": "SAP、従業員スキル分析のTechWolfを買収",
+    "topic_key": "sap-techwolf-workforce-data-acquisition-20261006",
+    "source": "Reuters",
+    "first_seen": "2026-10-06T22:00:00+09:00",
+    "issue": "2026-10-06-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/paramount-wraps-up-mega-warner-bros-merger-create-hollywood-powerhouse-skydance-2026-10-06",
+    "title": "Paramount、Warner Bros. Discovery買収を完了",
+    "topic_key": "paramount-wbd-skydance-merger-complete-20261006",
+    "source": "Reuters / Associated Press",
+    "first_seen": "2026-10-06T22:00:00+09:00",
+    "issue": "2026-10-06-2200"
   }
 ]

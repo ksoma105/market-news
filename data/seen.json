@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04",
-    "title": "OPECプラス、11月の原油生産目標を据え置き",
-    "topic_key": "opec-plus-keeps-november-output-targets-steady-20261004",
-    "source": "Reuters / El País・EFE",
-    "first_seen": "2026-10-04T22:00:00+09:00",
-    "issue": "2026-10-04-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/head-yemens-presidential-council-announces-military-operations-retake-territory-2026-10-04",
-    "title": "イエメン政府、フーシ派支配地域の奪還へ大規模作戦を開始",
-    "topic_key": "yemen-government-major-operation-against-houthis-20261004",
-    "source": "Reuters / Al Jazeera",
-    "first_seen": "2026-10-04T22:00:00+09:00",
-    "issue": "2026-10-04-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/americas/brazilians-head-polls-high-stakes-polarized-election-2026-10-04",
-    "title": "ブラジル大統領選が投票入り　財政・成長政策が市場の焦点",
-    "topic_key": "brazil-presidential-election-first-round-voting-20261004",
-    "source": "Reuters / AP",
-    "first_seen": "2026-10-04T22:00:00+09:00",
-    "issue": "2026-10-04-2200"
-  },
-  {
     "url_normalized": "reuters.com/business/frances-schneider-electric-nears-20-billion-deal-buy-us-software-group-ptc-ft-2026-10-04",
     "title": "Schneider Electric、PTCを約200億ドルで買収する交渉が進展",
     "topic_key": "schneider-electric-ptc-20b-talks-20261004",
@@ -342,5 +318,53 @@
     "source": "世界銀行・Reuters",
     "first_seen": "2026-10-07T12:00:00+09:00",
     "issue": "2026-10-07-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/india/india-raises-policy-rate-by-25-bps-first-hike-nearly-four-years-2026-10-07",
+    "title": "インド中銀、約4年ぶり利上げ　政策金利を5.50%へ",
+    "topic_key": "india-rbi-25bp-hike-5-5-calibrated-tightening-20261007",
+    "source": "Reuters",
+    "first_seen": "2026-10-07T22:00:00+09:00",
+    "issue": "2026-10-07-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/blackstone-backed-airtrunk-invest-1-billion-japan-data-centre-campus-2026-10-07",
+    "title": "AirTrunk、日本のAIデータセンターへ10億ドル追加投資",
+    "topic_key": "airtrunk-japan-ai-datacenter-1b-inzai-20261007",
+    "source": "Reuters",
+    "first_seen": "2026-10-07T22:00:00+09:00",
+    "issue": "2026-10-07-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07",
+    "title": "MicrosoftとNvidia、クラウド不要のAI処理を狙う新型PC発表へ",
+    "topic_key": "microsoft-nvidia-surface-laptop-ultra-rtx-spark-20261007",
+    "source": "Reuters",
+    "first_seen": "2026-10-07T22:00:00+09:00",
+    "issue": "2026-10-07-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/energy/iea-meet-wednesday-over-proposed-release-reserves-say-two-eu-diplomats-2026-10-07",
+    "title": "IEA、原油・軽油の追加放出案を協議　量と構成は未確定",
+    "topic_key": "iea-oil-diesel-stock-release-talks-100m-20261007",
+    "source": "Reuters",
+    "first_seen": "2026-10-07T22:00:00+09:00",
+    "issue": "2026-10-07-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/imf-chief-warns-energy-shock-growing-debt-ai-risks-threaten-global-growth-2026-10-07",
+    "title": "IMF総裁、エネルギー・公的債務・AI投資の複合リスクを警告",
+    "topic_key": "imf-georgieva-energy-debt-ai-global-risks-20261007",
+    "source": "Reuters",
+    "first_seen": "2026-10-07T22:00:00+09:00",
+    "issue": "2026-10-07-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/technology/australias-privacy-watchdog-probes-maker-smart-glasses-app-used-by-kmart-2026-10-07",
+    "title": "豪当局、Kmart取扱いスマートグラス用アプリをプライバシー調査",
+    "topic_key": "australia-privacy-probe-smart-glasses-hecyan-kmart-20261007",
+    "source": "Reuters",
+    "first_seen": "2026-10-07T22:00:00+09:00",
+    "issue": "2026-10-07-2200"
   }
 ]

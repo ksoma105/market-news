@@ -1348,7 +1348,7 @@
       "issue_id": "2026-10-07-1200",
       "published_at": "2026-10-07T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-07-1200.html",
       "topics": [
         "japan-august-real-wages-eighth-month-20261007",
         "japan-reuters-tankan-october-manufacturing-services-20261007",
@@ -1356,6 +1356,20 @@
         "us-software-stocks-ai-earnings-expectations-20261006",
         "vietnam-banks-7b-capital-raising-20261007",
         "world-bank-south-asia-growth-6-9-20261006"
+      ]
+    },
+    {
+      "issue_id": "2026-10-07-2200",
+      "published_at": "2026-10-07T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "india-rbi-25bp-hike-5-5-calibrated-tightening-20261007",
+        "airtrunk-japan-ai-datacenter-1b-inzai-20261007",
+        "microsoft-nvidia-surface-laptop-ultra-rtx-spark-20261007",
+        "iea-oil-diesel-stock-release-talks-100m-20261007",
+        "imf-georgieva-energy-debt-ai-global-risks-20261007",
+        "australia-privacy-probe-smart-glasses-hecyan-kmart-20261007"
       ]
     }
   ]

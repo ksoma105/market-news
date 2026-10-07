@@ -1,21 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/frances-schneider-electric-nears-20-billion-deal-buy-us-software-group-ptc-ft-2026-10-04",
-    "title": "Schneider Electric、PTCを約200億ドルで買収する交渉が進展",
-    "topic_key": "schneider-electric-ptc-20b-talks-20261004",
-    "source": "Reuters / Financial Times",
-    "first_seen": "2026-10-05T06:00:00+09:00",
-    "issue": "2026-10-05-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/europe/latvian-pm-track-lead-pro-ukraine-coalition-after-election-win-2026-10-04",
-    "title": "ラトビア総選挙、親ウクライナの首相与党が第1党",
-    "topic_key": "latvia-united-list-election-42-seats-20261004",
-    "source": "Reuters / AP",
-    "first_seen": "2026-10-05T06:00:00+09:00",
-    "issue": "2026-10-05-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-05",
     "title": "米利上げ観測後退でアジア株高、日経平均は朝方2%上昇",
     "topic_key": "asia-stocks-fed-october-hike-odds-22-20261005",
@@ -366,5 +350,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-07T22:00:00+09:00",
     "issue": "2026-10-07-2200"
+  },
+  {
+    "url_normalized": "https://federalreserve.gov/monetarypolicy/fomcminutes20260916.htm",
+    "title": "FRB議事要旨、国債市場ストレスへの備え強化を議論",
+    "topic_key": "fed-september-minutes-rate-hike-treasury-stress-planning-20261007",
+    "source": "Federal Reserve / Reuters",
+    "first_seen": "2026-10-08T06:00:00+09:00",
+    "issue": "2026-10-08-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/energy/south-korea-unveils-747-billion-energy-transition-plan-through-2035-2026-10-07",
+    "title": "韓国、2035年までに1000兆ウォン規模の脱炭素戦略",
+    "topic_key": "south-korea-kgx-1000tn-won-green-transition-20261007",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T06:00:00+09:00",
+    "issue": "2026-10-08-0600"
+  },
+  {
+    "url_normalized": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/fourteen-economies-join-united-states-signing-joint-ministerial-statement-address-global-excess",
+    "title": "日米欧など15経済圏、製造業の構造的過剰生産への対処で共同声明",
+    "topic_key": "ustr-15-economies-structural-excess-capacity-statement-20261007",
+    "source": "USTR / Reuters",
+    "first_seen": "2026-10-08T06:00:00+09:00",
+    "issue": "2026-10-08-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/us-fcc-vote-ban-chinese-labs-testing-us-electronics-2026-10-07",
+    "title": "米FCC、中国の試験所による電子機器認証を全面禁止へ採決",
+    "topic_key": "us-fcc-china-test-labs-electronics-vote-20261007",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T06:00:00+09:00",
+    "issue": "2026-10-08-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/retail-consumer/levi-strauss-lifts-annual-profit-outlook-tariff-refunds-holiday-demand-2026-10-07",
+    "title": "Levi Strauss、関税還付と年末需要を追い風に通期利益予想を上方修正",
+    "topic_key": "levi-strauss-profit-outlook-tariff-refunds-20261007",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T06:00:00+09:00",
+    "issue": "2026-10-08-0600"
   }
 ]

@@ -1334,7 +1334,7 @@
       "issue_id": "2026-10-07-0600",
       "published_at": "2026-10-07T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-07-0600.html",
       "topics": [
         "boj-ueda-inflation-anchor-rate-hikes-20261006",
         "fed-bank-supervision-five-regions-thresholds-20261006",
@@ -1342,6 +1342,20 @@
         "google-uk-play-store-1b-class-action-20261006",
         "europe-renewables-8547-exposed-systems-cyber-20261006",
         "anthropic-cyber-verification-program-vulnerabilities-20261006"
+      ]
+    },
+    {
+      "issue_id": "2026-10-07-1200",
+      "published_at": "2026-10-07T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-august-real-wages-eighth-month-20261007",
+        "japan-reuters-tankan-october-manufacturing-services-20261007",
+        "wall-street-first-half-profits-45-9b-20261006",
+        "us-software-stocks-ai-earnings-expectations-20261006",
+        "vietnam-banks-7b-capital-raising-20261007",
+        "world-bank-south-asia-growth-6-9-20261006"
       ]
     }
   ]

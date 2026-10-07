@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/legal/litigation/us-lend-42-billion-vistra-boost-nuclear-power-output-source-says-2026-10-03",
-    "title": "米政府、Vistraに約42億ドル融資へ　既存原発の出力増強",
-    "topic_key": "us-vistra-4-2b-nuclear-uprate-loan-20261003",
-    "source": "Reuters",
-    "first_seen": "2026-10-04T12:00:00+09:00",
-    "issue": "2026-10-04-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/australias-treasurer-heads-japan-inaugural-finance-ministerial-forum-2026-10-04",
-    "title": "日豪、初の財務相対話へ　投資・戦略金融の協力を協議",
-    "topic_key": "australia-japan-first-finance-ministerial-dialogue-20261004",
-    "source": "Reuters",
-    "first_seen": "2026-10-04T12:00:00+09:00",
-    "issue": "2026-10-04-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/italys-intesa-raises-mps-takeover-offer-price-warns-it-could-drop-bid-2026-10-03",
-    "title": "伊Intesa、MPS買収案を増額　株主判断で撤回の可能性も",
-    "topic_key": "intesa-raises-mps-takeover-offer-20261003",
-    "source": "Reuters",
-    "first_seen": "2026-10-04T12:00:00+09:00",
-    "issue": "2026-10-04-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/ais-race-transform-world-before-money-runs-out-2026-10-03",
-    "title": "AI投資、収益化との時間差が焦点　データセンター支出30兆ドル予測",
-    "topic_key": "ai-capex-productivity-revenue-gap-analysis-20261003",
-    "source": "Reuters",
-    "first_seen": "2026-10-04T12:00:00+09:00",
-    "issue": "2026-10-04-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/states-cities-sue-us-agencies-over-weaker-vehicle-fuel-economy-rules-2026-10-02",
-    "title": "米燃費規制の緩和に州・自治体が提訴　EV優遇縮小を巡り法廷へ",
-    "topic_key": "us-states-sue-weaker-fuel-economy-rules-20261002",
-    "source": "Reuters",
-    "first_seen": "2026-10-04T12:00:00+09:00",
-    "issue": "2026-10-04-1200"
-  },
-  {
     "url_normalized": "reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04",
     "title": "OPECプラス、11月の原油生産目標を据え置き",
     "topic_key": "opec-plus-keeps-november-output-targets-steady-20261004",
@@ -334,5 +294,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-07T06:00:00+09:00",
     "issue": "2026-10-07-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japans-real-wages-rise-eighth-straight-month-august-2026-10-06",
+    "title": "日本の実質賃金、8月は1.5%増で8カ月連続プラス",
+    "topic_key": "japan-august-real-wages-eighth-month-20261007",
+    "source": "Reuters・厚生労働省",
+    "first_seen": "2026-10-07T12:00:00+09:00",
+    "issue": "2026-10-07-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-manufacturers-mood-hits-near-5-year-high-service-sector-sentiment-slumps-2026-10-06",
+    "title": "国内大企業、製造業景況感は約5年ぶり高水準　非製造業は悪化",
+    "topic_key": "japan-reuters-tankan-october-manufacturing-services-20261007",
+    "source": "Reuters",
+    "first_seen": "2026-10-07T12:00:00+09:00",
+    "issue": "2026-10-07-1200"
+  },
+  {
+    "url_normalized": "osc.ny.gov/press/releases/2026/10/wall-street-first-half-profits-soar-nearly-46-billion",
+    "title": "米証券業界、2026年上期利益は459億ドルで前年同期比51.3%増",
+    "topic_key": "wall-street-first-half-profits-45-9b-20261006",
+    "source": "NY州会計検査官・Reuters",
+    "first_seen": "2026-10-07T12:00:00+09:00",
+    "issue": "2026-10-07-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/us-software-stocks-scale-fresh-2026-highs-ai-disruption-worries-fade-2026-10-06",
+    "title": "米ソフトウェア株が2026年高値、利益予想引き上げでAI懸念が後退",
+    "topic_key": "us-software-stocks-ai-earnings-expectations-20261006",
+    "source": "Reuters",
+    "first_seen": "2026-10-07T12:00:00+09:00",
+    "issue": "2026-10-07-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/vietnams-banks-tap-investors-7-billion-economy-runs-red-hot-2026-10-07",
+    "title": "ベトナム銀行、2027年末までに約70億ドルの増資計画",
+    "topic_key": "vietnam-banks-7b-capital-raising-20261007",
+    "source": "Reuters",
+    "first_seen": "2026-10-07T12:00:00+09:00",
+    "issue": "2026-10-07-1200"
+  },
+  {
+    "url_normalized": "worldbank.org/en/news/press-release/2026/10/06/south-asia-s-strong-growth-defies-global-headwinds",
+    "title": "世界銀行、2026年の南アジア成長率を6.9%へ上方修正",
+    "topic_key": "world-bank-south-asia-growth-6-9-20261006",
+    "source": "世界銀行・Reuters",
+    "first_seen": "2026-10-07T12:00:00+09:00",
+    "issue": "2026-10-07-1200"
   }
 ]

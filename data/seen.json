@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/middle-east/us-says-foreign-financial-institutions-doing-business-with-iran-may-be-2026-10-05",
-    "title": "米財務省、イラン取引を続ける外国金融機関へ無通告制裁を警告",
-    "topic_key": "us-ofac-iran-foreign-bank-sanctions-warning-20261005",
-    "source": "Reuters / 米財務省OFAC",
-    "first_seen": "2026-10-06T06:00:00+09:00",
-    "issue": "2026-10-06-0600"
-  },
-  {
-    "url_normalized": "investing.com/news/stock-market-news/lucids-thirdquarter-deliveries-miss-estimates-as-it-cuts-output-to-run-down-inventory-4932825",
-    "title": "Lucidの7〜9月納車3806台、市場予想を下回る",
-    "topic_key": "lucid-q3-deliveries-production-miss-inventory-reset-20261005",
-    "source": "Investing.com / Reuters",
-    "first_seen": "2026-10-06T06:00:00+09:00",
-    "issue": "2026-10-06-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/mattel-faces-growing-shareholder-pressure-consider-sale-wsj-reports-2026-10-05",
-    "title": "Mattel株主Ariel、売却を含む戦略的選択肢の検討を要求",
-    "topic_key": "mattel-ariel-sale-strategic-alternatives-20261005",
-    "source": "Reuters / The Wall Street Journal",
-    "first_seen": "2026-10-06T06:00:00+09:00",
-    "issue": "2026-10-06-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05",
-    "title": "C.H. Robinson、RXOを58億ドルで買収へ",
-    "topic_key": "ch-robinson-rxo-5-8b-acquisition-20261005",
-    "source": "Reuters / RXO",
-    "first_seen": "2026-10-06T06:00:00+09:00",
-    "issue": "2026-10-06-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/americas/brazil-markets-set-rally-bolsonaro-leads-first-round-vote-2026-10-05",
-    "title": "ブラジル株、1回目投票後に7.7%高で最高値",
-    "topic_key": "brazil-election-market-rally-bovespa-real-20261005",
-    "source": "Reuters / Folha de S.Paulo",
-    "first_seen": "2026-10-06T06:00:00+09:00",
-    "issue": "2026-10-06-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-06",
     "title": "米長期金利が24年ぶり高水準、アジア株は小幅高",
     "topic_key": "global-yields-euro-asia-stocks-20261006",
@@ -406,5 +366,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-08T22:00:00+09:00",
     "issue": "2026-10-08-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/markets/us/us-30-year-fixed-rate-mortgage-rate-jumps-740-2026-10-08",
+    "title": "米30年固定住宅ローン金利、約3年ぶり高水準の7.40%",
+    "topic_key": "us-30y-mortgage-rate-7-40-housing-demand-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T06:00:00+09:00",
+    "issue": "2026-10-09-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/retail-consumer/amazon-launches-first-android-tablets-raising-prices-incorporating-alexa-2026-10-08",
+    "title": "Amazon、Android搭載の高価格帯Alexaタブレットを発表",
+    "topic_key": "amazon-android-alexa-tablets-premium-strategy-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T06:00:00+09:00",
+    "issue": "2026-10-09-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08",
+    "title": "Google Cloud、業務を自律実行するGeminiエージェントを発表",
+    "topic_key": "google-cloud-gemini-work-agent-multimodel-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T06:00:00+09:00",
+    "issue": "2026-10-09-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/finance/revolut-ceo-wants-us-primary-listing-if-it-goes-public-bloomberg-news-reports-2026-10-08",
+    "title": "Revolut、将来のIPOでは米国を主要上場先にする意向",
+    "topic_key": "revolut-us-primary-listing-115b-valuation-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T06:00:00+09:00",
+    "issue": "2026-10-09-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/skilled-foreign-tech-workers-green-card-program-under-attack-trump-2026-10-08",
+    "title": "米政府、Microsoftなど8社の雇用主経由グリーンカード手続きを停止",
+    "topic_key": "us-perm-freeze-microsoft-adobe-it-services-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T06:00:00+09:00",
+    "issue": "2026-10-09-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/media-telecom/spacex-acquire-spectrum-that-enables-starlink-mobile-services-2026-10-08",
+    "title": "SpaceX、全米800MHz帯取得で携帯大手へ直接競争",
+    "topic_key": "spacex-grain-800mhz-spectrum-starlink-mobile-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T06:00:00+09:00",
+    "issue": "2026-10-09-0600"
   }
 ]

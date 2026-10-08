@@ -1403,7 +1403,7 @@
       "issue_id": "2026-10-08-2200",
       "published_at": "2026-10-08T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-08-2200.html",
       "topics": [
         "boj-regional-report-broadening-price-pressure-ai-capex-20261008",
         "fed-waller-additional-hikes-flexible-pace-october-pause-20261008",
@@ -1411,6 +1411,20 @@
         "globalfoundries-tsmc-us-silicon-interposer-five-year-deal-20261008",
         "eu-kingspan-40m-euro-merger-information-fine-20261008",
         "europe-stocks-banks-bond-selloff-oil-inflation-20261008"
+      ]
+    },
+    {
+      "issue_id": "2026-10-09-0600",
+      "published_at": "2026-10-09T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-30y-mortgage-rate-7-40-housing-demand-20261008",
+        "amazon-android-alexa-tablets-premium-strategy-20261008",
+        "google-cloud-gemini-work-agent-multimodel-20261008",
+        "revolut-us-primary-listing-115b-valuation-20261008",
+        "us-perm-freeze-microsoft-adobe-it-services-20261008",
+        "spacex-grain-800mhz-spectrum-starlink-mobile-20261008"
       ]
     }
   ]

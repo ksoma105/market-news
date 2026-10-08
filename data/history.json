@@ -1376,13 +1376,27 @@
       "issue_id": "2026-10-08-0600",
       "published_at": "2026-10-08T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-08-0600.html",
       "topics": [
         "fed-september-minutes-rate-hike-treasury-stress-planning-20261007",
         "south-korea-kgx-1000tn-won-green-transition-20261007",
         "ustr-15-economies-structural-excess-capacity-statement-20261007",
         "us-fcc-china-test-labs-electronics-vote-20261007",
         "levi-strauss-profit-outlook-tariff-refunds-20261007"
+      ]
+    },
+    {
+      "issue_id": "2026-10-08-1200",
+      "published_at": "2026-10-08T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "samsung-q3-2026-guidance-107-4tn-won-ai-memory",
+        "japan-august-current-account-4-062tn-yen-20261008",
+        "tfx-boj-overnight-call-rate-futures-launch-20261008",
+        "crowdstrike-ai-agent-korean-bank-hacks-20261008",
+        "aurora-usdot-five-year-warning-beacon-exemption-20261008",
+        "amazon-stores-job-cuts-under-1000-20261008"
       ]
     }
   ]

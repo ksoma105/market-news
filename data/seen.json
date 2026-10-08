@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-05",
-    "title": "米利上げ観測後退でアジア株高、日経平均は朝方2%上昇",
-    "topic_key": "asia-stocks-fed-october-hike-odds-22-20261005",
-    "source": "Reuters",
-    "first_seen": "2026-10-05T12:00:00+09:00",
-    "issue": "2026-10-05-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-service-sector-activity-slows-5-month-high-pmi-shows-2026-10-05",
-    "title": "日本の9月サービス業PMI、51.3へ低下",
-    "topic_key": "japan-september-services-pmi-51-3-20261005",
-    "source": "Reuters / S&P Global",
-    "first_seen": "2026-10-05T12:00:00+09:00",
-    "issue": "2026-10-05-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/reflationist-ex-boj-policymaker-calls-end-low-rates-big-spending-2026-10-05",
-    "title": "元日銀委員、12月の政策金利1.5%を予想",
-    "topic_key": "noguchi-boj-december-rate-1-5-forecast-20261005",
-    "source": "Reuters",
-    "first_seen": "2026-10-05T12:00:00+09:00",
-    "issue": "2026-10-05-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/markets-bet-rbi-rate-hike-inflation-pressure-builds-2026-10-05",
-    "title": "インド中銀、約4年ぶり利上げ観測が強まる",
-    "topic_key": "india-rbi-october-rate-hike-bets-20261005",
-    "source": "Reuters",
-    "first_seen": "2026-10-05T12:00:00+09:00",
-    "issue": "2026-10-05-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/revoluts-rise-become-europes-115-billion-big-bank-rival-2026-10-04",
-    "title": "Revolut、評価額1150億ドルでも収益化と融資拡大が課題",
-    "topic_key": "revolut-115b-valuation-monetization-risks-20261004",
-    "source": "Reuters",
-    "first_seen": "2026-10-05T12:00:00+09:00",
-    "issue": "2026-10-05-1200"
-  },
-  {
     "url_normalized": "channelnewsasia.com/business/boj-says-ai-boom-may-have-eased-financial-conditions-warns-market-risks-6432176",
     "title": "日銀副総裁、AIは需要・物価と中立金利を押し上げ得ると指摘",
     "topic_key": "boj-uchida-ai-demand-neutral-rate-market-risk-20261005",
@@ -390,5 +350,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-08T06:00:00+09:00",
     "issue": "2026-10-08-0600"
+  },
+  {
+    "url_normalized": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026",
+    "title": "Samsung、第3四半期営業利益を107.4兆ウォンと予想",
+    "topic_key": "samsung-q3-2026-guidance-107-4tn-won-ai-memory",
+    "source": "Samsung / Reuters",
+    "first_seen": "2026-10-08T12:00:00+09:00",
+    "issue": "2026-10-08-1200"
+  },
+  {
+    "url_normalized": "https://mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/bp202608.pdf",
+    "title": "8月の経常黒字は4兆620億円、円は一時157円台後半",
+    "topic_key": "japan-august-current-account-4-062tn-yen-20261008",
+    "source": "財務省・日本銀行 / Reuters",
+    "first_seen": "2026-10-08T12:00:00+09:00",
+    "issue": "2026-10-08-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/tokyo-financial-exchange-launches-new-boj-rate-futures-policy-shifts-accelerate-2026-10-08",
+    "title": "東京金融取引所、日銀の無担保コール翌日物金利先物を投入へ",
+    "topic_key": "tfx-boj-overnight-call-rate-futures-launch-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T12:00:00+09:00",
+    "issue": "2026-10-08-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/suspect-behind-south-korea-bank-hacks-may-be-26-year-old-china-cybersecurity-2026-10-08",
+    "title": "AI支援型の攻撃、韓国の少なくとも9銀行を標的に",
+    "topic_key": "crowdstrike-ai-agent-korean-bank-hacks-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T12:00:00+09:00",
+    "issue": "2026-10-08-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/us-grants-aurora-exemption-self-driving-trucks-safety-feature-2026-10-08",
+    "title": "米運輸省、Auroraなど自動運転トラックに5年間の特例",
+    "topic_key": "aurora-usdot-five-year-warning-beacon-exemption-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T12:00:00+09:00",
+    "issue": "2026-10-08-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/world-at-work/amazon-makes-fresh-job-cuts-mainly-retail-division-2026-10-08",
+    "title": "Amazon、主に通販部門で1000人未満を追加削減",
+    "topic_key": "amazon-stores-job-cuts-under-1000-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T12:00:00+09:00",
+    "issue": "2026-10-08-1200"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "channelnewsasia.com/business/boj-says-ai-boom-may-have-eased-financial-conditions-warns-market-risks-6432176",
-    "title": "日銀副総裁、AIは需要・物価と中立金利を押し上げ得ると指摘",
-    "topic_key": "boj-uchida-ai-demand-neutral-rate-market-risk-20261005",
-    "source": "CNA / Reuters",
-    "first_seen": "2026-10-05T22:00:00+09:00",
-    "issue": "2026-10-05-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/europe/euro-zone-business-growth-hits-over-3-12-year-high-despite-inflation-worries-pmi-2026-10-05",
-    "title": "ユーロ圏9月総合PMI、2023年4月以来の高水準",
-    "topic_key": "eurozone-september-composite-pmi-53-1-inflation-20261005",
-    "source": "Reuters",
-    "first_seen": "2026-10-05T22:00:00+09:00",
-    "issue": "2026-10-05-2200"
-  },
-  {
-    "url_normalized": "marketscreener.com/news/foxconn-third-quarter-revenue-jumps-47-y-y-beats-market-forecast-ce785ddbde81f221",
-    "title": "鴻海の7〜9月売上高、AI需要で前年同期比47%増",
-    "topic_key": "foxconn-q3-revenue-47-ai-demand-20261005",
-    "source": "MarketScreener / Reuters",
-    "first_seen": "2026-10-05T22:00:00+09:00",
-    "issue": "2026-10-05-2200"
-  },
-  {
-    "url_normalized": "streetinsider.com/Market+Check/Wall+St+futures+dip+as+tech+stocks+take+a+breather/27145296.html",
-    "title": "米長期金利高止まり、ハイテク株先物は小幅安",
-    "topic_key": "us-treasury-528-tech-futures-fed-hold-20261005",
-    "source": "StreetInsider / Reuters",
-    "first_seen": "2026-10-05T22:00:00+09:00",
-    "issue": "2026-10-05-2200"
-  },
-  {
-    "url_normalized": "theguardian.com/business/2026/oct/05/bt-buy-broadband-supplier-talktalk-jobs",
-    "title": "BTがTalkTalkを4億ポンドで救済、競争審査へ",
-    "topic_key": "bt-talktalk-400m-rescue-regulatory-review-20261005",
-    "source": "The Guardian / UK Government",
-    "first_seen": "2026-10-05T22:00:00+09:00",
-    "issue": "2026-10-05-2200"
-  },
-  {
     "url_normalized": "reuters.com/world/middle-east/us-says-foreign-financial-institutions-doing-business-with-iran-may-be-2026-10-05",
     "title": "米財務省、イラン取引を続ける外国金融機関へ無通告制裁を警告",
     "topic_key": "us-ofac-iran-foreign-bank-sanctions-warning-20261005",
@@ -398,5 +358,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-08T12:00:00+09:00",
     "issue": "2026-10-08-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/bank-japan-sees-broadening-inflationary-pressure-2026-10-08",
+    "title": "日銀、コスト上昇の消費者物価への波及拡大を確認",
+    "topic_key": "boj-regional-report-broadening-price-pressure-ai-capex-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T22:00:00+09:00",
+    "issue": "2026-10-08-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/feds-waller-more-hikes-needed-there-is-flexibility-about-pace-2026-10-08",
+    "title": "FRBウォラー理事、追加利上げは必要だが連続実施は不要",
+    "topic_key": "fed-waller-additional-hikes-flexible-pace-october-pause-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T22:00:00+09:00",
+    "issue": "2026-10-08-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/tsmcs-third-quarter-revenue-surges-50-yy-beating-market-forecast-2026-10-08",
+    "title": "TSMC、第3四半期売上高が過去最高の1.49兆台湾ドル",
+    "topic_key": "tsmc-q3-2026-record-revenue-1-49tn-ai-demand-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T22:00:00+09:00",
+    "issue": "2026-10-08-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/globalfoundries-make-key-ai-chip-component-tsmc-2026-10-08",
+    "title": "GlobalFoundries、TSMC向けAI半導体部品を米国で生産へ",
+    "topic_key": "globalfoundries-tsmc-us-silicon-interposer-five-year-deal-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T22:00:00+09:00",
+    "issue": "2026-10-08-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/kingspan-hit-with-40-million-eu-fine-misleading-data-slovenian-deal-2026-10-08",
+    "title": "EU、買収審査で誤情報を提供したKingspanに4000万ユーロ制裁",
+    "topic_key": "eu-kingspan-40m-euro-merger-information-fine-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T22:00:00+09:00",
+    "issue": "2026-10-08-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/markets/europe/european-shares-dip-banks-hit-over-3-month-low-oil-prices-weigh-2026-10-08",
+    "title": "欧州株下落、銀行株は3カ月超ぶり安値圏",
+    "topic_key": "europe-stocks-banks-bond-selloff-oil-inflation-20261008",
+    "source": "Reuters",
+    "first_seen": "2026-10-08T22:00:00+09:00",
+    "issue": "2026-10-08-2200"
   }
 ]

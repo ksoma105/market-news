@@ -1389,7 +1389,7 @@
       "issue_id": "2026-10-08-1200",
       "published_at": "2026-10-08T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-08-1200.html",
       "topics": [
         "samsung-q3-2026-guidance-107-4tn-won-ai-memory",
         "japan-august-current-account-4-062tn-yen-20261008",
@@ -1397,6 +1397,20 @@
         "crowdstrike-ai-agent-korean-bank-hacks-20261008",
         "aurora-usdot-five-year-warning-beacon-exemption-20261008",
         "amazon-stores-job-cuts-under-1000-20261008"
+      ]
+    },
+    {
+      "issue_id": "2026-10-08-2200",
+      "published_at": "2026-10-08T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "boj-regional-report-broadening-price-pressure-ai-capex-20261008",
+        "fed-waller-additional-hikes-flexible-pace-october-pause-20261008",
+        "tsmc-q3-2026-record-revenue-1-49tn-ai-demand-20261008",
+        "globalfoundries-tsmc-us-silicon-interposer-five-year-deal-20261008",
+        "eu-kingspan-40m-euro-merger-information-fine-20261008",
+        "europe-stocks-banks-bond-selloff-oil-inflation-20261008"
       ]
     }
   ]

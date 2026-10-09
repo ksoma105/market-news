@@ -1445,7 +1445,7 @@
       "issue_id": "2026-10-09-2200",
       "published_at": "2026-10-09T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-09-2200.html",
       "topics": [
         "china-550b-yuan-fiscal-push-growth-target-20261009",
         "sp500-q3-earnings-31pct-ai-tech-concentration-20261009",
@@ -1454,6 +1454,20 @@
         "canada-september-jobs-down-68300-unemployment-6-5-20261009",
         "china-ai-model-safety-disclosure-3-6pct-20261009",
         "china-eu-hybrid-vehicle-trade-understanding-20261009"
+      ]
+    },
+    {
+      "issue_id": "2026-10-10-0600",
+      "published_at": "2026-10-10T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-consumer-sentiment-46-3-october-20261009",
+        "fed-household-debt-stress-wealth-gap-2022-2025-20261009",
+        "trump-white-house-inquiry-fed-lisa-cook-independence-20261009",
+        "russia-us-diesel-supply-300000-tonnes-prices-20261009",
+        "tko-2b-service-properties-hotel-portfolio-offer-20261009",
+        "tcs-senior-bonus-zero-september-quarter-demand-20261009"
       ]
     }
   ]

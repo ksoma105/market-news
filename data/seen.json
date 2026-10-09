@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/boj-chief-calls-more-focus-anchoring-inflation-around-target-2026-10-06",
-    "title": "日銀総裁、基調物価2%定着へ追加利上げ方針を維持",
-    "topic_key": "boj-ueda-inflation-anchor-rate-hikes-20261006",
-    "source": "Reuters / 日本銀行",
-    "first_seen": "2026-10-07T06:00:00+09:00",
-    "issue": "2026-10-07-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/fed-plans-overhaul-bank-supervision-responsibilities-bowman-says-2026-10-06",
-    "title": "FRB、銀行監督を5地域体制へ再編",
-    "topic_key": "fed-bank-supervision-five-regions-thresholds-20261006",
-    "source": "Reuters / Federal Reserve",
-    "first_seen": "2026-10-07T06:00:00+09:00",
-    "issue": "2026-10-07-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/marvell-raises-2028-revenue-forecast-strong-ai-data-center-demand-2026-10-06",
-    "title": "Marvell、2028年度売上高見通しを約200億ドルへ引き上げ",
-    "topic_key": "marvell-fy2028-20b-fy2031-ai-revenue-outlook-20261006",
-    "source": "Reuters / Barron's",
-    "first_seen": "2026-10-07T06:00:00+09:00",
-    "issue": "2026-10-07-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/google-fights-1-billion-uk-lawsuit-over-app-store-fees-latest-big-tech-case-2026-10-06",
-    "title": "Google、英Playストア手数料巡る10億ポンド超の集団訴訟に反論",
-    "topic_key": "google-uk-play-store-1b-class-action-20261006",
-    "source": "Reuters",
-    "first_seen": "2026-10-07T06:00:00+09:00",
-    "issue": "2026-10-07-0600"
-  },
-  {
-    "url_normalized": "reuters.com/technology/thousands-european-wind-solar-power-systems-exposed-online-dutch-researchers-say-2026-10-06",
-    "title": "欧州の再エネ設備8547システム、ネット公開で制御リスク",
-    "topic_key": "europe-renewables-8547-exposed-systems-cyber-20261006",
-    "source": "Reuters / Modat / NCSC-NL",
-    "first_seen": "2026-10-07T06:00:00+09:00",
-    "issue": "2026-10-07-0600"
-  },
-  {
-    "url_normalized": "reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06",
-    "title": "Anthropic、強力なAIモデルの防御目的アクセスを拡大",
-    "topic_key": "anthropic-cyber-verification-program-vulnerabilities-20261006",
-    "source": "Reuters",
-    "first_seen": "2026-10-07T06:00:00+09:00",
-    "issue": "2026-10-07-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/japans-real-wages-rise-eighth-straight-month-august-2026-10-06",
     "title": "日本の実質賃金、8月は1.5%増で8カ月連続プラス",
     "topic_key": "japan-august-real-wages-eighth-month-20261007",
@@ -430,5 +382,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-09T22:00:00+09:00",
     "issue": "2026-10-09-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/us-consumer-sentiment-deteriorates-further-october-2026-10-09",
+    "title": "米消費者心理46.3、過去最低圏へ低下",
+    "topic_key": "us-consumer-sentiment-46-3-october-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T06:00:00+09:00",
+    "issue": "2026-10-10-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/fed-says-household-income-wealth-debt-stress-rose-2022-2025-2026-10-09",
+    "title": "米家計、実質所得7%増でも延滞経験は約20%へ",
+    "topic_key": "fed-household-debt-stress-wealth-gap-2022-2025-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T06:00:00+09:00",
+    "issue": "2026-10-10-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/us/trump-launches-committee-probe-feds-lisa-cook-white-house-statement-2026-10-09",
+    "title": "米政権、FRBクック理事解任へ新たな調査",
+    "topic_key": "trump-white-house-inquiry-fed-lisa-cook-independence-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T06:00:00+09:00",
+    "issue": "2026-10-10-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/trump-big-announcement-coming-up-diesel-2026-10-09",
+    "title": "ロシアが米国などへ軽油30万トン供給、価格効果は限定的との見方",
+    "topic_key": "russia-us-diesel-supply-300000-tonnes-prices-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T06:00:00+09:00",
+    "issue": "2026-10-10-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/tko-offers-2-billion-service-properties-trusts-hotel-portfolio-2026-10-09",
+    "title": "TKO、Service Propertiesのホテル資産へ20億ドル提案",
+    "topic_key": "tko-2b-service-properties-hotel-portfolio-offer-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T06:00:00+09:00",
+    "issue": "2026-10-10-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/indias-tcs-senior-staff-will-miss-out-variable-pay-september-quarter-memo-shows-2026-10-09",
+    "title": "TCS、業績未達で中堅以上の四半期賞与をゼロに",
+    "topic_key": "tcs-senior-bonus-zero-september-quarter-demand-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T06:00:00+09:00",
+    "issue": "2026-10-10-0600"
   }
 ]

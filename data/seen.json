@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06",
-    "title": "米8月貿易赤字、13.7%増の1056億ドル",
-    "topic_key": "us-august-trade-deficit-1056b-imports-20261006",
-    "source": "Reuters / 米商務省BEA",
-    "first_seen": "2026-10-06T22:00:00+09:00",
-    "issue": "2026-10-06-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/americas/canadas-trade-surplus-surprisingly-widens-over-four-year-high-august-2026-10-06",
-    "title": "カナダ8月貿易黒字、4年超ぶり高水準の42億加ドル",
-    "topic_key": "canada-august-trade-surplus-42b-20261006",
-    "source": "Reuters / Statistics Canada",
-    "first_seen": "2026-10-06T22:00:00+09:00",
-    "issue": "2026-10-06-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/google-enters-massive-36-gw-power-deal-with-constellation-energy-2026-10-06",
-    "title": "Google、Constellationと3590MWの長期電力契約",
-    "topic_key": "google-constellation-3590mw-power-deal-20261006",
-    "source": "Reuters / Google / Constellation Energy",
-    "first_seen": "2026-10-06T22:00:00+09:00",
-    "issue": "2026-10-06-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/uber-buy-us-catering-platform-ezcater-23-billion-2026-10-06",
-    "title": "Uber、法人向けケータリングezCaterを23億ドルで買収へ",
-    "topic_key": "uber-ezcater-23b-acquisition-20261006",
-    "source": "Reuters",
-    "first_seen": "2026-10-06T22:00:00+09:00",
-    "issue": "2026-10-06-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/sap-acquire-workforce-data-firm-techwolf-2026-10-06",
-    "title": "SAP、従業員スキル分析のTechWolfを買収",
-    "topic_key": "sap-techwolf-workforce-data-acquisition-20261006",
-    "source": "Reuters",
-    "first_seen": "2026-10-06T22:00:00+09:00",
-    "issue": "2026-10-06-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/media-telecom/paramount-wraps-up-mega-warner-bros-merger-create-hollywood-powerhouse-skydance-2026-10-06",
-    "title": "Paramount、Warner Bros. Discovery買収を完了",
-    "topic_key": "paramount-wbd-skydance-merger-complete-20261006",
-    "source": "Reuters / Associated Press",
-    "first_seen": "2026-10-06T22:00:00+09:00",
-    "issue": "2026-10-06-2200"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/boj-chief-calls-more-focus-anchoring-inflation-around-target-2026-10-06",
     "title": "日銀総裁、基調物価2%定着へ追加利上げ方針を維持",
     "topic_key": "boj-ueda-inflation-anchor-rate-hikes-20261006",
@@ -422,5 +374,61 @@
     "source": "Reuters",
     "first_seen": "2026-10-09T12:00:00+09:00",
     "issue": "2026-10-09-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/china-ramps-up-fiscal-push-meet-growth-target-2026-10-09",
+    "title": "中国、未使用の政府債務枠5,500億元で景気下支え",
+    "topic_key": "china-550b-yuan-fiscal-push-growth-target-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T22:00:00+09:00",
+    "issue": "2026-10-09-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/ai-related-companies-drive-most-third-quarter-us-earnings-gains-2026-10-09",
+    "title": "米S&P500企業の7〜9月期利益、AI主導で31%増予想",
+    "topic_key": "sp500-q3-earnings-31pct-ai-tech-concentration-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T22:00:00+09:00",
+    "issue": "2026-10-09-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/aerospace-defense/lessor-avolon-orders-250-boeing-airbus-jets-with-option-100-more-2026-10-09",
+    "title": "Avolon、Boeing・Airbus機250機を発注し100機の追加枠",
+    "topic_key": "avolon-orders-250-boeing-airbus-options-100-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T22:00:00+09:00",
+    "issue": "2026-10-09-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/legal/litigation/humana-surges-after-emerging-top-beneficiary-2027-medicare-star-ratings-2026-10-09",
+    "title": "Humana、2027年Medicare高評価比率95%で市場前取引で15%高",
+    "topic_key": "humana-2027-medicare-star-ratings-95pct-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T22:00:00+09:00",
+    "issue": "2026-10-09-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/americas/canadas-employment-surprisingly-shrinks-september-jobless-rate-inches-up-2026-10-09",
+    "title": "カナダ9月雇用、予想外の6万8,300人減",
+    "topic_key": "canada-september-jobs-down-68300-unemployment-6-5-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T22:00:00+09:00",
+    "issue": "2026-10-09-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/legal/litigation/china-ai-developers-publish-safety-tests-just-36-model-releases-report-finds-2026-10-09",
+    "title": "中国AIモデル、安全性評価を公表したリリースは3.6%",
+    "topic_key": "china-ai-model-safety-disclosure-3-6pct-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T22:00:00+09:00",
+    "issue": "2026-10-09-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/china/china-eu-reach-hybrid-vehicle-trade-understanding-keep-talks-alive-ev-dispute-2026-10-09",
+    "title": "中国とEU、ハイブリッド車貿易で「理解」も詳細は未公表",
+    "topic_key": "china-eu-hybrid-vehicle-trade-understanding-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T22:00:00+09:00",
+    "issue": "2026-10-09-2200"
   }
 ]

@@ -1431,7 +1431,7 @@
       "issue_id": "2026-10-09-1200",
       "published_at": "2026-10-09T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-09-1200.html",
       "topics": [
         "japan-august-household-spending-down-3-1pct-20261009",
         "asia-stocks-ai-spending-yields-nikkei-20261009",
@@ -1439,6 +1439,21 @@
         "oil-falls-iran-talks-hormuz-gulf-hurricane-20261009",
         "india-ai-data-centers-water-stress-local-opposition-20261009",
         "gold-rises-4169-dollar-yields-fed-outlook-20261009"
+      ]
+    },
+    {
+      "issue_id": "2026-10-09-2200",
+      "published_at": "2026-10-09T22:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-550b-yuan-fiscal-push-growth-target-20261009",
+        "sp500-q3-earnings-31pct-ai-tech-concentration-20261009",
+        "avolon-orders-250-boeing-airbus-options-100-20261009",
+        "humana-2027-medicare-star-ratings-95pct-20261009",
+        "canada-september-jobs-down-68300-unemployment-6-5-20261009",
+        "china-ai-model-safety-disclosure-3-6pct-20261009",
+        "china-eu-hybrid-vehicle-trade-understanding-20261009"
       ]
     }
   ]

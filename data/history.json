@@ -1417,7 +1417,7 @@
       "issue_id": "2026-10-09-0600",
       "published_at": "2026-10-09T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-09-0600.html",
       "topics": [
         "us-30y-mortgage-rate-7-40-housing-demand-20261008",
         "amazon-android-alexa-tablets-premium-strategy-20261008",
@@ -1425,6 +1425,20 @@
         "revolut-us-primary-listing-115b-valuation-20261008",
         "us-perm-freeze-microsoft-adobe-it-services-20261008",
         "spacex-grain-800mhz-spectrum-starlink-mobile-20261008"
+      ]
+    },
+    {
+      "issue_id": "2026-10-09-1200",
+      "published_at": "2026-10-09T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-august-household-spending-down-3-1pct-20261009",
+        "asia-stocks-ai-spending-yields-nikkei-20261009",
+        "firmus-scraps-5b-australia-ipo-poor-demand-20261009",
+        "oil-falls-iran-talks-hormuz-gulf-hurricane-20261009",
+        "india-ai-data-centers-water-stress-local-opposition-20261009",
+        "gold-rises-4169-dollar-yields-fed-outlook-20261009"
       ]
     }
   ]

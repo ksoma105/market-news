@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-06",
-    "title": "米長期金利が24年ぶり高水準、アジア株は小幅高",
-    "topic_key": "global-yields-euro-asia-stocks-20261006",
-    "source": "Reuters / The Guardian",
-    "first_seen": "2026-10-06T12:00:00+09:00",
-    "issue": "2026-10-06-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/middle-east-war-sharpens-focus-asean-energy-security-plans-2026-10-05",
-    "title": "ASEAN、原油輸入リスク受け緊急対応と電力網を協議へ",
-    "topic_key": "asean-energy-security-apsa-power-grid-20261006",
-    "source": "Reuters / ASEAN Centre for Energy",
-    "first_seen": "2026-10-06T12:00:00+09:00",
-    "issue": "2026-10-06-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/mynt-opens-844-million-philippine-ipo-offers-gcash-users-real-time-share-2026-10-06",
-    "title": "GCash親会社Mynt、最大609億ペソのIPOを開始",
-    "topic_key": "mynt-gcash-philippine-ipo-20261006",
-    "source": "Reuters / Mynt",
-    "first_seen": "2026-10-06T12:00:00+09:00",
-    "issue": "2026-10-06-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/indian-states-seek-extra-power-avoid-outages-nighttime-supply-tightens-officials-2026-10-06",
-    "title": "インドの9月電力不足、2023年8月以来の大きさ",
-    "topic_key": "india-power-shortage-coal-storage-20261006",
-    "source": "Reuters / The Indian Express",
-    "first_seen": "2026-10-06T12:00:00+09:00",
-    "issue": "2026-10-06-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/ambanis-jio-platforms-plans-launch-ipo-october-21-sources-say-2026-10-05",
-    "title": "Jio Platforms、38億ドル規模のIPOを10月21日に開始か",
-    "topic_key": "jio-platforms-3-8b-ipo-plan-20261005",
-    "source": "Reuters / Financial Express",
-    "first_seen": "2026-10-06T12:00:00+09:00",
-    "issue": "2026-10-06-1200"
-  },
-  {
     "url_normalized": "reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06",
     "title": "米8月貿易赤字、13.7%増の1056億ドル",
     "topic_key": "us-august-trade-deficit-1056b-imports-20261006",
@@ -414,5 +374,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-09T06:00:00+09:00",
     "issue": "2026-10-09-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/japanese-annual-household-spending-drops-9-straight-months-2026-10-08",
+    "title": "日本の8月実質消費、前年比3.1%減で9カ月連続マイナス",
+    "topic_key": "japan-august-household-spending-down-3-1pct-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T12:00:00+09:00",
+    "issue": "2026-10-09-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/china/global-markets-wrapup-1-2026-10-09",
+    "title": "アジア株は軟調、AI投資懸念と米長期金利が重荷",
+    "topic_key": "asia-stocks-ai-spending-yields-nikkei-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T12:00:00+09:00",
+    "issue": "2026-10-09-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-2026-10-08",
+    "title": "Nvidia出資のFirmus、需要不足で豪50億ドルIPOを撤回",
+    "topic_key": "firmus-scraps-5b-australia-ipo-poor-demand-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T12:00:00+09:00",
+    "issue": "2026-10-09-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/energy/oil-falls-trump-comments-iran-talks-ease-supply-concerns-2026-10-09",
+    "title": "原油反落、イラン協議進展で供給懸念がやや後退",
+    "topic_key": "oil-falls-iran-talks-hormuz-gulf-hurricane-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T12:00:00+09:00",
+    "issue": "2026-10-09-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/india/modi-wants-india-power-ai-age-residents-are-pushing-back-2026-10-09",
+    "title": "インドのAIデータセンター計画、住民反発と水資源制約が浮上",
+    "topic_key": "india-ai-data-centers-water-stress-local-opposition-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T12:00:00+09:00",
+    "issue": "2026-10-09-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/india/gold-rises-softer-dollar-easing-yields-fed-outlook-focus-2026-10-09",
+    "title": "金は1オンス4,169ドル、ドル一服と金利低下で反発",
+    "topic_key": "gold-rises-4169-dollar-yields-fed-outlook-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-09T12:00:00+09:00",
+    "issue": "2026-10-09-1200"
   }
 ]

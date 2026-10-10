@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/japans-real-wages-rise-eighth-straight-month-august-2026-10-06",
-    "title": "日本の実質賃金、8月は1.5%増で8カ月連続プラス",
-    "topic_key": "japan-august-real-wages-eighth-month-20261007",
-    "source": "Reuters・厚生労働省",
-    "first_seen": "2026-10-07T12:00:00+09:00",
-    "issue": "2026-10-07-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-manufacturers-mood-hits-near-5-year-high-service-sector-sentiment-slumps-2026-10-06",
-    "title": "国内大企業、製造業景況感は約5年ぶり高水準　非製造業は悪化",
-    "topic_key": "japan-reuters-tankan-october-manufacturing-services-20261007",
-    "source": "Reuters",
-    "first_seen": "2026-10-07T12:00:00+09:00",
-    "issue": "2026-10-07-1200"
-  },
-  {
-    "url_normalized": "osc.ny.gov/press/releases/2026/10/wall-street-first-half-profits-soar-nearly-46-billion",
-    "title": "米証券業界、2026年上期利益は459億ドルで前年同期比51.3%増",
-    "topic_key": "wall-street-first-half-profits-45-9b-20261006",
-    "source": "NY州会計検査官・Reuters",
-    "first_seen": "2026-10-07T12:00:00+09:00",
-    "issue": "2026-10-07-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/us-software-stocks-scale-fresh-2026-highs-ai-disruption-worries-fade-2026-10-06",
-    "title": "米ソフトウェア株が2026年高値、利益予想引き上げでAI懸念が後退",
-    "topic_key": "us-software-stocks-ai-earnings-expectations-20261006",
-    "source": "Reuters",
-    "first_seen": "2026-10-07T12:00:00+09:00",
-    "issue": "2026-10-07-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/vietnams-banks-tap-investors-7-billion-economy-runs-red-hot-2026-10-07",
-    "title": "ベトナム銀行、2027年末までに約70億ドルの増資計画",
-    "topic_key": "vietnam-banks-7b-capital-raising-20261007",
-    "source": "Reuters",
-    "first_seen": "2026-10-07T12:00:00+09:00",
-    "issue": "2026-10-07-1200"
-  },
-  {
-    "url_normalized": "worldbank.org/en/news/press-release/2026/10/06/south-asia-s-strong-growth-defies-global-headwinds",
-    "title": "世界銀行、2026年の南アジア成長率を6.9%へ上方修正",
-    "topic_key": "world-bank-south-asia-growth-6-9-20261006",
-    "source": "世界銀行・Reuters",
-    "first_seen": "2026-10-07T12:00:00+09:00",
-    "issue": "2026-10-07-1200"
-  },
-  {
     "url_normalized": "https://reuters.com/world/india/india-raises-policy-rate-by-25-bps-first-hike-nearly-four-years-2026-10-07",
     "title": "インド中銀、約4年ぶり利上げ　政策金利を5.50%へ",
     "topic_key": "india-rbi-25bp-hike-5-5-calibrated-tightening-20261007",
@@ -430,5 +382,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-10T06:00:00+09:00",
     "issue": "2026-10-10-0600"
+  },
+  {
+    "url_normalized": "reuters.com/legal/transactional/sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-2026-10-09",
+    "title": "AI向けCPU新興Nuvacore、約25億ドル評価で資金調達へ",
+    "topic_key": "nuvacore-2-5b-valuation-ai-datacenter-cpu-funding-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T12:00:00+09:00",
+    "issue": "2026-10-10-1200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/government/super-micro-contractor-pleads-guilty-scheme-divert-ai-servers-with-nvidia-chips-2026-10-09",
+    "title": "Super Micro関係者、Nvidia搭載サーバーの対中不正輸出で有罪答弁",
+    "topic_key": "supermicro-contractor-ai-server-nvidia-china-export-guilty-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T12:00:00+09:00",
+    "issue": "2026-10-10-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/christian-conservative-wireless-provider-patriot-mobile-files-us-ipo-2026-10-09",
+    "title": "Patriot Mobileが米IPO申請、上期売上21%増も赤字拡大",
+    "topic_key": "patriot-mobile-us-ipo-revenue-loss-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T12:00:00+09:00",
+    "issue": "2026-10-10-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/uaw-president-shawn-fain-declares-victory-race-second-term-2026-10-09",
+    "title": "全米自動車労組フェイン会長が再選宣言、2028年交渉へ強硬姿勢",
+    "topic_key": "uaw-fain-second-term-2028-detroit-three-labor-talks-20261009",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T12:00:00+09:00",
+    "issue": "2026-10-10-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/venezuela-president-authorizes-spacexs-starlink-operate-country-2026-10-10",
+    "title": "ベネズエラ、SpaceXのStarlink国内運営を認可",
+    "topic_key": "venezuela-authorizes-starlink-satellite-internet-20261010",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T12:00:00+09:00",
+    "issue": "2026-10-10-1200"
   }
 ]

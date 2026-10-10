@@ -1487,13 +1487,24 @@
       "issue_id": "2026-10-10-2200",
       "published_at": "2026-10-10T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-10-2200.html",
       "topics": [
         "india-rbi-dollar-window-oil-firms-fx-curbs-rupee-20261010",
         "eu-irish-presidency-2028-2034-budget-8pct-cut-20261010",
         "philips-dutch-court-shareholder-inquiry-recall-20261010",
         "saudi-wpc-fii-proceed-riyadh-airport-attack-20261010",
         "rosatom-fennovoima-icc-tribunal-hanhikivi-20261010"
+      ]
+    },
+    {
+      "issue_id": "2026-10-11-0600",
+      "published_at": "2026-10-11T06:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "nvidia-reflection-ai-investment-acquisition-talks-20261010",
+        "infosys-us-perm-suspension-no-material-impact-20261010",
+        "hurricane-simon-category4-mexico-pacific-port-20261010"
       ]
     }
   ]

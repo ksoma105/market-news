@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "https://federalreserve.gov/monetarypolicy/fomcminutes20260916.htm",
-    "title": "FRB議事要旨、国債市場ストレスへの備え強化を議論",
-    "topic_key": "fed-september-minutes-rate-hike-treasury-stress-planning-20261007",
-    "source": "Federal Reserve / Reuters",
-    "first_seen": "2026-10-08T06:00:00+09:00",
-    "issue": "2026-10-08-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/energy/south-korea-unveils-747-billion-energy-transition-plan-through-2035-2026-10-07",
-    "title": "韓国、2035年までに1000兆ウォン規模の脱炭素戦略",
-    "topic_key": "south-korea-kgx-1000tn-won-green-transition-20261007",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T06:00:00+09:00",
-    "issue": "2026-10-08-0600"
-  },
-  {
-    "url_normalized": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/fourteen-economies-join-united-states-signing-joint-ministerial-statement-address-global-excess",
-    "title": "日米欧など15経済圏、製造業の構造的過剰生産への対処で共同声明",
-    "topic_key": "ustr-15-economies-structural-excess-capacity-statement-20261007",
-    "source": "USTR / Reuters",
-    "first_seen": "2026-10-08T06:00:00+09:00",
-    "issue": "2026-10-08-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/asia-pacific/us-fcc-vote-ban-chinese-labs-testing-us-electronics-2026-10-07",
-    "title": "米FCC、中国の試験所による電子機器認証を全面禁止へ採決",
-    "topic_key": "us-fcc-china-test-labs-electronics-vote-20261007",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T06:00:00+09:00",
-    "issue": "2026-10-08-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/retail-consumer/levi-strauss-lifts-annual-profit-outlook-tariff-refunds-holiday-demand-2026-10-07",
-    "title": "Levi Strauss、関税還付と年末需要を追い風に通期利益予想を上方修正",
-    "topic_key": "levi-strauss-profit-outlook-tariff-refunds-20261007",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T06:00:00+09:00",
-    "issue": "2026-10-08-0600"
-  },
-  {
     "url_normalized": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026",
     "title": "Samsung、第3四半期営業利益を107.4兆ウォンと予想",
     "topic_key": "samsung-q3-2026-guidance-107-4tn-won-ai-memory",
@@ -414,5 +374,29 @@
     "source": "Reuters",
     "first_seen": "2026-10-10T22:00:00+09:00",
     "issue": "2026-10-10-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10",
+    "title": "NVIDIA、Reflection AIへの追加出資・買収を協議",
+    "topic_key": "nvidia-reflection-ai-investment-acquisition-talks-20261010",
+    "source": "Reuters",
+    "first_seen": "2026-10-11T06:00:00+09:00",
+    "issue": "2026-10-11-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/us/indias-infosys-does-not-expect-material-impact-us-perm-suspension-2026-10-10",
+    "title": "Infosys、米PERM申請停止の業績影響は「重大でない」と表明",
+    "topic_key": "infosys-us-perm-suspension-no-material-impact-20261010",
+    "source": "Reuters",
+    "first_seen": "2026-10-11T06:00:00+09:00",
+    "issue": "2026-10-11-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/environment/hurricane-simon-strengthens-category-4-off-mexico-coast-2026-10-10",
+    "title": "ハリケーン「サイモン」、メキシコ太平洋岸沖でカテゴリー4に発達",
+    "topic_key": "hurricane-simon-category4-mexico-pacific-port-20261010",
+    "source": "Reuters",
+    "first_seen": "2026-10-11T06:00:00+09:00",
+    "issue": "2026-10-11-0600"
   }
 ]

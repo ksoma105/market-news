@@ -1474,13 +1474,26 @@
       "issue_id": "2026-10-10-1200",
       "published_at": "2026-10-10T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-10-1200.html",
       "topics": [
         "nuvacore-2-5b-valuation-ai-datacenter-cpu-funding-20261009",
         "supermicro-contractor-ai-server-nvidia-china-export-guilty-20261009",
         "patriot-mobile-us-ipo-revenue-loss-20261009",
         "uaw-fain-second-term-2028-detroit-three-labor-talks-20261009",
         "venezuela-authorizes-starlink-satellite-internet-20261010"
+      ]
+    },
+    {
+      "issue_id": "2026-10-10-2200",
+      "published_at": "2026-10-10T22:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "india-rbi-dollar-window-oil-firms-fx-curbs-rupee-20261010",
+        "eu-irish-presidency-2028-2034-budget-8pct-cut-20261010",
+        "philips-dutch-court-shareholder-inquiry-recall-20261010",
+        "saudi-wpc-fii-proceed-riyadh-airport-attack-20261010",
+        "rosatom-fennovoima-icc-tribunal-hanhikivi-20261010"
       ]
     }
   ]

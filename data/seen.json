@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/world/india/india-raises-policy-rate-by-25-bps-first-hike-nearly-four-years-2026-10-07",
-    "title": "インド中銀、約4年ぶり利上げ　政策金利を5.50%へ",
-    "topic_key": "india-rbi-25bp-hike-5-5-calibrated-tightening-20261007",
-    "source": "Reuters",
-    "first_seen": "2026-10-07T22:00:00+09:00",
-    "issue": "2026-10-07-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/asia-pacific/blackstone-backed-airtrunk-invest-1-billion-japan-data-centre-campus-2026-10-07",
-    "title": "AirTrunk、日本のAIデータセンターへ10億ドル追加投資",
-    "topic_key": "airtrunk-japan-ai-datacenter-1b-inzai-20261007",
-    "source": "Reuters",
-    "first_seen": "2026-10-07T22:00:00+09:00",
-    "issue": "2026-10-07-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07",
-    "title": "MicrosoftとNvidia、クラウド不要のAI処理を狙う新型PC発表へ",
-    "topic_key": "microsoft-nvidia-surface-laptop-ultra-rtx-spark-20261007",
-    "source": "Reuters",
-    "first_seen": "2026-10-07T22:00:00+09:00",
-    "issue": "2026-10-07-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/energy/iea-meet-wednesday-over-proposed-release-reserves-say-two-eu-diplomats-2026-10-07",
-    "title": "IEA、原油・軽油の追加放出案を協議　量と構成は未確定",
-    "topic_key": "iea-oil-diesel-stock-release-talks-100m-20261007",
-    "source": "Reuters",
-    "first_seen": "2026-10-07T22:00:00+09:00",
-    "issue": "2026-10-07-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/asia-pacific/imf-chief-warns-energy-shock-growing-debt-ai-risks-threaten-global-growth-2026-10-07",
-    "title": "IMF総裁、エネルギー・公的債務・AI投資の複合リスクを警告",
-    "topic_key": "imf-georgieva-energy-debt-ai-global-risks-20261007",
-    "source": "Reuters",
-    "first_seen": "2026-10-07T22:00:00+09:00",
-    "issue": "2026-10-07-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/technology/australias-privacy-watchdog-probes-maker-smart-glasses-app-used-by-kmart-2026-10-07",
-    "title": "豪当局、Kmart取扱いスマートグラス用アプリをプライバシー調査",
-    "topic_key": "australia-privacy-probe-smart-glasses-hecyan-kmart-20261007",
-    "source": "Reuters",
-    "first_seen": "2026-10-07T22:00:00+09:00",
-    "issue": "2026-10-07-2200"
-  },
-  {
     "url_normalized": "https://federalreserve.gov/monetarypolicy/fomcminutes20260916.htm",
     "title": "FRB議事要旨、国債市場ストレスへの備え強化を議論",
     "topic_key": "fed-september-minutes-rate-hike-treasury-stress-planning-20261007",
@@ -422,5 +374,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-10T12:00:00+09:00",
     "issue": "2026-10-10-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/india/india-central-bank-takes-steps-support-rupee-opens-dollar-window-oil-companies-2026-10-10",
+    "title": "インド中銀、ルピー防衛へ石油3社にドル直供給・為替規制を強化",
+    "topic_key": "india-rbi-dollar-window-oil-firms-fx-curbs-rupee-20261010",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T22:00:00+09:00",
+    "issue": "2026-10-10-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/finance/eus-irish-presidency-wants-8-cut-proposed-2028-2034-budget-plan-2026-10-10",
+    "title": "EU議長国アイルランド、次期長期予算案を8%削減し1.6兆ユーロに",
+    "topic_key": "eu-irish-presidency-2028-2034-budget-8pct-cut-20261010",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T22:00:00+09:00",
+    "issue": "2026-10-10-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/legal/litigation/philips-wins-dutch-court-battle-with-shareholders-over-recall-2026-10-10",
+    "title": "フィリップス、睡眠時無呼吸機器リコール巡る株主の調査要求を退ける判断",
+    "topic_key": "philips-dutch-court-shareholder-inquiry-recall-20261010",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T22:00:00+09:00",
+    "issue": "2026-10-10-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/energy/major-saudi-conferences-proceed-organisers-say-despite-deadly-airport-attack-2026-10-10",
+    "title": "リヤド空港攻撃後もサウジの石油・投資会議は予定通り開催",
+    "topic_key": "saudi-wpc-fii-proceed-riyadh-airport-attack-20261010",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T22:00:00+09:00",
+    "issue": "2026-10-10-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/energy/rosatom-says-it-wins-tribunal-ruling-finnish-nuclear-plant-dispute-2026-10-10",
+    "title": "ロスアトム、フィンランド原発契約紛争でICC仲裁勝訴と発表",
+    "topic_key": "rosatom-fennovoima-icc-tribunal-hanhikivi-20261010",
+    "source": "Reuters",
+    "first_seen": "2026-10-10T22:00:00+09:00",
+    "issue": "2026-10-10-2200"
   }
 ]

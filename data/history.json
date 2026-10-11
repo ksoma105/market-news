@@ -1522,7 +1522,7 @@
       "issue_id": "2026-10-11-2200",
       "published_at": "2026-10-11T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-11-2200.html",
       "topics": [
         "imf-world-bank-meetings-energy-shock-debt-bangkok-20261011",
         "world-bank-30-40-countries-crisis-aid-energy-debt-20261011",
@@ -1530,6 +1530,19 @@
         "starlink-india-affordable-pricing-jio-ipo-20261011",
         "inwit-shareholders-financing-take-private-20261011",
         "deutsche-bank-ceo-german-state-elections-foreign-investment-risk-20261011"
+      ]
+    },
+    {
+      "issue_id": "2026-10-12-0600",
+      "published_at": "2026-10-12T06:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-senators-russia-diesel-deal-reversal-legal-risk-20261011",
+        "iran-us-hormuz-reopening-response-insufficient-20261011",
+        "stellantis-affordable-ev-europe-turnaround-15000-euro-20261011",
+        "mps-board-intesa-35b-euro-takeover-defence-20261011",
+        "volkswagen-eu-policy-affordable-ev-china-price-war-20261011"
       ]
     }
   ]

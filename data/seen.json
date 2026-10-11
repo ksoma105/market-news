@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/markets/us/us-30-year-fixed-rate-mortgage-rate-jumps-740-2026-10-08",
-    "title": "米30年固定住宅ローン金利、約3年ぶり高水準の7.40%",
-    "topic_key": "us-30y-mortgage-rate-7-40-housing-demand-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T06:00:00+09:00",
-    "issue": "2026-10-09-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/retail-consumer/amazon-launches-first-android-tablets-raising-prices-incorporating-alexa-2026-10-08",
-    "title": "Amazon、Android搭載の高価格帯Alexaタブレットを発表",
-    "topic_key": "amazon-android-alexa-tablets-premium-strategy-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T06:00:00+09:00",
-    "issue": "2026-10-09-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/google-cloud-introduces-gemini-agent-work-ai-race-heats-up-2026-10-08",
-    "title": "Google Cloud、業務を自律実行するGeminiエージェントを発表",
-    "topic_key": "google-cloud-gemini-work-agent-multimodel-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T06:00:00+09:00",
-    "issue": "2026-10-09-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/finance/revolut-ceo-wants-us-primary-listing-if-it-goes-public-bloomberg-news-reports-2026-10-08",
-    "title": "Revolut、将来のIPOでは米国を主要上場先にする意向",
-    "topic_key": "revolut-us-primary-listing-115b-valuation-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T06:00:00+09:00",
-    "issue": "2026-10-09-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/skilled-foreign-tech-workers-green-card-program-under-attack-trump-2026-10-08",
-    "title": "米政府、Microsoftなど8社の雇用主経由グリーンカード手続きを停止",
-    "topic_key": "us-perm-freeze-microsoft-adobe-it-services-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T06:00:00+09:00",
-    "issue": "2026-10-09-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/media-telecom/spacex-acquire-spectrum-that-enables-starlink-mobile-services-2026-10-08",
-    "title": "SpaceX、全米800MHz帯取得で携帯大手へ直接競争",
-    "topic_key": "spacex-grain-800mhz-spectrum-starlink-mobile-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T06:00:00+09:00",
-    "issue": "2026-10-09-0600"
-  },
-  {
     "url_normalized": "https://reuters.com/world/asia-pacific/japanese-annual-household-spending-drops-9-straight-months-2026-10-08",
     "title": "日本の8月実質消費、前年比3.1%減で9カ月連続マイナス",
     "topic_key": "japan-august-household-spending-down-3-1pct-20261009",
@@ -374,5 +326,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-11T22:00:00+09:00",
     "issue": "2026-10-11-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/energy/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-2026-10-11",
+    "title": "米議員、ロシア産ディーゼル供給合意の撤回を要求",
+    "topic_key": "us-senators-russia-diesel-deal-reversal-legal-risk-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-12T06:00:00+09:00",
+    "issue": "2026-10-12-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/middle-east/iran-says-us-response-its-proposal-reopen-hormuz-was-insufficient-2026-10-11",
+    "title": "イラン、ホルムズ海峡再開案への米回答は「不十分」",
+    "topic_key": "iran-us-hormuz-reopening-response-insufficient-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-12T06:00:00+09:00",
+    "issue": "2026-10-12-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/autos-transportation/stellantis-bets-small-affordable-evs-european-comeback-2026-10-11",
+    "title": "Stellantis、約1万5,000ユーロの低価格EVで欧州巻き返しへ",
+    "topic_key": "stellantis-affordable-ev-europe-turnaround-15000-euro-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-12T06:00:00+09:00",
+    "issue": "2026-10-12-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/finance/monte-dei-paschi-hold-board-meeting-ma-situation-monday-2026-10-11",
+    "title": "Monte dei Paschi、Intesaの350億ユーロ買収案を巡り取締役会",
+    "topic_key": "mps-board-intesa-35b-euro-takeover-defence-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-12T06:00:00+09:00",
+    "issue": "2026-10-12-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/autos-transportation/volkswagen-ceo-says-transformation-is-shared-responsibility-appeal-eu-2026-10-11",
+    "title": "Volkswagen、低価格EV競争でEUに政策支援を要請",
+    "topic_key": "volkswagen-eu-policy-affordable-ev-china-price-war-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-12T06:00:00+09:00",
+    "issue": "2026-10-12-0600"
   }
 ]

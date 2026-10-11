@@ -1500,11 +1500,22 @@
       "issue_id": "2026-10-11-0600",
       "published_at": "2026-10-11T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-11-0600.html",
       "topics": [
         "nvidia-reflection-ai-investment-acquisition-talks-20261010",
         "infosys-us-perm-suspension-no-material-impact-20261010",
         "hurricane-simon-category4-mexico-pacific-port-20261010"
+      ]
+    },
+    {
+      "issue_id": "2026-10-11-1200",
+      "published_at": "2026-10-11T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-disables-cargo-vessel-iran-blockade-hormuz-20261011",
+        "south-korea-arctic-europe-commercial-roundtrip-2030-20261011",
+        "canadian-ransomware-negotiator-arrest-fbi-shinyhunters-20261011"
       ]
     }
   ]

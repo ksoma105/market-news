@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026",
-    "title": "Samsung、第3四半期営業利益を107.4兆ウォンと予想",
-    "topic_key": "samsung-q3-2026-guidance-107-4tn-won-ai-memory",
-    "source": "Samsung / Reuters",
-    "first_seen": "2026-10-08T12:00:00+09:00",
-    "issue": "2026-10-08-1200"
-  },
-  {
-    "url_normalized": "https://mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/bp202608.pdf",
-    "title": "8月の経常黒字は4兆620億円、円は一時157円台後半",
-    "topic_key": "japan-august-current-account-4-062tn-yen-20261008",
-    "source": "財務省・日本銀行 / Reuters",
-    "first_seen": "2026-10-08T12:00:00+09:00",
-    "issue": "2026-10-08-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/asia-pacific/tokyo-financial-exchange-launches-new-boj-rate-futures-policy-shifts-accelerate-2026-10-08",
-    "title": "東京金融取引所、日銀の無担保コール翌日物金利先物を投入へ",
-    "topic_key": "tfx-boj-overnight-call-rate-futures-launch-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T12:00:00+09:00",
-    "issue": "2026-10-08-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/suspect-behind-south-korea-bank-hacks-may-be-26-year-old-china-cybersecurity-2026-10-08",
-    "title": "AI支援型の攻撃、韓国の少なくとも9銀行を標的に",
-    "topic_key": "crowdstrike-ai-agent-korean-bank-hacks-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T12:00:00+09:00",
-    "issue": "2026-10-08-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/us-grants-aurora-exemption-self-driving-trucks-safety-feature-2026-10-08",
-    "title": "米運輸省、Auroraなど自動運転トラックに5年間の特例",
-    "topic_key": "aurora-usdot-five-year-warning-beacon-exemption-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T12:00:00+09:00",
-    "issue": "2026-10-08-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/world-at-work/amazon-makes-fresh-job-cuts-mainly-retail-division-2026-10-08",
-    "title": "Amazon、主に通販部門で1000人未満を追加削減",
-    "topic_key": "amazon-stores-job-cuts-under-1000-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T12:00:00+09:00",
-    "issue": "2026-10-08-1200"
-  },
-  {
     "url_normalized": "https://reuters.com/world/asia-pacific/bank-japan-sees-broadening-inflationary-pressure-2026-10-08",
     "title": "日銀、コスト上昇の消費者物価への波及拡大を確認",
     "topic_key": "boj-regional-report-broadening-price-pressure-ai-capex-20261008",
@@ -398,5 +350,29 @@
     "source": "Reuters",
     "first_seen": "2026-10-11T06:00:00+09:00",
     "issue": "2026-10-11-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/us-military-says-it-disabled-cargo-vessel-trying-run-iran-blockade-2026-10-11",
+    "title": "米軍、イラン封鎖突破を試みた貨物船を攻撃し航行不能に",
+    "topic_key": "us-disables-cargo-vessel-iran-blockade-hormuz-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-11T12:00:00+09:00",
+    "issue": "2026-10-11-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/china/south-korea-completes-arctic-europe-commercial-voyage-eyes-regular-service-2026-10-11",
+    "title": "韓国船、北極経由の欧州往復商業航海を完了",
+    "topic_key": "south-korea-arctic-europe-commercial-roundtrip-2030-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-11T12:00:00+09:00",
+    "issue": "2026-10-11-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/legal/government/canadian-ransomware-negotiator-arrested-amid-fbi-hacker-crackdown-2026-10-11",
+    "title": "カナダのランサムウェア交渉担当者、米当局が恐喝関連容疑で拘束",
+    "topic_key": "canadian-ransomware-negotiator-arrest-fbi-shinyhunters-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-11T12:00:00+09:00",
+    "issue": "2026-10-11-1200"
   }
 ]

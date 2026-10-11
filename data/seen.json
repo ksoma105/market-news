@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/world/asia-pacific/bank-japan-sees-broadening-inflationary-pressure-2026-10-08",
-    "title": "日銀、コスト上昇の消費者物価への波及拡大を確認",
-    "topic_key": "boj-regional-report-broadening-price-pressure-ai-capex-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T22:00:00+09:00",
-    "issue": "2026-10-08-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/feds-waller-more-hikes-needed-there-is-flexibility-about-pace-2026-10-08",
-    "title": "FRBウォラー理事、追加利上げは必要だが連続実施は不要",
-    "topic_key": "fed-waller-additional-hikes-flexible-pace-october-pause-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T22:00:00+09:00",
-    "issue": "2026-10-08-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/asia-pacific/tsmcs-third-quarter-revenue-surges-50-yy-beating-market-forecast-2026-10-08",
-    "title": "TSMC、第3四半期売上高が過去最高の1.49兆台湾ドル",
-    "topic_key": "tsmc-q3-2026-record-revenue-1-49tn-ai-demand-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T22:00:00+09:00",
-    "issue": "2026-10-08-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/asia-pacific/globalfoundries-make-key-ai-chip-component-tsmc-2026-10-08",
-    "title": "GlobalFoundries、TSMC向けAI半導体部品を米国で生産へ",
-    "topic_key": "globalfoundries-tsmc-us-silicon-interposer-five-year-deal-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T22:00:00+09:00",
-    "issue": "2026-10-08-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/kingspan-hit-with-40-million-eu-fine-misleading-data-slovenian-deal-2026-10-08",
-    "title": "EU、買収審査で誤情報を提供したKingspanに4000万ユーロ制裁",
-    "topic_key": "eu-kingspan-40m-euro-merger-information-fine-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T22:00:00+09:00",
-    "issue": "2026-10-08-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/markets/europe/european-shares-dip-banks-hit-over-3-month-low-oil-prices-weigh-2026-10-08",
-    "title": "欧州株下落、銀行株は3カ月超ぶり安値圏",
-    "topic_key": "europe-stocks-banks-bond-selloff-oil-inflation-20261008",
-    "source": "Reuters",
-    "first_seen": "2026-10-08T22:00:00+09:00",
-    "issue": "2026-10-08-2200"
-  },
-  {
     "url_normalized": "https://reuters.com/markets/us/us-30-year-fixed-rate-mortgage-rate-jumps-740-2026-10-08",
     "title": "米30年固定住宅ローン金利、約3年ぶり高水準の7.40%",
     "topic_key": "us-30y-mortgage-rate-7-40-housing-demand-20261008",
@@ -374,5 +326,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-11T12:00:00+09:00",
     "issue": "2026-10-11-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/china/middle-east-war-high-debt-levels-dominate-imf-world-bank-meetings-bangkok-2026-10-11",
+    "title": "IMF・世銀会合、中東戦争と債務膨張が主要議題に",
+    "topic_key": "imf-world-bank-meetings-energy-shock-debt-bangkok-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-11T22:00:00+09:00",
+    "issue": "2026-10-11-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/finance/world-bank-talks-with-dozens-countries-about-crisis-aid-banga-says-2026-10-11",
+    "title": "世界銀行、30～40カ国と危機融資を協議",
+    "topic_key": "world-bank-30-40-countries-crisis-aid-energy-debt-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-11T22:00:00+09:00",
+    "issue": "2026-10-11-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/india/india-unveils-steel-policy-aiming-604-million-tons-capacity-by-2047-2026-10-11",
+    "title": "インド、2047年の鉄鋼能力6億400万トンを目標",
+    "topic_key": "india-steel-policy-604m-ton-capacity-2047-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-11T22:00:00+09:00",
+    "issue": "2026-10-11-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/media-telecom/musk-vows-affordable-starlink-india-days-before-ambanis-record-jio-ipo-2026-10-11",
+    "title": "Starlink、インドで低価格戦略を示唆　Jio大型IPO前に競争激化",
+    "topic_key": "starlink-india-affordable-pricing-jio-ipo-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-11T22:00:00+09:00",
+    "issue": "2026-10-11-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/media-telecom/inwit-investors-line-up-financing-possible-take-private-sources-say-2026-10-11",
+    "title": "INWIT主要株主、非公開化に向け融資協議",
+    "topic_key": "inwit-shareholders-financing-take-private-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-11T22:00:00+09:00",
+    "issue": "2026-10-11-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/deutsche-bank-chief-warns-german-election-results-worrying-foreign-investors-2026-10-11",
+    "title": "ドイツ銀CEO、州選挙結果が海外投資を遠ざけると警告",
+    "topic_key": "deutsche-bank-ceo-german-state-elections-foreign-investment-risk-20261011",
+    "source": "Reuters",
+    "first_seen": "2026-10-11T22:00:00+09:00",
+    "issue": "2026-10-11-2200"
   }
 ]

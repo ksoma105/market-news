@@ -1511,11 +1511,25 @@
       "issue_id": "2026-10-11-1200",
       "published_at": "2026-10-11T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-11-1200.html",
       "topics": [
         "us-disables-cargo-vessel-iran-blockade-hormuz-20261011",
         "south-korea-arctic-europe-commercial-roundtrip-2030-20261011",
         "canadian-ransomware-negotiator-arrest-fbi-shinyhunters-20261011"
+      ]
+    },
+    {
+      "issue_id": "2026-10-11-2200",
+      "published_at": "2026-10-11T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "imf-world-bank-meetings-energy-shock-debt-bangkok-20261011",
+        "world-bank-30-40-countries-crisis-aid-energy-debt-20261011",
+        "india-steel-policy-604m-ton-capacity-2047-20261011",
+        "starlink-india-affordable-pricing-jio-ipo-20261011",
+        "inwit-shareholders-financing-take-private-20261011",
+        "deutsche-bank-ceo-german-state-elections-foreign-investment-risk-20261011"
       ]
     }
   ]

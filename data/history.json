@@ -1536,13 +1536,27 @@
       "issue_id": "2026-10-12-0600",
       "published_at": "2026-10-12T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-12-0600.html",
       "topics": [
         "us-senators-russia-diesel-deal-reversal-legal-risk-20261011",
         "iran-us-hormuz-reopening-response-insufficient-20261011",
         "stellantis-affordable-ev-europe-turnaround-15000-euro-20261011",
         "mps-board-intesa-35b-euro-takeover-defence-20261011",
         "volkswagen-eu-policy-affordable-ev-china-price-war-20261011"
+      ]
+    },
+    {
+      "issue_id": "2026-10-12-1200",
+      "published_at": "2026-10-12T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "dollar-18-month-high-us-cpi-mideast-risk-20261012",
+        "tencent-dollar-offshore-yuan-bond-plan-20261012",
+        "tsmc-q3-record-profit-ai-demand-preview-20261012",
+        "medco-eni-indonesia-four-blocks-10pct-stake-20261012",
+        "zetwerk-india-ipo-518m-2-64b-valuation-20261012",
+        "airasia-malaysia-government-funding-support-talks-20261012"
       ]
     }
   ]

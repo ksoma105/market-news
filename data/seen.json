@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/world/asia-pacific/japanese-annual-household-spending-drops-9-straight-months-2026-10-08",
-    "title": "日本の8月実質消費、前年比3.1%減で9カ月連続マイナス",
-    "topic_key": "japan-august-household-spending-down-3-1pct-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T12:00:00+09:00",
-    "issue": "2026-10-09-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/china/global-markets-wrapup-1-2026-10-09",
-    "title": "アジア株は軟調、AI投資懸念と米長期金利が重荷",
-    "topic_key": "asia-stocks-ai-spending-yields-nikkei-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T12:00:00+09:00",
-    "issue": "2026-10-09-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/asia-pacific/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-2026-10-08",
-    "title": "Nvidia出資のFirmus、需要不足で豪50億ドルIPOを撤回",
-    "topic_key": "firmus-scraps-5b-australia-ipo-poor-demand-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T12:00:00+09:00",
-    "issue": "2026-10-09-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/energy/oil-falls-trump-comments-iran-talks-ease-supply-concerns-2026-10-09",
-    "title": "原油反落、イラン協議進展で供給懸念がやや後退",
-    "topic_key": "oil-falls-iran-talks-hormuz-gulf-hurricane-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T12:00:00+09:00",
-    "issue": "2026-10-09-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/india/modi-wants-india-power-ai-age-residents-are-pushing-back-2026-10-09",
-    "title": "インドのAIデータセンター計画、住民反発と水資源制約が浮上",
-    "topic_key": "india-ai-data-centers-water-stress-local-opposition-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T12:00:00+09:00",
-    "issue": "2026-10-09-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/india/gold-rises-softer-dollar-easing-yields-fed-outlook-focus-2026-10-09",
-    "title": "金は1オンス4,169ドル、ドル一服と金利低下で反発",
-    "topic_key": "gold-rises-4169-dollar-yields-fed-outlook-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T12:00:00+09:00",
-    "issue": "2026-10-09-1200"
-  },
-  {
     "url_normalized": "https://reuters.com/world/china-ramps-up-fiscal-push-meet-growth-target-2026-10-09",
     "title": "中国、未使用の政府債務枠5,500億元で景気下支え",
     "topic_key": "china-550b-yuan-fiscal-push-growth-target-20261009",
@@ -366,5 +318,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-12T06:00:00+09:00",
     "issue": "2026-10-12-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/dollar-stays-near-18-month-high-mideast-conflict-inflation-data-focus-2026-10-12",
+    "title": "ドルは18カ月ぶり高値圏、米CPIと中東情勢を警戒",
+    "topic_key": "dollar-18-month-high-us-cpi-mideast-risk-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-12T12:00:00+09:00",
+    "issue": "2026-10-12-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/tencent-plans-dollar-offshore-yuan-bond-sale-under-note-programme-2026-10-12",
+    "title": "Tencent、ドル・オフショア人民元建て長期債を計画",
+    "topic_key": "tencent-dollar-offshore-yuan-bond-plan-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-12T12:00:00+09:00",
+    "issue": "2026-10-12-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/china/tsmc-expected-report-sixth-straight-quarter-record-profit-thanks-ai-boom-2026-10-12",
+    "title": "TSMC、AI需要で6四半期連続の最高益見通し",
+    "topic_key": "tsmc-q3-record-profit-ai-demand-preview-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-12T12:00:00+09:00",
+    "issue": "2026-10-12-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/energy/medco-energi-take-10-stake-four-eni-oil-gas-blocks-indonesia-2026-10-12",
+    "title": "Medco Energi、Eniのインドネシア4鉱区に10%参加",
+    "topic_key": "medco-eni-indonesia-four-blocks-10pct-stake-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-12T12:00:00+09:00",
+    "issue": "2026-10-12-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/india/indias-zetwerk-sets-price-band-143-151-rupees-per-share-518-million-ipo-2026-10-12",
+    "title": "Zetwerk、約5.18億ドルのインドIPOで26億ドル評価を目指す",
+    "topic_key": "zetwerk-india-ipo-518m-2-64b-valuation-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-12T12:00:00+09:00",
+    "issue": "2026-10-12-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/airasia-talks-with-malaysian-government-over-potential-funding-support-sources-2026-10-12",
+    "title": "AirAsia、資金支援を巡りマレーシア政府と協議との報道",
+    "topic_key": "airasia-malaysia-government-funding-support-talks-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-12T12:00:00+09:00",
+    "issue": "2026-10-12-1200"
   }
 ]

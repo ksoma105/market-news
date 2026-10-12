@@ -1,109 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/world/china-ramps-up-fiscal-push-meet-growth-target-2026-10-09",
-    "title": "中国、未使用の政府債務枠5,500億元で景気下支え",
-    "topic_key": "china-550b-yuan-fiscal-push-growth-target-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T22:00:00+09:00",
-    "issue": "2026-10-09-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/ai-related-companies-drive-most-third-quarter-us-earnings-gains-2026-10-09",
-    "title": "米S&P500企業の7〜9月期利益、AI主導で31%増予想",
-    "topic_key": "sp500-q3-earnings-31pct-ai-tech-concentration-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T22:00:00+09:00",
-    "issue": "2026-10-09-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/aerospace-defense/lessor-avolon-orders-250-boeing-airbus-jets-with-option-100-more-2026-10-09",
-    "title": "Avolon、Boeing・Airbus機250機を発注し100機の追加枠",
-    "topic_key": "avolon-orders-250-boeing-airbus-options-100-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T22:00:00+09:00",
-    "issue": "2026-10-09-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/legal/litigation/humana-surges-after-emerging-top-beneficiary-2027-medicare-star-ratings-2026-10-09",
-    "title": "Humana、2027年Medicare高評価比率95%で市場前取引で15%高",
-    "topic_key": "humana-2027-medicare-star-ratings-95pct-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T22:00:00+09:00",
-    "issue": "2026-10-09-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/americas/canadas-employment-surprisingly-shrinks-september-jobless-rate-inches-up-2026-10-09",
-    "title": "カナダ9月雇用、予想外の6万8,300人減",
-    "topic_key": "canada-september-jobs-down-68300-unemployment-6-5-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T22:00:00+09:00",
-    "issue": "2026-10-09-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/legal/litigation/china-ai-developers-publish-safety-tests-just-36-model-releases-report-finds-2026-10-09",
-    "title": "中国AIモデル、安全性評価を公表したリリースは3.6%",
-    "topic_key": "china-ai-model-safety-disclosure-3-6pct-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T22:00:00+09:00",
-    "issue": "2026-10-09-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/china/china-eu-reach-hybrid-vehicle-trade-understanding-keep-talks-alive-ev-dispute-2026-10-09",
-    "title": "中国とEU、ハイブリッド車貿易で「理解」も詳細は未公表",
-    "topic_key": "china-eu-hybrid-vehicle-trade-understanding-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-09T22:00:00+09:00",
-    "issue": "2026-10-09-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/us-consumer-sentiment-deteriorates-further-october-2026-10-09",
-    "title": "米消費者心理46.3、過去最低圏へ低下",
-    "topic_key": "us-consumer-sentiment-46-3-october-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T06:00:00+09:00",
-    "issue": "2026-10-10-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/fed-says-household-income-wealth-debt-stress-rose-2022-2025-2026-10-09",
-    "title": "米家計、実質所得7%増でも延滞経験は約20%へ",
-    "topic_key": "fed-household-debt-stress-wealth-gap-2022-2025-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T06:00:00+09:00",
-    "issue": "2026-10-10-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/us/trump-launches-committee-probe-feds-lisa-cook-white-house-statement-2026-10-09",
-    "title": "米政権、FRBクック理事解任へ新たな調査",
-    "topic_key": "trump-white-house-inquiry-fed-lisa-cook-independence-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T06:00:00+09:00",
-    "issue": "2026-10-10-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/trump-big-announcement-coming-up-diesel-2026-10-09",
-    "title": "ロシアが米国などへ軽油30万トン供給、価格効果は限定的との見方",
-    "topic_key": "russia-us-diesel-supply-300000-tonnes-prices-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T06:00:00+09:00",
-    "issue": "2026-10-10-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/tko-offers-2-billion-service-properties-trusts-hotel-portfolio-2026-10-09",
-    "title": "TKO、Service Propertiesのホテル資産へ20億ドル提案",
-    "topic_key": "tko-2b-service-properties-hotel-portfolio-offer-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T06:00:00+09:00",
-    "issue": "2026-10-10-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/indias-tcs-senior-staff-will-miss-out-variable-pay-september-quarter-memo-shows-2026-10-09",
-    "title": "TCS、業績未達で中堅以上の四半期賞与をゼロに",
-    "topic_key": "tcs-senior-bonus-zero-september-quarter-demand-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T06:00:00+09:00",
-    "issue": "2026-10-10-0600"
-  },
-  {
     "url_normalized": "reuters.com/legal/transactional/sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-2026-10-09",
     "title": "AI向けCPU新興Nuvacore、約25億ドル評価で資金調達へ",
     "topic_key": "nuvacore-2-5b-valuation-ai-datacenter-cpu-funding-20261009",
@@ -366,5 +262,61 @@
     "source": "Reuters",
     "first_seen": "2026-10-12T12:00:00+09:00",
     "issue": "2026-10-12-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12",
+    "title": "Microsoft、自社AIチップを来年100万個超導入へ",
+    "topic_key": "microsoft-maia300-million-chip-deployment-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T06:00:00+09:00",
+    "issue": "2026-10-13-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/wall-streets-big-narrow-rally-4-10-sp-stocks-are-down-this-year-2026-10-12",
+    "title": "S&P500は14%高でも構成銘柄の4割超が下落",
+    "topic_key": "sp500-narrow-rally-200-stocks-down-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T06:00:00+09:00",
+    "issue": "2026-10-13-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/getty-images-go-private-after-restructuring-deal-2026-10-12",
+    "title": "Getty Images、会社更生手続き経て非公開化へ",
+    "topic_key": "getty-images-chapter11-go-private-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T06:00:00+09:00",
+    "issue": "2026-10-13-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/energy/energyx-signs-binding-2-billion-lithium-supply-deal-with-trafigura-2026-10-12",
+    "title": "EnergyXとTrafigura、20億ドルのリチウム供給契約",
+    "topic_key": "energyx-trafigura-2b-lithium-offtake-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T06:00:00+09:00",
+    "issue": "2026-10-13-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/markets/us/feds-hammack-backs-restrictive-policy-says-better-if-it-comes-relatively-quickly-2026-10-12",
+    "title": "クリーブランド連銀総裁、早期の引き締めを支持",
+    "topic_key": "fed-hammack-restrictive-policy-quickly-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T06:00:00+09:00",
+    "issue": "2026-10-13-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/energy/europe-set-another-year-high-gas-prices-reserves-hit-lows-2026-10-12",
+    "title": "欧州ガス在庫低下、高価格が少なくとも来年まで続く見通し",
+    "topic_key": "europe-gas-storage-low-high-prices-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T06:00:00+09:00",
+    "issue": "2026-10-13-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/europe/eu-adopts-nearly-1600-new-sanctions-listings-targeting-russia-2026-10-12",
+    "title": "EU、ロシア軍需産業を対象に約1,600件の制裁指定",
+    "topic_key": "eu-russia-1600-sanctions-listings-20261012",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T06:00:00+09:00",
+    "issue": "2026-10-13-0600"
   }
 ]

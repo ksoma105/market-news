@@ -1591,7 +1591,7 @@
       "issue_id": "2026-10-13-2200",
       "published_at": "2026-10-13T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-13-2200.html",
       "topics": [
         "ntt-data-anthropic-osaka-datacenter-talks-20261013",
         "us-big-banks-q3-trading-loans-mixed-20261013",
@@ -1599,6 +1599,20 @@
         "bank-regulators-agentic-ai-scrutiny-20261013",
         "scaleway-nordic-ai-infrastructure-amd-nvidia-20261013",
         "bumble-ithaca-1-3b-take-private-20261013"
+      ]
+    },
+    {
+      "issue_id": "2026-10-14-0600",
+      "published_at": "2026-10-14T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "google-gemini-4-argon-global-launch-20261013",
+        "ctrls-bihar-150mw-ai-factory-20261013",
+        "us-existing-home-sales-september-20261013",
+        "bank-of-america-aml-sanctions-penalties-20261013",
+        "att-mexico-2b-sale-televisa-fintech-20261013",
+        "zealand-generate-ai-obesity-deal-20261013"
       ]
     }
   ]

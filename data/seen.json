@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/legal/transactional/sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-2026-10-09",
-    "title": "AI向けCPU新興Nuvacore、約25億ドル評価で資金調達へ",
-    "topic_key": "nuvacore-2-5b-valuation-ai-datacenter-cpu-funding-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T12:00:00+09:00",
-    "issue": "2026-10-10-1200"
-  },
-  {
-    "url_normalized": "reuters.com/legal/government/super-micro-contractor-pleads-guilty-scheme-divert-ai-servers-with-nvidia-chips-2026-10-09",
-    "title": "Super Micro関係者、Nvidia搭載サーバーの対中不正輸出で有罪答弁",
-    "topic_key": "supermicro-contractor-ai-server-nvidia-china-export-guilty-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T12:00:00+09:00",
-    "issue": "2026-10-10-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/christian-conservative-wireless-provider-patriot-mobile-files-us-ipo-2026-10-09",
-    "title": "Patriot Mobileが米IPO申請、上期売上21%増も赤字拡大",
-    "topic_key": "patriot-mobile-us-ipo-revenue-loss-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T12:00:00+09:00",
-    "issue": "2026-10-10-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/uaw-president-shawn-fain-declares-victory-race-second-term-2026-10-09",
-    "title": "全米自動車労組フェイン会長が再選宣言、2028年交渉へ強硬姿勢",
-    "topic_key": "uaw-fain-second-term-2028-detroit-three-labor-talks-20261009",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T12:00:00+09:00",
-    "issue": "2026-10-10-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/media-telecom/venezuela-president-authorizes-spacexs-starlink-operate-country-2026-10-10",
-    "title": "ベネズエラ、SpaceXのStarlink国内運営を認可",
-    "topic_key": "venezuela-authorizes-starlink-satellite-internet-20261010",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T12:00:00+09:00",
-    "issue": "2026-10-10-1200"
-  },
-  {
     "url_normalized": "https://reuters.com/world/india/india-central-bank-takes-steps-support-rupee-opens-dollar-window-oil-companies-2026-10-10",
     "title": "インド中銀、ルピー防衛へ石油3社にドル直供給・為替規制を強化",
     "topic_key": "india-rbi-dollar-window-oil-firms-fx-curbs-rupee-20261010",
@@ -318,5 +278,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-13T06:00:00+09:00",
     "issue": "2026-10-13-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/japans-wholesale-inflation-remains-elevated-keeps-alive-boj-rate-hike-view-2026-10-13",
+    "title": "日本の9月企業物価、前年比6.8%上昇に鈍化",
+    "topic_key": "japan-ppi-september-6-8pct-import-prices-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T12:00:00+09:00",
+    "issue": "2026-10-13-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/global-markets-wrapup-1-2026-10-13",
+    "title": "アジア株が急落、韓国KOSPIは一時6%安",
+    "topic_key": "asia-stocks-chip-selloff-kospi-nikkei-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T12:00:00+09:00",
+    "issue": "2026-10-13-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/china/imf-says-ai-investment-propping-up-global-growth-war-debt-threaten-outlook-2026-10-13",
+    "title": "IMF、2026年の世界成長率を3.1%へ小幅上方修正",
+    "topic_key": "imf-weo-global-growth-ai-oil-risks-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T12:00:00+09:00",
+    "issue": "2026-10-13-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/legal/transactional/japans-omron-buy-us-industrial-pc-firm-onlogic-675-million-physical-ai-push-2026-10-13",
+    "title": "オムロン、米産業用PCのOnLogicを6.75億ドルで買収",
+    "topic_key": "omron-onlogic-interlogic-675m-acquisition-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T12:00:00+09:00",
+    "issue": "2026-10-13-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13",
+    "title": "Nvidiaの中国AI半導体シェア34%、Huaweiが28%に接近",
+    "topic_key": "nvidia-huawei-china-ai-accelerator-share-idc-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T12:00:00+09:00",
+    "issue": "2026-10-13-1200"
   }
 ]

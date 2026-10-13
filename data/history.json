@@ -1563,7 +1563,7 @@
       "issue_id": "2026-10-13-0600",
       "published_at": "2026-10-13T06:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-13-0600.html",
       "topics": [
         "microsoft-maia300-million-chip-deployment-20261012",
         "sp500-narrow-rally-200-stocks-down-20261012",
@@ -1572,6 +1572,19 @@
         "fed-hammack-restrictive-policy-quickly-20261012",
         "europe-gas-storage-low-high-prices-20261012",
         "eu-russia-1600-sanctions-listings-20261012"
+      ]
+    },
+    {
+      "issue_id": "2026-10-13-1200",
+      "published_at": "2026-10-13T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-ppi-september-6-8pct-import-prices-20261013",
+        "asia-stocks-chip-selloff-kospi-nikkei-20261013",
+        "imf-weo-global-growth-ai-oil-risks-20261013",
+        "omron-onlogic-interlogic-675m-acquisition-20261013",
+        "nvidia-huawei-china-ai-accelerator-share-idc-20261013"
       ]
     }
   ]

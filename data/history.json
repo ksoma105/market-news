@@ -1578,13 +1578,27 @@
       "issue_id": "2026-10-13-1200",
       "published_at": "2026-10-13T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-13-1200.html",
       "topics": [
         "japan-ppi-september-6-8pct-import-prices-20261013",
         "asia-stocks-chip-selloff-kospi-nikkei-20261013",
         "imf-weo-global-growth-ai-oil-risks-20261013",
         "omron-onlogic-interlogic-675m-acquisition-20261013",
         "nvidia-huawei-china-ai-accelerator-share-idc-20261013"
+      ]
+    },
+    {
+      "issue_id": "2026-10-13-2200",
+      "published_at": "2026-10-13T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "ntt-data-anthropic-osaka-datacenter-talks-20261013",
+        "us-big-banks-q3-trading-loans-mixed-20261013",
+        "opec-plus-september-output-demand-outlook-20261013",
+        "bank-regulators-agentic-ai-scrutiny-20261013",
+        "scaleway-nordic-ai-infrastructure-amd-nvidia-20261013",
+        "bumble-ithaca-1-3b-take-private-20261013"
       ]
     }
   ]

@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/world/india/india-central-bank-takes-steps-support-rupee-opens-dollar-window-oil-companies-2026-10-10",
-    "title": "インド中銀、ルピー防衛へ石油3社にドル直供給・為替規制を強化",
-    "topic_key": "india-rbi-dollar-window-oil-firms-fx-curbs-rupee-20261010",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T22:00:00+09:00",
-    "issue": "2026-10-10-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/finance/eus-irish-presidency-wants-8-cut-proposed-2028-2034-budget-plan-2026-10-10",
-    "title": "EU議長国アイルランド、次期長期予算案を8%削減し1.6兆ユーロに",
-    "topic_key": "eu-irish-presidency-2028-2034-budget-8pct-cut-20261010",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T22:00:00+09:00",
-    "issue": "2026-10-10-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/legal/litigation/philips-wins-dutch-court-battle-with-shareholders-over-recall-2026-10-10",
-    "title": "フィリップス、睡眠時無呼吸機器リコール巡る株主の調査要求を退ける判断",
-    "topic_key": "philips-dutch-court-shareholder-inquiry-recall-20261010",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T22:00:00+09:00",
-    "issue": "2026-10-10-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/energy/major-saudi-conferences-proceed-organisers-say-despite-deadly-airport-attack-2026-10-10",
-    "title": "リヤド空港攻撃後もサウジの石油・投資会議は予定通り開催",
-    "topic_key": "saudi-wpc-fii-proceed-riyadh-airport-attack-20261010",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T22:00:00+09:00",
-    "issue": "2026-10-10-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/energy/rosatom-says-it-wins-tribunal-ruling-finnish-nuclear-plant-dispute-2026-10-10",
-    "title": "ロスアトム、フィンランド原発契約紛争でICC仲裁勝訴と発表",
-    "topic_key": "rosatom-fennovoima-icc-tribunal-hanhikivi-20261010",
-    "source": "Reuters",
-    "first_seen": "2026-10-10T22:00:00+09:00",
-    "issue": "2026-10-10-2200"
-  },
-  {
     "url_normalized": "https://reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10",
     "title": "NVIDIA、Reflection AIへの追加出資・買収を協議",
     "topic_key": "nvidia-reflection-ai-investment-acquisition-talks-20261010",
@@ -318,5 +278,101 @@
     "source": "Reuters",
     "first_seen": "2026-10-13T12:00:00+09:00",
     "issue": "2026-10-13-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/media-telecom/ntt-data-final-talks-build-anthropics-first-data-centre-japan-nikkei-reports-2026-10-13",
+    "title": "NTT DATA、Anthropic向け大阪データセンターを協議との報道",
+    "topic_key": "ntt-data-anthropic-osaka-datacenter-talks-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T22:00:00+09:00",
+    "issue": "2026-10-13-2200"
+  },
+  {
+    "url_normalized": "https://thenextweb.com/news/ntt-data-anthropic-osaka-data-centre",
+    "title": "NTT DATA、Anthropic向け大阪データセンターを協議との報道",
+    "topic_key": "ntt-data-anthropic-osaka-datacenter-talks-20261013",
+    "source": "TNW",
+    "first_seen": "2026-10-13T22:00:00+09:00",
+    "issue": "2026-10-13-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/finance/jpmorgans-profit-rises-investment-banking-trading-strength-2026-10-13",
+    "title": "米大手銀行決算、株式トレーディング好調も明暗",
+    "topic_key": "us-big-banks-q3-trading-loans-mixed-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T22:00:00+09:00",
+    "issue": "2026-10-13-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/finance/goldman-sachs-quarterly-profit-rises-equities-strength-2026-10-13",
+    "title": "米大手銀行決算、株式トレーディング好調も明暗",
+    "topic_key": "us-big-banks-q3-trading-loans-mixed-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T22:00:00+09:00",
+    "issue": "2026-10-13-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/finance/wells-fargo-profit-rises-robust-loan-growth-interest-income-2026-10-13",
+    "title": "米大手銀行決算、株式トレーディング好調も明暗",
+    "topic_key": "us-big-banks-q3-trading-loans-mixed-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T22:00:00+09:00",
+    "issue": "2026-10-13-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/energy/opec-raises-2027-oil-demand-view-citing-need-rebuild-stocks-2026-10-13",
+    "title": "OPECプラスの9月産油量、日量約90万バレル増",
+    "topic_key": "opec-plus-september-output-demand-outlook-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T22:00:00+09:00",
+    "issue": "2026-10-13-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/legal/litigation/banking-watchdogs-ramp-up-ai-scrutiny-stability-fears-mount-sources-say-2026-10-13",
+    "title": "銀行監督当局、エージェント型AIの統制を重点確認",
+    "topic_key": "bank-regulators-agentic-ai-scrutiny-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T22:00:00+09:00",
+    "issue": "2026-10-13-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/media-telecom/scaleway-build-amd-powered-ai-supercomputer-sweden-2026-10-13",
+    "title": "Scaleway、北欧でAMD・NvidiaのAI基盤を拡張",
+    "topic_key": "scaleway-nordic-ai-infrastructure-amd-nvidia-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T22:00:00+09:00",
+    "issue": "2026-10-13-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/media-telecom/scaleway-open-nvidia-powered-computing-site-copenhagen-2026-10-13",
+    "title": "Scaleway、北欧でAMD・NvidiaのAI基盤を拡張",
+    "topic_key": "scaleway-nordic-ai-infrastructure-amd-nvidia-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T22:00:00+09:00",
+    "issue": "2026-10-13-2200"
+  },
+  {
+    "url_normalized": "https://megazap.fr/Scaleway-etend-son-infrastructure-d-IA-en-Europe-avec-un-nouveau-supercalculateur-base-sur-des-GPU-AMD-Instinct-en-Suede_a17244.html",
+    "title": "Scaleway、北欧でAMD・NvidiaのAI基盤を拡張",
+    "topic_key": "scaleway-nordic-ai-infrastructure-amd-nvidia-20261013",
+    "source": "Megazap",
+    "first_seen": "2026-10-13T22:00:00+09:00",
+    "issue": "2026-10-13-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/technology/bumble-go-private-13-billion-deal-2026-10-13",
+    "title": "Bumble、13億ドルで非公開化へ",
+    "topic_key": "bumble-ithaca-1-3b-take-private-20261013",
+    "source": "Reuters",
+    "first_seen": "2026-10-13T22:00:00+09:00",
+    "issue": "2026-10-13-2200"
+  },
+  {
+    "url_normalized": "https://streetinsider.com/Business%2BWire/Bumble%2BInc.%2Bto%2BBe%2BAcquired%2Bby%2BIthaca%2BHoldings,%2Bthe%2BLong-Term%2BHolding%2BCompany%2Bfor%2BEnduring%2BTechnology%2BBusinesses/27177734.html",
+    "title": "Bumble、13億ドルで非公開化へ",
+    "topic_key": "bumble-ithaca-1-3b-take-private-20261013",
+    "source": "Business Wire転載",
+    "first_seen": "2026-10-13T22:00:00+09:00",
+    "issue": "2026-10-13-2200"
   }
 ]

@@ -1605,7 +1605,7 @@
       "issue_id": "2026-10-14-0600",
       "published_at": "2026-10-14T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-14-0600.html",
       "topics": [
         "google-gemini-4-argon-global-launch-20261013",
         "ctrls-bihar-150mw-ai-factory-20261013",
@@ -1613,6 +1613,19 @@
         "bank-of-america-aml-sanctions-penalties-20261013",
         "att-mexico-2b-sale-televisa-fintech-20261013",
         "zealand-generate-ai-obesity-deal-20261013"
+      ]
+    },
+    {
+      "issue_id": "2026-10-14-1200",
+      "published_at": "2026-10-14T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "singapore-mas-holds-sneer-q3-gdp-20261014",
+        "china-september-cpi-ppi-divergence-20261014",
+        "china-september-exports-imports-surge-20261014",
+        "asia-chips-rebound-cpi-oil-caution-20261014",
+        "oil-saudi-risk-russian-diesel-20261014"
       ]
     }
   ]

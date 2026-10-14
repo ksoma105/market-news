@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/world/us-military-says-it-disabled-cargo-vessel-trying-run-iran-blockade-2026-10-11",
-    "title": "米軍、イラン封鎖突破を試みた貨物船を攻撃し航行不能に",
-    "topic_key": "us-disables-cargo-vessel-iran-blockade-hormuz-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-11T12:00:00+09:00",
-    "issue": "2026-10-11-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/china/south-korea-completes-arctic-europe-commercial-voyage-eyes-regular-service-2026-10-11",
-    "title": "韓国船、北極経由の欧州往復商業航海を完了",
-    "topic_key": "south-korea-arctic-europe-commercial-roundtrip-2030-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-11T12:00:00+09:00",
-    "issue": "2026-10-11-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/legal/government/canadian-ransomware-negotiator-arrested-amid-fbi-hacker-crackdown-2026-10-11",
-    "title": "カナダのランサムウェア交渉担当者、米当局が恐喝関連容疑で拘束",
-    "topic_key": "canadian-ransomware-negotiator-arrest-fbi-shinyhunters-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-11T12:00:00+09:00",
-    "issue": "2026-10-11-1200"
-  },
-  {
     "url_normalized": "https://reuters.com/world/china/middle-east-war-high-debt-levels-dominate-imf-world-bank-meetings-bangkok-2026-10-11",
     "title": "IMF・世銀会合、中東戦争と債務膨張が主要議題に",
     "topic_key": "imf-world-bank-meetings-energy-shock-debt-bangkok-20261011",
@@ -446,5 +422,77 @@
     "source": "発表転載",
     "first_seen": "2026-10-14T06:00:00+09:00",
     "issue": "2026-10-14-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/singapore-keeps-monetary-policy-unchanged-surprising-analysts-2026-10-14",
+    "title": "シンガポール中銀、予想外の据え置き　7〜9月GDPは5.4%増",
+    "topic_key": "singapore-mas-holds-sneer-q3-gdp-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-14T12:00:00+09:00",
+    "issue": "2026-10-14-1200"
+  },
+  {
+    "url_normalized": "https://mas.gov.sg/news/monetary-policy-statements/2026/mas-monetary-policy-statement-14oct26",
+    "title": "シンガポール中銀、予想外の据え置き　7〜9月GDPは5.4%増",
+    "topic_key": "singapore-mas-holds-sneer-q3-gdp-20261014",
+    "source": "MAS",
+    "first_seen": "2026-10-14T12:00:00+09:00",
+    "issue": "2026-10-14-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/chinas-factory-gate-inflation-accelerates-september-2026-10-14",
+    "title": "中国9月PPIは5.0%上昇、CPIは0.9%　企業と家計で物価差",
+    "topic_key": "china-september-cpi-ppi-divergence-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-14T12:00:00+09:00",
+    "issue": "2026-10-14-1200"
+  },
+  {
+    "url_normalized": "https://stats.gov.cn/sj/zxfb/202610/t20261014_1965477.html",
+    "title": "中国9月PPIは5.0%上昇、CPIは0.9%　企業と家計で物価差",
+    "topic_key": "china-september-cpi-ppi-divergence-20261014",
+    "source": "中国国家統計局",
+    "first_seen": "2026-10-14T12:00:00+09:00",
+    "issue": "2026-10-14-1200"
+  },
+  {
+    "url_normalized": "https://stats.gov.cn/sj/zxfb/202610/t20261014_1965476.html",
+    "title": "中国9月PPIは5.0%上昇、CPIは0.9%　企業と家計で物価差",
+    "topic_key": "china-september-cpi-ppi-divergence-20261014",
+    "source": "中国国家統計局",
+    "first_seen": "2026-10-14T12:00:00+09:00",
+    "issue": "2026-10-14-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/asia-pacific/chinas-exports-surge-363-yy-september-imports-up-31-2026-10-14",
+    "title": "中国9月輸出36.3%増、輸入31%増　市場予想を大幅超過",
+    "topic_key": "china-september-exports-imports-surge-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-14T12:00:00+09:00",
+    "issue": "2026-10-14-1200"
+  },
+  {
+    "url_normalized": "https://ft.com/content/4eab6c20-60d6-46b6-accd-2e04edfa541d",
+    "title": "中国9月輸出36.3%増、輸入31%増　市場予想を大幅超過",
+    "topic_key": "china-september-exports-imports-surge-20261014",
+    "source": "Financial Times",
+    "first_seen": "2026-10-14T12:00:00+09:00",
+    "issue": "2026-10-14-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/china/global-markets-global-markets-2026-10-14",
+    "title": "アジア株、半導体主導で反発　米CPIと原油高が上値抑制",
+    "topic_key": "asia-chips-rebound-cpi-oil-caution-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-14T12:00:00+09:00",
+    "issue": "2026-10-14-1200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/energy/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-2026-10-14",
+    "title": "原油反発、サウジ供給不安でブレント106ドル台",
+    "topic_key": "oil-saudi-risk-russian-diesel-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-14T12:00:00+09:00",
+    "issue": "2026-10-14-1200"
   }
 ]

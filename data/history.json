@@ -1632,7 +1632,7 @@
       "issue_id": "2026-10-14-2200",
       "published_at": "2026-10-14T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-14-2200.html",
       "topics": [
         "us-september-cpi-energy-acceleration-20261014",
         "japan-globalfoundries-new-york-fabs-20261014",
@@ -1640,6 +1640,21 @@
         "morgan-stanley-q3-equity-trading-20261014",
         "blackrock-q3-aum-inflows-20261014",
         "aluminium-physical-premiums-low-stocks-20261014"
+      ]
+    },
+    {
+      "issue_id": "2026-10-15-0600",
+      "published_at": "2026-10-15T06:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "fed-beige-book-fuel-inflation-labor-20261014",
+        "eu-2028-2034-budget-standoff-20261014",
+        "fmc-spain-shipping-fee-import-curbs-20261014",
+        "aep-google-cheyenne-fuel-cell-project-20261014",
+        "netflix-layoffs-six-percent-20261014",
+        "eight-us-states-openai-chatgpt-lawsuits-20261014",
+        "coreweave-debt-backlog-market-scrutiny-20261014"
       ]
     }
   ]

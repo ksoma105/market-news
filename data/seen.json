@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/business/energy/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-2026-10-11",
-    "title": "米議員、ロシア産ディーゼル供給合意の撤回を要求",
-    "topic_key": "us-senators-russia-diesel-deal-reversal-legal-risk-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-12T06:00:00+09:00",
-    "issue": "2026-10-12-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/middle-east/iran-says-us-response-its-proposal-reopen-hormuz-was-insufficient-2026-10-11",
-    "title": "イラン、ホルムズ海峡再開案への米回答は「不十分」",
-    "topic_key": "iran-us-hormuz-reopening-response-insufficient-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-12T06:00:00+09:00",
-    "issue": "2026-10-12-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/autos-transportation/stellantis-bets-small-affordable-evs-european-comeback-2026-10-11",
-    "title": "Stellantis、約1万5,000ユーロの低価格EVで欧州巻き返しへ",
-    "topic_key": "stellantis-affordable-ev-europe-turnaround-15000-euro-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-12T06:00:00+09:00",
-    "issue": "2026-10-12-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/finance/monte-dei-paschi-hold-board-meeting-ma-situation-monday-2026-10-11",
-    "title": "Monte dei Paschi、Intesaの350億ユーロ買収案を巡り取締役会",
-    "topic_key": "mps-board-intesa-35b-euro-takeover-defence-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-12T06:00:00+09:00",
-    "issue": "2026-10-12-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/autos-transportation/volkswagen-ceo-says-transformation-is-shared-responsibility-appeal-eu-2026-10-11",
-    "title": "Volkswagen、低価格EV競争でEUに政策支援を要請",
-    "topic_key": "volkswagen-eu-policy-affordable-ev-china-price-war-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-12T06:00:00+09:00",
-    "issue": "2026-10-12-0600"
-  },
-  {
     "url_normalized": "https://reuters.com/world/asia-pacific/dollar-stays-near-18-month-high-mideast-conflict-inflation-data-focus-2026-10-12",
     "title": "ドルは18カ月ぶり高値圏、米CPIと中東情勢を警戒",
     "topic_key": "dollar-18-month-high-us-cpi-mideast-risk-20261012",
@@ -526,5 +486,93 @@
     "source": "Reuters Open Interest",
     "first_seen": "2026-10-14T22:00:00+09:00",
     "issue": "2026-10-14-2200"
+  },
+  {
+    "url_normalized": "https://federalreserve.gov/monetarypolicy/beigebook202610-summary.htm",
+    "title": "米地区連銀報告、燃料高で物価圧力強まる　雇用は低調",
+    "topic_key": "fed-beige-book-fuel-inflation-labor-20261014",
+    "source": "FRB",
+    "first_seen": "2026-10-15T06:00:00+09:00",
+    "issue": "2026-10-15-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/fed-survey-shows-price-pressures-intensifying-amid-rise-fuel-costs-2026-10-14",
+    "title": "米地区連銀報告、燃料高で物価圧力強まる　雇用は低調",
+    "topic_key": "fed-beige-book-fuel-inflation-labor-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T06:00:00+09:00",
+    "issue": "2026-10-15-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/eu-leaders-clash-over-long-term-budget-no-quick-deal-sight-2026-10-14",
+    "title": "EU長期予算、1.62兆ユーロ案でも対立　全会一致に高い壁",
+    "topic_key": "eu-2028-2034-budget-standoff-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T06:00:00+09:00",
+    "issue": "2026-10-15-0600"
+  },
+  {
+    "url_normalized": "https://fmc.gov/articles/fmc-proposes-actions-to-address-unfavorable-shipping-conditions-in-spain",
+    "title": "米FMC、スペイン船に1航海20万ドル課金案　輸入制限も検討",
+    "topic_key": "fmc-spain-shipping-fee-import-curbs-20261014",
+    "source": "米連邦海事委員会",
+    "first_seen": "2026-10-15T06:00:00+09:00",
+    "issue": "2026-10-15-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/us-floats-fees-spanish-ships-caps-olive-oil-imports-over-port-dispute-2026-10-14",
+    "title": "米FMC、スペイン船に1航海20万ドル課金案　輸入制限も検討",
+    "topic_key": "fmc-spain-shipping-fee-import-curbs-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T06:00:00+09:00",
+    "issue": "2026-10-15-0600"
+  },
+  {
+    "url_normalized": "https://aep.com/news/stories/view/12314",
+    "title": "AEP、Google向け燃料電池に40億ドル　702MWを整備",
+    "topic_key": "aep-google-cheyenne-fuel-cell-project-20261014",
+    "source": "AEP",
+    "first_seen": "2026-10-15T06:00:00+09:00",
+    "issue": "2026-10-15-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/energy/american-electric-power-to-invest-4-billion-fuel-cell-project-power-google-2026-10-14",
+    "title": "AEP、Google向け燃料電池に40億ドル　702MWを整備",
+    "topic_key": "aep-google-cheyenne-fuel-cell-project-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T06:00:00+09:00",
+    "issue": "2026-10-15-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/world-at-work/netflix-cuts-about-6-jobs-wsj-reports-2026-10-14",
+    "title": "Netflix、世界人員の約6%・約1000人を削減",
+    "topic_key": "netflix-layoffs-six-percent-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T06:00:00+09:00",
+    "issue": "2026-10-15-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/eight-us-states-sue-openai-claiming-chatgpt-harms-children-2026-10-14",
+    "title": "米8州がOpenAIを提訴　ChatGPTの若年利用者への害を主張",
+    "topic_key": "eight-us-states-openai-chatgpt-lawsuits-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T06:00:00+09:00",
+    "issue": "2026-10-15-0600"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/coreweave-ceo-notes-strong-backlog-memo-reassure-staff-over-market-scrutiny-2026-10-14",
+    "title": "CoreWeave株15%安　CEOは1040億ドル規模の受注残を強調",
+    "topic_key": "coreweave-debt-backlog-market-scrutiny-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T06:00:00+09:00",
+    "issue": "2026-10-15-0600"
+  },
+  {
+    "url_normalized": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx",
+    "title": "CoreWeave株15%安　CEOは1040億ドル規模の受注残を強調",
+    "topic_key": "coreweave-debt-backlog-market-scrutiny-20261014",
+    "source": "CoreWeave",
+    "first_seen": "2026-10-15T06:00:00+09:00",
+    "issue": "2026-10-15-0600"
   }
 ]

@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/world/china/middle-east-war-high-debt-levels-dominate-imf-world-bank-meetings-bangkok-2026-10-11",
-    "title": "IMF・世銀会合、中東戦争と債務膨張が主要議題に",
-    "topic_key": "imf-world-bank-meetings-energy-shock-debt-bangkok-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-11T22:00:00+09:00",
-    "issue": "2026-10-11-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/finance/world-bank-talks-with-dozens-countries-about-crisis-aid-banga-says-2026-10-11",
-    "title": "世界銀行、30～40カ国と危機融資を協議",
-    "topic_key": "world-bank-30-40-countries-crisis-aid-energy-debt-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-11T22:00:00+09:00",
-    "issue": "2026-10-11-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/india/india-unveils-steel-policy-aiming-604-million-tons-capacity-by-2047-2026-10-11",
-    "title": "インド、2047年の鉄鋼能力6億400万トンを目標",
-    "topic_key": "india-steel-policy-604m-ton-capacity-2047-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-11T22:00:00+09:00",
-    "issue": "2026-10-11-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/media-telecom/musk-vows-affordable-starlink-india-days-before-ambanis-record-jio-ipo-2026-10-11",
-    "title": "Starlink、インドで低価格戦略を示唆　Jio大型IPO前に競争激化",
-    "topic_key": "starlink-india-affordable-pricing-jio-ipo-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-11T22:00:00+09:00",
-    "issue": "2026-10-11-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/media-telecom/inwit-investors-line-up-financing-possible-take-private-sources-say-2026-10-11",
-    "title": "INWIT主要株主、非公開化に向け融資協議",
-    "topic_key": "inwit-shareholders-financing-take-private-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-11T22:00:00+09:00",
-    "issue": "2026-10-11-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/deutsche-bank-chief-warns-german-election-results-worrying-foreign-investors-2026-10-11",
-    "title": "ドイツ銀CEO、州選挙結果が海外投資を遠ざけると警告",
-    "topic_key": "deutsche-bank-ceo-german-state-elections-foreign-investment-risk-20261011",
-    "source": "Reuters",
-    "first_seen": "2026-10-11T22:00:00+09:00",
-    "issue": "2026-10-11-2200"
-  },
-  {
     "url_normalized": "https://reuters.com/business/energy/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-2026-10-11",
     "title": "米議員、ロシア産ディーゼル供給合意の撤回を要求",
     "topic_key": "us-senators-russia-diesel-deal-reversal-legal-risk-20261011",
@@ -494,5 +446,85 @@
     "source": "Reuters",
     "first_seen": "2026-10-14T12:00:00+09:00",
     "issue": "2026-10-14-1200"
+  },
+  {
+    "url_normalized": "https://bls.gov/news.release/cpi.nr0.htm",
+    "title": "米9月CPIは3.7%上昇、ガソリン急騰で利下げ観測に逆風",
+    "topic_key": "us-september-cpi-energy-acceleration-20261014",
+    "source": "米労働省労働統計局",
+    "first_seen": "2026-10-14T22:00:00+09:00",
+    "issue": "2026-10-14-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/world/us/us-consumer-prices-accelerate-september-costlier-gasoline-core-cpi-firmer-2026-10-14",
+    "title": "米9月CPIは3.7%上昇、ガソリン急騰で利下げ観測に逆風",
+    "topic_key": "us-september-cpi-energy-acceleration-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-14T22:00:00+09:00",
+    "issue": "2026-10-14-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/retail-consumer/japan-invest-up-21-billion-two-us-chip-factories-be-run-by-globalfoundries-2026-10-14",
+    "title": "日本、米NY州の半導体2工場に最大210億ドル　GFが運営",
+    "topic_key": "japan-globalfoundries-new-york-fabs-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-14T22:00:00+09:00",
+    "issue": "2026-10-14-2200"
+  },
+  {
+    "url_normalized": "https://investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026",
+    "title": "ASML、7〜9月売上117億ユーロ　AI需要で供給増強を検討",
+    "topic_key": "asml-q3-ai-demand-capacity-20261014",
+    "source": "ASML",
+    "first_seen": "2026-10-14T22:00:00+09:00",
+    "issue": "2026-10-14-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14",
+    "title": "ASML、7〜9月売上117億ユーロ　AI需要で供給増強を検討",
+    "topic_key": "asml-q3-ai-demand-capacity-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-14T22:00:00+09:00",
+    "issue": "2026-10-14-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/finance/morgan-stanley-profit-rises-equity-trading-strength-2026-10-14",
+    "title": "Morgan Stanley、株式取引収入41%増　運用部門には逆風",
+    "topic_key": "morgan-stanley-q3-equity-trading-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-14T22:00:00+09:00",
+    "issue": "2026-10-14-2200"
+  },
+  {
+    "url_normalized": "https://businesswire.com/news/home/20261014683034/en/Morgan-Stanley-Reports-Third-Quarter-2026-Earnings-Results",
+    "title": "Morgan Stanley、株式取引収入41%増　運用部門には逆風",
+    "topic_key": "morgan-stanley-q3-equity-trading-20261014",
+    "source": "Morgan Stanley / Business Wire",
+    "first_seen": "2026-10-14T22:00:00+09:00",
+    "issue": "2026-10-14-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/business/blackrock-profit-jumps-resilient-markets-boost-fees-2026-10-14",
+    "title": "BlackRock、運用資産15.49兆ドル　7〜9月流入2050億ドル",
+    "topic_key": "blackrock-q3-aum-inflows-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-14T22:00:00+09:00",
+    "issue": "2026-10-14-2200"
+  },
+  {
+    "url_normalized": "https://ir.blackrock.com/news-and-events/press-releases/default.aspx",
+    "title": "BlackRock、運用資産15.49兆ドル　7〜9月流入2050億ドル",
+    "topic_key": "blackrock-q3-aum-inflows-20261014",
+    "source": "BlackRock",
+    "first_seen": "2026-10-14T22:00:00+09:00",
+    "issue": "2026-10-14-2200"
+  },
+  {
+    "url_normalized": "https://reuters.com/commentary/reuters-open-interest/aluminiums-calm-belies-lingering-supply-chain-stress-2026-10-14",
+    "title": "アルミ供給網に逼迫残る　日本向け割増金は1トン255ドル",
+    "topic_key": "aluminium-physical-premiums-low-stocks-20261014",
+    "source": "Reuters Open Interest",
+    "first_seen": "2026-10-14T22:00:00+09:00",
+    "issue": "2026-10-14-2200"
   }
 ]

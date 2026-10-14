@@ -1619,13 +1619,27 @@
       "issue_id": "2026-10-14-1200",
       "published_at": "2026-10-14T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-14-1200.html",
       "topics": [
         "singapore-mas-holds-sneer-q3-gdp-20261014",
         "china-september-cpi-ppi-divergence-20261014",
         "china-september-exports-imports-surge-20261014",
         "asia-chips-rebound-cpi-oil-caution-20261014",
         "oil-saudi-risk-russian-diesel-20261014"
+      ]
+    },
+    {
+      "issue_id": "2026-10-14-2200",
+      "published_at": "2026-10-14T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-september-cpi-energy-acceleration-20261014",
+        "japan-globalfoundries-new-york-fabs-20261014",
+        "asml-q3-ai-demand-capacity-20261014",
+        "morgan-stanley-q3-equity-trading-20261014",
+        "blackrock-q3-aum-inflows-20261014",
+        "aluminium-physical-premiums-low-stocks-20261014"
       ]
     }
   ]

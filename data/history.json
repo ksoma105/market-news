@@ -1675,13 +1675,27 @@
       "issue_id": "2026-10-15-2200",
       "published_at": "2026-10-15T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-15-2200.html",
       "topics": [
         "tsmc-q3-record-profit-2027-caution-20261015",
         "us-weekly-jobless-claims-199k-20261015",
         "japan-kiuchi-boj-independence-growth-investment-20261015",
         "oil-tanker-freight-inflation-cost-spike-20261015",
         "china-q3-gdp-poll-stimulus-target-20261015"
+      ]
+    },
+    {
+      "issue_id": "2026-10-16-0600",
+      "published_at": "2026-10-16T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "iea-accelerates-emergency-stock-release-diesel-20261015",
+        "unicredit-ecb-control-commerzbank-20261015",
+        "france-germany-eu-car-co2-uk-made-in-europe-20261015",
+        "uk-august-gdp-production-services-20261015",
+        "brazil-runoff-fiscal-plans-debt-20261015",
+        "pboc-pan-global-imbalances-exchange-rate-20261015"
       ]
     }
   ]

@@ -1,61 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12",
-    "title": "Microsoft、自社AIチップを来年100万個超導入へ",
-    "topic_key": "microsoft-maia300-million-chip-deployment-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T06:00:00+09:00",
-    "issue": "2026-10-13-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/wall-streets-big-narrow-rally-4-10-sp-stocks-are-down-this-year-2026-10-12",
-    "title": "S&P500は14%高でも構成銘柄の4割超が下落",
-    "topic_key": "sp500-narrow-rally-200-stocks-down-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T06:00:00+09:00",
-    "issue": "2026-10-13-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/getty-images-go-private-after-restructuring-deal-2026-10-12",
-    "title": "Getty Images、会社更生手続き経て非公開化へ",
-    "topic_key": "getty-images-chapter11-go-private-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T06:00:00+09:00",
-    "issue": "2026-10-13-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/energy/energyx-signs-binding-2-billion-lithium-supply-deal-with-trafigura-2026-10-12",
-    "title": "EnergyXとTrafigura、20億ドルのリチウム供給契約",
-    "topic_key": "energyx-trafigura-2b-lithium-offtake-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T06:00:00+09:00",
-    "issue": "2026-10-13-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/markets/us/feds-hammack-backs-restrictive-policy-says-better-if-it-comes-relatively-quickly-2026-10-12",
-    "title": "クリーブランド連銀総裁、早期の引き締めを支持",
-    "topic_key": "fed-hammack-restrictive-policy-quickly-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T06:00:00+09:00",
-    "issue": "2026-10-13-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/energy/europe-set-another-year-high-gas-prices-reserves-hit-lows-2026-10-12",
-    "title": "欧州ガス在庫低下、高価格が少なくとも来年まで続く見通し",
-    "topic_key": "europe-gas-storage-low-high-prices-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T06:00:00+09:00",
-    "issue": "2026-10-13-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/europe/eu-adopts-nearly-1600-new-sanctions-listings-targeting-russia-2026-10-12",
-    "title": "EU、ロシア軍需産業を対象に約1,600件の制裁指定",
-    "topic_key": "eu-russia-1600-sanctions-listings-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T06:00:00+09:00",
-    "issue": "2026-10-13-0600"
-  },
-  {
     "url_normalized": "https://reuters.com/world/asia-pacific/japans-wholesale-inflation-remains-elevated-keeps-alive-boj-rate-hike-view-2026-10-13",
     "title": "日本の9月企業物価、前年比6.8%上昇に鈍化",
     "topic_key": "japan-ppi-september-6-8pct-import-prices-20261013",
@@ -638,5 +582,85 @@
     "source": "中国政府",
     "first_seen": "2026-10-15T22:00:00+09:00",
     "issue": "2026-10-15-2200"
+  },
+  {
+    "url_normalized": "iea.org/news/iea-governing-board-statement-on-energy-markets-and-security",
+    "title": "IEA、残る約1億バレルの放出加速　ディーゼル2,000万バレル超",
+    "topic_key": "iea-accelerates-emergency-stock-release-diesel-20261015",
+    "source": "IEA",
+    "first_seen": "2026-10-16T06:00:00+09:00",
+    "issue": "2026-10-16-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/iea-speed-up-oil-stocks-release-including-over-20-million-barrels-diesel-2026-10-15",
+    "title": "IEA、残る約1億バレルの放出加速　ディーゼル2,000万バレル超",
+    "topic_key": "iea-accelerates-emergency-stock-release-diesel-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T06:00:00+09:00",
+    "issue": "2026-10-16-0600"
+  },
+  {
+    "url_normalized": "unicreditgroup.eu/en/press-media/press-releases-price-sensitive/2026/october/unicredit-receives-ecb-approval-to-acquire-control-of-commerzban.html",
+    "title": "UniCredit、Commerzbank支配権へECB承認　年末に議決権約50%",
+    "topic_key": "unicredit-ecb-control-commerzbank-20261015",
+    "source": "UniCredit",
+    "first_seen": "2026-10-16T06:00:00+09:00",
+    "issue": "2026-10-16-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/italys-unicredit-wins-ecb-approval-control-germanys-commerzbank-2026-10-15",
+    "title": "UniCredit、Commerzbank支配権へECB承認　年末に議決権約50%",
+    "topic_key": "unicredit-ecb-control-commerzbank-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T06:00:00+09:00",
+    "issue": "2026-10-16-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/environment/france-germany-near-deal-car-emissions-britain-made-eu-status-2026-10-15",
+    "title": "仏独、EU自動車CO2目標90%案で接近　英国を域内扱いも",
+    "topic_key": "france-germany-eu-car-co2-uk-made-in-europe-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T06:00:00+09:00",
+    "issue": "2026-10-16-0600"
+  },
+  {
+    "url_normalized": "theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation",
+    "title": "仏独、EU自動車CO2目標90%案で接近　英国を域内扱いも",
+    "topic_key": "france-germany-eu-car-co2-uk-made-in-europe-20261015",
+    "source": "The Guardian",
+    "first_seen": "2026-10-16T06:00:00+09:00",
+    "issue": "2026-10-16-0600"
+  },
+  {
+    "url_normalized": "ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/latest",
+    "title": "英8月GDPは0.1%増　生産0.8%増、サービスは横ばい",
+    "topic_key": "uk-august-gdp-production-services-20261015",
+    "source": "英国立統計局",
+    "first_seen": "2026-10-16T06:00:00+09:00",
+    "issue": "2026-10-16-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/uk/uk-economy-beats-forecasts-grow-by-01-august-2026-10-15",
+    "title": "英8月GDPは0.1%増　生産0.8%増、サービスは横ばい",
+    "topic_key": "uk-august-gdp-production-services-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T06:00:00+09:00",
+    "issue": "2026-10-16-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/brazil-candidates-focus-fiscal-plans-voter-friendly-measures-before-runoff-2026-10-15",
+    "title": "ブラジル決選投票、財政案の具体性乏しく　債務はGDP比82.9%",
+    "topic_key": "brazil-runoff-fiscal-plans-debt-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T06:00:00+09:00",
+    "issue": "2026-10-16-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/chinas-central-bank-chief-urges-comprehensive-view-global-imbalances-2026-10-15",
+    "title": "中国人民銀行総裁、世界的不均衡は為替調整だけで解消せず",
+    "topic_key": "pboc-pan-global-imbalances-exchange-rate-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T06:00:00+09:00",
+    "issue": "2026-10-16-0600"
   }
 ]

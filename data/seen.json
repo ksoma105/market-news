@@ -574,5 +574,69 @@
     "source": "Reuters",
     "first_seen": "2026-10-15T12:00:00+09:00",
     "issue": "2026-10-15-1200"
+  },
+  {
+    "url_normalized": "investor.tsmc.com/english/quarterly-results/2026/q3",
+    "title": "TSMCの7〜9月純利益69%増　2ナノ量産が寄与、2027年には慎重",
+    "topic_key": "tsmc-q3-record-profit-2027-caution-20261015",
+    "source": "TSMC",
+    "first_seen": "2026-10-15T22:00:00+09:00",
+    "issue": "2026-10-15-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/tsmc-expected-report-sixth-straight-quarter-record-profit-thanks-ai-boom-2026-10-14",
+    "title": "TSMCの7〜9月純利益69%増　2ナノ量産が寄与、2027年には慎重",
+    "topic_key": "tsmc-q3-record-profit-2027-caution-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T22:00:00+09:00",
+    "issue": "2026-10-15-2200"
+  },
+  {
+    "url_normalized": "dol.gov/ui/data.pdf",
+    "title": "米新規失業保険申請19.9万件　5週連続で20万件を下回る",
+    "topic_key": "us-weekly-jobless-claims-199k-20261015",
+    "source": "米労働省",
+    "first_seen": "2026-10-15T22:00:00+09:00",
+    "issue": "2026-10-15-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/us/us-weekly-jobless-claims-rise-marginally-amid-low-layoffs-2026-10-15",
+    "title": "米新規失業保険申請19.9万件　5週連続で20万件を下回る",
+    "topic_key": "us-weekly-jobless-claims-199k-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T22:00:00+09:00",
+    "issue": "2026-10-15-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-economy-minister-says-nation-no-longer-deflation-seeks-investor-rethink-2026-10-15",
+    "title": "木内経財相、日銀の独立性を尊重　2040年度までに370兆円超の投資目標",
+    "topic_key": "japan-kiuchi-boj-independence-growth-investment-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T22:00:00+09:00",
+    "issue": "2026-10-15-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/oil-shipping-costs-spike-lifting-prices-pump-grocery-2026-10-15",
+    "title": "原油輸送費が急騰　米国発日本向けVLCCは1航海8,100万ドル",
+    "topic_key": "oil-tanker-freight-inflation-cost-spike-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T22:00:00+09:00",
+    "issue": "2026-10-15-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/china-q3-growth-set-pick-up-stimulus-keeping-2026-goal-within-reach-2026-10-15",
+    "title": "中国7〜9月GDP、4.4%成長へ小幅加速の予想　Reuters調査",
+    "topic_key": "china-q3-gdp-poll-stimulus-target-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T22:00:00+09:00",
+    "issue": "2026-10-15-2200"
+  },
+  {
+    "url_normalized": "english.www.gov.cn/2026special/2026npcandcpcc/202603/05/content_WS69a8ea12c6d00ca5f9a0987b.html",
+    "title": "中国7〜9月GDP、4.4%成長へ小幅加速の予想　Reuters調査",
+    "topic_key": "china-q3-gdp-poll-stimulus-target-20261015",
+    "source": "中国政府",
+    "first_seen": "2026-10-15T22:00:00+09:00",
+    "issue": "2026-10-15-2200"
   }
 ]

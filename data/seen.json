@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/world/asia-pacific/dollar-stays-near-18-month-high-mideast-conflict-inflation-data-focus-2026-10-12",
-    "title": "ドルは18カ月ぶり高値圏、米CPIと中東情勢を警戒",
-    "topic_key": "dollar-18-month-high-us-cpi-mideast-risk-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-12T12:00:00+09:00",
-    "issue": "2026-10-12-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/asia-pacific/tencent-plans-dollar-offshore-yuan-bond-sale-under-note-programme-2026-10-12",
-    "title": "Tencent、ドル・オフショア人民元建て長期債を計画",
-    "topic_key": "tencent-dollar-offshore-yuan-bond-plan-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-12T12:00:00+09:00",
-    "issue": "2026-10-12-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/china/tsmc-expected-report-sixth-straight-quarter-record-profit-thanks-ai-boom-2026-10-12",
-    "title": "TSMC、AI需要で6四半期連続の最高益見通し",
-    "topic_key": "tsmc-q3-record-profit-ai-demand-preview-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-12T12:00:00+09:00",
-    "issue": "2026-10-12-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/energy/medco-energi-take-10-stake-four-eni-oil-gas-blocks-indonesia-2026-10-12",
-    "title": "Medco Energi、Eniのインドネシア4鉱区に10%参加",
-    "topic_key": "medco-eni-indonesia-four-blocks-10pct-stake-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-12T12:00:00+09:00",
-    "issue": "2026-10-12-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/india/indias-zetwerk-sets-price-band-143-151-rupees-per-share-518-million-ipo-2026-10-12",
-    "title": "Zetwerk、約5.18億ドルのインドIPOで26億ドル評価を目指す",
-    "topic_key": "zetwerk-india-ipo-518m-2-64b-valuation-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-12T12:00:00+09:00",
-    "issue": "2026-10-12-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/asia-pacific/airasia-talks-with-malaysian-government-over-potential-funding-support-sources-2026-10-12",
-    "title": "AirAsia、資金支援を巡りマレーシア政府と協議との報道",
-    "topic_key": "airasia-malaysia-government-funding-support-talks-20261012",
-    "source": "Reuters",
-    "first_seen": "2026-10-12T12:00:00+09:00",
-    "issue": "2026-10-12-1200"
-  },
-  {
     "url_normalized": "https://reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12",
     "title": "Microsoft、自社AIチップを来年100万個超導入へ",
     "topic_key": "microsoft-maia300-million-chip-deployment-20261012",
@@ -574,5 +526,53 @@
     "source": "CoreWeave",
     "first_seen": "2026-10-15T06:00:00+09:00",
     "issue": "2026-10-15-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/global-markets-wrapup-1-2026-10-15",
+    "title": "アジア株安、韓国株5.6%下落　米CPIとAI投資懸念が重荷",
+    "topic_key": "asia-markets-ai-selloff-hot-cpi-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T12:00:00+09:00",
+    "issue": "2026-10-15-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/imf-warns-slowing-asian-growth-spillover-rising-yields-2026-10-15",
+    "title": "IMF、アジア成長率を2026年4.8%と予測　27年は4.4%へ減速",
+    "topic_key": "imf-asia-growth-yields-risks-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T12:00:00+09:00",
+    "issue": "2026-10-15-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/feds-daly-says-rate-hikes-likely-needed-not-urgently-2026-10-14",
+    "title": "FRBデイリー氏、追加利上げの可能性示す　10月会合は急がず",
+    "topic_key": "fed-daly-more-hikes-not-urgent-october-20261014",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T12:00:00+09:00",
+    "issue": "2026-10-15-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/sk-hynix-conditions-new-us-factory-more-us-chip-equipment-exports-china-sources-2026-10-15",
+    "title": "SKハイニックス、米工場計画と中国向け装置許可を連動　関係者",
+    "topic_key": "sk-hynix-us-nand-fab-china-export-license-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T12:00:00+09:00",
+    "issue": "2026-10-15-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/trucks-line-up-long-delayed-china-north-korea-bridge-officially-opens-2026-10-15",
+    "title": "中国・北朝鮮の新鴨緑江大橋が開通　対北輸出は前年25%増",
+    "topic_key": "china-north-korea-new-yalu-bridge-opens-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T12:00:00+09:00",
+    "issue": "2026-10-15-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/uk/uk-finance-minister-calls-tighter-russian-shipping-sanctions-2026-10-15",
+    "title": "英財務相、ロシア「影の船団」への海運制裁強化を各国に要請",
+    "topic_key": "uk-russia-shadow-fleet-shipping-sanctions-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-15T12:00:00+09:00",
+    "issue": "2026-10-15-1200"
   }
 ]

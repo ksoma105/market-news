@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/world/asia-pacific/japans-wholesale-inflation-remains-elevated-keeps-alive-boj-rate-hike-view-2026-10-13",
-    "title": "日本の9月企業物価、前年比6.8%上昇に鈍化",
-    "topic_key": "japan-ppi-september-6-8pct-import-prices-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T12:00:00+09:00",
-    "issue": "2026-10-13-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/asia-pacific/global-markets-wrapup-1-2026-10-13",
-    "title": "アジア株が急落、韓国KOSPIは一時6%安",
-    "topic_key": "asia-stocks-chip-selloff-kospi-nikkei-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T12:00:00+09:00",
-    "issue": "2026-10-13-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/china/imf-says-ai-investment-propping-up-global-growth-war-debt-threaten-outlook-2026-10-13",
-    "title": "IMF、2026年の世界成長率を3.1%へ小幅上方修正",
-    "topic_key": "imf-weo-global-growth-ai-oil-risks-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T12:00:00+09:00",
-    "issue": "2026-10-13-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/legal/transactional/japans-omron-buy-us-industrial-pc-firm-onlogic-675-million-physical-ai-push-2026-10-13",
-    "title": "オムロン、米産業用PCのOnLogicを6.75億ドルで買収",
-    "topic_key": "omron-onlogic-interlogic-675m-acquisition-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T12:00:00+09:00",
-    "issue": "2026-10-13-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13",
-    "title": "Nvidiaの中国AI半導体シェア34%、Huaweiが28%に接近",
-    "topic_key": "nvidia-huawei-china-ai-accelerator-share-idc-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T12:00:00+09:00",
-    "issue": "2026-10-13-1200"
-  },
-  {
     "url_normalized": "https://reuters.com/business/media-telecom/ntt-data-final-talks-build-anthropics-first-data-centre-japan-nikkei-reports-2026-10-13",
     "title": "NTT DATA、Anthropic向け大阪データセンターを協議との報道",
     "topic_key": "ntt-data-anthropic-osaka-datacenter-talks-20261013",
@@ -662,5 +622,69 @@
     "source": "Reuters",
     "first_seen": "2026-10-16T06:00:00+09:00",
     "issue": "2026-10-16-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/jakarta-stocks-plunge-11-msci-set-drop-indonesia-indexes-2026-10-16",
+    "title": "インドネシア株が11%急落　MSCI「単独市場」案で1998年以来の下げ",
+    "topic_key": "indonesia-msci-standalone-jakarta-11pct-crash-20261016",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T12:00:00+09:00",
+    "issue": "2026-10-16-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/singapores-september-exports-rise-684-year-2026-10-16",
+    "title": "シンガポール9月非石油輸出68.4%増　電子品は107.6%増",
+    "topic_key": "singapore-september-nodx-68-4-electronics-107-6-20261016",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T12:00:00+09:00",
+    "issue": "2026-10-16-1200"
+  },
+  {
+    "url_normalized": "channelnewsasia.com/singapore/non-oil-exports-nodx-september-2026-6464416",
+    "title": "シンガポール9月非石油輸出68.4%増　電子品は107.6%増",
+    "topic_key": "singapore-september-nodx-68-4-electronics-107-6-20261016",
+    "source": "CNA",
+    "first_seen": "2026-10-16T12:00:00+09:00",
+    "issue": "2026-10-16-1200"
+  },
+  {
+    "url_normalized": "ca5.uscourts.gov/opinions/pub/25/25-60535-CV0.pdf",
+    "title": "米控訴裁、年90億ドルの通信補助基金運営を違法判断",
+    "topic_key": "us-fifth-circuit-usac-universal-service-fund-20261015",
+    "source": "米第5巡回区控訴裁",
+    "first_seen": "2026-10-16T12:00:00+09:00",
+    "issue": "2026-10-16-1200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/government/us-appeals-court-invalidates-federal-9-billion-telecom-subsidy-fund-2026-10-16",
+    "title": "米控訴裁、年90億ドルの通信補助基金運営を違法判断",
+    "topic_key": "us-fifth-circuit-usac-universal-service-fund-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T12:00:00+09:00",
+    "issue": "2026-10-16-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/nasdaq-reports-network-disruption-us-equities-data-feeds-impacted-2026-10-15",
+    "title": "Nasdaqの米株データ配信に断続的欠落　取引は影響なく復旧",
+    "topic_key": "nasdaq-carteret-network-data-feed-gaps-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T12:00:00+09:00",
+    "issue": "2026-10-16-1200"
+  },
+  {
+    "url_normalized": "wsj.com/economy/trade/lutnick-throws-the-future-of-u-s-mexico-trade-talks-into-further-doubt-5cfb85a4",
+    "title": "米メキシコ関税協議が減速　自動車25%、鉄鋼・アルミ50%が争点",
+    "topic_key": "us-mexico-tariff-deal-stalls-autos-metals-20261015",
+    "source": "Wall Street Journal",
+    "first_seen": "2026-10-16T12:00:00+09:00",
+    "issue": "2026-10-16-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/autos-transportation/progress-toward-us-mexico-tariff-deal-has-stalled-wsj-reports-2026-10-16",
+    "title": "米メキシコ関税協議が減速　自動車25%、鉄鋼・アルミ50%が争点",
+    "topic_key": "us-mexico-tariff-deal-stalls-autos-metals-20261015",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T12:00:00+09:00",
+    "issue": "2026-10-16-1200"
   }
 ]

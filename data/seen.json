@@ -1,101 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/business/media-telecom/ntt-data-final-talks-build-anthropics-first-data-centre-japan-nikkei-reports-2026-10-13",
-    "title": "NTT DATA、Anthropic向け大阪データセンターを協議との報道",
-    "topic_key": "ntt-data-anthropic-osaka-datacenter-talks-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T22:00:00+09:00",
-    "issue": "2026-10-13-2200"
-  },
-  {
-    "url_normalized": "https://thenextweb.com/news/ntt-data-anthropic-osaka-data-centre",
-    "title": "NTT DATA、Anthropic向け大阪データセンターを協議との報道",
-    "topic_key": "ntt-data-anthropic-osaka-datacenter-talks-20261013",
-    "source": "TNW",
-    "first_seen": "2026-10-13T22:00:00+09:00",
-    "issue": "2026-10-13-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/finance/jpmorgans-profit-rises-investment-banking-trading-strength-2026-10-13",
-    "title": "米大手銀行決算、株式トレーディング好調も明暗",
-    "topic_key": "us-big-banks-q3-trading-loans-mixed-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T22:00:00+09:00",
-    "issue": "2026-10-13-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/finance/goldman-sachs-quarterly-profit-rises-equities-strength-2026-10-13",
-    "title": "米大手銀行決算、株式トレーディング好調も明暗",
-    "topic_key": "us-big-banks-q3-trading-loans-mixed-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T22:00:00+09:00",
-    "issue": "2026-10-13-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/finance/wells-fargo-profit-rises-robust-loan-growth-interest-income-2026-10-13",
-    "title": "米大手銀行決算、株式トレーディング好調も明暗",
-    "topic_key": "us-big-banks-q3-trading-loans-mixed-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T22:00:00+09:00",
-    "issue": "2026-10-13-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/energy/opec-raises-2027-oil-demand-view-citing-need-rebuild-stocks-2026-10-13",
-    "title": "OPECプラスの9月産油量、日量約90万バレル増",
-    "topic_key": "opec-plus-september-output-demand-outlook-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T22:00:00+09:00",
-    "issue": "2026-10-13-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/legal/litigation/banking-watchdogs-ramp-up-ai-scrutiny-stability-fears-mount-sources-say-2026-10-13",
-    "title": "銀行監督当局、エージェント型AIの統制を重点確認",
-    "topic_key": "bank-regulators-agentic-ai-scrutiny-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T22:00:00+09:00",
-    "issue": "2026-10-13-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/media-telecom/scaleway-build-amd-powered-ai-supercomputer-sweden-2026-10-13",
-    "title": "Scaleway、北欧でAMD・NvidiaのAI基盤を拡張",
-    "topic_key": "scaleway-nordic-ai-infrastructure-amd-nvidia-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T22:00:00+09:00",
-    "issue": "2026-10-13-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/media-telecom/scaleway-open-nvidia-powered-computing-site-copenhagen-2026-10-13",
-    "title": "Scaleway、北欧でAMD・NvidiaのAI基盤を拡張",
-    "topic_key": "scaleway-nordic-ai-infrastructure-amd-nvidia-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T22:00:00+09:00",
-    "issue": "2026-10-13-2200"
-  },
-  {
-    "url_normalized": "https://megazap.fr/Scaleway-etend-son-infrastructure-d-IA-en-Europe-avec-un-nouveau-supercalculateur-base-sur-des-GPU-AMD-Instinct-en-Suede_a17244.html",
-    "title": "Scaleway、北欧でAMD・NvidiaのAI基盤を拡張",
-    "topic_key": "scaleway-nordic-ai-infrastructure-amd-nvidia-20261013",
-    "source": "Megazap",
-    "first_seen": "2026-10-13T22:00:00+09:00",
-    "issue": "2026-10-13-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/technology/bumble-go-private-13-billion-deal-2026-10-13",
-    "title": "Bumble、13億ドルで非公開化へ",
-    "topic_key": "bumble-ithaca-1-3b-take-private-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-13T22:00:00+09:00",
-    "issue": "2026-10-13-2200"
-  },
-  {
-    "url_normalized": "https://streetinsider.com/Business%2BWire/Bumble%2BInc.%2Bto%2BBe%2BAcquired%2Bby%2BIthaca%2BHoldings,%2Bthe%2BLong-Term%2BHolding%2BCompany%2Bfor%2BEnduring%2BTechnology%2BBusinesses/27177734.html",
-    "title": "Bumble、13億ドルで非公開化へ",
-    "topic_key": "bumble-ithaca-1-3b-take-private-20261013",
-    "source": "Business Wire転載",
-    "first_seen": "2026-10-13T22:00:00+09:00",
-    "issue": "2026-10-13-2200"
-  },
-  {
     "url_normalized": "https://reuters.com/business/google-launches-flagship-ai-model-gemini-4-argon-developers-businesses-2026-10-13",
     "title": "Google、Gemini 4 Argonを世界提供　入力100万トークン当たり2ドル",
     "topic_key": "google-gemini-4-argon-global-launch-20261013",
@@ -686,5 +590,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-16T12:00:00+09:00",
     "issue": "2026-10-16-1200"
+  },
+  {
+    "url_normalized": "bls.gov/news.release/ximpim.nr0.htm",
+    "title": "米9月輸入物価1.1%上昇　非燃料も0.7%高でインフレ裾野拡大",
+    "topic_key": "us-september-import-prices-1-1-nonfuel-20261016",
+    "source": "米労働統計局",
+    "first_seen": "2026-10-16T22:00:00+09:00",
+    "issue": "2026-10-16-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/us-import-prices-increase-more-than-expected-september-2026-10-16",
+    "title": "米9月輸入物価1.1%上昇　非燃料も0.7%高でインフレ裾野拡大",
+    "topic_key": "us-september-import-prices-1-1-nonfuel-20261016",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T22:00:00+09:00",
+    "issue": "2026-10-16-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/europe-must-boost-growth-or-borrow-less-keep-debt-sustainable-imf-says-2026-10-16",
+    "title": "IMF、欧州の債務安定へ平均GDP比3.5%の調整必要と試算",
+    "topic_key": "imf-europe-debt-fiscal-adjustment-3-5pct-20261016",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T22:00:00+09:00",
+    "issue": "2026-10-16-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/exxonmobil-signals-lower-third-quarter-earnings-2026-10-16",
+    "title": "Exxon、精製マージンで7-9月利益45億ドル押し上げの可能性",
+    "topic_key": "exxon-q3-refining-margin-4-5b-boost-20261016",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T22:00:00+09:00",
+    "issue": "2026-10-16-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/us-treasury-says-japan-no-longer-faces-deflationary-environment-yen-level-must-2026-10-16",
+    "title": "米財務省高官、日本のデフレ脱却を指摘　円と金融政策の変化求める",
+    "topic_key": "us-japan-treasury-yen-deflation-policy-path-20261016",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T22:00:00+09:00",
+    "issue": "2026-10-16-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/africa/kenyas-economy-grows-51-year-on-year-second-quarter-2026-2026-10-16",
+    "title": "ケニア4-6月GDPは5.1%増　運輸・宿泊サービスがけん引",
+    "topic_key": "kenya-q2-gdp-5-1-transport-tourism-20261016",
+    "source": "Reuters",
+    "first_seen": "2026-10-16T22:00:00+09:00",
+    "issue": "2026-10-16-2200"
   }
 ]

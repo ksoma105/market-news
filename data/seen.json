@@ -1,101 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/business/google-launches-flagship-ai-model-gemini-4-argon-developers-businesses-2026-10-13",
-    "title": "Google、Gemini 4 Argonを世界提供　入力100万トークン当たり2ドル",
-    "topic_key": "google-gemini-4-argon-global-launch-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T06:00:00+09:00",
-    "issue": "2026-10-14-0600"
-  },
-  {
-    "url_normalized": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
-    "title": "Google、Gemini 4 Argonを世界提供　入力100万トークン当たり2ドル",
-    "topic_key": "google-gemini-4-argon-global-launch-20261013",
-    "source": "Google",
-    "first_seen": "2026-10-14T06:00:00+09:00",
-    "issue": "2026-10-14-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/india/indias-ctrls-invest-105-billion-build-hyperscale-ai-factory-eastern-india-2026-10-13",
-    "title": "インドCtrlS、ビハール州に1,000億ルピーのAI拠点計画",
-    "topic_key": "ctrls-bihar-150mw-ai-factory-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T06:00:00+09:00",
-    "issue": "2026-10-14-0600"
-  },
-  {
-    "url_normalized": "https://expresscomputer.in/news/ctrls-plans-rs-10000-crore-investment-in-bihar-inaugurates-rs-400-crore-patna-data-centre/139866",
-    "title": "インドCtrlS、ビハール州に1,000億ルピーのAI拠点計画",
-    "topic_key": "ctrls-bihar-150mw-ai-factory-20261013",
-    "source": "Express Computer",
-    "first_seen": "2026-10-14T06:00:00+09:00",
-    "issue": "2026-10-14-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/us-existing-home-sales-rise-september-higher-mortgage-rates-dim-outlook-2026-10-13",
-    "title": "米中古住宅販売、9月は1.5%増も前年比では2.2%減",
-    "topic_key": "us-existing-home-sales-september-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T06:00:00+09:00",
-    "issue": "2026-10-14-0600"
-  },
-  {
-    "url_normalized": "https://nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
-    "title": "米中古住宅販売、9月は1.5%増も前年比では2.2%減",
-    "topic_key": "us-existing-home-sales-september-20261013",
-    "source": "NAR",
-    "first_seen": "2026-10-14T06:00:00+09:00",
-    "issue": "2026-10-14-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/legal/legalindustry/bofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13",
-    "title": "バンク・オブ・アメリカ、資金洗浄対策不備で12.1億ドル制裁",
-    "topic_key": "bank-of-america-aml-sanctions-penalties-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T06:00:00+09:00",
-    "issue": "2026-10-14-0600"
-  },
-  {
-    "url_normalized": "https://apnews.com/article/treasury-bank-of-america-money-laundering-29013b2c8f08a3a8d579a96721ed1aa4",
-    "title": "バンク・オブ・アメリカ、資金洗浄対策不備で12.1億ドル制裁",
-    "topic_key": "bank-of-america-aml-sanctions-penalties-20261013",
-    "source": "AP",
-    "first_seen": "2026-10-14T06:00:00+09:00",
-    "issue": "2026-10-14-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/legal/transactional/att-sell-mexico-unit-2-billion-2026-10-13",
-    "title": "AT&T、メキシコ事業を20億ドルで売却へ",
-    "topic_key": "att-mexico-2b-sale-televisa-fintech-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T06:00:00+09:00",
-    "issue": "2026-10-14-0600"
-  },
-  {
-    "url_normalized": "https://prnewswire.com/news-releases/att-to-sell-att-mexico-to-grupo-televisa-and-fintech-holdings-302907590.html",
-    "title": "AT&T、メキシコ事業を20億ドルで売却へ",
-    "topic_key": "att-mexico-2b-sale-televisa-fintech-20261013",
-    "source": "AT&T発表",
-    "first_seen": "2026-10-14T06:00:00+09:00",
-    "issue": "2026-10-14-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/legal/litigation/zealand-pharma-generate-strike-obesity-drug-deal-worth-up-12-billion-bloomberg-2026-10-13",
-    "title": "ZealandとGenerate、AI創薬で最大約12億ドル提携",
-    "topic_key": "zealand-generate-ai-obesity-deal-20261013",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T06:00:00+09:00",
-    "issue": "2026-10-14-0600"
-  },
-  {
-    "url_normalized": "https://streetinsider.com/Corporate%2BNews/Generate%2BBiomedicines%2Band%2BZealand%2BPharma%2Bstrike%2BAI%2Bdrug%2Bdeal/27181526.html",
-    "title": "ZealandとGenerate、AI創薬で最大約12億ドル提携",
-    "topic_key": "zealand-generate-ai-obesity-deal-20261013",
-    "source": "発表転載",
-    "first_seen": "2026-10-14T06:00:00+09:00",
-    "issue": "2026-10-14-0600"
-  },
-  {
     "url_normalized": "https://reuters.com/world/asia-pacific/singapore-keeps-monetary-policy-unchanged-surprising-analysts-2026-10-14",
     "title": "シンガポール中銀、予想外の据え置き　7〜9月GDPは5.4%増",
     "topic_key": "singapore-mas-holds-sneer-q3-gdp-20261014",
@@ -638,5 +542,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-16T22:00:00+09:00",
     "issue": "2026-10-16-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/central-bankers-eye-higher-rates-ai-boom-fuels-scramble-cash-2026-10-16",
+    "title": "AI投資が資金需要を押し上げ　主要中銀は金利の高止まりを警戒",
+    "topic_key": "ai-capex-global-capital-demand-higher-rates-20261016",
+    "source": "Reuters",
+    "first_seen": "2026-10-17T06:00:00+09:00",
+    "issue": "2026-10-17-0600"
+  },
+  {
+    "url_normalized": "apnews.com/article/ai-economy-imf-anthropic-faba248f0609534a0d8284dec1b46a81",
+    "title": "AI投資が資金需要を押し上げ　主要中銀は金利の高止まりを警戒",
+    "topic_key": "ai-capex-global-capital-demand-higher-rates-20261016",
+    "source": "AP",
+    "first_seen": "2026-10-17T06:00:00+09:00",
+    "issue": "2026-10-17-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/eu-propose-import-curbs-other-chinese-sectors-says-eu-chief-2026-10-16",
+    "title": "EU、中国製品への輸入抑制を他分野へ拡大へ　化学・樹脂など焦点",
+    "topic_key": "eu-china-import-safeguards-chemicals-plastics-20261016",
+    "source": "Reuters",
+    "first_seen": "2026-10-17T06:00:00+09:00",
+    "issue": "2026-10-17-0600"
+  },
+  {
+    "url_normalized": "consilium.europa.eu/en/meetings/european-council/2026/10/15-16",
+    "title": "EU、中国製品への輸入抑制を他分野へ拡大へ　化学・樹脂など焦点",
+    "topic_key": "eu-china-import-safeguards-chemicals-plastics-20261016",
+    "source": "欧州理事会",
+    "first_seen": "2026-10-17T06:00:00+09:00",
+    "issue": "2026-10-17-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/us/us-fiscal-2026-budget-deficit-rises-199-trillion-largest-5-years-2026-10-16",
+    "title": "米2026年度財政赤字1.99兆ドル　利払い増と関税還付で5年ぶり高水準",
+    "topic_key": "us-fy2026-deficit-1-99tn-debt-service-tariff-refunds-20261016",
+    "source": "Reuters",
+    "first_seen": "2026-10-17T06:00:00+09:00",
+    "issue": "2026-10-17-0600"
+  },
+  {
+    "url_normalized": "marketwatch.com/story/the-u-s-budget-deficit-just-hit-almost-2-trillion-and-washington-isnt-doing-much-about-it-a1b5c4ea",
+    "title": "米2026年度財政赤字1.99兆ドル　利払い増と関税還付で5年ぶり高水準",
+    "topic_key": "us-fy2026-deficit-1-99tn-debt-service-tariff-refunds-20261016",
+    "source": "MarketWatch",
+    "first_seen": "2026-10-17T06:00:00+09:00",
+    "issue": "2026-10-17-0600"
   }
 ]

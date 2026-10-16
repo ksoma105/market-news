@@ -1715,13 +1715,24 @@
       "issue_id": "2026-10-16-2200",
       "published_at": "2026-10-16T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-16-2200.html",
       "topics": [
         "us-september-import-prices-1-1-nonfuel-20261016",
         "imf-europe-debt-fiscal-adjustment-3-5pct-20261016",
         "exxon-q3-refining-margin-4-5b-boost-20261016",
         "us-japan-treasury-yen-deflation-policy-path-20261016",
         "kenya-q2-gdp-5-1-transport-tourism-20261016"
+      ]
+    },
+    {
+      "issue_id": "2026-10-17-0600",
+      "published_at": "2026-10-17T06:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "ai-capex-global-capital-demand-higher-rates-20261016",
+        "eu-china-import-safeguards-chemicals-plastics-20261016",
+        "us-fy2026-deficit-1-99tn-debt-service-tariff-refunds-20261016"
       ]
     }
   ]

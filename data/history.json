@@ -1728,11 +1728,22 @@
       "issue_id": "2026-10-17-0600",
       "published_at": "2026-10-17T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-17-0600.html",
       "topics": [
         "ai-capex-global-capital-demand-higher-rates-20261016",
         "eu-china-import-safeguards-chemicals-plastics-20261016",
         "us-fy2026-deficit-1-99tn-debt-service-tariff-refunds-20261016"
+      ]
+    },
+    {
+      "issue_id": "2026-10-17-1200",
+      "published_at": "2026-10-17T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-russia-sanctions-tariffs-waiver-graham-act-20261017",
+        "hormuz-supertanker-mine-irgc-2m-barrels-20261017",
+        "chile-centinela-copper-strike-preliminary-deal-20261017"
       ]
     }
   ]

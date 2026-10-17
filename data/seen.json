@@ -1,77 +1,5 @@
 [
   {
-    "url_normalized": "https://reuters.com/world/asia-pacific/singapore-keeps-monetary-policy-unchanged-surprising-analysts-2026-10-14",
-    "title": "シンガポール中銀、予想外の据え置き　7〜9月GDPは5.4%増",
-    "topic_key": "singapore-mas-holds-sneer-q3-gdp-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T12:00:00+09:00",
-    "issue": "2026-10-14-1200"
-  },
-  {
-    "url_normalized": "https://mas.gov.sg/news/monetary-policy-statements/2026/mas-monetary-policy-statement-14oct26",
-    "title": "シンガポール中銀、予想外の据え置き　7〜9月GDPは5.4%増",
-    "topic_key": "singapore-mas-holds-sneer-q3-gdp-20261014",
-    "source": "MAS",
-    "first_seen": "2026-10-14T12:00:00+09:00",
-    "issue": "2026-10-14-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/asia-pacific/chinas-factory-gate-inflation-accelerates-september-2026-10-14",
-    "title": "中国9月PPIは5.0%上昇、CPIは0.9%　企業と家計で物価差",
-    "topic_key": "china-september-cpi-ppi-divergence-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T12:00:00+09:00",
-    "issue": "2026-10-14-1200"
-  },
-  {
-    "url_normalized": "https://stats.gov.cn/sj/zxfb/202610/t20261014_1965477.html",
-    "title": "中国9月PPIは5.0%上昇、CPIは0.9%　企業と家計で物価差",
-    "topic_key": "china-september-cpi-ppi-divergence-20261014",
-    "source": "中国国家統計局",
-    "first_seen": "2026-10-14T12:00:00+09:00",
-    "issue": "2026-10-14-1200"
-  },
-  {
-    "url_normalized": "https://stats.gov.cn/sj/zxfb/202610/t20261014_1965476.html",
-    "title": "中国9月PPIは5.0%上昇、CPIは0.9%　企業と家計で物価差",
-    "topic_key": "china-september-cpi-ppi-divergence-20261014",
-    "source": "中国国家統計局",
-    "first_seen": "2026-10-14T12:00:00+09:00",
-    "issue": "2026-10-14-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/asia-pacific/chinas-exports-surge-363-yy-september-imports-up-31-2026-10-14",
-    "title": "中国9月輸出36.3%増、輸入31%増　市場予想を大幅超過",
-    "topic_key": "china-september-exports-imports-surge-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T12:00:00+09:00",
-    "issue": "2026-10-14-1200"
-  },
-  {
-    "url_normalized": "https://ft.com/content/4eab6c20-60d6-46b6-accd-2e04edfa541d",
-    "title": "中国9月輸出36.3%増、輸入31%増　市場予想を大幅超過",
-    "topic_key": "china-september-exports-imports-surge-20261014",
-    "source": "Financial Times",
-    "first_seen": "2026-10-14T12:00:00+09:00",
-    "issue": "2026-10-14-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/china/global-markets-global-markets-2026-10-14",
-    "title": "アジア株、半導体主導で反発　米CPIと原油高が上値抑制",
-    "topic_key": "asia-chips-rebound-cpi-oil-caution-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T12:00:00+09:00",
-    "issue": "2026-10-14-1200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/energy/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-2026-10-14",
-    "title": "原油反発、サウジ供給不安でブレント106ドル台",
-    "topic_key": "oil-saudi-risk-russian-diesel-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T12:00:00+09:00",
-    "issue": "2026-10-14-1200"
-  },
-  {
     "url_normalized": "https://bls.gov/news.release/cpi.nr0.htm",
     "title": "米9月CPIは3.7%上昇、ガソリン急騰で利下げ観測に逆風",
     "topic_key": "us-september-cpi-energy-acceleration-20261014",
@@ -590,5 +518,45 @@
     "source": "MarketWatch",
     "first_seen": "2026-10-17T06:00:00+09:00",
     "issue": "2026-10-17-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/europe/trump-waives-many-russia-related-sanctions-tariffs-before-they-were-take-effect-2026-10-17",
+    "title": "米政権、対ロ制裁・関税を発動直前に猶予　最大100%関税を当面見送り",
+    "topic_key": "us-russia-sanctions-tariffs-waiver-graham-act-20261017",
+    "source": "Reuters",
+    "first_seen": "2026-10-17T12:00:00+09:00",
+    "issue": "2026-10-17-1200"
+  },
+  {
+    "url_normalized": "whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026",
+    "title": "米政権、対ロ制裁・関税を発動直前に猶予　最大100%関税を当面見送り",
+    "topic_key": "us-russia-sanctions-tariffs-waiver-graham-act-20261017",
+    "source": "ホワイトハウス",
+    "first_seen": "2026-10-17T12:00:00+09:00",
+    "issue": "2026-10-17-1200"
+  },
+  {
+    "url_normalized": "longbridge.com/news/302156317",
+    "title": "ホルムズ海峡で大型タンカーが機雷に接触とイラン発表　200万バレル超積載",
+    "topic_key": "hormuz-supertanker-mine-irgc-2m-barrels-20261017",
+    "source": "Reuters／LSEG",
+    "first_seen": "2026-10-17T12:00:00+09:00",
+    "issue": "2026-10-17-1200"
+  },
+  {
+    "url_normalized": "presstv.co.uk/Detail/2026/10/17/778494/Super-tanker-explodes-after-hitting-Sea-Mine-in-Hormuz-IRGC",
+    "title": "ホルムズ海峡で大型タンカーが機雷に接触とイラン発表　200万バレル超積載",
+    "topic_key": "hormuz-supertanker-mine-irgc-2m-barrels-20261017",
+    "source": "Press TV",
+    "first_seen": "2026-10-17T12:00:00+09:00",
+    "issue": "2026-10-17-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/world-at-work/striking-unions-antofagastas-centinela-copper-mine-reach-preliminary-deal-ending-2026-10-17",
+    "title": "チリ・センチネラ銅山、2労組が暫定合意　1週間超のスト終了へ",
+    "topic_key": "chile-centinela-copper-strike-preliminary-deal-20261017",
+    "source": "Reuters",
+    "first_seen": "2026-10-17T12:00:00+09:00",
+    "issue": "2026-10-17-1200"
   }
 ]

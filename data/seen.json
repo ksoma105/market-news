@@ -1,85 +1,5 @@
 [
   {
-    "url_normalized": "https://bls.gov/news.release/cpi.nr0.htm",
-    "title": "米9月CPIは3.7%上昇、ガソリン急騰で利下げ観測に逆風",
-    "topic_key": "us-september-cpi-energy-acceleration-20261014",
-    "source": "米労働省労働統計局",
-    "first_seen": "2026-10-14T22:00:00+09:00",
-    "issue": "2026-10-14-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/us/us-consumer-prices-accelerate-september-costlier-gasoline-core-cpi-firmer-2026-10-14",
-    "title": "米9月CPIは3.7%上昇、ガソリン急騰で利下げ観測に逆風",
-    "topic_key": "us-september-cpi-energy-acceleration-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T22:00:00+09:00",
-    "issue": "2026-10-14-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/retail-consumer/japan-invest-up-21-billion-two-us-chip-factories-be-run-by-globalfoundries-2026-10-14",
-    "title": "日本、米NY州の半導体2工場に最大210億ドル　GFが運営",
-    "topic_key": "japan-globalfoundries-new-york-fabs-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T22:00:00+09:00",
-    "issue": "2026-10-14-2200"
-  },
-  {
-    "url_normalized": "https://investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026",
-    "title": "ASML、7〜9月売上117億ユーロ　AI需要で供給増強を検討",
-    "topic_key": "asml-q3-ai-demand-capacity-20261014",
-    "source": "ASML",
-    "first_seen": "2026-10-14T22:00:00+09:00",
-    "issue": "2026-10-14-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14",
-    "title": "ASML、7〜9月売上117億ユーロ　AI需要で供給増強を検討",
-    "topic_key": "asml-q3-ai-demand-capacity-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T22:00:00+09:00",
-    "issue": "2026-10-14-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/finance/morgan-stanley-profit-rises-equity-trading-strength-2026-10-14",
-    "title": "Morgan Stanley、株式取引収入41%増　運用部門には逆風",
-    "topic_key": "morgan-stanley-q3-equity-trading-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T22:00:00+09:00",
-    "issue": "2026-10-14-2200"
-  },
-  {
-    "url_normalized": "https://businesswire.com/news/home/20261014683034/en/Morgan-Stanley-Reports-Third-Quarter-2026-Earnings-Results",
-    "title": "Morgan Stanley、株式取引収入41%増　運用部門には逆風",
-    "topic_key": "morgan-stanley-q3-equity-trading-20261014",
-    "source": "Morgan Stanley / Business Wire",
-    "first_seen": "2026-10-14T22:00:00+09:00",
-    "issue": "2026-10-14-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/blackrock-profit-jumps-resilient-markets-boost-fees-2026-10-14",
-    "title": "BlackRock、運用資産15.49兆ドル　7〜9月流入2050億ドル",
-    "topic_key": "blackrock-q3-aum-inflows-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-14T22:00:00+09:00",
-    "issue": "2026-10-14-2200"
-  },
-  {
-    "url_normalized": "https://ir.blackrock.com/news-and-events/press-releases/default.aspx",
-    "title": "BlackRock、運用資産15.49兆ドル　7〜9月流入2050億ドル",
-    "topic_key": "blackrock-q3-aum-inflows-20261014",
-    "source": "BlackRock",
-    "first_seen": "2026-10-14T22:00:00+09:00",
-    "issue": "2026-10-14-2200"
-  },
-  {
-    "url_normalized": "https://reuters.com/commentary/reuters-open-interest/aluminiums-calm-belies-lingering-supply-chain-stress-2026-10-14",
-    "title": "アルミ供給網に逼迫残る　日本向け割増金は1トン255ドル",
-    "topic_key": "aluminium-physical-premiums-low-stocks-20261014",
-    "source": "Reuters Open Interest",
-    "first_seen": "2026-10-14T22:00:00+09:00",
-    "issue": "2026-10-14-2200"
-  },
-  {
     "url_normalized": "https://federalreserve.gov/monetarypolicy/beigebook202610-summary.htm",
     "title": "米地区連銀報告、燃料高で物価圧力強まる　雇用は低調",
     "topic_key": "fed-beige-book-fuel-inflation-labor-20261014",
@@ -558,5 +478,61 @@
     "source": "Reuters",
     "first_seen": "2026-10-17T12:00:00+09:00",
     "issue": "2026-10-17-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/china-ai-supply-chain-ipos-hold-firm-despite-valuation-pullback-citi-says-2026-10-17",
+    "title": "香港IPO、AI供給網が下支え　1〜9月調達額は3,880億香港ドル",
+    "topic_key": "china-ai-supply-chain-hk-ipos-388b-20261017",
+    "source": "Reuters",
+    "first_seen": "2026-10-17T22:00:00+09:00",
+    "issue": "2026-10-17-2200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/litigation/indias-food-regulator-proposes-ban-added-sugars-infant-foods-2026-10-17",
+    "title": "インド、乳児食品のショ糖・果糖添加禁止を提案",
+    "topic_key": "india-infant-food-added-sugar-ban-proposal-20261017",
+    "source": "Reuters",
+    "first_seen": "2026-10-17T22:00:00+09:00",
+    "issue": "2026-10-17-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/indias-icici-bank-q2-profit-rises-201-beats-estimates-2026-10-17",
+    "title": "ICICI銀、7〜9月純利益20.1%増　貸出30%増も利ざや縮小",
+    "topic_key": "icici-q2-profit-20-1-loan-growth-nim-20261017",
+    "source": "Reuters",
+    "first_seen": "2026-10-17T22:00:00+09:00",
+    "issue": "2026-10-17-2200"
+  },
+  {
+    "url_normalized": "financialexpress.com/business/icici-bank-q2-results-net-profit-rises-20-1-to-rs-14843-crore-nii-up-177-4363736",
+    "title": "ICICI銀、7〜9月純利益20.1%増　貸出30%増も利ざや縮小",
+    "topic_key": "icici-q2-profit-20-1-loan-growth-nim-20261017",
+    "source": "Financial Express",
+    "first_seen": "2026-10-17T22:00:00+09:00",
+    "issue": "2026-10-17-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/indias-hdfc-bank-quarterly-profit-rises-47-narrowly-misses-estimates-treasury-2026-10-17",
+    "title": "HDFC銀、7〜9月純利益4.7%増　財務収益減で予想にわずかに届かず",
+    "topic_key": "hdfc-q2-profit-4-7-ceo-transition-20261017",
+    "source": "Reuters",
+    "first_seen": "2026-10-17T22:00:00+09:00",
+    "issue": "2026-10-17-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/chinese-online-retailer-temu-agrees-data-privacy-restrictions-settle-texas-2026-10-16",
+    "title": "Temu、テキサス州と和解　米国内データ保管と年次商品検査へ",
+    "topic_key": "temu-texas-data-privacy-product-safety-settlement-20261016",
+    "source": "Reuters",
+    "first_seen": "2026-10-17T22:00:00+09:00",
+    "issue": "2026-10-17-2200"
+  },
+  {
+    "url_normalized": "texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-first-its-kind-settlement-temu-protect-texans-data-ccp-and-protect",
+    "title": "Temu、テキサス州と和解　米国内データ保管と年次商品検査へ",
+    "topic_key": "temu-texas-data-privacy-product-safety-settlement-20261016",
+    "source": "テキサス州司法長官室",
+    "first_seen": "2026-10-17T22:00:00+09:00",
+    "issue": "2026-10-17-2200"
   }
 ]

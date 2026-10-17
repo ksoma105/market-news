@@ -1739,11 +1739,24 @@
       "issue_id": "2026-10-17-1200",
       "published_at": "2026-10-17T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-17-1200.html",
       "topics": [
         "us-russia-sanctions-tariffs-waiver-graham-act-20261017",
         "hormuz-supertanker-mine-irgc-2m-barrels-20261017",
         "chile-centinela-copper-strike-preliminary-deal-20261017"
+      ]
+    },
+    {
+      "issue_id": "2026-10-17-2200",
+      "published_at": "2026-10-17T22:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-ai-supply-chain-hk-ipos-388b-20261017",
+        "india-infant-food-added-sugar-ban-proposal-20261017",
+        "icici-q2-profit-20-1-loan-growth-nim-20261017",
+        "hdfc-q2-profit-4-7-ceo-transition-20261017",
+        "temu-texas-data-privacy-product-safety-settlement-20261016"
       ]
     }
   ]

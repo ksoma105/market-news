@@ -1,93 +1,5 @@
 [
   {
-    "url_normalized": "https://federalreserve.gov/monetarypolicy/beigebook202610-summary.htm",
-    "title": "米地区連銀報告、燃料高で物価圧力強まる　雇用は低調",
-    "topic_key": "fed-beige-book-fuel-inflation-labor-20261014",
-    "source": "FRB",
-    "first_seen": "2026-10-15T06:00:00+09:00",
-    "issue": "2026-10-15-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/fed-survey-shows-price-pressures-intensifying-amid-rise-fuel-costs-2026-10-14",
-    "title": "米地区連銀報告、燃料高で物価圧力強まる　雇用は低調",
-    "topic_key": "fed-beige-book-fuel-inflation-labor-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T06:00:00+09:00",
-    "issue": "2026-10-15-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/eu-leaders-clash-over-long-term-budget-no-quick-deal-sight-2026-10-14",
-    "title": "EU長期予算、1.62兆ユーロ案でも対立　全会一致に高い壁",
-    "topic_key": "eu-2028-2034-budget-standoff-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T06:00:00+09:00",
-    "issue": "2026-10-15-0600"
-  },
-  {
-    "url_normalized": "https://fmc.gov/articles/fmc-proposes-actions-to-address-unfavorable-shipping-conditions-in-spain",
-    "title": "米FMC、スペイン船に1航海20万ドル課金案　輸入制限も検討",
-    "topic_key": "fmc-spain-shipping-fee-import-curbs-20261014",
-    "source": "米連邦海事委員会",
-    "first_seen": "2026-10-15T06:00:00+09:00",
-    "issue": "2026-10-15-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/us-floats-fees-spanish-ships-caps-olive-oil-imports-over-port-dispute-2026-10-14",
-    "title": "米FMC、スペイン船に1航海20万ドル課金案　輸入制限も検討",
-    "topic_key": "fmc-spain-shipping-fee-import-curbs-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T06:00:00+09:00",
-    "issue": "2026-10-15-0600"
-  },
-  {
-    "url_normalized": "https://aep.com/news/stories/view/12314",
-    "title": "AEP、Google向け燃料電池に40億ドル　702MWを整備",
-    "topic_key": "aep-google-cheyenne-fuel-cell-project-20261014",
-    "source": "AEP",
-    "first_seen": "2026-10-15T06:00:00+09:00",
-    "issue": "2026-10-15-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/energy/american-electric-power-to-invest-4-billion-fuel-cell-project-power-google-2026-10-14",
-    "title": "AEP、Google向け燃料電池に40億ドル　702MWを整備",
-    "topic_key": "aep-google-cheyenne-fuel-cell-project-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T06:00:00+09:00",
-    "issue": "2026-10-15-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/world-at-work/netflix-cuts-about-6-jobs-wsj-reports-2026-10-14",
-    "title": "Netflix、世界人員の約6%・約1000人を削減",
-    "topic_key": "netflix-layoffs-six-percent-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T06:00:00+09:00",
-    "issue": "2026-10-15-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/world/eight-us-states-sue-openai-claiming-chatgpt-harms-children-2026-10-14",
-    "title": "米8州がOpenAIを提訴　ChatGPTの若年利用者への害を主張",
-    "topic_key": "eight-us-states-openai-chatgpt-lawsuits-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T06:00:00+09:00",
-    "issue": "2026-10-15-0600"
-  },
-  {
-    "url_normalized": "https://reuters.com/business/coreweave-ceo-notes-strong-backlog-memo-reassure-staff-over-market-scrutiny-2026-10-14",
-    "title": "CoreWeave株15%安　CEOは1040億ドル規模の受注残を強調",
-    "topic_key": "coreweave-debt-backlog-market-scrutiny-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T06:00:00+09:00",
-    "issue": "2026-10-15-0600"
-  },
-  {
-    "url_normalized": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx",
-    "title": "CoreWeave株15%安　CEOは1040億ドル規模の受注残を強調",
-    "topic_key": "coreweave-debt-backlog-market-scrutiny-20261014",
-    "source": "CoreWeave",
-    "first_seen": "2026-10-15T06:00:00+09:00",
-    "issue": "2026-10-15-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/china/global-markets-wrapup-1-2026-10-15",
     "title": "アジア株安、韓国株5.6%下落　米CPIとAI投資懸念が重荷",
     "topic_key": "asia-markets-ai-selloff-hot-cpi-20261015",
@@ -534,5 +446,29 @@
     "source": "テキサス州司法長官室",
     "first_seen": "2026-10-17T22:00:00+09:00",
     "issue": "2026-10-17-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/bank-canada-sees-sharply-higher-inflation-outlook-oil-surges-macklem-says-2026-10-17",
+    "title": "カナダ中銀、原油高でインフレ見通しを大幅上方修正へ",
+    "topic_key": "bank-canada-inflation-forecast-oil-oct28-20261017",
+    "source": "Reuters",
+    "first_seen": "2026-10-18T06:00:00+09:00",
+    "issue": "2026-10-18-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/high-debt-growing-strains-put-focus-need-new-development-approaches-2026-10-17",
+    "title": "途上国の対外債務12.3兆ドル　援助減で民間資金の役割拡大",
+    "topic_key": "developing-countries-debt-aid-private-capital-20261017",
+    "source": "Reuters",
+    "first_seen": "2026-10-18T06:00:00+09:00",
+    "issue": "2026-10-18-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/softbank-weighs-18-billion-acquisition-allied-universal-bloomberg-news-reports-2026-10-16",
+    "title": "ソフトバンク、米警備会社を約180億ドルで買収検討",
+    "topic_key": "softbank-allied-universal-18b-talks-20261016",
+    "source": "Reuters",
+    "first_seen": "2026-10-18T06:00:00+09:00",
+    "issue": "2026-10-18-0600"
   }
 ]

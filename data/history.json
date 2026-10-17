@@ -1750,13 +1750,24 @@
       "issue_id": "2026-10-17-2200",
       "published_at": "2026-10-17T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-17-2200.html",
       "topics": [
         "china-ai-supply-chain-hk-ipos-388b-20261017",
         "india-infant-food-added-sugar-ban-proposal-20261017",
         "icici-q2-profit-20-1-loan-growth-nim-20261017",
         "hdfc-q2-profit-4-7-ceo-transition-20261017",
         "temu-texas-data-privacy-product-safety-settlement-20261016"
+      ]
+    },
+    {
+      "issue_id": "2026-10-18-0600",
+      "published_at": "2026-10-18T06:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "bank-canada-inflation-forecast-oil-oct28-20261017",
+        "developing-countries-debt-aid-private-capital-20261017",
+        "softbank-allied-universal-18b-talks-20261016"
       ]
     }
   ]

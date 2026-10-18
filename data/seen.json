@@ -1,85 +1,5 @@
 [
   {
-    "url_normalized": "iea.org/news/iea-governing-board-statement-on-energy-markets-and-security",
-    "title": "IEA、残る約1億バレルの放出加速　ディーゼル2,000万バレル超",
-    "topic_key": "iea-accelerates-emergency-stock-release-diesel-20261015",
-    "source": "IEA",
-    "first_seen": "2026-10-16T06:00:00+09:00",
-    "issue": "2026-10-16-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/iea-speed-up-oil-stocks-release-including-over-20-million-barrels-diesel-2026-10-15",
-    "title": "IEA、残る約1億バレルの放出加速　ディーゼル2,000万バレル超",
-    "topic_key": "iea-accelerates-emergency-stock-release-diesel-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T06:00:00+09:00",
-    "issue": "2026-10-16-0600"
-  },
-  {
-    "url_normalized": "unicreditgroup.eu/en/press-media/press-releases-price-sensitive/2026/october/unicredit-receives-ecb-approval-to-acquire-control-of-commerzban.html",
-    "title": "UniCredit、Commerzbank支配権へECB承認　年末に議決権約50%",
-    "topic_key": "unicredit-ecb-control-commerzbank-20261015",
-    "source": "UniCredit",
-    "first_seen": "2026-10-16T06:00:00+09:00",
-    "issue": "2026-10-16-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/italys-unicredit-wins-ecb-approval-control-germanys-commerzbank-2026-10-15",
-    "title": "UniCredit、Commerzbank支配権へECB承認　年末に議決権約50%",
-    "topic_key": "unicredit-ecb-control-commerzbank-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T06:00:00+09:00",
-    "issue": "2026-10-16-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/environment/france-germany-near-deal-car-emissions-britain-made-eu-status-2026-10-15",
-    "title": "仏独、EU自動車CO2目標90%案で接近　英国を域内扱いも",
-    "topic_key": "france-germany-eu-car-co2-uk-made-in-europe-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T06:00:00+09:00",
-    "issue": "2026-10-16-0600"
-  },
-  {
-    "url_normalized": "theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation",
-    "title": "仏独、EU自動車CO2目標90%案で接近　英国を域内扱いも",
-    "topic_key": "france-germany-eu-car-co2-uk-made-in-europe-20261015",
-    "source": "The Guardian",
-    "first_seen": "2026-10-16T06:00:00+09:00",
-    "issue": "2026-10-16-0600"
-  },
-  {
-    "url_normalized": "ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/latest",
-    "title": "英8月GDPは0.1%増　生産0.8%増、サービスは横ばい",
-    "topic_key": "uk-august-gdp-production-services-20261015",
-    "source": "英国立統計局",
-    "first_seen": "2026-10-16T06:00:00+09:00",
-    "issue": "2026-10-16-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/uk/uk-economy-beats-forecasts-grow-by-01-august-2026-10-15",
-    "title": "英8月GDPは0.1%増　生産0.8%増、サービスは横ばい",
-    "topic_key": "uk-august-gdp-production-services-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T06:00:00+09:00",
-    "issue": "2026-10-16-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/americas/brazil-candidates-focus-fiscal-plans-voter-friendly-measures-before-runoff-2026-10-15",
-    "title": "ブラジル決選投票、財政案の具体性乏しく　債務はGDP比82.9%",
-    "topic_key": "brazil-runoff-fiscal-plans-debt-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T06:00:00+09:00",
-    "issue": "2026-10-16-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/chinas-central-bank-chief-urges-comprehensive-view-global-imbalances-2026-10-15",
-    "title": "中国人民銀行総裁、世界的不均衡は為替調整だけで解消せず",
-    "topic_key": "pboc-pan-global-imbalances-exchange-rate-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T06:00:00+09:00",
-    "issue": "2026-10-16-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/jakarta-stocks-plunge-11-msci-set-drop-indonesia-indexes-2026-10-16",
     "title": "インドネシア株が11%急落　MSCI「単独市場」案で1998年以来の下げ",
     "topic_key": "indonesia-msci-standalone-jakarta-11pct-crash-20261016",
@@ -406,5 +326,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-18T22:00:00+09:00",
     "issue": "2026-10-18-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18",
+    "title": "サムスン、NVIDIA向け次世代HBMでTSMCの3ナノ技術採用へ",
+    "topic_key": "samsung-tsmc-nvidia-nvhbm-3nm-20261018",
+    "source": "Reuters",
+    "first_seen": "2026-10-19T06:00:00+09:00",
+    "issue": "2026-10-19-0600"
+  },
+  {
+    "url_normalized": "en.sedaily.com/finance/2026/10/18/samsung-to-tap-tsmc-3-nanometer-lines-for-nvidia-custom-hbm",
+    "title": "サムスン、NVIDIA向け次世代HBMでTSMCの3ナノ技術採用へ",
+    "topic_key": "samsung-tsmc-nvidia-nvhbm-3nm-20261018",
+    "source": "Seoul Economic Daily",
+    "first_seen": "2026-10-19T06:00:00+09:00",
+    "issue": "2026-10-19-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/vietnam-signs-free-trade-pact-with-european-countries-including-norway-2026-10-18",
+    "title": "ベトナムとEFTAが自由貿易協定に署名",
+    "topic_key": "vietnam-efta-free-trade-agreement-signed-20261018",
+    "source": "Reuters",
+    "first_seen": "2026-10-19T06:00:00+09:00",
+    "issue": "2026-10-19-0600"
+  },
+  {
+    "url_normalized": "efta.int/trade-relations/free-trade-network/viet-nam",
+    "title": "ベトナムとEFTAが自由貿易協定に署名",
+    "topic_key": "vietnam-efta-free-trade-agreement-signed-20261018",
+    "source": "EFTA",
+    "first_seen": "2026-10-19T06:00:00+09:00",
+    "issue": "2026-10-19-0600"
+  },
+  {
+    "url_normalized": "regjeringen.no/en/whats-new/undertegnet-frihandelsavtale-med-vietnam-apner-nye-muligheter-for-norske-bedrifter/id3178346",
+    "title": "ベトナムとEFTAが自由貿易協定に署名",
+    "topic_key": "vietnam-efta-free-trade-agreement-signed-20261018",
+    "source": "ノルウェー政府",
+    "first_seen": "2026-10-19T06:00:00+09:00",
+    "issue": "2026-10-19-0600"
   }
 ]

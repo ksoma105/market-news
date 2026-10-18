@@ -1763,11 +1763,21 @@
       "issue_id": "2026-10-18-0600",
       "published_at": "2026-10-18T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-18-0600.html",
       "topics": [
         "bank-canada-inflation-forecast-oil-oct28-20261017",
         "developing-countries-debt-aid-private-capital-20261017",
         "softbank-allied-universal-18b-talks-20261016"
+      ]
+    },
+    {
+      "issue_id": "2026-10-18-1200",
+      "published_at": "2026-10-18T12:00:00+09:00",
+      "topic_count": 2,
+      "html_path": "docs/index.html",
+      "topics": [
+        "venezuela-oil-investment-76b-250-rigs-20261017",
+        "mdb-critical-minerals-manufacturing-framework-20261017"
       ]
     }
   ]

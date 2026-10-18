@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/china/global-markets-wrapup-1-2026-10-15",
-    "title": "アジア株安、韓国株5.6%下落　米CPIとAI投資懸念が重荷",
-    "topic_key": "asia-markets-ai-selloff-hot-cpi-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T12:00:00+09:00",
-    "issue": "2026-10-15-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/imf-warns-slowing-asian-growth-spillover-rising-yields-2026-10-15",
-    "title": "IMF、アジア成長率を2026年4.8%と予測　27年は4.4%へ減速",
-    "topic_key": "imf-asia-growth-yields-risks-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T12:00:00+09:00",
-    "issue": "2026-10-15-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/feds-daly-says-rate-hikes-likely-needed-not-urgently-2026-10-14",
-    "title": "FRBデイリー氏、追加利上げの可能性示す　10月会合は急がず",
-    "topic_key": "fed-daly-more-hikes-not-urgent-october-20261014",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T12:00:00+09:00",
-    "issue": "2026-10-15-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/sk-hynix-conditions-new-us-factory-more-us-chip-equipment-exports-china-sources-2026-10-15",
-    "title": "SKハイニックス、米工場計画と中国向け装置許可を連動　関係者",
-    "topic_key": "sk-hynix-us-nand-fab-china-export-license-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T12:00:00+09:00",
-    "issue": "2026-10-15-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/trucks-line-up-long-delayed-china-north-korea-bridge-officially-opens-2026-10-15",
-    "title": "中国・北朝鮮の新鴨緑江大橋が開通　対北輸出は前年25%増",
-    "topic_key": "china-north-korea-new-yalu-bridge-opens-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T12:00:00+09:00",
-    "issue": "2026-10-15-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/uk/uk-finance-minister-calls-tighter-russian-shipping-sanctions-2026-10-15",
-    "title": "英財務相、ロシア「影の船団」への海運制裁強化を各国に要請",
-    "topic_key": "uk-russia-shadow-fleet-shipping-sanctions-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-15T12:00:00+09:00",
-    "issue": "2026-10-15-1200"
-  },
-  {
     "url_normalized": "investor.tsmc.com/english/quarterly-results/2026/q3",
     "title": "TSMCの7〜9月純利益69%増　2ナノ量産が寄与、2027年には慎重",
     "topic_key": "tsmc-q3-record-profit-2027-caution-20261015",
@@ -470,5 +422,29 @@
     "source": "Reuters",
     "first_seen": "2026-10-18T06:00:00+09:00",
     "issue": "2026-10-18-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/venezuela-expects-nearly-76-billion-oil-investment-over-five-years-acting-2026-10-17",
+    "title": "ベネズエラ、5年で約760億ドルの石油投資を見込む",
+    "topic_key": "venezuela-oil-investment-76b-250-rigs-20261017",
+    "source": "Reuters",
+    "first_seen": "2026-10-18T12:00:00+09:00",
+    "issue": "2026-10-18-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/major-development-banks-step-up-support-critical-minerals-value-chains-2026-10-17",
+    "title": "多国間開発銀行、重要鉱物の加工・製造まで一体支援",
+    "topic_key": "mdb-critical-minerals-manufacturing-framework-20261017",
+    "source": "Reuters",
+    "first_seen": "2026-10-18T12:00:00+09:00",
+    "issue": "2026-10-18-1200"
+  },
+  {
+    "url_normalized": "adb.org/documents/mdb-collaboration-framework-critical-minerals",
+    "title": "多国間開発銀行、重要鉱物の加工・製造まで一体支援",
+    "topic_key": "mdb-critical-minerals-manufacturing-framework-20261017",
+    "source": "アジア開発銀行",
+    "first_seen": "2026-10-18T12:00:00+09:00",
+    "issue": "2026-10-18-1200"
   }
 ]

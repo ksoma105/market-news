@@ -1774,10 +1774,21 @@
       "issue_id": "2026-10-18-1200",
       "published_at": "2026-10-18T12:00:00+09:00",
       "topic_count": 2,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-18-1200.html",
       "topics": [
         "venezuela-oil-investment-76b-250-rigs-20261017",
         "mdb-critical-minerals-manufacturing-framework-20261017"
+      ]
+    },
+    {
+      "issue_id": "2026-10-18-2200",
+      "published_at": "2026-10-18T22:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-solar-manufacturing-tech-export-controls-20261018",
+        "india-cancer-drug-price-caps-137-20261018",
+        "canada-pipeline-oilsands-jobs-automation-20261018"
       ]
     }
   ]

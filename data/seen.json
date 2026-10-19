@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "bls.gov/news.release/ximpim.nr0.htm",
-    "title": "米9月輸入物価1.1%上昇　非燃料も0.7%高でインフレ裾野拡大",
-    "topic_key": "us-september-import-prices-1-1-nonfuel-20261016",
-    "source": "米労働統計局",
-    "first_seen": "2026-10-16T22:00:00+09:00",
-    "issue": "2026-10-16-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/us-import-prices-increase-more-than-expected-september-2026-10-16",
-    "title": "米9月輸入物価1.1%上昇　非燃料も0.7%高でインフレ裾野拡大",
-    "topic_key": "us-september-import-prices-1-1-nonfuel-20261016",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T22:00:00+09:00",
-    "issue": "2026-10-16-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/europe-must-boost-growth-or-borrow-less-keep-debt-sustainable-imf-says-2026-10-16",
-    "title": "IMF、欧州の債務安定へ平均GDP比3.5%の調整必要と試算",
-    "topic_key": "imf-europe-debt-fiscal-adjustment-3-5pct-20261016",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T22:00:00+09:00",
-    "issue": "2026-10-16-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/exxonmobil-signals-lower-third-quarter-earnings-2026-10-16",
-    "title": "Exxon、精製マージンで7-9月利益45億ドル押し上げの可能性",
-    "topic_key": "exxon-q3-refining-margin-4-5b-boost-20261016",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T22:00:00+09:00",
-    "issue": "2026-10-16-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/us-treasury-says-japan-no-longer-faces-deflationary-environment-yen-level-must-2026-10-16",
-    "title": "米財務省高官、日本のデフレ脱却を指摘　円と金融政策の変化求める",
-    "topic_key": "us-japan-treasury-yen-deflation-policy-path-20261016",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T22:00:00+09:00",
-    "issue": "2026-10-16-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/africa/kenyas-economy-grows-51-year-on-year-second-quarter-2026-2026-10-16",
-    "title": "ケニア4-6月GDPは5.1%増　運輸・宿泊サービスがけん引",
-    "topic_key": "kenya-q2-gdp-5-1-transport-tourism-20261016",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T22:00:00+09:00",
-    "issue": "2026-10-16-2200"
-  },
-  {
     "url_normalized": "reuters.com/business/finance/central-bankers-eye-higher-rates-ai-boom-fuels-scramble-cash-2026-10-16",
     "title": "AI投資が資金需要を押し上げ　主要中銀は金利の高止まりを警戒",
     "topic_key": "ai-capex-global-capital-demand-higher-rates-20261016",
@@ -318,5 +270,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-19T12:00:00+09:00",
     "issue": "2026-10-19-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19",
+    "title": "Amazon、PyTorchをTrainiumでほぼ無修正実行　Nvidiaのソフト優位に挑戦",
+    "topic_key": "amazon-torchneuron-pytorch-trainium-open-source-20261019",
+    "source": "Reuters",
+    "first_seen": "2026-10-19T22:00:00+09:00",
+    "issue": "2026-10-19-2200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/transactional/jpmorgan-announces-5-billion-investments-companies-critical-us-national-security-2026-10-19",
+    "title": "JPMorgan、米安全保障関連へ50億ドル投資　1年で融資等2300億ドル",
+    "topic_key": "jpmorgan-security-resiliency-5b-equity-230b-financing-20261019",
+    "source": "Reuters",
+    "first_seen": "2026-10-19T22:00:00+09:00",
+    "issue": "2026-10-19-2200"
+  },
+  {
+    "url_normalized": "wsj.com/economy/housing/u-s-home-builder-sentiment-sinks-to-14-year-low-120d5cb6",
+    "title": "米住宅建設業者の景況感、10月は29　2012年以来の低水準",
+    "topic_key": "us-homebuilder-confidence-october-29-lowest-2012-20261019",
+    "source": "The Wall Street Journal",
+    "first_seen": "2026-10-19T22:00:00+09:00",
+    "issue": "2026-10-19-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/australia-central-banker-sees-signs-labour-market-easing-2026-10-19",
+    "title": "豪中銀幹部、雇用市場は想定より速く緩和　次週の物価統計を注視",
+    "topic_key": "rba-kent-labour-market-easing-unemployment-4-7-20261019",
+    "source": "Reuters",
+    "first_seen": "2026-10-19T22:00:00+09:00",
+    "issue": "2026-10-19-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/metis-techbio-inks-up-11-billion-deal-with-eli-lilly-drug-delivery-tech-2026-10-19",
+    "title": "Metis TechBioとEli Lilly、最大11億ドルの薬剤送達技術提携",
+    "topic_key": "metis-techbio-lilly-lnp-delivery-up-to-1-1b-20261019",
+    "source": "Reuters",
+    "first_seen": "2026-10-19T22:00:00+09:00",
+    "issue": "2026-10-19-2200"
   }
 ]

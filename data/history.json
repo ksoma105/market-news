@@ -1805,10 +1805,23 @@
       "issue_id": "2026-10-19-1200",
       "published_at": "2026-10-19T12:00:00+09:00",
       "topic_count": 2,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-19-1200.html",
       "topics": [
         "china-q3-gdp-4-5-industrial-retail-investment-20261019",
         "boj-ueda-underlying-inflation-close-2pct-20261019"
+      ]
+    },
+    {
+      "issue_id": "2026-10-19-2200",
+      "published_at": "2026-10-19T22:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "amazon-torchneuron-pytorch-trainium-open-source-20261019",
+        "jpmorgan-security-resiliency-5b-equity-230b-financing-20261019",
+        "us-homebuilder-confidence-october-29-lowest-2012-20261019",
+        "rba-kent-labour-market-easing-unemployment-4-7-20261019",
+        "metis-techbio-lilly-lnp-delivery-up-to-1-1b-20261019"
       ]
     }
   ]

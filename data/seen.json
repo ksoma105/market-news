@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/finance/central-bankers-eye-higher-rates-ai-boom-fuels-scramble-cash-2026-10-16",
-    "title": "AI投資が資金需要を押し上げ　主要中銀は金利の高止まりを警戒",
-    "topic_key": "ai-capex-global-capital-demand-higher-rates-20261016",
-    "source": "Reuters",
-    "first_seen": "2026-10-17T06:00:00+09:00",
-    "issue": "2026-10-17-0600"
-  },
-  {
-    "url_normalized": "apnews.com/article/ai-economy-imf-anthropic-faba248f0609534a0d8284dec1b46a81",
-    "title": "AI投資が資金需要を押し上げ　主要中銀は金利の高止まりを警戒",
-    "topic_key": "ai-capex-global-capital-demand-higher-rates-20261016",
-    "source": "AP",
-    "first_seen": "2026-10-17T06:00:00+09:00",
-    "issue": "2026-10-17-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/eu-propose-import-curbs-other-chinese-sectors-says-eu-chief-2026-10-16",
-    "title": "EU、中国製品への輸入抑制を他分野へ拡大へ　化学・樹脂など焦点",
-    "topic_key": "eu-china-import-safeguards-chemicals-plastics-20261016",
-    "source": "Reuters",
-    "first_seen": "2026-10-17T06:00:00+09:00",
-    "issue": "2026-10-17-0600"
-  },
-  {
-    "url_normalized": "consilium.europa.eu/en/meetings/european-council/2026/10/15-16",
-    "title": "EU、中国製品への輸入抑制を他分野へ拡大へ　化学・樹脂など焦点",
-    "topic_key": "eu-china-import-safeguards-chemicals-plastics-20261016",
-    "source": "欧州理事会",
-    "first_seen": "2026-10-17T06:00:00+09:00",
-    "issue": "2026-10-17-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/us/us-fiscal-2026-budget-deficit-rises-199-trillion-largest-5-years-2026-10-16",
-    "title": "米2026年度財政赤字1.99兆ドル　利払い増と関税還付で5年ぶり高水準",
-    "topic_key": "us-fy2026-deficit-1-99tn-debt-service-tariff-refunds-20261016",
-    "source": "Reuters",
-    "first_seen": "2026-10-17T06:00:00+09:00",
-    "issue": "2026-10-17-0600"
-  },
-  {
-    "url_normalized": "marketwatch.com/story/the-u-s-budget-deficit-just-hit-almost-2-trillion-and-washington-isnt-doing-much-about-it-a1b5c4ea",
-    "title": "米2026年度財政赤字1.99兆ドル　利払い増と関税還付で5年ぶり高水準",
-    "topic_key": "us-fy2026-deficit-1-99tn-debt-service-tariff-refunds-20261016",
-    "source": "MarketWatch",
-    "first_seen": "2026-10-17T06:00:00+09:00",
-    "issue": "2026-10-17-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/europe/trump-waives-many-russia-related-sanctions-tariffs-before-they-were-take-effect-2026-10-17",
     "title": "米政権、対ロ制裁・関税を発動直前に猶予　最大100%関税を当面見送り",
     "topic_key": "us-russia-sanctions-tariffs-waiver-graham-act-20261017",
@@ -310,5 +262,29 @@
     "source": "Reuters",
     "first_seen": "2026-10-19T22:00:00+09:00",
     "issue": "2026-10-19-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/wall-st-futures-climb-ai-stocks-rebound-oil-yields-fall-2026-10-19",
+    "title": "米株はAI・半導体主導で反発　Nasdaq 1.11%高、相場の広がりは限定的",
+    "topic_key": "us-stocks-nasdaq-ai-semiconductor-rebound-close-20261019",
+    "source": "Reuters / AP",
+    "first_seen": "2026-10-20T06:00:00+09:00",
+    "issue": "2026-10-20-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/canadas-annual-inflation-rate-rose-31-september-2026-10-19",
+    "title": "カナダ9月CPI、前年比3.1%上昇　ガソリン高で中銀目標上限を超過",
+    "topic_key": "canada-september-cpi-3-1-energy-gasoline-20261019",
+    "source": "Reuters / Statistics Canada",
+    "first_seen": "2026-10-20T06:00:00+09:00",
+    "issue": "2026-10-20-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-lowest-level-since-1982-2026-10-19",
+    "title": "米戦略石油備蓄、約2.83億バレル　1982年以来の低水準",
+    "topic_key": "us-strategic-petroleum-reserve-283m-lowest-1982-20261019",
+    "source": "Reuters / U.S. Department of Energy",
+    "first_seen": "2026-10-20T06:00:00+09:00",
+    "issue": "2026-10-20-0600"
   }
 ]

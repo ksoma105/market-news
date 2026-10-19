@@ -1815,13 +1815,24 @@
       "issue_id": "2026-10-19-2200",
       "published_at": "2026-10-19T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-19-2200.html",
       "topics": [
         "amazon-torchneuron-pytorch-trainium-open-source-20261019",
         "jpmorgan-security-resiliency-5b-equity-230b-financing-20261019",
         "us-homebuilder-confidence-october-29-lowest-2012-20261019",
         "rba-kent-labour-market-easing-unemployment-4-7-20261019",
         "metis-techbio-lilly-lnp-delivery-up-to-1-1b-20261019"
+      ]
+    },
+    {
+      "issue_id": "2026-10-20-0600",
+      "published_at": "2026-10-20T06:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-stocks-nasdaq-ai-semiconductor-rebound-close-20261019",
+        "canada-september-cpi-3-1-energy-gasoline-20261019",
+        "us-strategic-petroleum-reserve-283m-lowest-1982-20261019"
       ]
     }
   ]

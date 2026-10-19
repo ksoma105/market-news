@@ -1795,10 +1795,20 @@
       "issue_id": "2026-10-19-0600",
       "published_at": "2026-10-19T06:00:00+09:00",
       "topic_count": 2,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-19-0600.html",
       "topics": [
         "samsung-tsmc-nvidia-nvhbm-3nm-20261018",
         "vietnam-efta-free-trade-agreement-signed-20261018"
+      ]
+    },
+    {
+      "issue_id": "2026-10-19-1200",
+      "published_at": "2026-10-19T12:00:00+09:00",
+      "topic_count": 2,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-q3-gdp-4-5-industrial-retail-investment-20261019",
+        "boj-ueda-underlying-inflation-close-2pct-20261019"
       ]
     }
   ]

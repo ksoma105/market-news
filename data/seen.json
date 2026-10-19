@@ -1,69 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/jakarta-stocks-plunge-11-msci-set-drop-indonesia-indexes-2026-10-16",
-    "title": "インドネシア株が11%急落　MSCI「単独市場」案で1998年以来の下げ",
-    "topic_key": "indonesia-msci-standalone-jakarta-11pct-crash-20261016",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T12:00:00+09:00",
-    "issue": "2026-10-16-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/singapores-september-exports-rise-684-year-2026-10-16",
-    "title": "シンガポール9月非石油輸出68.4%増　電子品は107.6%増",
-    "topic_key": "singapore-september-nodx-68-4-electronics-107-6-20261016",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T12:00:00+09:00",
-    "issue": "2026-10-16-1200"
-  },
-  {
-    "url_normalized": "channelnewsasia.com/singapore/non-oil-exports-nodx-september-2026-6464416",
-    "title": "シンガポール9月非石油輸出68.4%増　電子品は107.6%増",
-    "topic_key": "singapore-september-nodx-68-4-electronics-107-6-20261016",
-    "source": "CNA",
-    "first_seen": "2026-10-16T12:00:00+09:00",
-    "issue": "2026-10-16-1200"
-  },
-  {
-    "url_normalized": "ca5.uscourts.gov/opinions/pub/25/25-60535-CV0.pdf",
-    "title": "米控訴裁、年90億ドルの通信補助基金運営を違法判断",
-    "topic_key": "us-fifth-circuit-usac-universal-service-fund-20261015",
-    "source": "米第5巡回区控訴裁",
-    "first_seen": "2026-10-16T12:00:00+09:00",
-    "issue": "2026-10-16-1200"
-  },
-  {
-    "url_normalized": "reuters.com/legal/government/us-appeals-court-invalidates-federal-9-billion-telecom-subsidy-fund-2026-10-16",
-    "title": "米控訴裁、年90億ドルの通信補助基金運営を違法判断",
-    "topic_key": "us-fifth-circuit-usac-universal-service-fund-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T12:00:00+09:00",
-    "issue": "2026-10-16-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/nasdaq-reports-network-disruption-us-equities-data-feeds-impacted-2026-10-15",
-    "title": "Nasdaqの米株データ配信に断続的欠落　取引は影響なく復旧",
-    "topic_key": "nasdaq-carteret-network-data-feed-gaps-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T12:00:00+09:00",
-    "issue": "2026-10-16-1200"
-  },
-  {
-    "url_normalized": "wsj.com/economy/trade/lutnick-throws-the-future-of-u-s-mexico-trade-talks-into-further-doubt-5cfb85a4",
-    "title": "米メキシコ関税協議が減速　自動車25%、鉄鋼・アルミ50%が争点",
-    "topic_key": "us-mexico-tariff-deal-stalls-autos-metals-20261015",
-    "source": "Wall Street Journal",
-    "first_seen": "2026-10-16T12:00:00+09:00",
-    "issue": "2026-10-16-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/autos-transportation/progress-toward-us-mexico-tariff-deal-has-stalled-wsj-reports-2026-10-16",
-    "title": "米メキシコ関税協議が減速　自動車25%、鉄鋼・アルミ50%が争点",
-    "topic_key": "us-mexico-tariff-deal-stalls-autos-metals-20261015",
-    "source": "Reuters",
-    "first_seen": "2026-10-16T12:00:00+09:00",
-    "issue": "2026-10-16-1200"
-  },
-  {
     "url_normalized": "bls.gov/news.release/ximpim.nr0.htm",
     "title": "米9月輸入物価1.1%上昇　非燃料も0.7%高でインフレ裾野拡大",
     "topic_key": "us-september-import-prices-1-1-nonfuel-20261016",
@@ -366,5 +302,21 @@
     "source": "ノルウェー政府",
     "first_seen": "2026-10-19T06:00:00+09:00",
     "issue": "2026-10-19-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/chinas-economic-growth-picks-up-third-quarter-beating-expectations-2026-10-19",
+    "title": "中国7〜9月GDP、前年比4.5%増　市場予想を上回る",
+    "topic_key": "china-q3-gdp-4-5-industrial-retail-investment-20261019",
+    "source": "Reuters",
+    "first_seen": "2026-10-19T12:00:00+09:00",
+    "issue": "2026-10-19-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/boj-governor-ueda-says-underlying-inflation-quite-close-2-target-2026-10-19",
+    "title": "植田日銀総裁、基調インフレは2%目標に「かなり近い」",
+    "topic_key": "boj-ueda-underlying-inflation-close-2pct-20261019",
+    "source": "Reuters",
+    "first_seen": "2026-10-19T12:00:00+09:00",
+    "issue": "2026-10-19-1200"
   }
 ]

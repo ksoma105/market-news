@@ -1,61 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/finance/china-ai-supply-chain-ipos-hold-firm-despite-valuation-pullback-citi-says-2026-10-17",
-    "title": "香港IPO、AI供給網が下支え　1〜9月調達額は3,880億香港ドル",
-    "topic_key": "china-ai-supply-chain-hk-ipos-388b-20261017",
-    "source": "Reuters",
-    "first_seen": "2026-10-17T22:00:00+09:00",
-    "issue": "2026-10-17-2200"
-  },
-  {
-    "url_normalized": "reuters.com/legal/litigation/indias-food-regulator-proposes-ban-added-sugars-infant-foods-2026-10-17",
-    "title": "インド、乳児食品のショ糖・果糖添加禁止を提案",
-    "topic_key": "india-infant-food-added-sugar-ban-proposal-20261017",
-    "source": "Reuters",
-    "first_seen": "2026-10-17T22:00:00+09:00",
-    "issue": "2026-10-17-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/indias-icici-bank-q2-profit-rises-201-beats-estimates-2026-10-17",
-    "title": "ICICI銀、7〜9月純利益20.1%増　貸出30%増も利ざや縮小",
-    "topic_key": "icici-q2-profit-20-1-loan-growth-nim-20261017",
-    "source": "Reuters",
-    "first_seen": "2026-10-17T22:00:00+09:00",
-    "issue": "2026-10-17-2200"
-  },
-  {
-    "url_normalized": "financialexpress.com/business/icici-bank-q2-results-net-profit-rises-20-1-to-rs-14843-crore-nii-up-177-4363736",
-    "title": "ICICI銀、7〜9月純利益20.1%増　貸出30%増も利ざや縮小",
-    "topic_key": "icici-q2-profit-20-1-loan-growth-nim-20261017",
-    "source": "Financial Express",
-    "first_seen": "2026-10-17T22:00:00+09:00",
-    "issue": "2026-10-17-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/indias-hdfc-bank-quarterly-profit-rises-47-narrowly-misses-estimates-treasury-2026-10-17",
-    "title": "HDFC銀、7〜9月純利益4.7%増　財務収益減で予想にわずかに届かず",
-    "topic_key": "hdfc-q2-profit-4-7-ceo-transition-20261017",
-    "source": "Reuters",
-    "first_seen": "2026-10-17T22:00:00+09:00",
-    "issue": "2026-10-17-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/chinese-online-retailer-temu-agrees-data-privacy-restrictions-settle-texas-2026-10-16",
-    "title": "Temu、テキサス州と和解　米国内データ保管と年次商品検査へ",
-    "topic_key": "temu-texas-data-privacy-product-safety-settlement-20261016",
-    "source": "Reuters",
-    "first_seen": "2026-10-17T22:00:00+09:00",
-    "issue": "2026-10-17-2200"
-  },
-  {
-    "url_normalized": "texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-first-its-kind-settlement-temu-protect-texans-data-ccp-and-protect",
-    "title": "Temu、テキサス州と和解　米国内データ保管と年次商品検査へ",
-    "topic_key": "temu-texas-data-privacy-product-safety-settlement-20261016",
-    "source": "テキサス州司法長官室",
-    "first_seen": "2026-10-17T22:00:00+09:00",
-    "issue": "2026-10-17-2200"
-  },
-  {
     "url_normalized": "reuters.com/world/americas/bank-canada-sees-sharply-higher-inflation-outlook-oil-surges-macklem-says-2026-10-17",
     "title": "カナダ中銀、原油高でインフレ見通しを大幅上方修正へ",
     "topic_key": "bank-canada-inflation-forecast-oil-oct28-20261017",
@@ -278,5 +222,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-20T12:00:00+09:00",
     "issue": "2026-10-20-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/fed-skip-october-raise-rates-again-december-nearly-all-economists-say-2026-10-20",
+    "title": "FRB、10月は据え置き予想　12月利上げを全100人が見込む",
+    "topic_key": "fed-october-hold-december-hike-reuters-poll-20261020",
+    "source": "Reuters",
+    "first_seen": "2026-10-20T22:00:00+09:00",
+    "issue": "2026-10-20-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-pursues-chip-industry-reboot-its-being-pressed-build-americas-2026-10-20",
+    "title": "日本、米NY半導体工場2カ所へ最大210億ドル　国内再興との両立が焦点",
+    "topic_key": "japan-us-globalfoundries-two-fabs-up-to-21b-20261020",
+    "source": "Reuters / GlobalFoundries",
+    "first_seen": "2026-10-20T22:00:00+09:00",
+    "issue": "2026-10-20-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20",
+    "title": "中国IT大手3社、Nvidia製GPUを350億ドル超発注　供給確約は困難",
+    "topic_key": "china-tech-nvidia-rtx-pro-5500-orders-over-35b-20261020",
+    "source": "Reuters",
+    "first_seen": "2026-10-20T22:00:00+09:00",
+    "issue": "2026-10-20-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/germanys-merz-touts-defence-ai-chip-investment-drive-pitch-investors-2026-10-20",
+    "title": "ドイツ、AI計算能力を2030年までに4倍へ　企業投資8,000億ユーロ超",
+    "topic_key": "germany-merz-ai-compute-quadruple-800b-investment-20261020",
+    "source": "Reuters / ドイツ連邦政府",
+    "first_seen": "2026-10-20T22:00:00+09:00",
+    "issue": "2026-10-20-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/autos-transportation/gms-core-profit-rises-22-strength-pickup-truck-business-2026-10-20",
+    "title": "GM、調整後EBIT22%増も通期EPS中央値が予想未達　株価は下落",
+    "topic_key": "gm-q3-2026-ebit-4-1b-guidance-buyback-20261020",
+    "source": "Reuters / General Motors",
+    "first_seen": "2026-10-20T22:00:00+09:00",
+    "issue": "2026-10-20-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/aerospace-defense/northrop-lifts-2026-profit-forecast-strong-defense-demand-record-backlog-2026-10-20",
+    "title": "Northrop、受注残1,096億ドルで過去最高　2026年利益予想を上方修正",
+    "topic_key": "northrop-q3-2026-record-backlog-guidance-20261020",
+    "source": "Reuters / Northrop Grumman",
+    "first_seen": "2026-10-20T22:00:00+09:00",
+    "issue": "2026-10-20-2200"
   }
 ]

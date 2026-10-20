@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/americas/bank-canada-sees-sharply-higher-inflation-outlook-oil-surges-macklem-says-2026-10-17",
-    "title": "カナダ中銀、原油高でインフレ見通しを大幅上方修正へ",
-    "topic_key": "bank-canada-inflation-forecast-oil-oct28-20261017",
-    "source": "Reuters",
-    "first_seen": "2026-10-18T06:00:00+09:00",
-    "issue": "2026-10-18-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/high-debt-growing-strains-put-focus-need-new-development-approaches-2026-10-17",
-    "title": "途上国の対外債務12.3兆ドル　援助減で民間資金の役割拡大",
-    "topic_key": "developing-countries-debt-aid-private-capital-20261017",
-    "source": "Reuters",
-    "first_seen": "2026-10-18T06:00:00+09:00",
-    "issue": "2026-10-18-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/media-telecom/softbank-weighs-18-billion-acquisition-allied-universal-bloomberg-news-reports-2026-10-16",
-    "title": "ソフトバンク、米警備会社を約180億ドルで買収検討",
-    "topic_key": "softbank-allied-universal-18b-talks-20261016",
-    "source": "Reuters",
-    "first_seen": "2026-10-18T06:00:00+09:00",
-    "issue": "2026-10-18-0600"
-  },
-  {
     "url_normalized": "reuters.com/business/energy/venezuela-expects-nearly-76-billion-oil-investment-over-five-years-acting-2026-10-17",
     "title": "ベネズエラ、5年で約760億ドルの石油投資を見込む",
     "topic_key": "venezuela-oil-investment-76b-250-rigs-20261017",
@@ -270,5 +246,45 @@
     "source": "Reuters / Northrop Grumman",
     "first_seen": "2026-10-20T22:00:00+09:00",
     "issue": "2026-10-20-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/nasdaq-futures-dip-oil-prices-climb-earnings-loom-2026-10-20",
+    "title": "米国株、ダウ1.05%高　ヘルスケアへ資金移動、Nasdaqは小幅安",
+    "topic_key": "us-stocks-dow-healthcare-value-rotation-close-20261020",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T06:00:00+09:00",
+    "issue": "2026-10-21-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/netflix-issues-weak-fourth-quarter-forecast-company-seeks-kick-start-growth-2026-10-20",
+    "title": "Netflix、広告収入見通しを約27億ドルへ下方修正　株価は時間外で5%安",
+    "topic_key": "netflix-q3-2026-q4-forecast-ad-revenue-cut-20261020",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T06:00:00+09:00",
+    "issue": "2026-10-21-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/united-airlines-forecasts-fourth-quarter-profit-below-estimates-fuel-costs-bite-2026-10-20",
+    "title": "United Airlines、燃料高で10〜12月期利益見通しが市場予想下回る",
+    "topic_key": "united-airlines-q3-2026-q4-eps-fuel-cost-20261020",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T06:00:00+09:00",
+    "issue": "2026-10-21-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/spacex-quarterly-revenue-jumps-beats-estimates-ai-business-surges-2026-10-20",
+    "title": "SpaceX、7〜9月期売上高161%増　AI事業が急拡大",
+    "topic_key": "spacex-q3-2026-revenue-ai-starlink-capex-20261020",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T06:00:00+09:00",
+    "issue": "2026-10-21-0600"
+  },
+  {
+    "url_normalized": "reuters.com/technology/super-micro-expects-first-quarter-revenue-above-estimates-2026-10-20",
+    "title": "Super Micro、7〜9月期暫定売上高185億〜195億ドルを予想",
+    "topic_key": "super-micro-fq1-2027-preliminary-revenue-ai-platforms-20261020",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T06:00:00+09:00",
+    "issue": "2026-10-21-0600"
   }
 ]

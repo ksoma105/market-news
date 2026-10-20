@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/europe/trump-waives-many-russia-related-sanctions-tariffs-before-they-were-take-effect-2026-10-17",
-    "title": "米政権、対ロ制裁・関税を発動直前に猶予　最大100%関税を当面見送り",
-    "topic_key": "us-russia-sanctions-tariffs-waiver-graham-act-20261017",
-    "source": "Reuters",
-    "first_seen": "2026-10-17T12:00:00+09:00",
-    "issue": "2026-10-17-1200"
-  },
-  {
-    "url_normalized": "whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026",
-    "title": "米政権、対ロ制裁・関税を発動直前に猶予　最大100%関税を当面見送り",
-    "topic_key": "us-russia-sanctions-tariffs-waiver-graham-act-20261017",
-    "source": "ホワイトハウス",
-    "first_seen": "2026-10-17T12:00:00+09:00",
-    "issue": "2026-10-17-1200"
-  },
-  {
-    "url_normalized": "longbridge.com/news/302156317",
-    "title": "ホルムズ海峡で大型タンカーが機雷に接触とイラン発表　200万バレル超積載",
-    "topic_key": "hormuz-supertanker-mine-irgc-2m-barrels-20261017",
-    "source": "Reuters／LSEG",
-    "first_seen": "2026-10-17T12:00:00+09:00",
-    "issue": "2026-10-17-1200"
-  },
-  {
-    "url_normalized": "presstv.co.uk/Detail/2026/10/17/778494/Super-tanker-explodes-after-hitting-Sea-Mine-in-Hormuz-IRGC",
-    "title": "ホルムズ海峡で大型タンカーが機雷に接触とイラン発表　200万バレル超積載",
-    "topic_key": "hormuz-supertanker-mine-irgc-2m-barrels-20261017",
-    "source": "Press TV",
-    "first_seen": "2026-10-17T12:00:00+09:00",
-    "issue": "2026-10-17-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/world-at-work/striking-unions-antofagastas-centinela-copper-mine-reach-preliminary-deal-ending-2026-10-17",
-    "title": "チリ・センチネラ銅山、2労組が暫定合意　1週間超のスト終了へ",
-    "topic_key": "chile-centinela-copper-strike-preliminary-deal-20261017",
-    "source": "Reuters",
-    "first_seen": "2026-10-17T12:00:00+09:00",
-    "issue": "2026-10-17-1200"
-  },
-  {
     "url_normalized": "reuters.com/business/finance/china-ai-supply-chain-ipos-hold-firm-despite-valuation-pullback-citi-says-2026-10-17",
     "title": "香港IPO、AI供給網が下支え　1〜9月調達額は3,880億香港ドル",
     "topic_key": "china-ai-supply-chain-hk-ipos-388b-20261017",
@@ -286,5 +246,37 @@
     "source": "Reuters / U.S. Department of Energy",
     "first_seen": "2026-10-20T06:00:00+09:00",
     "issue": "2026-10-20-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-20",
+    "title": "アジア株が反落　KOSPI 3.61%安、AI関連決算を前に警戒",
+    "topic_key": "asia-stocks-kospi-nikkei-ai-earnings-elice-20261020",
+    "source": "Reuters",
+    "first_seen": "2026-10-20T12:00:00+09:00",
+    "issue": "2026-10-20-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/china-leaves-loan-rates-steady-17th-consecutive-month-2026-10-20",
+    "title": "中国、LPRを17カ月連続で据え置き　1年物3.00%、5年物3.50%",
+    "topic_key": "china-lpr-unchanged-17-months-3-00-3-50-20261020",
+    "source": "Reuters",
+    "first_seen": "2026-10-20T12:00:00+09:00",
+    "issue": "2026-10-20-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-yet-decide-defence-budget-funding-finance-minister-says-2026-10-20",
+    "title": "日本の防衛費増額、財源は未決定　年10兆円超との報道も",
+    "topic_key": "japan-defence-spending-funding-undecided-10tn-20261020",
+    "source": "Reuters",
+    "first_seen": "2026-10-20T12:00:00+09:00",
+    "issue": "2026-10-20-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/chinas-september-us-soybean-imports-rebound-zero-year-earlier-data-shows-2026-10-20",
+    "title": "中国の米国産大豆輸入、9月は36.1万トン　前年ゼロから再開",
+    "topic_key": "china-us-soybean-imports-september-360878-20261020",
+    "source": "Reuters",
+    "first_seen": "2026-10-20T12:00:00+09:00",
+    "issue": "2026-10-20-1200"
   }
 ]

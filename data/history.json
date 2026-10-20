@@ -1828,11 +1828,23 @@
       "issue_id": "2026-10-20-0600",
       "published_at": "2026-10-20T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-20-0600.html",
       "topics": [
         "us-stocks-nasdaq-ai-semiconductor-rebound-close-20261019",
         "canada-september-cpi-3-1-energy-gasoline-20261019",
         "us-strategic-petroleum-reserve-283m-lowest-1982-20261019"
+      ]
+    },
+    {
+      "issue_id": "2026-10-20-1200",
+      "published_at": "2026-10-20T12:00:00+09:00",
+      "topic_count": 4,
+      "html_path": "docs/index.html",
+      "topics": [
+        "asia-stocks-kospi-nikkei-ai-earnings-elice-20261020",
+        "china-lpr-unchanged-17-months-3-00-3-50-20261020",
+        "japan-defence-spending-funding-undecided-10tn-20261020",
+        "china-us-soybean-imports-september-360878-20261020"
       ]
     }
   ]

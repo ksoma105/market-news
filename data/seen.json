@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/energy/venezuela-expects-nearly-76-billion-oil-investment-over-five-years-acting-2026-10-17",
-    "title": "ベネズエラ、5年で約760億ドルの石油投資を見込む",
-    "topic_key": "venezuela-oil-investment-76b-250-rigs-20261017",
-    "source": "Reuters",
-    "first_seen": "2026-10-18T12:00:00+09:00",
-    "issue": "2026-10-18-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/major-development-banks-step-up-support-critical-minerals-value-chains-2026-10-17",
-    "title": "多国間開発銀行、重要鉱物の加工・製造まで一体支援",
-    "topic_key": "mdb-critical-minerals-manufacturing-framework-20261017",
-    "source": "Reuters",
-    "first_seen": "2026-10-18T12:00:00+09:00",
-    "issue": "2026-10-18-1200"
-  },
-  {
-    "url_normalized": "adb.org/documents/mdb-collaboration-framework-critical-minerals",
-    "title": "多国間開発銀行、重要鉱物の加工・製造まで一体支援",
-    "topic_key": "mdb-critical-minerals-manufacturing-framework-20261017",
-    "source": "アジア開発銀行",
-    "first_seen": "2026-10-18T12:00:00+09:00",
-    "issue": "2026-10-18-1200"
-  },
-  {
     "url_normalized": "reuters.com/business/autos-transportation/china-proposes-export-controls-solar-manufacturing-technologies-2026-10-18",
     "title": "中国、太陽光製造技術12種の輸出規制案",
     "topic_key": "china-solar-manufacturing-tech-export-controls-20261018",
@@ -286,5 +262,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-21T06:00:00+09:00",
     "issue": "2026-10-21-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japans-september-exports-rise-167-helped-by-chip-demand-2026-10-21",
+    "title": "日本の9月輸出16.7%増　AI・半導体需要が支え、貿易赤字は5,366億円",
+    "topic_key": "japan-september-exports-ai-chips-trade-deficit-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T12:00:00+09:00",
+    "issue": "2026-10-21-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-shifting-wage-driven-inflation-phase-finance-minister-says-2026-10-21",
+    "title": "片山財務相、賃金主導の持続的インフレへ移行間近との認識",
+    "topic_key": "japan-finance-minister-wage-driven-inflation-fiscal-boj-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T12:00:00+09:00",
+    "issue": "2026-10-21-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-21",
+    "title": "アジア株上昇、韓国株4.6%高　企業決算が投資家心理を支える",
+    "topic_key": "asia-stocks-kospi-nikkei-earnings-oil-yields-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T12:00:00+09:00",
+    "issue": "2026-10-21-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/oil-rises-middle-east-supply-worries-2026-10-21",
+    "title": "原油反発、ブレント109.64ドル　中東の供給・海運リスクを警戒",
+    "topic_key": "oil-brent-wti-middle-east-shipping-supply-risk-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T12:00:00+09:00",
+    "issue": "2026-10-21-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/australian-ai-data-centre-operator-nextdc-shares-shed-44-revenue-delay-2026-10-21",
+    "title": "豪NextDC株44%安　電力網遅延で2027年度見通しを大幅下方修正",
+    "topic_key": "nextdc-m3-power-delay-fy27-guidance-shares-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T12:00:00+09:00",
+    "issue": "2026-10-21-1200"
   }
 ]

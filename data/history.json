@@ -1865,13 +1865,26 @@
       "issue_id": "2026-10-21-0600",
       "published_at": "2026-10-21T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-21-0600.html",
       "topics": [
         "us-stocks-dow-healthcare-value-rotation-close-20261020",
         "netflix-q3-2026-q4-forecast-ad-revenue-cut-20261020",
         "united-airlines-q3-2026-q4-eps-fuel-cost-20261020",
         "spacex-q3-2026-revenue-ai-starlink-capex-20261020",
         "super-micro-fq1-2027-preliminary-revenue-ai-platforms-20261020"
+      ]
+    },
+    {
+      "issue_id": "2026-10-21-1200",
+      "published_at": "2026-10-21T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-september-exports-ai-chips-trade-deficit-20261021",
+        "japan-finance-minister-wage-driven-inflation-fiscal-boj-20261021",
+        "asia-stocks-kospi-nikkei-earnings-oil-yields-20261021",
+        "oil-brent-wti-middle-east-shipping-supply-risk-20261021",
+        "nextdc-m3-power-delay-fy27-guidance-shares-20261021"
       ]
     }
   ]

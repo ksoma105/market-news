@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18",
-    "title": "サムスン、NVIDIA向け次世代HBMでTSMCの3ナノ技術採用へ",
-    "topic_key": "samsung-tsmc-nvidia-nvhbm-3nm-20261018",
-    "source": "Reuters",
-    "first_seen": "2026-10-19T06:00:00+09:00",
-    "issue": "2026-10-19-0600"
-  },
-  {
-    "url_normalized": "en.sedaily.com/finance/2026/10/18/samsung-to-tap-tsmc-3-nanometer-lines-for-nvidia-custom-hbm",
-    "title": "サムスン、NVIDIA向け次世代HBMでTSMCの3ナノ技術採用へ",
-    "topic_key": "samsung-tsmc-nvidia-nvhbm-3nm-20261018",
-    "source": "Seoul Economic Daily",
-    "first_seen": "2026-10-19T06:00:00+09:00",
-    "issue": "2026-10-19-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/vietnam-signs-free-trade-pact-with-european-countries-including-norway-2026-10-18",
-    "title": "ベトナムとEFTAが自由貿易協定に署名",
-    "topic_key": "vietnam-efta-free-trade-agreement-signed-20261018",
-    "source": "Reuters",
-    "first_seen": "2026-10-19T06:00:00+09:00",
-    "issue": "2026-10-19-0600"
-  },
-  {
-    "url_normalized": "efta.int/trade-relations/free-trade-network/viet-nam",
-    "title": "ベトナムとEFTAが自由貿易協定に署名",
-    "topic_key": "vietnam-efta-free-trade-agreement-signed-20261018",
-    "source": "EFTA",
-    "first_seen": "2026-10-19T06:00:00+09:00",
-    "issue": "2026-10-19-0600"
-  },
-  {
-    "url_normalized": "regjeringen.no/en/whats-new/undertegnet-frihandelsavtale-med-vietnam-apner-nye-muligheter-for-norske-bedrifter/id3178346",
-    "title": "ベトナムとEFTAが自由貿易協定に署名",
-    "topic_key": "vietnam-efta-free-trade-agreement-signed-20261018",
-    "source": "ノルウェー政府",
-    "first_seen": "2026-10-19T06:00:00+09:00",
-    "issue": "2026-10-19-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/china/chinas-economic-growth-picks-up-third-quarter-beating-expectations-2026-10-19",
     "title": "中国7〜9月GDP、前年比4.5%増　市場予想を上回る",
     "topic_key": "china-q3-gdp-4-5-industrial-retail-investment-20261019",
@@ -334,5 +294,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-21T22:00:00+09:00",
     "issue": "2026-10-21-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21",
+    "title": "Meta、AI投資を再拡大　設備投資予想を1,350億〜1,450億ドルへ",
+    "topic_key": "meta-q3-2026-capex-class-c-stock-ai-cashflow-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-22T06:00:00+09:00",
+    "issue": "2026-10-22-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/tesla-revenue-beats-estimates-deliveries-rebound-energy-storage-grows-2026-10-21",
+    "title": "Tesla、予想外の15億3,000万ドルのフリーキャッシュフロー　AI投資は想定下回る",
+    "topic_key": "tesla-q3-2026-free-cashflow-capex-deliveries-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-22T06:00:00+09:00",
+    "issue": "2026-10-22-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/ibm-raises-annual-software-revenue-outlook-deal-delays-ease-2026-10-21",
+    "title": "IBM、ソフトウェア成長見通しを7〜8%へ　延期案件の成約が進む",
+    "topic_key": "ibm-q3-2026-software-growth-deferred-deals-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-22T06:00:00+09:00",
+    "issue": "2026-10-22-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/analog-chipmaker-texas-instruments-sees-quarterly-sales-above-estimates-2026-10-21",
+    "title": "Texas Instruments、10〜12月期売上高見通しが市場予想上回る",
+    "topic_key": "texas-instruments-q3-2026-industrial-ai-datacenter-outlook-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-22T06:00:00+09:00",
+    "issue": "2026-10-22-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/carrefour-shares-seen-sharply-down-after-guidance-cut-france-riots-2026-10-21",
+    "title": "Carrefour、仏暴動で通期見通しを下方修正　株価は約15%下落",
+    "topic_key": "carrefour-2026-guidance-cut-france-riots-looting-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-22T06:00:00+09:00",
+    "issue": "2026-10-22-0600"
   }
 ]

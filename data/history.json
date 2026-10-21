@@ -1891,7 +1891,7 @@
       "issue_id": "2026-10-21-2200",
       "published_at": "2026-10-21T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-21-2200.html",
       "topics": [
         "openai-models-codex-google-cloud-marketplace-20261021",
         "samsung-sk-hynix-china-nand-upgrades-us-licenses-20261021",
@@ -1900,6 +1900,19 @@
         "south-africa-fuel-levy-relief-revenue-overrun-20261021",
         "iberdrola-2026-profit-guidance-grids-2030-20261021",
         "adidas-q3-2026-preliminary-profit-guidance-tariff-refund-20261021"
+      ]
+    },
+    {
+      "issue_id": "2026-10-22-0600",
+      "published_at": "2026-10-22T06:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "meta-q3-2026-capex-class-c-stock-ai-cashflow-20261021",
+        "tesla-q3-2026-free-cashflow-capex-deliveries-20261021",
+        "ibm-q3-2026-software-growth-deferred-deals-20261021",
+        "texas-instruments-q3-2026-industrial-ai-datacenter-outlook-20261021",
+        "carrefour-2026-guidance-cut-france-riots-looting-20261021"
       ]
     }
   ]

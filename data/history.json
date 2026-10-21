@@ -1878,13 +1878,28 @@
       "issue_id": "2026-10-21-1200",
       "published_at": "2026-10-21T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-21-1200.html",
       "topics": [
         "japan-september-exports-ai-chips-trade-deficit-20261021",
         "japan-finance-minister-wage-driven-inflation-fiscal-boj-20261021",
         "asia-stocks-kospi-nikkei-earnings-oil-yields-20261021",
         "oil-brent-wti-middle-east-shipping-supply-risk-20261021",
         "nextdc-m3-power-delay-fy27-guidance-shares-20261021"
+      ]
+    },
+    {
+      "issue_id": "2026-10-21-2200",
+      "published_at": "2026-10-21T22:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "openai-models-codex-google-cloud-marketplace-20261021",
+        "samsung-sk-hynix-china-nand-upgrades-us-licenses-20261021",
+        "global-diesel-prices-russia-supply-insufficient-20261021",
+        "ecb-eurozone-energy-shock-resilience-ai-fiscal-20261021",
+        "south-africa-fuel-levy-relief-revenue-overrun-20261021",
+        "iberdrola-2026-profit-guidance-grids-2030-20261021",
+        "adidas-q3-2026-preliminary-profit-guidance-tariff-refund-20261021"
       ]
     }
   ]

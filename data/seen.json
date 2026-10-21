@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/autos-transportation/china-proposes-export-controls-solar-manufacturing-technologies-2026-10-18",
-    "title": "中国、太陽光製造技術12種の輸出規制案",
-    "topic_key": "china-solar-manufacturing-tech-export-controls-20261018",
-    "source": "Reuters",
-    "first_seen": "2026-10-18T22:00:00+09:00",
-    "issue": "2026-10-18-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/india-widens-cancer-drug-price-caps-lowering-prices-137-medicines-2026-10-18",
-    "title": "インド、抗がん剤137品目を最大70%値下げへ",
-    "topic_key": "india-cancer-drug-price-caps-137-20261018",
-    "source": "Reuters",
-    "first_seen": "2026-10-18T22:00:00+09:00",
-    "issue": "2026-10-18-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/carneys-pipeline-push-is-unlikely-bring-back-canadas-oil-jobs-boom-2026-10-18",
-    "title": "カナダの新パイプライン構想、増産でも雇用効果は限定的",
-    "topic_key": "canada-pipeline-oilsands-jobs-automation-20261018",
-    "source": "Reuters",
-    "first_seen": "2026-10-18T22:00:00+09:00",
-    "issue": "2026-10-18-2200"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18",
     "title": "サムスン、NVIDIA向け次世代HBMでTSMCの3ナノ技術採用へ",
     "topic_key": "samsung-tsmc-nvidia-nvhbm-3nm-20261018",
@@ -302,5 +278,61 @@
     "source": "Reuters",
     "first_seen": "2026-10-21T12:00:00+09:00",
     "issue": "2026-10-21-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/openai-sell-its-top-models-google-cloud-latest-enterprise-push-2026-10-21",
+    "title": "OpenAI最新モデル、Google Cloudで提供へ　クラウド販売網を拡大",
+    "topic_key": "openai-models-codex-google-cloud-marketplace-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T22:00:00+09:00",
+    "issue": "2026-10-21-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21",
+    "title": "Samsung・SK Hynix、中国工場でNAND高度化　米輸出規制が制約",
+    "topic_key": "samsung-sk-hynix-china-nand-upgrades-us-licenses-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T22:00:00+09:00",
+    "issue": "2026-10-21-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/global-diesel-prices-seen-staying-high-despite-trumps-deal-with-russia-2026-10-21",
+    "title": "ロシア産追加供給でもディーゼル高止まり観測　供給不足解消には規模不足",
+    "topic_key": "global-diesel-prices-russia-supply-insufficient-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T22:00:00+09:00",
+    "issue": "2026-10-21-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/ecb-says-ai-greener-economy-help-euro-zone-weather-energy-shock-2026-10-21",
+    "title": "ユーロ圏、エネルギー高でも景気底堅く　ECBは省エネ・AI投資を指摘",
+    "topic_key": "ecb-eurozone-energy-shock-resilience-ai-fiscal-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T22:00:00+09:00",
+    "issue": "2026-10-21-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/south-africas-finance-minister-announces-two-months-fuel-price-relief-mid-year-2026-10-21",
+    "title": "南アフリカ、燃料税を2カ月減額　税収上振れで生活費を支援",
+    "topic_key": "south-africa-fuel-levy-relief-revenue-overrun-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T22:00:00+09:00",
+    "issue": "2026-10-21-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/iberdrola-raises-outlook-again-eyes-higher-profit-growth-through-2030-2026-10-21",
+    "title": "Iberdrola、利益見通しを再上方修正　送電網投資で年10%成長目標",
+    "topic_key": "iberdrola-2026-profit-guidance-grids-2030-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T22:00:00+09:00",
+    "issue": "2026-10-21-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/adidas-shares-rise-after-2026-guidance-hike-2026-10-21",
+    "title": "Adidas、2026年営業利益予想を25億ユーロへ上方修正",
+    "topic_key": "adidas-q3-2026-preliminary-profit-guidance-tariff-refund-20261021",
+    "source": "Reuters",
+    "first_seen": "2026-10-21T22:00:00+09:00",
+    "issue": "2026-10-21-2200"
   }
 ]

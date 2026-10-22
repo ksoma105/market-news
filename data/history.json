@@ -1919,13 +1919,28 @@
       "issue_id": "2026-10-22-1200",
       "published_at": "2026-10-22T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-22-1200.html",
       "topics": [
         "boj-loan-demand-di-plus3-rate-hikes-20261022",
         "bank-korea-holds-3pct-growth-inflation-hikes-20261022",
         "oil-brent-110-saudi-attacks-us-stocks-20261022",
         "apa-bulloo-pipeline-700m-aud-2029-20261022",
         "asx-dividend-75pct-tech-cost-capex-20261022"
+      ]
+    },
+    {
+      "issue_id": "2026-10-22-2200",
+      "published_at": "2026-10-22T22:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-jobless-claims-194k-57year-low-20261022",
+        "australia-growth-unemployment-rba-4-6pct-20261022",
+        "imf-oecd-ai-growth-inequality-jobs-20261022",
+        "tsmc-rare-earth-free-fab-equipment-supply-chain-20261022",
+        "us-commerce-389m-power-semiconductor-rd-equity-20261022",
+        "pg-fy2027-commodity-freight-hit-1-4b-20261022",
+        "dangote-refinery-ipo-nigeria-investor-base-20261022"
       ]
     }
   ]

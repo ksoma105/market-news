@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19",
-    "title": "Amazon、PyTorchをTrainiumでほぼ無修正実行　Nvidiaのソフト優位に挑戦",
-    "topic_key": "amazon-torchneuron-pytorch-trainium-open-source-20261019",
-    "source": "Reuters",
-    "first_seen": "2026-10-19T22:00:00+09:00",
-    "issue": "2026-10-19-2200"
-  },
-  {
-    "url_normalized": "reuters.com/legal/transactional/jpmorgan-announces-5-billion-investments-companies-critical-us-national-security-2026-10-19",
-    "title": "JPMorgan、米安全保障関連へ50億ドル投資　1年で融資等2300億ドル",
-    "topic_key": "jpmorgan-security-resiliency-5b-equity-230b-financing-20261019",
-    "source": "Reuters",
-    "first_seen": "2026-10-19T22:00:00+09:00",
-    "issue": "2026-10-19-2200"
-  },
-  {
-    "url_normalized": "wsj.com/economy/housing/u-s-home-builder-sentiment-sinks-to-14-year-low-120d5cb6",
-    "title": "米住宅建設業者の景況感、10月は29　2012年以来の低水準",
-    "topic_key": "us-homebuilder-confidence-october-29-lowest-2012-20261019",
-    "source": "The Wall Street Journal",
-    "first_seen": "2026-10-19T22:00:00+09:00",
-    "issue": "2026-10-19-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/australia-central-banker-sees-signs-labour-market-easing-2026-10-19",
-    "title": "豪中銀幹部、雇用市場は想定より速く緩和　次週の物価統計を注視",
-    "topic_key": "rba-kent-labour-market-easing-unemployment-4-7-20261019",
-    "source": "Reuters",
-    "first_seen": "2026-10-19T22:00:00+09:00",
-    "issue": "2026-10-19-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/metis-techbio-inks-up-11-billion-deal-with-eli-lilly-drug-delivery-tech-2026-10-19",
-    "title": "Metis TechBioとEli Lilly、最大11億ドルの薬剤送達技術提携",
-    "topic_key": "metis-techbio-lilly-lnp-delivery-up-to-1-1b-20261019",
-    "source": "Reuters",
-    "first_seen": "2026-10-19T22:00:00+09:00",
-    "issue": "2026-10-19-2200"
-  },
-  {
     "url_normalized": "reuters.com/business/wall-st-futures-climb-ai-stocks-rebound-oil-yields-fall-2026-10-19",
     "title": "米株はAI・半導体主導で反発　Nasdaq 1.11%高、相場の広がりは限定的",
     "topic_key": "us-stocks-nasdaq-ai-semiconductor-rebound-close-20261019",
@@ -414,5 +374,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-22T22:00:00+09:00",
     "issue": "2026-10-22-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22",
+    "title": "PHPの重大脆弱性、攻撃試行が数百万件に　日本の金融・交通にも一時停止",
+    "topic_key": "php2shell-millions-exploit-attempts-japan-services-20261022",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T06:00:00+09:00",
+    "issue": "2026-10-23-0600"
+  },
+  {
+    "url_normalized": "reuters.com/technology/cable-capacity-emerges-bottleneck-ai-data-centres-nexans-says-2026-10-22",
+    "title": "AIデータセンター建設、電力ケーブルの生産能力が新たな制約に",
+    "topic_key": "nexans-ai-datacenter-cable-capacity-bottleneck-20261022",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T06:00:00+09:00",
+    "issue": "2026-10-23-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22",
+    "title": "Apple初の折りたたみiPhone発売、予約直後に納期が翌年1月へ",
+    "topic_key": "apple-iphone-duo-foldable-sales-launch-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T06:00:00+09:00",
+    "issue": "2026-10-23-0600"
+  },
+  {
+    "url_normalized": "reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22",
+    "title": "SpaceX、Teslaとの合併にはマスク氏の承認が必要と開示",
+    "topic_key": "spacex-tesla-potential-merger-musk-approval-20261022",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T06:00:00+09:00",
+    "issue": "2026-10-23-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/newmont-beats-quarterly-profit-estimates-higher-gold-prices-2026-10-22",
+    "title": "Newmont、金価格上昇で利益予想上振れ　生産量は前年割れ",
+    "topic_key": "newmont-q3-2026-profit-gold-price-production-20261022",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T06:00:00+09:00",
+    "issue": "2026-10-23-0600"
+  },
+  {
+    "url_normalized": "reuters.com/legal/litigation/gilead-buy-pepstars-inflammation-drug-program-128-billion-deal-2026-10-22",
+    "title": "Gilead、炎症性腸疾患の経口薬候補を12.75億ドルで取得へ",
+    "topic_key": "gilead-pepstar-hcxt2001-acquisition-20261022",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T06:00:00+09:00",
+    "issue": "2026-10-23-0600"
   }
 ]

@@ -1906,13 +1906,26 @@
       "issue_id": "2026-10-22-0600",
       "published_at": "2026-10-22T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-22-0600.html",
       "topics": [
         "meta-q3-2026-capex-class-c-stock-ai-cashflow-20261021",
         "tesla-q3-2026-free-cashflow-capex-deliveries-20261021",
         "ibm-q3-2026-software-growth-deferred-deals-20261021",
         "texas-instruments-q3-2026-industrial-ai-datacenter-outlook-20261021",
         "carrefour-2026-guidance-cut-france-riots-looting-20261021"
+      ]
+    },
+    {
+      "issue_id": "2026-10-22-1200",
+      "published_at": "2026-10-22T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "boj-loan-demand-di-plus3-rate-hikes-20261022",
+        "bank-korea-holds-3pct-growth-inflation-hikes-20261022",
+        "oil-brent-110-saudi-attacks-us-stocks-20261022",
+        "apa-bulloo-pipeline-700m-aud-2029-20261022",
+        "asx-dividend-75pct-tech-cost-capex-20261022"
       ]
     }
   ]

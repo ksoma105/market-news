@@ -1,37 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-20",
-    "title": "アジア株が反落　KOSPI 3.61%安、AI関連決算を前に警戒",
-    "topic_key": "asia-stocks-kospi-nikkei-ai-earnings-elice-20261020",
-    "source": "Reuters",
-    "first_seen": "2026-10-20T12:00:00+09:00",
-    "issue": "2026-10-20-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/china-leaves-loan-rates-steady-17th-consecutive-month-2026-10-20",
-    "title": "中国、LPRを17カ月連続で据え置き　1年物3.00%、5年物3.50%",
-    "topic_key": "china-lpr-unchanged-17-months-3-00-3-50-20261020",
-    "source": "Reuters",
-    "first_seen": "2026-10-20T12:00:00+09:00",
-    "issue": "2026-10-20-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-yet-decide-defence-budget-funding-finance-minister-says-2026-10-20",
-    "title": "日本の防衛費増額、財源は未決定　年10兆円超との報道も",
-    "topic_key": "japan-defence-spending-funding-undecided-10tn-20261020",
-    "source": "Reuters",
-    "first_seen": "2026-10-20T12:00:00+09:00",
-    "issue": "2026-10-20-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/chinas-september-us-soybean-imports-rebound-zero-year-earlier-data-shows-2026-10-20",
-    "title": "中国の米国産大豆輸入、9月は36.1万トン　前年ゼロから再開",
-    "topic_key": "china-us-soybean-imports-september-360878-20261020",
-    "source": "Reuters",
-    "first_seen": "2026-10-20T12:00:00+09:00",
-    "issue": "2026-10-20-1200"
-  },
-  {
     "url_normalized": "reuters.com/business/fed-skip-october-raise-rates-again-december-nearly-all-economists-say-2026-10-20",
     "title": "FRB、10月は据え置き予想　12月利上げを全100人が見込む",
     "topic_key": "fed-october-hold-december-hike-reuters-poll-20261020",
@@ -446,5 +414,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-23T12:00:00+09:00",
     "issue": "2026-10-23-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-core-inflation-exceeds-boj-target-cements-near-term-rate-hike-chance-2026-10-22",
+    "title": "日本の9月コアCPI、前年比2.1%　9カ月ぶりに日銀目標を上回る",
+    "topic_key": "japan-september-core-cpi-2-1-boj-target-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T22:00:00+09:00",
+    "issue": "2026-10-23-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/europe/euro-zone-growth-slows-4-month-low-amid-rising-costs-french-turmoil-pmi-shows-2026-10-23",
+    "title": "ユーロ圏10月PMIは51.9、4カ月ぶり低水準　コスト上昇と仏不安が重荷",
+    "topic_key": "eurozone-october-pmi-51-9-costs-france-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T22:00:00+09:00",
+    "issue": "2026-10-23-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/american-express-raises-2026-profit-forecast-affluent-customers-keep-spending-2026-10-23",
+    "title": "American Express、通期利益見通しを上方修正　世界人員の5%削減へ",
+    "topic_key": "amex-q3-2026-profit-guidance-workforce-cut-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T22:00:00+09:00",
+    "issue": "2026-10-23-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/eni-pay-special-dividend-lift-buyback-after-strong-third-quarter-results-2026-10-23",
+    "title": "Eni、7〜9月期利益が2倍超　13億ユーロの特別配当を発表",
+    "topic_key": "eni-q3-2026-profit-special-dividend-buyback-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T22:00:00+09:00",
+    "issue": "2026-10-23-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/aerospace-defense/safran-posts-slightly-higher-than-expected-q3-sales-2026-10-23",
+    "title": "Safran、7〜9月期売上高13.4%増　補修部品の減速懸念で株価下落",
+    "topic_key": "safran-q3-2026-sales-aftermarket-concern-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T22:00:00+09:00",
+    "issue": "2026-10-23-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/indias-zetwerk-rises-over-5-trading-debut-after-518-million-ipo-2026-10-23",
+    "title": "インドZetwerk、上場初日に公開価格割れ　赤字と外部委託依存を警戒",
+    "topic_key": "india-zetwerk-ipo-debut-loss-suppliers-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T22:00:00+09:00",
+    "issue": "2026-10-23-2200"
   }
 ]

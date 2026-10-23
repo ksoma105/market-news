@@ -1961,7 +1961,7 @@
       "issue_id": "2026-10-23-1200",
       "published_at": "2026-10-23T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-23-1200.html",
       "topics": [
         "japan-government-boj-deflation-inflation-gap-20261023",
         "japan-flash-pmi-october-53-3-slowdown-20261023",
@@ -1969,6 +1969,20 @@
         "zip-us-fraud-q1-customer-growth-share-plunge-20261023",
         "microsoft-sequential-diagnostic-ai-science-study-20261023",
         "fcc-intel-foreign-robotics-one-year-waiver-20261022"
+      ]
+    },
+    {
+      "issue_id": "2026-10-23-2200",
+      "published_at": "2026-10-23T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-september-core-cpi-2-1-boj-target-20261023",
+        "eurozone-october-pmi-51-9-costs-france-20261023",
+        "amex-q3-2026-profit-guidance-workforce-cut-20261023",
+        "eni-q3-2026-profit-special-dividend-buyback-20261023",
+        "safran-q3-2026-sales-aftermarket-concern-20261023",
+        "india-zetwerk-ipo-debut-loss-suppliers-20261023"
       ]
     }
   ]

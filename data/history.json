@@ -1947,7 +1947,7 @@
       "issue_id": "2026-10-23-0600",
       "published_at": "2026-10-23T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-23-0600.html",
       "topics": [
         "php2shell-millions-exploit-attempts-japan-services-20261022",
         "nexans-ai-datacenter-cable-capacity-bottleneck-20261022",
@@ -1955,6 +1955,20 @@
         "spacex-tesla-potential-merger-musk-approval-20261022",
         "newmont-q3-2026-profit-gold-price-production-20261022",
         "gilead-pepstar-hcxt2001-acquisition-20261022"
+      ]
+    },
+    {
+      "issue_id": "2026-10-23-1200",
+      "published_at": "2026-10-23T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-government-boj-deflation-inflation-gap-20261023",
+        "japan-flash-pmi-october-53-3-slowdown-20261023",
+        "asia-markets-ai-jitters-bonds-yen-oil-20261023",
+        "zip-us-fraud-q1-customer-growth-share-plunge-20261023",
+        "microsoft-sequential-diagnostic-ai-science-study-20261023",
+        "fcc-intel-foreign-robotics-one-year-waiver-20261022"
       ]
     }
   ]

@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/wall-st-futures-climb-ai-stocks-rebound-oil-yields-fall-2026-10-19",
-    "title": "米株はAI・半導体主導で反発　Nasdaq 1.11%高、相場の広がりは限定的",
-    "topic_key": "us-stocks-nasdaq-ai-semiconductor-rebound-close-20261019",
-    "source": "Reuters / AP",
-    "first_seen": "2026-10-20T06:00:00+09:00",
-    "issue": "2026-10-20-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/americas/canadas-annual-inflation-rate-rose-31-september-2026-10-19",
-    "title": "カナダ9月CPI、前年比3.1%上昇　ガソリン高で中銀目標上限を超過",
-    "topic_key": "canada-september-cpi-3-1-energy-gasoline-20261019",
-    "source": "Reuters / Statistics Canada",
-    "first_seen": "2026-10-20T06:00:00+09:00",
-    "issue": "2026-10-20-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-lowest-level-since-1982-2026-10-19",
-    "title": "米戦略石油備蓄、約2.83億バレル　1982年以来の低水準",
-    "topic_key": "us-strategic-petroleum-reserve-283m-lowest-1982-20261019",
-    "source": "Reuters / U.S. Department of Energy",
-    "first_seen": "2026-10-20T06:00:00+09:00",
-    "issue": "2026-10-20-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-20",
     "title": "アジア株が反落　KOSPI 3.61%安、AI関連決算を前に警戒",
     "topic_key": "asia-stocks-kospi-nikkei-ai-earnings-elice-20261020",
@@ -422,5 +398,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-23T06:00:00+09:00",
     "issue": "2026-10-23-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-is-not-yet-officially-out-deflation-economy-minister-says-2026-10-23",
+    "title": "政府と日銀、物価認識に温度差　「デフレ脱却」宣言はなお見送り",
+    "topic_key": "japan-government-boj-deflation-inflation-gap-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T12:00:00+09:00",
+    "issue": "2026-10-23-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-manufacturing-growth-slows-7-month-low-october-pmi-shows-2026-10-23",
+    "title": "日本の製造業PMI、10月は53.3　7カ月ぶりの低い伸び",
+    "topic_key": "japan-flash-pmi-october-53-3-slowdown-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T12:00:00+09:00",
+    "issue": "2026-10-23-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-23",
+    "title": "AI投資懸念でアジア株安、米10年債利回りは5%割れ",
+    "topic_key": "asia-markets-ai-jitters-bonds-yen-oil-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T12:00:00+09:00",
+    "issue": "2026-10-23-1200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/government/australias-zip-tumbles-50-after-fraud-incident-dents-first-quarter-customer-2026-10-23",
+    "title": "豪Zip株が一時50.5%安、米国での不正利用が顧客獲得を圧迫",
+    "topic_key": "zip-us-fraud-q1-customer-growth-share-plunge-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T12:00:00+09:00",
+    "issue": "2026-10-23-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23",
+    "title": "Microsoftの診断AI、複雑症例で一般医の2倍超の精度",
+    "topic_key": "microsoft-sequential-diagnostic-ai-science-study-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T12:00:00+09:00",
+    "issue": "2026-10-23-1200"
+  },
+  {
+    "url_normalized": "reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22",
+    "title": "米FCC、Intelに外国製搬送ロボットの1年間免除を付与",
+    "topic_key": "fcc-intel-foreign-robotics-one-year-waiver-20261022",
+    "source": "Reuters",
+    "first_seen": "2026-10-23T12:00:00+09:00",
+    "issue": "2026-10-23-1200"
   }
 ]

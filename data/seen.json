@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/fed-skip-october-raise-rates-again-december-nearly-all-economists-say-2026-10-20",
-    "title": "FRB、10月は据え置き予想　12月利上げを全100人が見込む",
-    "topic_key": "fed-october-hold-december-hike-reuters-poll-20261020",
-    "source": "Reuters",
-    "first_seen": "2026-10-20T22:00:00+09:00",
-    "issue": "2026-10-20-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-pursues-chip-industry-reboot-its-being-pressed-build-americas-2026-10-20",
-    "title": "日本、米NY半導体工場2カ所へ最大210億ドル　国内再興との両立が焦点",
-    "topic_key": "japan-us-globalfoundries-two-fabs-up-to-21b-20261020",
-    "source": "Reuters / GlobalFoundries",
-    "first_seen": "2026-10-20T22:00:00+09:00",
-    "issue": "2026-10-20-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20",
-    "title": "中国IT大手3社、Nvidia製GPUを350億ドル超発注　供給確約は困難",
-    "topic_key": "china-tech-nvidia-rtx-pro-5500-orders-over-35b-20261020",
-    "source": "Reuters",
-    "first_seen": "2026-10-20T22:00:00+09:00",
-    "issue": "2026-10-20-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/germanys-merz-touts-defence-ai-chip-investment-drive-pitch-investors-2026-10-20",
-    "title": "ドイツ、AI計算能力を2030年までに4倍へ　企業投資8,000億ユーロ超",
-    "topic_key": "germany-merz-ai-compute-quadruple-800b-investment-20261020",
-    "source": "Reuters / ドイツ連邦政府",
-    "first_seen": "2026-10-20T22:00:00+09:00",
-    "issue": "2026-10-20-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/autos-transportation/gms-core-profit-rises-22-strength-pickup-truck-business-2026-10-20",
-    "title": "GM、調整後EBIT22%増も通期EPS中央値が予想未達　株価は下落",
-    "topic_key": "gm-q3-2026-ebit-4-1b-guidance-buyback-20261020",
-    "source": "Reuters / General Motors",
-    "first_seen": "2026-10-20T22:00:00+09:00",
-    "issue": "2026-10-20-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/aerospace-defense/northrop-lifts-2026-profit-forecast-strong-defense-demand-record-backlog-2026-10-20",
-    "title": "Northrop、受注残1,096億ドルで過去最高　2026年利益予想を上方修正",
-    "topic_key": "northrop-q3-2026-record-backlog-guidance-20261020",
-    "source": "Reuters / Northrop Grumman",
-    "first_seen": "2026-10-20T22:00:00+09:00",
-    "issue": "2026-10-20-2200"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/nasdaq-futures-dip-oil-prices-climb-earnings-loom-2026-10-20",
     "title": "米国株、ダウ1.05%高　ヘルスケアへ資金移動、Nasdaqは小幅安",
     "topic_key": "us-stocks-dow-healthcare-value-rotation-close-20261020",
@@ -462,5 +414,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-23T22:00:00+09:00",
     "issue": "2026-10-23-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/wall-street-futures-dip-after-ai-rout-telecoms-slide-2026-10-23",
+    "title": "米株3指数が下落、AI投資懸念と通信株安で不安定な週を終える",
+    "topic_key": "us-stocks-close-ai-telecom-energy-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T06:00:00+09:00",
+    "issue": "2026-10-24-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/us-consumer-sentiment-near-record-low-ahead-midterm-elections-2026-10-23",
+    "title": "米消費者心理、10月は過去2番目の低水準　期待インフレ上昇",
+    "topic_key": "us-october-consumer-sentiment-48-inflation-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T06:00:00+09:00",
+    "issue": "2026-10-24-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/chinas-deepseek-minimax-win-approval-ai-global-use-state-media-affiliated-entity-2026-10-23",
+    "title": "中国MiniMax、AIモデルの輸出登録を完了　海外ライセンスが可能に",
+    "topic_key": "china-minimax-ai-export-registration-overseas-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T06:00:00+09:00",
+    "issue": "2026-10-24-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/fast-fashion-group-shein-agrees-pay-100-million-settle-us-ftc-probe-2026-10-23",
+    "title": "Shein、米FTC調査を1億ドルで和解へ　配送遅延などが対象",
+    "topic_key": "shein-ftc-100m-settlement-delivery-complaints-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T06:00:00+09:00",
+    "issue": "2026-10-24-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/bank-canada-raise-rates-250-october-28-once-again-by-end-march-2026-10-23",
+    "title": "カナダ中銀、10月28日に2.50%へ利上げ予想　Reuters調査",
+    "topic_key": "bank-canada-october-hike-poll-2-50-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T06:00:00+09:00",
+    "issue": "2026-10-24-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/indias-bharat-petroleum-profit-drops-amid-crude-oil-price-volatility-2026-10-23",
+    "title": "インドBharat Petroleum、7〜9月期利益22.5%減　原油高が圧迫",
+    "topic_key": "bharat-petroleum-q2-profit-crude-costs-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T06:00:00+09:00",
+    "issue": "2026-10-24-0600"
   }
 ]

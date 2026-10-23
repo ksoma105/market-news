@@ -1975,7 +1975,7 @@
       "issue_id": "2026-10-23-2200",
       "published_at": "2026-10-23T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-23-2200.html",
       "topics": [
         "japan-september-core-cpi-2-1-boj-target-20261023",
         "eurozone-october-pmi-51-9-costs-france-20261023",
@@ -1983,6 +1983,20 @@
         "eni-q3-2026-profit-special-dividend-buyback-20261023",
         "safran-q3-2026-sales-aftermarket-concern-20261023",
         "india-zetwerk-ipo-debut-loss-suppliers-20261023"
+      ]
+    },
+    {
+      "issue_id": "2026-10-24-0600",
+      "published_at": "2026-10-24T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-stocks-close-ai-telecom-energy-20261023",
+        "us-october-consumer-sentiment-48-inflation-20261023",
+        "china-minimax-ai-export-registration-overseas-20261023",
+        "shein-ftc-100m-settlement-delivery-complaints-20261023",
+        "bank-canada-october-hike-poll-2-50-20261023",
+        "bharat-petroleum-q2-profit-crude-costs-20261023"
       ]
     }
   ]

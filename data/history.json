@@ -1989,7 +1989,7 @@
       "issue_id": "2026-10-24-0600",
       "published_at": "2026-10-24T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-24-0600.html",
       "topics": [
         "us-stocks-close-ai-telecom-energy-20261023",
         "us-october-consumer-sentiment-48-inflation-20261023",
@@ -1997,6 +1997,20 @@
         "shein-ftc-100m-settlement-delivery-complaints-20261023",
         "bank-canada-october-hike-poll-2-50-20261023",
         "bharat-petroleum-q2-profit-crude-costs-20261023"
+      ]
+    },
+    {
+      "issue_id": "2026-10-24-1200",
+      "published_at": "2026-10-24T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-october-composite-pmi-57-6-output-prices-20261023",
+        "china-fiscal-revenue-land-sales-special-bonds-20261023",
+        "uk-state-lenders-20-4bn-capital-budget-20261024",
+        "varopreem-2030-ebitda-biofuel-market-share-20261023",
+        "us-week-ahead-hyperscaler-earnings-fed-ai-capex-20261023",
+        "japan-investors-foreign-bond-sales-domestic-yields-20261022"
       ]
     }
   ]

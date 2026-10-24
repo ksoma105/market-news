@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/nasdaq-futures-dip-oil-prices-climb-earnings-loom-2026-10-20",
-    "title": "米国株、ダウ1.05%高　ヘルスケアへ資金移動、Nasdaqは小幅安",
-    "topic_key": "us-stocks-dow-healthcare-value-rotation-close-20261020",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T06:00:00+09:00",
-    "issue": "2026-10-21-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/media-telecom/netflix-issues-weak-fourth-quarter-forecast-company-seeks-kick-start-growth-2026-10-20",
-    "title": "Netflix、広告収入見通しを約27億ドルへ下方修正　株価は時間外で5%安",
-    "topic_key": "netflix-q3-2026-q4-forecast-ad-revenue-cut-20261020",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T06:00:00+09:00",
-    "issue": "2026-10-21-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/united-airlines-forecasts-fourth-quarter-profit-below-estimates-fuel-costs-bite-2026-10-20",
-    "title": "United Airlines、燃料高で10〜12月期利益見通しが市場予想下回る",
-    "topic_key": "united-airlines-q3-2026-q4-eps-fuel-cost-20261020",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T06:00:00+09:00",
-    "issue": "2026-10-21-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/media-telecom/spacex-quarterly-revenue-jumps-beats-estimates-ai-business-surges-2026-10-20",
-    "title": "SpaceX、7〜9月期売上高161%増　AI事業が急拡大",
-    "topic_key": "spacex-q3-2026-revenue-ai-starlink-capex-20261020",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T06:00:00+09:00",
-    "issue": "2026-10-21-0600"
-  },
-  {
-    "url_normalized": "reuters.com/technology/super-micro-expects-first-quarter-revenue-above-estimates-2026-10-20",
-    "title": "Super Micro、7〜9月期暫定売上高185億〜195億ドルを予想",
-    "topic_key": "super-micro-fq1-2027-preliminary-revenue-ai-platforms-20261020",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T06:00:00+09:00",
-    "issue": "2026-10-21-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/japans-september-exports-rise-167-helped-by-chip-demand-2026-10-21",
     "title": "日本の9月輸出16.7%増　AI・半導体需要が支え、貿易赤字は5,366億円",
     "topic_key": "japan-september-exports-ai-chips-trade-deficit-20261021",
@@ -462,5 +422,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-24T06:00:00+09:00",
     "issue": "2026-10-24-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/us-business-activity-cools-october-strong-demand-fueling-price-pressures-2026-10-23",
+    "title": "米企業活動、10月は小幅減速　価格転嫁圧力は約4年ぶり高水準",
+    "topic_key": "us-october-composite-pmi-57-6-output-prices-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T12:00:00+09:00",
+    "issue": "2026-10-24-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/chinas-january-september-fiscal-revenue-up-51-yy-2026-10-23",
+    "title": "中国、1〜9月の財政収入5.1%増　土地売却収入は27.9%減",
+    "topic_key": "china-fiscal-revenue-land-sales-special-bonds-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T12:00:00+09:00",
+    "issue": "2026-10-24-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/uks-healey-give-two-state-backed-lenders-20-billion-capital-boost-budget-2026-10-24",
+    "title": "英国、政策金融2機関へ204億ポンド増資案　AI・防衛・脱炭素を支援",
+    "topic_key": "uk-state-lenders-20-4bn-capital-budget-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T12:00:00+09:00",
+    "issue": "2026-10-24-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/swiss-energy-company-varopreem-looks-double-earnings-by-2030-europe-faces-fuel-supply-crunch-2026-10-23",
+    "title": "欧州VAROPreem、2030年EBITDA倍増を目標　燃料供給逼迫に対応",
+    "topic_key": "varopreem-2030-ebitda-biofuel-market-share-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T12:00:00+09:00",
+    "issue": "2026-10-24-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/wall-st-week-ahead-earnings-flood-fed-meeting-pose-pivotal-tests-rickety-ai-2026-10-23",
+    "title": "来週の米市場、巨大テック決算とFOMCがAI相場を試す",
+    "topic_key": "us-week-ahead-hyperscaler-earnings-fed-ai-capex-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T12:00:00+09:00",
+    "issue": "2026-10-24-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japanese-investors-sell-foreign-bonds-fifth-straight-week-eye-home-market-2026-10-22",
+    "title": "日本勢、外国債券を5週連続売り越し　国内金利上昇で資金回帰",
+    "topic_key": "japan-investors-foreign-bond-sales-domestic-yields-20261022",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T12:00:00+09:00",
+    "issue": "2026-10-24-1200"
   }
 ]

@@ -2017,7 +2017,7 @@
       "issue_id": "2026-10-24-2200",
       "published_at": "2026-10-24T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-24-2200.html",
       "topics": [
         "moonshot-kimi-k3-1-cyber-safeguards-20261024",
         "qatarenergy-woodside-louisiana-lng-talks-20261023",
@@ -2025,6 +2025,19 @@
         "france-luxury-stores-protests-security-20261024",
         "indonesia-singapore-pipeline-gas-cut-power-20261024",
         "brazil-mid-october-ipca15-inflation-20261023"
+      ]
+    },
+    {
+      "issue_id": "2026-10-25-0600",
+      "published_at": "2026-10-25T06:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-outbound-investment-curbs-biotech-hpc-china-20261024",
+        "india-rbi-leverage-ratio-rules-april2027-20261023",
+        "kotak-q2-fy27-profit-loans-margin-20261024",
+        "taiwan-typhoon-champi-power-flights-20261024",
+        "teck-highland-valley-copper-strike-20261024"
       ]
     }
   ]

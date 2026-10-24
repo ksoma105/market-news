@@ -1,61 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/retail-consumer/openai-sell-its-top-models-google-cloud-latest-enterprise-push-2026-10-21",
-    "title": "OpenAI最新モデル、Google Cloudで提供へ　クラウド販売網を拡大",
-    "topic_key": "openai-models-codex-google-cloud-marketplace-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T22:00:00+09:00",
-    "issue": "2026-10-21-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21",
-    "title": "Samsung・SK Hynix、中国工場でNAND高度化　米輸出規制が制約",
-    "topic_key": "samsung-sk-hynix-china-nand-upgrades-us-licenses-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T22:00:00+09:00",
-    "issue": "2026-10-21-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/global-diesel-prices-seen-staying-high-despite-trumps-deal-with-russia-2026-10-21",
-    "title": "ロシア産追加供給でもディーゼル高止まり観測　供給不足解消には規模不足",
-    "topic_key": "global-diesel-prices-russia-supply-insufficient-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T22:00:00+09:00",
-    "issue": "2026-10-21-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/ecb-says-ai-greener-economy-help-euro-zone-weather-energy-shock-2026-10-21",
-    "title": "ユーロ圏、エネルギー高でも景気底堅く　ECBは省エネ・AI投資を指摘",
-    "topic_key": "ecb-eurozone-energy-shock-resilience-ai-fiscal-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T22:00:00+09:00",
-    "issue": "2026-10-21-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/south-africas-finance-minister-announces-two-months-fuel-price-relief-mid-year-2026-10-21",
-    "title": "南アフリカ、燃料税を2カ月減額　税収上振れで生活費を支援",
-    "topic_key": "south-africa-fuel-levy-relief-revenue-overrun-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T22:00:00+09:00",
-    "issue": "2026-10-21-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/iberdrola-raises-outlook-again-eyes-higher-profit-growth-through-2030-2026-10-21",
-    "title": "Iberdrola、利益見通しを再上方修正　送電網投資で年10%成長目標",
-    "topic_key": "iberdrola-2026-profit-guidance-grids-2030-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T22:00:00+09:00",
-    "issue": "2026-10-21-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/adidas-shares-rise-after-2026-guidance-hike-2026-10-21",
-    "title": "Adidas、2026年営業利益予想を25億ユーロへ上方修正",
-    "topic_key": "adidas-q3-2026-preliminary-profit-guidance-tariff-refund-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T22:00:00+09:00",
-    "issue": "2026-10-21-2200"
-  },
-  {
     "url_normalized": "reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21",
     "title": "Meta、AI投資を再拡大　設備投資予想を1,350億〜1,450億ドルへ",
     "topic_key": "meta-q3-2026-capex-class-c-stock-ai-cashflow-20261021",
@@ -478,5 +422,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-24T22:00:00+09:00",
     "issue": "2026-10-24-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-2026-10-24",
+    "title": "中国、米国の対外投資規制拡大に反発　バイオ技術も対象へ",
+    "topic_key": "us-outbound-investment-curbs-biotech-hpc-china-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T06:00:00+09:00",
+    "issue": "2026-10-25-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/india-central-bank-impose-new-leverage-rules-banks-april-1-2027-2026-10-23",
+    "title": "インド中銀、銀行の新レバレッジ比率を2027年4月から適用",
+    "topic_key": "india-rbi-leverage-ratio-rules-april2027-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T06:00:00+09:00",
+    "issue": "2026-10-25-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/indias-kotak-bank-q2-profit-rises-29-beats-estimates-2026-10-24",
+    "title": "Kotak Mahindra Bank、7〜9月期利益29%増　貸出拡大も利ざや縮小",
+    "topic_key": "kotak-q2-fy27-profit-loans-margin-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T06:00:00+09:00",
+    "issue": "2026-10-25-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/environment/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured-2026-10-24",
+    "title": "台風Champiが台湾を通過　28万戸超停電、航空便259便欠航",
+    "topic_key": "taiwan-typhoon-champi-power-flights-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T06:00:00+09:00",
+    "issue": "2026-10-25-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/world-at-work/teck-says-strike-begins-highland-valley-copper-mine-british-columbia-2026-10-24",
+    "title": "Teckのカナダ銅鉱山でスト開始　操業は能力を落として継続",
+    "topic_key": "teck-highland-valley-copper-strike-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T06:00:00+09:00",
+    "issue": "2026-10-25-0600"
   }
 ]

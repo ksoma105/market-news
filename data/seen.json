@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/japans-september-exports-rise-167-helped-by-chip-demand-2026-10-21",
-    "title": "日本の9月輸出16.7%増　AI・半導体需要が支え、貿易赤字は5,366億円",
-    "topic_key": "japan-september-exports-ai-chips-trade-deficit-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T12:00:00+09:00",
-    "issue": "2026-10-21-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-shifting-wage-driven-inflation-phase-finance-minister-says-2026-10-21",
-    "title": "片山財務相、賃金主導の持続的インフレへ移行間近との認識",
-    "topic_key": "japan-finance-minister-wage-driven-inflation-fiscal-boj-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T12:00:00+09:00",
-    "issue": "2026-10-21-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-21",
-    "title": "アジア株上昇、韓国株4.6%高　企業決算が投資家心理を支える",
-    "topic_key": "asia-stocks-kospi-nikkei-earnings-oil-yields-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T12:00:00+09:00",
-    "issue": "2026-10-21-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/oil-rises-middle-east-supply-worries-2026-10-21",
-    "title": "原油反発、ブレント109.64ドル　中東の供給・海運リスクを警戒",
-    "topic_key": "oil-brent-wti-middle-east-shipping-supply-risk-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T12:00:00+09:00",
-    "issue": "2026-10-21-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/australian-ai-data-centre-operator-nextdc-shares-shed-44-revenue-delay-2026-10-21",
-    "title": "豪NextDC株44%安　電力網遅延で2027年度見通しを大幅下方修正",
-    "topic_key": "nextdc-m3-power-delay-fy27-guidance-shares-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-21T12:00:00+09:00",
-    "issue": "2026-10-21-1200"
-  },
-  {
     "url_normalized": "reuters.com/business/retail-consumer/openai-sell-its-top-models-google-cloud-latest-enterprise-push-2026-10-21",
     "title": "OpenAI最新モデル、Google Cloudで提供へ　クラウド販売網を拡大",
     "topic_key": "openai-models-codex-google-cloud-marketplace-20261021",
@@ -470,5 +430,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-24T12:00:00+09:00",
     "issue": "2026-10-24-1200"
+  },
+  {
+    "url_normalized": "reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24",
+    "title": "Moonshot AI、Kimi新モデルの攻撃的サイバー能力を抑制",
+    "topic_key": "moonshot-kimi-k3-1-cyber-safeguards-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T22:00:00+09:00",
+    "issue": "2026-10-24-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/top-lng-exporter-qatarenergy-talks-buy-us-lng-woodsides-louisiana-plant-2026-10-23",
+    "title": "QatarEnergy、米Woodsideから年300万トンのLNG購入を協議",
+    "topic_key": "qatarenergy-woodside-louisiana-lng-talks-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T22:00:00+09:00",
+    "issue": "2026-10-24-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/us-authorizes-emergency-release-up-400000-oil-barrels-strategic-reserve-2026-10-23",
+    "title": "米政府、戦略石油備蓄から最大40万バレルを緊急融通",
+    "topic_key": "us-spr-400k-barrel-lake-charles-exchange-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T22:00:00+09:00",
+    "issue": "2026-10-24-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/frances-luxury-stores-board-up-windows-ahead-fresh-protests-2026-10-24",
+    "title": "フランス高級店、抗議デモに備え休業・警備強化",
+    "topic_key": "france-luxury-stores-protests-security-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T22:00:00+09:00",
+    "issue": "2026-10-24-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/indonesia-cuts-pipeline-gas-exports-singapore-by-about-9-2026-10-24",
+    "title": "インドネシア、シンガポール向けパイプラインガスを約9%削減",
+    "topic_key": "indonesia-singapore-pipeline-gas-cut-power-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T22:00:00+09:00",
+    "issue": "2026-10-24-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/brazil-consumer-prices-rise-032-mid-october-2026-10-23",
+    "title": "ブラジル10月中旬物価、月0.32%上昇　市場予想を下回る",
+    "topic_key": "brazil-mid-october-ipca15-inflation-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-24T22:00:00+09:00",
+    "issue": "2026-10-24-2200"
   }
 ]

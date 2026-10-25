@@ -1,61 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/us-weekly-jobless-claims-near-57-year-lows-2026-10-22",
-    "title": "米新規失業保険申請、19万4,000件　約57年ぶり低水準に接近",
-    "topic_key": "us-jobless-claims-194k-57year-low-20261022",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T22:00:00+09:00",
-    "issue": "2026-10-22-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/australias-treasurer-warns-softer-growth-higher-unemployment-2026-10-22",
-    "title": "豪財務相、成長鈍化と失業率上昇を警告　政策金利4.6%が重荷",
-    "topic_key": "australia-growth-unemployment-rba-4-6pct-20261022",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T22:00:00+09:00",
-    "issue": "2026-10-22-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22",
-    "title": "IMF・OECD、AIが国・企業・世代間格差を広げるリスクを警告",
-    "topic_key": "imf-oecd-ai-growth-inequality-jobs-20261022",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T22:00:00+09:00",
-    "issue": "2026-10-22-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22",
-    "title": "TSMC、レアアース依存の少ない製造装置を検討　中国の輸出規制に備え",
-    "topic_key": "tsmc-rare-earth-free-fab-equipment-supply-chain-20261022",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T22:00:00+09:00",
-    "issue": "2026-10-22-2200"
-  },
-  {
-    "url_normalized": "reuters.com/technology/us-award-389-million-rd-funds-power-semiconductors-critical-materials-2026-10-22",
-    "title": "米商務省、パワー半導体など4社へ最大3.89億ドル　政府は少数株取得",
-    "topic_key": "us-commerce-389m-power-semiconductor-rd-equity-20261022",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T22:00:00+09:00",
-    "issue": "2026-10-22-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22",
-    "title": "P&G、原材料・物流費の利益圧迫を14億ドルへ上方修正",
-    "topic_key": "pg-fy2027-commodity-freight-hit-1-4b-20261022",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T22:00:00+09:00",
-    "issue": "2026-10-22-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/africa/nigeria-bourse-ceo-says-dangote-refinery-ipo-widen-investor-base-2026-10-22",
-    "title": "ダンゴート製油所IPO、ナイジェリアの投資家層拡大を試す",
-    "topic_key": "dangote-refinery-ipo-nigeria-investor-base-20261022",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T22:00:00+09:00",
-    "issue": "2026-10-22-2200"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22",
     "title": "PHPの重大脆弱性、攻撃試行が数百万件に　日本の金融・交通にも一時停止",
     "topic_key": "php2shell-millions-exploit-attempts-japan-services-20261022",
@@ -470,5 +414,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-25T22:00:00+09:00",
     "issue": "2026-10-25-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/musk-says-spacex-raised-40-billion-debt-gpus-2026-10-25",
+    "title": "SpaceX、GPU購入へ400億ドルの債務調達を完了",
+    "topic_key": "spacex-40bn-debt-gpu-purchases-20261025",
+    "source": "Reuters",
+    "first_seen": "2026-10-26T06:00:00+09:00",
+    "issue": "2026-10-26-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/britain-will-not-join-canadas-defence-bank-source-says-2026-10-25",
+    "title": "英国、カナダ主導の防衛銀行に参加せず　別制度で連携",
+    "topic_key": "uk-canada-separate-defence-finance-institutions-20261025",
+    "source": "Reuters",
+    "first_seen": "2026-10-26T06:00:00+09:00",
+    "issue": "2026-10-26-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/world-at-work/employees-group-warns-major-swiss-job-losses-if-ubs-relocates-newspaper-says-2026-10-25",
+    "title": "UBS移転なら国内最大1.2万人失職の恐れ　スイス従業員団体",
+    "topic_key": "ubs-switzerland-capital-rules-job-risk-20261025",
+    "source": "Reuters",
+    "first_seen": "2026-10-26T06:00:00+09:00",
+    "issue": "2026-10-26-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/south-korean-economys-growth-likely-picked-up-q3-chip-exports-2026-10-23",
+    "title": "韓国7〜9月期GDP、前期比0.7%成長予想　半導体輸出がけん引",
+    "topic_key": "south-korea-q3-gdp-poll-chip-exports-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-26T06:00:00+09:00",
+    "issue": "2026-10-26-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/ship-attacks-strait-hormuz-hit-record-high-october-2026-10-23",
+    "title": "ホルムズ海峡周辺の船舶攻撃、10月は確認28件で過去最多",
+    "topic_key": "hormuz-october-ship-attacks-record-vlcc-20261023",
+    "source": "Reuters",
+    "first_seen": "2026-10-26T06:00:00+09:00",
+    "issue": "2026-10-26-0600"
   }
 ]

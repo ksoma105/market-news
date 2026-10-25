@@ -2057,7 +2057,7 @@
       "issue_id": "2026-10-25-2200",
       "published_at": "2026-10-25T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-25-2200.html",
       "topics": [
         "israel-netanyahu-crypto-sanctions-bank-economists-20261025",
         "saudi-egypt-stocks-yemen-conflict-drop-20261025",
@@ -2065,6 +2065,19 @@
         "nigeria-tinubu-election-reforms-cost-of-living-20261024",
         "senegal-revised-budget-imf-debt-restructuring-20261025",
         "brazil-presidential-runoff-lula-bolsonaro-20261025"
+      ]
+    },
+    {
+      "issue_id": "2026-10-26-0600",
+      "published_at": "2026-10-26T06:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "spacex-40bn-debt-gpu-purchases-20261025",
+        "uk-canada-separate-defence-finance-institutions-20261025",
+        "ubs-switzerland-capital-rules-job-risk-20261025",
+        "south-korea-q3-gdp-poll-chip-exports-20261023",
+        "hormuz-october-ship-attacks-record-vlcc-20261023"
       ]
     }
   ]

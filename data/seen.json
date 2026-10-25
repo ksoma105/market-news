@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-funding-conditions-still-loose-despite-interest-rate-hikes-survey-shows-2026-10-22",
-    "title": "日銀調査、企業の資金需要DIがプラス3　利上げ後も金融環境は緩和的",
-    "topic_key": "boj-loan-demand-di-plus3-rate-hikes-20261022",
-    "source": "Reuters / 日本銀行",
-    "first_seen": "2026-10-22T12:00:00+09:00",
-    "issue": "2026-10-22-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/bank-korea-holds-rates-after-back-to-back-hikes-2026-10-22",
-    "title": "韓国銀行、政策金利を3.00%で据え置き　成長見通し引き上げで追加利上げ余地",
-    "topic_key": "bank-korea-holds-3pct-growth-inflation-hikes-20261022",
-    "source": "Reuters / 韓国銀行",
-    "first_seen": "2026-10-22T12:00:00+09:00",
-    "issue": "2026-10-22-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/oil-rises-us-orders-diplomats-leave-saudi-arabia-amid-escalating-tensions-2026-10-22",
-    "title": "原油上昇、ブレント110.11ドル　サウジ攻撃と米在庫減を警戒",
-    "topic_key": "oil-brent-110-saudi-attacks-us-stocks-20261022",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T12:00:00+09:00",
-    "issue": "2026-10-22-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/australias-apa-commits-492-million-key-gas-pipeline-project-2026-10-22",
-    "title": "豪APA、東海岸ガス導管へ7億豪ドル投資　2029年冬の稼働を計画",
-    "topic_key": "apa-bulloo-pipeline-700m-aud-2029-20261022",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T12:00:00+09:00",
-    "issue": "2026-10-22-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/australias-asx-says-turning-point-reached-after-trading-outages-2026-10-22",
-    "title": "豪ASX、配当性向75%を維持　システム刷新で費用18〜21%増",
-    "topic_key": "asx-dividend-75pct-tech-cost-capex-20261022",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T12:00:00+09:00",
-    "issue": "2026-10-22-1200"
-  },
-  {
     "url_normalized": "reuters.com/business/us-weekly-jobless-claims-near-57-year-lows-2026-10-22",
     "title": "米新規失業保険申請、19万4,000件　約57年ぶり低水準に接近",
     "topic_key": "us-jobless-claims-194k-57year-low-20261022",
@@ -462,5 +422,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-25T12:00:00+09:00",
     "issue": "2026-10-25-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/netanyahu-rebuked-plan-use-crypto-bypass-economic-sanctions-2026-10-25",
+    "title": "イスラエル首相の「暗号資産で制裁回避」案、中銀と100人超の経済学者が反論",
+    "topic_key": "israel-netanyahu-crypto-sanctions-bank-economists-20261025",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T22:00:00+09:00",
+    "issue": "2026-10-25-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/middle-east/gulf-bourses-slip-houthi-saudi-clashes-rattle-investors-2026-10-25",
+    "title": "サウジ株2.6%、エジプト株2.5%下落　イエメン情勢の拡大を警戒",
+    "topic_key": "saudi-egypt-stocks-yemen-conflict-drop-20261025",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T22:00:00+09:00",
+    "issue": "2026-10-25-2200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/transactional/couche-tard-proposes-up-8-billion-offer-cumberland-farms-times-reports-2026-10-24",
+    "title": "Couche-Tard、Cumberland Farmsに最大80億ドルの買収案と報道",
+    "topic_key": "couche-tard-cumberland-farms-8bn-offer-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T22:00:00+09:00",
+    "issue": "2026-10-25-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/africa/nigerias-tinubu-launches-re-election-campaign-economic-pain-tests-support-2026-10-24",
+    "title": "ナイジェリア大統領が再選運動開始　改革効果と生活費危機が争点",
+    "topic_key": "nigeria-tinubu-election-reforms-cost-of-living-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T22:00:00+09:00",
+    "issue": "2026-10-25-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/africa/senegal-party-that-controls-parliament-comes-out-against-revised-budget-bill-2026-10-25",
+    "title": "セネガル与党、修正予算に反対　IMF支援と債務再編の遅れ懸念",
+    "topic_key": "senegal-revised-budget-imf-debt-restructuring-20261025",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T22:00:00+09:00",
+    "issue": "2026-10-25-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25",
+    "title": "ブラジル大統領選が決選投票　Lula氏とBolsonaro氏が接戦",
+    "topic_key": "brazil-presidential-runoff-lula-bolsonaro-20261025",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T22:00:00+09:00",
+    "issue": "2026-10-25-2200"
   }
 ]

@@ -2044,13 +2044,27 @@
       "issue_id": "2026-10-25-1200",
       "published_at": "2026-10-25T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-25-1200.html",
       "topics": [
         "audi-georgia-us-factory-4bn-4500-jobs-20261024",
         "uk-mayors-1-5bn-borrowing-good-growth-budget-20261024",
         "lindt-price-hikes-demand-germany-ceo-20261024",
         "western-sydney-airport-opens-5-6bn-capacity-20261025",
         "china-north-korea-yalu-bridge-trade-logistics-20261024"
+      ]
+    },
+    {
+      "issue_id": "2026-10-25-2200",
+      "published_at": "2026-10-25T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "israel-netanyahu-crypto-sanctions-bank-economists-20261025",
+        "saudi-egypt-stocks-yemen-conflict-drop-20261025",
+        "couche-tard-cumberland-farms-8bn-offer-20261024",
+        "nigeria-tinubu-election-reforms-cost-of-living-20261024",
+        "senegal-revised-budget-imf-debt-restructuring-20261025",
+        "brazil-presidential-runoff-lula-bolsonaro-20261025"
       ]
     }
   ]

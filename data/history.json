@@ -2031,13 +2031,26 @@
       "issue_id": "2026-10-25-0600",
       "published_at": "2026-10-25T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-25-0600.html",
       "topics": [
         "us-outbound-investment-curbs-biotech-hpc-china-20261024",
         "india-rbi-leverage-ratio-rules-april2027-20261023",
         "kotak-q2-fy27-profit-loans-margin-20261024",
         "taiwan-typhoon-champi-power-flights-20261024",
         "teck-highland-valley-copper-strike-20261024"
+      ]
+    },
+    {
+      "issue_id": "2026-10-25-1200",
+      "published_at": "2026-10-25T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "audi-georgia-us-factory-4bn-4500-jobs-20261024",
+        "uk-mayors-1-5bn-borrowing-good-growth-budget-20261024",
+        "lindt-price-hikes-demand-germany-ceo-20261024",
+        "western-sydney-airport-opens-5-6bn-capacity-20261025",
+        "china-north-korea-yalu-bridge-trade-logistics-20261024"
       ]
     }
   ]

@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21",
-    "title": "Meta、AI投資を再拡大　設備投資予想を1,350億〜1,450億ドルへ",
-    "topic_key": "meta-q3-2026-capex-class-c-stock-ai-cashflow-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T06:00:00+09:00",
-    "issue": "2026-10-22-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/media-telecom/tesla-revenue-beats-estimates-deliveries-rebound-energy-storage-grows-2026-10-21",
-    "title": "Tesla、予想外の15億3,000万ドルのフリーキャッシュフロー　AI投資は想定下回る",
-    "topic_key": "tesla-q3-2026-free-cashflow-capex-deliveries-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T06:00:00+09:00",
-    "issue": "2026-10-22-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/ibm-raises-annual-software-revenue-outlook-deal-delays-ease-2026-10-21",
-    "title": "IBM、ソフトウェア成長見通しを7〜8%へ　延期案件の成約が進む",
-    "topic_key": "ibm-q3-2026-software-growth-deferred-deals-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T06:00:00+09:00",
-    "issue": "2026-10-22-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/analog-chipmaker-texas-instruments-sees-quarterly-sales-above-estimates-2026-10-21",
-    "title": "Texas Instruments、10〜12月期売上高見通しが市場予想上回る",
-    "topic_key": "texas-instruments-q3-2026-industrial-ai-datacenter-outlook-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T06:00:00+09:00",
-    "issue": "2026-10-22-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/carrefour-shares-seen-sharply-down-after-guidance-cut-france-riots-2026-10-21",
-    "title": "Carrefour、仏暴動で通期見通しを下方修正　株価は約15%下落",
-    "topic_key": "carrefour-2026-guidance-cut-france-riots-looting-20261021",
-    "source": "Reuters",
-    "first_seen": "2026-10-22T06:00:00+09:00",
-    "issue": "2026-10-22-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/japan-funding-conditions-still-loose-despite-interest-rate-hikes-survey-shows-2026-10-22",
     "title": "日銀調査、企業の資金需要DIがプラス3　利上げ後も金融環境は緩和的",
     "topic_key": "boj-loan-demand-di-plus3-rate-hikes-20261022",
@@ -462,5 +422,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-25T06:00:00+09:00",
     "issue": "2026-10-25-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/autos-transportation/trump-set-announce-plan-by-audi-build-us-factory-georgia-source-says-2026-10-24",
+    "title": "Audi、米ジョージア州に40億ドル工場　年20万台・4,500人雇用を計画",
+    "topic_key": "audi-georgia-us-factory-4bn-4500-jobs-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T12:00:00+09:00",
+    "issue": "2026-10-25-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/uk/uk-budget-set-hand-english-mayors-new-borrowing-powers-growth-funding-2026-10-24",
+    "title": "英国、地域成長へ自治体首長に15億ポンドの借入枠",
+    "topic_key": "uk-mayors-1-5bn-borrowing-good-growth-budget-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T12:00:00+09:00",
+    "issue": "2026-10-25-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/lindt-got-chocolate-price-hikes-wrong-chairman-says-after-ceos-ouster-2026-10-24",
+    "title": "Lindt、値上げで需要を読み違え　株価は年初来25%超下落",
+    "topic_key": "lindt-price-hikes-demand-germany-ceo-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T12:00:00+09:00",
+    "issue": "2026-10-25-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/sydneys-new-international-airport-opens-passengers-2026-10-25",
+    "title": "シドニー西部の新国際空港が開業　年8,000万人超の処理能力",
+    "topic_key": "western-sydney-airport-opens-5-6bn-capacity-20261025",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T12:00:00+09:00",
+    "issue": "2026-10-25-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/north-koreas-kim-jong-un-arrives-dandong-china-yonhap-says-2026-10-24",
+    "title": "中朝の新鴨緑江大橋が本格稼働　貿易物流のボトルネック緩和へ",
+    "topic_key": "china-north-korea-yalu-bridge-trade-logistics-20261024",
+    "source": "Reuters",
+    "first_seen": "2026-10-25T12:00:00+09:00",
+    "issue": "2026-10-25-1200"
   }
 ]

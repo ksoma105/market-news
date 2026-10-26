@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-is-not-yet-officially-out-deflation-economy-minister-says-2026-10-23",
-    "title": "政府と日銀、物価認識に温度差　「デフレ脱却」宣言はなお見送り",
-    "topic_key": "japan-government-boj-deflation-inflation-gap-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-23T12:00:00+09:00",
-    "issue": "2026-10-23-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-manufacturing-growth-slows-7-month-low-october-pmi-shows-2026-10-23",
-    "title": "日本の製造業PMI、10月は53.3　7カ月ぶりの低い伸び",
-    "topic_key": "japan-flash-pmi-october-53-3-slowdown-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-23T12:00:00+09:00",
-    "issue": "2026-10-23-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/global-markets-global-markets-2026-10-23",
-    "title": "AI投資懸念でアジア株安、米10年債利回りは5%割れ",
-    "topic_key": "asia-markets-ai-jitters-bonds-yen-oil-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-23T12:00:00+09:00",
-    "issue": "2026-10-23-1200"
-  },
-  {
-    "url_normalized": "reuters.com/legal/government/australias-zip-tumbles-50-after-fraud-incident-dents-first-quarter-customer-2026-10-23",
-    "title": "豪Zip株が一時50.5%安、米国での不正利用が顧客獲得を圧迫",
-    "topic_key": "zip-us-fraud-q1-customer-growth-share-plunge-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-23T12:00:00+09:00",
-    "issue": "2026-10-23-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23",
-    "title": "Microsoftの診断AI、複雑症例で一般医の2倍超の精度",
-    "topic_key": "microsoft-sequential-diagnostic-ai-science-study-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-23T12:00:00+09:00",
-    "issue": "2026-10-23-1200"
-  },
-  {
-    "url_normalized": "reuters.com/technology/fcc-grants-intel-waiver-foreign-made-robotic-devices-2026-10-22",
-    "title": "米FCC、Intelに外国製搬送ロボットの1年間免除を付与",
-    "topic_key": "fcc-intel-foreign-robotics-one-year-waiver-20261022",
-    "source": "Reuters",
-    "first_seen": "2026-10-23T12:00:00+09:00",
-    "issue": "2026-10-23-1200"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/japan-core-inflation-exceeds-boj-target-cements-near-term-rate-hike-chance-2026-10-22",
     "title": "日本の9月コアCPI、前年比2.1%　9カ月ぶりに日銀目標を上回る",
     "topic_key": "japan-september-core-cpi-2-1-boj-target-20261023",
@@ -454,5 +406,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-26T12:00:00+09:00",
     "issue": "2026-10-26-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/bank-japans-hawkish-pause-leave-scope-december-hike-2026-10-26",
+    "title": "日銀、政策金利1.25%据え置き見通し　12月利上げに余地",
+    "topic_key": "boj-october-hold-december-hike-outlook-20261026",
+    "source": "Reuters",
+    "first_seen": "2026-10-26T22:00:00+09:00",
+    "issue": "2026-10-26-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/indonesia-strengthens-measures-against-stock-manipulation-after-market-rout-2026-10-26",
+    "title": "インドネシア、相場操縦対策を強化　MSCI格下げ警告に対応",
+    "topic_key": "indonesia-stock-manipulation-reforms-msci-warning-20261026",
+    "source": "Reuters",
+    "first_seen": "2026-10-26T22:00:00+09:00",
+    "issue": "2026-10-26-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/german-business-sentiment-grows-october-ifo-survey-finds-2026-10-26",
+    "title": "ドイツ10月Ifo景況感は90.2　6カ月連続で改善",
+    "topic_key": "germany-ifo-business-climate-october-90-2-20261026",
+    "source": "Reuters",
+    "first_seen": "2026-10-26T22:00:00+09:00",
+    "issue": "2026-10-26-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/verizon-lifts-annual-forecasts-signs-more-than-2-billion-ai-infrastructure-deal-2026-10-26",
+    "title": "Verizon、通期予想を上方修正　AWSと20億ドル超のAI基盤契約",
+    "topic_key": "verizon-q3-guidance-aws-ai-fiber-deal-20261026",
+    "source": "Reuters",
+    "first_seen": "2026-10-26T22:00:00+09:00",
+    "issue": "2026-10-26-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/us-retailers-face-record-holiday-delivery-prices-surcharges-tied-costlier-diesel-2026-10-26",
+    "title": "米年末配送費、過去最高の見通し　軽油高と追加料金が圧迫",
+    "topic_key": "us-holiday-delivery-prices-diesel-surcharges-20261026",
+    "source": "Reuters",
+    "first_seen": "2026-10-26T22:00:00+09:00",
+    "issue": "2026-10-26-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/indias-infosys-falls-after-cutting-revenue-growth-guidance-fiscal-2027-2026-10-26",
+    "title": "Infosys、2027年度売上成長予想を1〜2%へ下方修正",
+    "topic_key": "infosys-fy2027-growth-guidance-ai-pricing-pressure-20261026",
+    "source": "Reuters",
+    "first_seen": "2026-10-26T22:00:00+09:00",
+    "issue": "2026-10-26-2200"
   }
 ]

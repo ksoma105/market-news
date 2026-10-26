@@ -2084,7 +2084,7 @@
       "issue_id": "2026-10-26-1200",
       "published_at": "2026-10-26T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-26-1200.html",
       "topics": [
         "japan-cyberattacks-user-compensation-gmo-20261026",
         "global-currencies-central-bank-week-yields-oil-20261026",
@@ -2092,6 +2092,20 @@
         "india-rupee-bonds-oil-fed-week-20261026",
         "sk-hynix-shareholder-return-special-dividend-review-20261026",
         "nextdc-ceo-bonus-project-delay-revenue-20261025"
+      ]
+    },
+    {
+      "issue_id": "2026-10-26-2200",
+      "published_at": "2026-10-26T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "boj-october-hold-december-hike-outlook-20261026",
+        "indonesia-stock-manipulation-reforms-msci-warning-20261026",
+        "germany-ifo-business-climate-october-90-2-20261026",
+        "verizon-q3-guidance-aws-ai-fiber-deal-20261026",
+        "us-holiday-delivery-prices-diesel-surcharges-20261026",
+        "infosys-fy2027-growth-guidance-ai-pricing-pressure-20261026"
       ]
     }
   ]

@@ -2071,13 +2071,27 @@
       "issue_id": "2026-10-26-0600",
       "published_at": "2026-10-26T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-26-0600.html",
       "topics": [
         "spacex-40bn-debt-gpu-purchases-20261025",
         "uk-canada-separate-defence-finance-institutions-20261025",
         "ubs-switzerland-capital-rules-job-risk-20261025",
         "south-korea-q3-gdp-poll-chip-exports-20261023",
         "hormuz-october-ship-attacks-record-vlcc-20261023"
+      ]
+    },
+    {
+      "issue_id": "2026-10-26-1200",
+      "published_at": "2026-10-26T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-cyberattacks-user-compensation-gmo-20261026",
+        "global-currencies-central-bank-week-yields-oil-20261026",
+        "japan-nikkei-tech-energy-divergence-20261026",
+        "india-rupee-bonds-oil-fed-week-20261026",
+        "sk-hynix-shareholder-return-special-dividend-review-20261026",
+        "nextdc-ceo-bonus-project-delay-revenue-20261025"
       ]
     }
   ]

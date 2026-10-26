@@ -2098,7 +2098,7 @@
       "issue_id": "2026-10-26-2200",
       "published_at": "2026-10-26T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-26-2200.html",
       "topics": [
         "boj-october-hold-december-hike-outlook-20261026",
         "indonesia-stock-manipulation-reforms-msci-warning-20261026",
@@ -2106,6 +2106,21 @@
         "verizon-q3-guidance-aws-ai-fiber-deal-20261026",
         "us-holiday-delivery-prices-diesel-surcharges-20261026",
         "infosys-fy2027-growth-guidance-ai-pricing-pressure-20261026"
+      ]
+    },
+    {
+      "issue_id": "2026-10-27-0600",
+      "published_at": "2026-10-27T06:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "apple-iphone-duo-display-replacements-20261027",
+        "anthropic-broadcom-chips-63b-debt-financing-20261027",
+        "jetblue-q3-loss-fuel-costs-20261027",
+        "us-fuel-cost-iran-war-crea-study-20261027",
+        "novo-lilly-weight-loss-ads-injunction-denied-20261027",
+        "uk-healey-first-budget-preview-20261027",
+        "anthropic-ipo-filing-growth-losses-20261026"
       ]
     }
   ]

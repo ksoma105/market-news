@@ -2140,7 +2140,7 @@
       "issue_id": "2026-10-27-2200",
       "published_at": "2026-10-27T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-27-2200.html",
       "topics": [
         "boeing-q3-commercial-airplanes-supply-chain-20261027",
         "hsbc-q3-2026-revenue-wealth-growth-20261027",
@@ -2148,6 +2148,20 @@
         "eurozone-bank-lending-survey-mortgage-demand-2026q3",
         "wartsila-q3-2026-datacenter-orders-targets-20261027",
         "guidewire-hyperexponential-acquisition-2-1b-20261027"
+      ]
+    },
+    {
+      "issue_id": "2026-10-28-0600",
+      "published_at": "2026-10-28T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-moodys-a1-growth-resilience-20261027",
+        "wall-street-ai-momentum-index-close-20261027",
+        "visa-q4-2026-payments-cross-border-profit-20261027",
+        "robinhood-q3-2026-crypto-revenue-profit-20261027",
+        "logitech-q2-fy2027-supplier-incident-20261027",
+        "thames-water-sp-ccc-minus-restructuring-20261027"
       ]
     }
   ]

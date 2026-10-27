@@ -1,93 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24",
-    "title": "Moonshot AI、Kimi新モデルの攻撃的サイバー能力を抑制",
-    "topic_key": "moonshot-kimi-k3-1-cyber-safeguards-20261024",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T22:00:00+09:00",
-    "issue": "2026-10-24-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/top-lng-exporter-qatarenergy-talks-buy-us-lng-woodsides-louisiana-plant-2026-10-23",
-    "title": "QatarEnergy、米Woodsideから年300万トンのLNG購入を協議",
-    "topic_key": "qatarenergy-woodside-louisiana-lng-talks-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T22:00:00+09:00",
-    "issue": "2026-10-24-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/us-authorizes-emergency-release-up-400000-oil-barrels-strategic-reserve-2026-10-23",
-    "title": "米政府、戦略石油備蓄から最大40万バレルを緊急融通",
-    "topic_key": "us-spr-400k-barrel-lake-charles-exchange-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T22:00:00+09:00",
-    "issue": "2026-10-24-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/frances-luxury-stores-board-up-windows-ahead-fresh-protests-2026-10-24",
-    "title": "フランス高級店、抗議デモに備え休業・警備強化",
-    "topic_key": "france-luxury-stores-protests-security-20261024",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T22:00:00+09:00",
-    "issue": "2026-10-24-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/indonesia-cuts-pipeline-gas-exports-singapore-by-about-9-2026-10-24",
-    "title": "インドネシア、シンガポール向けパイプラインガスを約9%削減",
-    "topic_key": "indonesia-singapore-pipeline-gas-cut-power-20261024",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T22:00:00+09:00",
-    "issue": "2026-10-24-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/americas/brazil-consumer-prices-rise-032-mid-october-2026-10-23",
-    "title": "ブラジル10月中旬物価、月0.32%上昇　市場予想を下回る",
-    "topic_key": "brazil-mid-october-ipca15-inflation-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T22:00:00+09:00",
-    "issue": "2026-10-24-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-2026-10-24",
-    "title": "中国、米国の対外投資規制拡大に反発　バイオ技術も対象へ",
-    "topic_key": "us-outbound-investment-curbs-biotech-hpc-china-20261024",
-    "source": "Reuters",
-    "first_seen": "2026-10-25T06:00:00+09:00",
-    "issue": "2026-10-25-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/india-central-bank-impose-new-leverage-rules-banks-april-1-2027-2026-10-23",
-    "title": "インド中銀、銀行の新レバレッジ比率を2027年4月から適用",
-    "topic_key": "india-rbi-leverage-ratio-rules-april2027-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-25T06:00:00+09:00",
-    "issue": "2026-10-25-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/indias-kotak-bank-q2-profit-rises-29-beats-estimates-2026-10-24",
-    "title": "Kotak Mahindra Bank、7〜9月期利益29%増　貸出拡大も利ざや縮小",
-    "topic_key": "kotak-q2-fy27-profit-loans-margin-20261024",
-    "source": "Reuters",
-    "first_seen": "2026-10-25T06:00:00+09:00",
-    "issue": "2026-10-25-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/environment/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured-2026-10-24",
-    "title": "台風Champiが台湾を通過　28万戸超停電、航空便259便欠航",
-    "topic_key": "taiwan-typhoon-champi-power-flights-20261024",
-    "source": "Reuters",
-    "first_seen": "2026-10-25T06:00:00+09:00",
-    "issue": "2026-10-25-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/world-at-work/teck-says-strike-begins-highland-valley-copper-mine-british-columbia-2026-10-24",
-    "title": "Teckのカナダ銅鉱山でスト開始　操業は能力を落として継続",
-    "topic_key": "teck-highland-valley-copper-strike-20261024",
-    "source": "Reuters",
-    "first_seen": "2026-10-25T06:00:00+09:00",
-    "issue": "2026-10-25-0600"
-  },
-  {
     "url_normalized": "reuters.com/business/autos-transportation/trump-set-announce-plan-by-audi-build-us-factory-georgia-source-says-2026-10-24",
     "title": "Audi、米ジョージア州に40億ドル工場　年20万台・4,500人雇用を計画",
     "topic_key": "audi-georgia-us-factory-4bn-4500-jobs-20261024",
@@ -454,5 +366,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-27T22:00:00+09:00",
     "issue": "2026-10-27-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/moodys-sees-positive-shift-japans-growth-resilience-remains-key-test-2026-10-27",
+    "title": "Moody’s、日本経済に持続成長の兆し　A1・安定的を維持",
+    "topic_key": "japan-moodys-a1-growth-resilience-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-28T06:00:00+09:00",
+    "issue": "2026-10-28-0600"
+  },
+  {
+    "url_normalized": "marketscreener.com/news/wall-street-ends-higher-on-revived-ai-momentum-ce785cddde81f423",
+    "title": "米株、AI関連株がけん引　ナスダック1.18%高",
+    "topic_key": "wall-street-ai-momentum-index-close-20261027",
+    "source": "Reuters / MarketScreener",
+    "first_seen": "2026-10-28T06:00:00+09:00",
+    "issue": "2026-10-28-0600"
+  },
+  {
+    "url_normalized": "reuters.com/technology/visa-quarterly-profit-jumps-resilient-consumer-spending-2026-10-27",
+    "title": "Visa、7〜9月期純利益60億ドル　決済量9%増",
+    "topic_key": "visa-q4-2026-payments-cross-border-profit-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-28T06:00:00+09:00",
+    "issue": "2026-10-28-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/robinhood-quarterly-profit-falls-softer-crypto-activity-outweighs-robust-trading-2026-10-27",
+    "title": "Robinhood、暗号資産収入55%減で純利益14%減",
+    "topic_key": "robinhood-q3-2026-crypto-revenue-profit-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-28T06:00:00+09:00",
+    "issue": "2026-10-28-0600"
+  },
+  {
+    "url_normalized": "via.ritzau.dk/pressemeddelelse/15252867/logitech-announces-q2-fiscal-year-2027-results",
+    "title": "Logitech、7〜9月期売上高3%増　供給障害は続く",
+    "topic_key": "logitech-q2-fy2027-supplier-incident-20261027",
+    "source": "Logitech / Business Wire",
+    "first_seen": "2026-10-28T06:00:00+09:00",
+    "issue": "2026-10-28-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/sp-pushes-thames-water-ratings-deeper-into-junk-territory-debt-restructuring-2026-10-27",
+    "title": "Thames Water、S&PがCCC−へ格下げ　債務再編を警戒",
+    "topic_key": "thames-water-sp-ccc-minus-restructuring-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-28T06:00:00+09:00",
+    "issue": "2026-10-28-0600"
   }
 ]

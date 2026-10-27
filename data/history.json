@@ -2112,7 +2112,7 @@
       "issue_id": "2026-10-27-0600",
       "published_at": "2026-10-27T06:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-27-0600.html",
       "topics": [
         "apple-iphone-duo-display-replacements-20261027",
         "anthropic-broadcom-chips-63b-debt-financing-20261027",
@@ -2121,6 +2121,19 @@
         "novo-lilly-weight-loss-ads-injunction-denied-20261027",
         "uk-healey-first-budget-preview-20261027",
         "anthropic-ipo-filing-growth-losses-20261026"
+      ]
+    },
+    {
+      "issue_id": "2026-10-27-1200",
+      "published_at": "2026-10-27T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-industrial-profits-september-14-4-20261027",
+        "bank-korea-ai-capex-chip-export-downside-20261027",
+        "japan-september-services-producer-prices-3-7-20261027",
+        "airtrunk-syd3-green-loan-4-25b-aud-20261027",
+        "spain-data-center-rules-threshold-10mw-20261027"
       ]
     }
   ]

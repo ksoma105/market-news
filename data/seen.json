@@ -1,101 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-core-inflation-exceeds-boj-target-cements-near-term-rate-hike-chance-2026-10-22",
-    "title": "日本の9月コアCPI、前年比2.1%　9カ月ぶりに日銀目標を上回る",
-    "topic_key": "japan-september-core-cpi-2-1-boj-target-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-23T22:00:00+09:00",
-    "issue": "2026-10-23-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/europe/euro-zone-growth-slows-4-month-low-amid-rising-costs-french-turmoil-pmi-shows-2026-10-23",
-    "title": "ユーロ圏10月PMIは51.9、4カ月ぶり低水準　コスト上昇と仏不安が重荷",
-    "topic_key": "eurozone-october-pmi-51-9-costs-france-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-23T22:00:00+09:00",
-    "issue": "2026-10-23-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/american-express-raises-2026-profit-forecast-affluent-customers-keep-spending-2026-10-23",
-    "title": "American Express、通期利益見通しを上方修正　世界人員の5%削減へ",
-    "topic_key": "amex-q3-2026-profit-guidance-workforce-cut-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-23T22:00:00+09:00",
-    "issue": "2026-10-23-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/eni-pay-special-dividend-lift-buyback-after-strong-third-quarter-results-2026-10-23",
-    "title": "Eni、7〜9月期利益が2倍超　13億ユーロの特別配当を発表",
-    "topic_key": "eni-q3-2026-profit-special-dividend-buyback-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-23T22:00:00+09:00",
-    "issue": "2026-10-23-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/aerospace-defense/safran-posts-slightly-higher-than-expected-q3-sales-2026-10-23",
-    "title": "Safran、7〜9月期売上高13.4%増　補修部品の減速懸念で株価下落",
-    "topic_key": "safran-q3-2026-sales-aftermarket-concern-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-23T22:00:00+09:00",
-    "issue": "2026-10-23-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/indias-zetwerk-rises-over-5-trading-debut-after-518-million-ipo-2026-10-23",
-    "title": "インドZetwerk、上場初日に公開価格割れ　赤字と外部委託依存を警戒",
-    "topic_key": "india-zetwerk-ipo-debut-loss-suppliers-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-23T22:00:00+09:00",
-    "issue": "2026-10-23-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/wall-street-futures-dip-after-ai-rout-telecoms-slide-2026-10-23",
-    "title": "米株3指数が下落、AI投資懸念と通信株安で不安定な週を終える",
-    "topic_key": "us-stocks-close-ai-telecom-energy-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T06:00:00+09:00",
-    "issue": "2026-10-24-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/us-consumer-sentiment-near-record-low-ahead-midterm-elections-2026-10-23",
-    "title": "米消費者心理、10月は過去2番目の低水準　期待インフレ上昇",
-    "topic_key": "us-october-consumer-sentiment-48-inflation-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T06:00:00+09:00",
-    "issue": "2026-10-24-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/media-telecom/chinas-deepseek-minimax-win-approval-ai-global-use-state-media-affiliated-entity-2026-10-23",
-    "title": "中国MiniMax、AIモデルの輸出登録を完了　海外ライセンスが可能に",
-    "topic_key": "china-minimax-ai-export-registration-overseas-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T06:00:00+09:00",
-    "issue": "2026-10-24-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/fast-fashion-group-shein-agrees-pay-100-million-settle-us-ftc-probe-2026-10-23",
-    "title": "Shein、米FTC調査を1億ドルで和解へ　配送遅延などが対象",
-    "topic_key": "shein-ftc-100m-settlement-delivery-complaints-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T06:00:00+09:00",
-    "issue": "2026-10-24-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/americas/bank-canada-raise-rates-250-october-28-once-again-by-end-march-2026-10-23",
-    "title": "カナダ中銀、10月28日に2.50%へ利上げ予想　Reuters調査",
-    "topic_key": "bank-canada-october-hike-poll-2-50-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T06:00:00+09:00",
-    "issue": "2026-10-24-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/indias-bharat-petroleum-profit-drops-amid-crude-oil-price-volatility-2026-10-23",
-    "title": "インドBharat Petroleum、7〜9月期利益22.5%減　原油高が圧迫",
-    "topic_key": "bharat-petroleum-q2-profit-crude-costs-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T06:00:00+09:00",
-    "issue": "2026-10-24-0600"
-  },
-  {
     "url_normalized": "reuters.com/business/us-business-activity-cools-october-strong-demand-fueling-price-pressures-2026-10-23",
     "title": "米企業活動、10月は小幅減速　価格転嫁圧力は約4年ぶり高水準",
     "topic_key": "us-october-composite-pmi-57-6-output-prices-20261023",
@@ -510,5 +414,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-27T06:00:00+09:00",
     "issue": "2026-10-27-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/chinas-industrial-profit-growth-picks-up-amid-two-speed-economy-2026-10-27",
+    "title": "中国の工業利益、9月は14.4%増　業種間の格差続く",
+    "topic_key": "china-industrial-profits-september-14-4-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-27T12:00:00+09:00",
+    "issue": "2026-10-27-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/bank-korea-warns-countrys-chip-exports-could-fall-by-up-100-billion-if-ai-2026-10-27",
+    "title": "韓国中銀、AI投資減速なら半導体輸出最大1,000億ドル減と試算",
+    "topic_key": "bank-korea-ai-capex-chip-export-downside-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-27T12:00:00+09:00",
+    "issue": "2026-10-27-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japans-september-corporate-services-prices-rise-37-yryr-2026-10-27",
+    "title": "日本の企業向けサービス価格、9月は3.7%上昇",
+    "topic_key": "japan-september-services-producer-prices-3-7-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-27T12:00:00+09:00",
+    "issue": "2026-10-27-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/australias-airtrunk-bags-3-billion-green-loan-expand-sydney-data-centre-2026-10-27",
+    "title": "豪AirTrunk、シドニーのデータセンター拡張に42.5億豪ドル融資",
+    "topic_key": "airtrunk-syd3-green-loan-4-25b-aud-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-27T12:00:00+09:00",
+    "issue": "2026-10-27-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/spain-relaxes-initial-proposal-data-center-rules-2026-10-26",
+    "title": "スペイン、データセンター規制案を緩和　対象を10MW超へ",
+    "topic_key": "spain-data-center-rules-threshold-10mw-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-27T12:00:00+09:00",
+    "issue": "2026-10-27-1200"
   }
 ]

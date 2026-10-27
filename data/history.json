@@ -2127,13 +2127,27 @@
       "issue_id": "2026-10-27-1200",
       "published_at": "2026-10-27T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-27-1200.html",
       "topics": [
         "china-industrial-profits-september-14-4-20261027",
         "bank-korea-ai-capex-chip-export-downside-20261027",
         "japan-september-services-producer-prices-3-7-20261027",
         "airtrunk-syd3-green-loan-4-25b-aud-20261027",
         "spain-data-center-rules-threshold-10mw-20261027"
+      ]
+    },
+    {
+      "issue_id": "2026-10-27-2200",
+      "published_at": "2026-10-27T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "boeing-q3-commercial-airplanes-supply-chain-20261027",
+        "hsbc-q3-2026-revenue-wealth-growth-20261027",
+        "paypal-q3-2026-profit-guidance-turnaround-20261027",
+        "eurozone-bank-lending-survey-mortgage-demand-2026q3",
+        "wartsila-q3-2026-datacenter-orders-targets-20261027",
+        "guidewire-hyperexponential-acquisition-2-1b-20261027"
       ]
     }
   ]

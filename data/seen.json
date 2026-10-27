@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/us-business-activity-cools-october-strong-demand-fueling-price-pressures-2026-10-23",
-    "title": "米企業活動、10月は小幅減速　価格転嫁圧力は約4年ぶり高水準",
-    "topic_key": "us-october-composite-pmi-57-6-output-prices-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T12:00:00+09:00",
-    "issue": "2026-10-24-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/chinas-january-september-fiscal-revenue-up-51-yy-2026-10-23",
-    "title": "中国、1〜9月の財政収入5.1%増　土地売却収入は27.9%減",
-    "topic_key": "china-fiscal-revenue-land-sales-special-bonds-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T12:00:00+09:00",
-    "issue": "2026-10-24-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/uks-healey-give-two-state-backed-lenders-20-billion-capital-boost-budget-2026-10-24",
-    "title": "英国、政策金融2機関へ204億ポンド増資案　AI・防衛・脱炭素を支援",
-    "topic_key": "uk-state-lenders-20-4bn-capital-budget-20261024",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T12:00:00+09:00",
-    "issue": "2026-10-24-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/swiss-energy-company-varopreem-looks-double-earnings-by-2030-europe-faces-fuel-supply-crunch-2026-10-23",
-    "title": "欧州VAROPreem、2030年EBITDA倍増を目標　燃料供給逼迫に対応",
-    "topic_key": "varopreem-2030-ebitda-biofuel-market-share-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T12:00:00+09:00",
-    "issue": "2026-10-24-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/wall-st-week-ahead-earnings-flood-fed-meeting-pose-pivotal-tests-rickety-ai-2026-10-23",
-    "title": "来週の米市場、巨大テック決算とFOMCがAI相場を試す",
-    "topic_key": "us-week-ahead-hyperscaler-earnings-fed-ai-capex-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T12:00:00+09:00",
-    "issue": "2026-10-24-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/japanese-investors-sell-foreign-bonds-fifth-straight-week-eye-home-market-2026-10-22",
-    "title": "日本勢、外国債券を5週連続売り越し　国内金利上昇で資金回帰",
-    "topic_key": "japan-investors-foreign-bond-sales-domestic-yields-20261022",
-    "source": "Reuters",
-    "first_seen": "2026-10-24T12:00:00+09:00",
-    "issue": "2026-10-24-1200"
-  },
-  {
     "url_normalized": "reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24",
     "title": "Moonshot AI、Kimi新モデルの攻撃的サイバー能力を抑制",
     "topic_key": "moonshot-kimi-k3-1-cyber-safeguards-20261024",
@@ -454,5 +406,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-27T12:00:00+09:00",
     "issue": "2026-10-27-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/aerospace-defense/boeing-jetliner-production-challenges-weigh-third-quarter-results-2026-10-27",
+    "title": "ボーイング、民間機の供給制約で7〜9月期赤字",
+    "topic_key": "boeing-q3-commercial-airplanes-supply-chain-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-27T22:00:00+09:00",
+    "issue": "2026-10-27-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/hsbcs-third-quarter-profit-jumps-32-line-with-estimates-2026-10-27",
+    "title": "HSBC、7〜9月期増益も収入が市場予想に届かず",
+    "topic_key": "hsbc-q3-2026-revenue-wealth-growth-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-27T22:00:00+09:00",
+    "issue": "2026-10-27-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/paypal-raises-2026-profit-forecast-turnaround-gains-traction-2026-10-27",
+    "title": "PayPal、通期利益見通しを1株5.60ドルへ引き上げ",
+    "topic_key": "paypal-q3-2026-profit-guidance-turnaround-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-27T22:00:00+09:00",
+    "issue": "2026-10-27-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/euro-zone-mortgage-demand-falls-rates-rise-ecb-survey-shows-2026-10-27",
+    "title": "ユーロ圏の住宅ローン需要、金利上昇で大幅減",
+    "topic_key": "eurozone-bank-lending-survey-mortgage-demand-2026q3",
+    "source": "Reuters",
+    "first_seen": "2026-10-27T22:00:00+09:00",
+    "issue": "2026-10-27-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/finlands-wartsila-tops-quarterly-order-estimates-carried-by-data-centre-power-2026-10-27",
+    "title": "Wärtsilä、データセンター需要で受注拡大　中期目標には失望",
+    "topic_key": "wartsila-q3-2026-datacenter-orders-targets-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-27T22:00:00+09:00",
+    "issue": "2026-10-27-2200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/litigation/guidewire-buy-uk-insurance-ai-firm-hyperexponential-deal-worth-up-21-billion-2026-10-27",
+    "title": "Guidewire、保険AI企業を最大21億ドルで買収へ",
+    "topic_key": "guidewire-hyperexponential-acquisition-2-1b-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-27T22:00:00+09:00",
+    "issue": "2026-10-27-2200"
   }
 ]

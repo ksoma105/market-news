@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/autos-transportation/trump-set-announce-plan-by-audi-build-us-factory-georgia-source-says-2026-10-24",
-    "title": "Audi、米ジョージア州に40億ドル工場　年20万台・4,500人雇用を計画",
-    "topic_key": "audi-georgia-us-factory-4bn-4500-jobs-20261024",
-    "source": "Reuters",
-    "first_seen": "2026-10-25T12:00:00+09:00",
-    "issue": "2026-10-25-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/uk/uk-budget-set-hand-english-mayors-new-borrowing-powers-growth-funding-2026-10-24",
-    "title": "英国、地域成長へ自治体首長に15億ポンドの借入枠",
-    "topic_key": "uk-mayors-1-5bn-borrowing-good-growth-budget-20261024",
-    "source": "Reuters",
-    "first_seen": "2026-10-25T12:00:00+09:00",
-    "issue": "2026-10-25-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/lindt-got-chocolate-price-hikes-wrong-chairman-says-after-ceos-ouster-2026-10-24",
-    "title": "Lindt、値上げで需要を読み違え　株価は年初来25%超下落",
-    "topic_key": "lindt-price-hikes-demand-germany-ceo-20261024",
-    "source": "Reuters",
-    "first_seen": "2026-10-25T12:00:00+09:00",
-    "issue": "2026-10-25-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/sydneys-new-international-airport-opens-passengers-2026-10-25",
-    "title": "シドニー西部の新国際空港が開業　年8,000万人超の処理能力",
-    "topic_key": "western-sydney-airport-opens-5-6bn-capacity-20261025",
-    "source": "Reuters",
-    "first_seen": "2026-10-25T12:00:00+09:00",
-    "issue": "2026-10-25-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/north-koreas-kim-jong-un-arrives-dandong-china-yonhap-says-2026-10-24",
-    "title": "中朝の新鴨緑江大橋が本格稼働　貿易物流のボトルネック緩和へ",
-    "topic_key": "china-north-korea-yalu-bridge-trade-logistics-20261024",
-    "source": "Reuters",
-    "first_seen": "2026-10-25T12:00:00+09:00",
-    "issue": "2026-10-25-1200"
-  },
-  {
     "url_normalized": "reuters.com/business/finance/netanyahu-rebuked-plan-use-crypto-bypass-economic-sanctions-2026-10-25",
     "title": "イスラエル首相の「暗号資産で制裁回避」案、中銀と100人超の経済学者が反論",
     "topic_key": "israel-netanyahu-crypto-sanctions-bank-economists-20261025",
@@ -414,5 +374,53 @@
     "source": "Reuters",
     "first_seen": "2026-10-28T06:00:00+09:00",
     "issue": "2026-10-28-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/sk-hynix-q3-profit-jumps-more-than-7-fold-beats-forecasts-2026-10-27",
+    "title": "SK hynix、7〜9月期営業利益が7倍超　株主還元は約100兆ウォン",
+    "topic_key": "sk-hynix-q3-2026-record-profit-shareholder-return-20261028",
+    "source": "Reuters",
+    "first_seen": "2026-10-28T12:00:00+09:00",
+    "issue": "2026-10-28-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/dollar-holds-gains-ahead-fed-policy-signal-rbnz-decision-2026-10-28",
+    "title": "NZ中銀、政策金利を2.75%に据え置き　4対3の僅差",
+    "topic_key": "rbnz-october-2026-hold-2-75-split-vote",
+    "source": "Reuters / RBNZ",
+    "first_seen": "2026-10-28T12:00:00+09:00",
+    "issue": "2026-10-28-1200"
+  },
+  {
+    "url_normalized": "abs.gov.au/media-centre/media-releases/cpi-rose-43-year-september-2026",
+    "title": "豪CPI、9月に前年比4.3%上昇　住宅と燃料が押し上げ",
+    "topic_key": "australia-september-2026-cpi-4-3-inflation",
+    "source": "Australian Bureau of Statistics",
+    "first_seen": "2026-10-28T12:00:00+09:00",
+    "issue": "2026-10-28-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/oil-prices-rise-after-attack-saudi-arabian-refinery-reignites-supply-concerns-2026-10-28",
+    "title": "サウジ製油所への攻撃主張で原油反発　ブレント115.36ドル",
+    "topic_key": "saudi-refinery-attack-claim-oil-prices-20261028",
+    "source": "Reuters",
+    "first_seen": "2026-10-28T12:00:00+09:00",
+    "issue": "2026-10-28-1200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/transactional/nearly-90-businesses-are-turning-tokenised-money-dbs-survey-shows-2026-10-28",
+    "title": "DBS調査、企業の88%がトークン化マネーを導入・試行",
+    "topic_key": "dbs-tokenised-money-business-survey-20261028",
+    "source": "Reuters",
+    "first_seen": "2026-10-28T12:00:00+09:00",
+    "issue": "2026-10-28-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/indias-larsen-toubro-profit-rises-infrastructure-demand-gulf-orders-drive-growth-2026-10-27",
+    "title": "インドL&T、7〜9月期純利益33%増　海外受注がけん引",
+    "topic_key": "larsen-toubro-q2-fy2027-profit-orders-20261027",
+    "source": "Reuters",
+    "first_seen": "2026-10-28T12:00:00+09:00",
+    "issue": "2026-10-28-1200"
   }
 ]

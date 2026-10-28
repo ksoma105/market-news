@@ -2154,7 +2154,7 @@
       "issue_id": "2026-10-28-0600",
       "published_at": "2026-10-28T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-28-0600.html",
       "topics": [
         "japan-moodys-a1-growth-resilience-20261027",
         "wall-street-ai-momentum-index-close-20261027",
@@ -2162,6 +2162,20 @@
         "robinhood-q3-2026-crypto-revenue-profit-20261027",
         "logitech-q2-fy2027-supplier-incident-20261027",
         "thames-water-sp-ccc-minus-restructuring-20261027"
+      ]
+    },
+    {
+      "issue_id": "2026-10-28-1200",
+      "published_at": "2026-10-28T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "sk-hynix-q3-2026-record-profit-shareholder-return-20261028",
+        "rbnz-october-2026-hold-2-75-split-vote",
+        "australia-september-2026-cpi-4-3-inflation",
+        "saudi-refinery-attack-claim-oil-prices-20261028",
+        "dbs-tokenised-money-business-survey-20261028",
+        "larsen-toubro-q2-fy2027-profit-orders-20261027"
       ]
     }
   ]

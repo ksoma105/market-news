@@ -2182,7 +2182,7 @@
       "issue_id": "2026-10-28-2200",
       "published_at": "2026-10-28T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-28-2200.html",
       "topics": [
         "nomura-q2-fy2027-profit-dividend-20261028",
         "jio-platforms-ipo-debut-valuation-20261028",
@@ -2191,6 +2191,21 @@
         "ubs-q3-2026-profit-buyback-capital-rules-20261028",
         "uk-budget-2026-fiscal-headroom-growth-20261028",
         "us-september-2026-goods-trade-deficit-20261028"
+      ]
+    },
+    {
+      "issue_id": "2026-10-29-0600",
+      "published_at": "2026-10-29T06:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "fed-october-2026-hold-two-hawkish-dissents",
+        "bank-canada-october-2026-hike-2-5-inflation",
+        "alphabet-q3-2026-revenue-cloud-negative-fcf",
+        "microsoft-fy2027-q1-azure-capex-fcf",
+        "ford-q3-2026-profit-guidance-commodity-costs",
+        "chipotle-q3-2026-comparable-sales-margin",
+        "rio-tinto-argentina-lithium-projects-20261029"
       ]
     }
   ]

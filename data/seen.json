@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/media-telecom/musk-says-spacex-raised-40-billion-debt-gpus-2026-10-25",
-    "title": "SpaceX、GPU購入へ400億ドルの債務調達を完了",
-    "topic_key": "spacex-40bn-debt-gpu-purchases-20261025",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T06:00:00+09:00",
-    "issue": "2026-10-26-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/britain-will-not-join-canadas-defence-bank-source-says-2026-10-25",
-    "title": "英国、カナダ主導の防衛銀行に参加せず　別制度で連携",
-    "topic_key": "uk-canada-separate-defence-finance-institutions-20261025",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T06:00:00+09:00",
-    "issue": "2026-10-26-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/world-at-work/employees-group-warns-major-swiss-job-losses-if-ubs-relocates-newspaper-says-2026-10-25",
-    "title": "UBS移転なら国内最大1.2万人失職の恐れ　スイス従業員団体",
-    "topic_key": "ubs-switzerland-capital-rules-job-risk-20261025",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T06:00:00+09:00",
-    "issue": "2026-10-26-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/south-korean-economys-growth-likely-picked-up-q3-chip-exports-2026-10-23",
-    "title": "韓国7〜9月期GDP、前期比0.7%成長予想　半導体輸出がけん引",
-    "topic_key": "south-korea-q3-gdp-poll-chip-exports-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T06:00:00+09:00",
-    "issue": "2026-10-26-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/ship-attacks-strait-hormuz-hit-record-high-october-2026-10-23",
-    "title": "ホルムズ海峡周辺の船舶攻撃、10月は確認28件で過去最多",
-    "topic_key": "hormuz-october-ship-attacks-record-vlcc-20261023",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T06:00:00+09:00",
-    "issue": "2026-10-26-0600"
-  },
-  {
     "url_normalized": "reuters.com/business/finance/japan-companies-compensate-users-cyberattacks-buffet-economy-2026-10-26",
     "title": "日本企業、サイバー被害の利用者補償へ　GMO株は一時11%安",
     "topic_key": "japan-cyberattacks-user-compensation-gmo-20261026",
@@ -430,5 +390,61 @@
     "source": "Reuters / U.S. Census Bureau",
     "first_seen": "2026-10-28T22:00:00+09:00",
     "issue": "2026-10-28-2200"
+  },
+  {
+    "url_normalized": "federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+    "title": "FRB、政策金利を3.75〜4.00%に据え置き　2人は0.25ポイント利上げ主張",
+    "topic_key": "fed-october-2026-hold-two-hawkish-dissents",
+    "source": "Federal Reserve / Reuters",
+    "first_seen": "2026-10-29T06:00:00+09:00",
+    "issue": "2026-10-29-0600"
+  },
+  {
+    "url_normalized": "bankofcanada.ca/2026/10/fad-press-release-2026-10-28",
+    "title": "カナダ中銀、3年超ぶり利上げ　政策金利2.5%へ",
+    "topic_key": "bank-canada-october-2026-hike-2-5-inflation",
+    "source": "Bank of Canada / Reuters",
+    "first_seen": "2026-10-29T06:00:00+09:00",
+    "issue": "2026-10-29-0600"
+  },
+  {
+    "url_normalized": "sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "title": "Alphabet、売上高25%増も市場予想届かず　AI投資でFCF赤字",
+    "topic_key": "alphabet-q3-2026-revenue-cloud-negative-fcf",
+    "source": "Alphabet / SEC EDGAR / Reuters",
+    "first_seen": "2026-10-29T06:00:00+09:00",
+    "issue": "2026-10-29-0600"
+  },
+  {
+    "url_normalized": "microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast",
+    "title": "Microsoft、Azure売上高48%増　設備投資は452億ドル",
+    "topic_key": "microsoft-fy2027-q1-azure-capex-fcf",
+    "source": "Microsoft / Reuters",
+    "first_seen": "2026-10-29T06:00:00+09:00",
+    "issue": "2026-10-29-0600"
+  },
+  {
+    "url_normalized": "stocktitan.net/sec-filings/F/8-k-ford-motor-co-reports-material-event-b003fc9ee45a.html",
+    "title": "Ford、通期利益見通し下限を105億ドルへ　商品コスト逆風は25億ドル",
+    "topic_key": "ford-q3-2026-profit-guidance-commodity-costs",
+    "source": "Ford / SEC EDGAR / Reuters",
+    "first_seen": "2026-10-29T06:00:00+09:00",
+    "issue": "2026-10-29-0600"
+  },
+  {
+    "url_normalized": "prnewswire.com/news-releases/chipotle-announces-third-quarter-2026-results-302922487.html",
+    "title": "Chipotle、既存店売上高2.1%増　コスト高で利益率低下",
+    "topic_key": "chipotle-q3-2026-comparable-sales-margin",
+    "source": "Chipotle / Reuters",
+    "first_seen": "2026-10-29T06:00:00+09:00",
+    "issue": "2026-10-29-0600"
+  },
+  {
+    "url_normalized": "riotinto.com/en/news/releases/2026/rio-tinto-celebrates-opening-of-1-4-billion-lithium-projects-in-argentina",
+    "title": "Rio Tinto、アルゼンチンで14億ドルのリチウム2案件を開業",
+    "topic_key": "rio-tinto-argentina-lithium-projects-20261029",
+    "source": "Rio Tinto",
+    "first_seen": "2026-10-29T06:00:00+09:00",
+    "issue": "2026-10-29-0600"
   }
 ]

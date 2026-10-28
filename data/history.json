@@ -2168,7 +2168,7 @@
       "issue_id": "2026-10-28-1200",
       "published_at": "2026-10-28T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-28-1200.html",
       "topics": [
         "sk-hynix-q3-2026-record-profit-shareholder-return-20261028",
         "rbnz-october-2026-hold-2-75-split-vote",
@@ -2176,6 +2176,21 @@
         "saudi-refinery-attack-claim-oil-prices-20261028",
         "dbs-tokenised-money-business-survey-20261028",
         "larsen-toubro-q2-fy2027-profit-orders-20261027"
+      ]
+    },
+    {
+      "issue_id": "2026-10-28-2200",
+      "published_at": "2026-10-28T22:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "nomura-q2-fy2027-profit-dividend-20261028",
+        "jio-platforms-ipo-debut-valuation-20261028",
+        "equinor-q3-2026-profit-output-target-20261028",
+        "dassault-systemes-q3-2026-guidance-raise-20261028",
+        "ubs-q3-2026-profit-buyback-capital-rules-20261028",
+        "uk-budget-2026-fiscal-headroom-growth-20261028",
+        "us-september-2026-goods-trade-deficit-20261028"
       ]
     }
   ]

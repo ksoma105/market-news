@@ -2227,7 +2227,7 @@
       "issue_id": "2026-10-29-2200",
       "published_at": "2026-10-29T22:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-29-2200.html",
       "topics": [
         "us-q3-gdp-september-pce-inflation-20261029",
         "japan-consumer-confidence-october-20261029",
@@ -2236,6 +2236,20 @@
         "komatsu-h1-fy2027-results-guidance-raise",
         "takeda-h1-fy2026-core-profit-guidance-raise",
         "ana-h1-fy2027-revenue-fuel-cost-guidance"
+      ]
+    },
+    {
+      "issue_id": "2026-10-30-0600",
+      "published_at": "2026-10-30T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "amazon-q3-2026-aws-growth-ai-capex-cash-burn",
+        "intel-q3-2026-israel-fab-pc-outlook",
+        "coinbase-q3-2026-profit-transaction-revenue-decline",
+        "ecb-october-2026-hold-lagarde-resignation",
+        "egypt-central-bank-october-2026-rate-hike",
+        "shell-q3-2026-profit-refining-buyback"
       ]
     }
   ]

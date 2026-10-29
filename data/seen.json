@@ -1,61 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/media-telecom/apple-says-it-will-replace-iphone-duo-units-showing-screen-problems-2026-10-26",
-    "title": "Apple、iPhone Duoの画面不具合端末を交換へ",
-    "topic_key": "apple-iphone-duo-display-replacements-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T06:00:00+09:00",
-    "issue": "2026-10-27-0600"
-  },
-  {
-    "url_normalized": "reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26",
-    "title": "Anthropic向けBroadcom機器、630億ドルの資金調達",
-    "topic_key": "anthropic-broadcom-chips-63b-debt-financing-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T06:00:00+09:00",
-    "issue": "2026-10-27-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/jetblue-airways-posts-wider-quarterly-loss-surging-fuel-costs-2026-10-26",
-    "title": "JetBlue、燃料高で四半期赤字拡大　通期単価見通しは上方修正",
-    "topic_key": "jetblue-q3-loss-fuel-costs-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T06:00:00+09:00",
-    "issue": "2026-10-27-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/us-consumers-paying-most-fuel-price-spikes-iran-war-study-says-2026-10-26",
-    "title": "イラン戦争後の燃料高、米消費者負担は平均471ドル　調査",
-    "topic_key": "us-fuel-cost-iran-war-crea-study-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T06:00:00+09:00",
-    "issue": "2026-10-27-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/us-judge-lets-eli-lilly-continue-ads-weight-loss-drugs-rules-against-novo-2026-10-26",
-    "title": "米裁判所、Lillyの肥満薬広告差し止めを認めず",
-    "topic_key": "novo-lilly-weight-loss-ads-injunction-denied-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T06:00:00+09:00",
-    "issue": "2026-10-27-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/what-is-likely-be-uk-finance-minister-healeys-budget-2026-10-26",
-    "title": "英国初予算、銀行課税と生活費支援が焦点",
-    "topic_key": "uk-healey-first-budget-preview-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T06:00:00+09:00",
-    "issue": "2026-10-27-0600"
-  },
-  {
-    "url_normalized": "reuters.com/legal/transactional/anthropic-opens-books-ais-explosive-growth-staggering-costs-2026-10-26",
-    "title": "AnthropicがIPO書類公開　急成長と巨額損失を開示",
-    "topic_key": "anthropic-ipo-filing-growth-losses-20261026",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T06:00:00+09:00",
-    "issue": "2026-10-27-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/chinas-industrial-profit-growth-picks-up-amid-two-speed-economy-2026-10-27",
     "title": "中国の工業利益、9月は14.4%増　業種間の格差続く",
     "topic_key": "china-industrial-profits-september-14-4-20261027",
@@ -462,5 +406,53 @@
     "source": "ANA / MarketScreener",
     "first_seen": "2026-10-29T22:00:00+09:00",
     "issue": "2026-10-29-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/amazon-projects-fourth-quarter-sales-below-estimates-2026-10-29",
+    "title": "Amazon、AWS売上高39%増　AI投資でフリーキャッシュフローは赤字",
+    "topic_key": "amazon-q3-2026-aws-growth-ai-capex-cash-burn",
+    "source": "Reuters / AP",
+    "first_seen": "2026-10-30T06:00:00+09:00",
+    "issue": "2026-10-30-0600"
+  },
+  {
+    "url_normalized": "intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results",
+    "title": "Intel、7〜9月期売上高21%増　イスラエル工場停止が先行きを圧迫",
+    "topic_key": "intel-q3-2026-israel-fab-pc-outlook",
+    "source": "Intel / Reuters",
+    "first_seen": "2026-10-30T06:00:00+09:00",
+    "issue": "2026-10-30-0600"
+  },
+  {
+    "url_normalized": "investor.coinbase.com/news/news-details/2026/Coinbase-Q3-2026-Earnings-Show-All-time-high-Coinbase-One-Subscribers-and-Prediction-Markets-Surpassing-200-Million-in-Annualized-Revenue/default.aspx",
+    "title": "Coinbase、3四半期ぶり黒字　取引収入は43%減",
+    "topic_key": "coinbase-q3-2026-profit-transaction-revenue-decline",
+    "source": "Coinbase / Reuters",
+    "first_seen": "2026-10-30T06:00:00+09:00",
+    "issue": "2026-10-30-0600"
+  },
+  {
+    "url_normalized": "ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.mt.html",
+    "title": "ECB、主要3金利を据え置き　Lagarde総裁は2027年2月退任へ",
+    "topic_key": "ecb-october-2026-hold-lagarde-resignation",
+    "source": "ECB / Reuters",
+    "first_seen": "2026-10-30T06:00:00+09:00",
+    "issue": "2026-10-30-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/africa/egypts-central-bank-makes-first-rate-hike-since-march-2024-2026-10-29",
+    "title": "エジプト中銀、政策金利を1%引き上げ　2024年3月以来",
+    "topic_key": "egypt-central-bank-october-2026-rate-hike",
+    "source": "Reuters / Ahram Online",
+    "first_seen": "2026-10-30T06:00:00+09:00",
+    "issue": "2026-10-30-0600"
+  },
+  {
+    "url_normalized": "shell.gcs-web.com/news-releases/news-release-details/shell-plc-3rd-quarter-2026-and-nine-months-unaudited-results",
+    "title": "Shell、7〜9月期調整後利益108億ドル　自社株買い50億ドル",
+    "topic_key": "shell-q3-2026-profit-refining-buyback",
+    "source": "Shell / Reuters",
+    "first_seen": "2026-10-30T06:00:00+09:00",
+    "issue": "2026-10-30-0600"
   }
 ]

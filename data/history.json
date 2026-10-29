@@ -2197,7 +2197,7 @@
       "issue_id": "2026-10-29-0600",
       "published_at": "2026-10-29T06:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-29-0600.html",
       "topics": [
         "fed-october-2026-hold-two-hawkish-dissents",
         "bank-canada-october-2026-hike-2-5-inflation",
@@ -2206,6 +2206,21 @@
         "ford-q3-2026-profit-guidance-commodity-costs",
         "chipotle-q3-2026-comparable-sales-margin",
         "rio-tinto-argentina-lithium-projects-20261029"
+      ]
+    },
+    {
+      "issue_id": "2026-10-29-1200",
+      "published_at": "2026-10-29T12:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "samsung-q3-2026-record-profit-ai-memory",
+        "denso-q2-fy2027-profit-costs-buyback",
+        "us-bgi-mgi-import-ban-uflpa-20261028",
+        "china-old-age-dependency-overtakes-children-2025",
+        "china-ai-export-controls-draft-23-technologies-20261028",
+        "truth-social-fast-api-bloomberg-trading-firms-20261029",
+        "petrochina-q3-2026-profit-oil-gas-prices"
       ]
     }
   ]

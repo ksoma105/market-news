@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/finance/japan-companies-compensate-users-cyberattacks-buffet-economy-2026-10-26",
-    "title": "日本企業、サイバー被害の利用者補償へ　GMO株は一時11%安",
-    "topic_key": "japan-cyberattacks-user-compensation-gmo-20261026",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T12:00:00+09:00",
-    "issue": "2026-10-26-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/africa/currency-markets-subdued-ahead-pivotal-central-bank-week-2026-10-26",
-    "title": "為替は中銀会合前に小動き　米30年債利回り5.299%",
-    "topic_key": "global-currencies-central-bank-week-yields-oil-20261026",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T12:00:00+09:00",
-    "issue": "2026-10-26-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/japans-nikkei-edges-lower-tech-sector-weighs-energy-shares-rise-2026-10-26",
-    "title": "日経平均は午前0.43%安　半導体安、資源株高で明暗",
-    "topic_key": "japan-nikkei-tech-energy-divergence-20261026",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T12:00:00+09:00",
-    "issue": "2026-10-26-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/oil-prices-fed-policy-decision-steer-rupee-bonds-this-week-2026-10-26",
-    "title": "インド通貨・国債に原油高圧力　10年債利回り7.474%",
-    "topic_key": "india-rupee-bonds-oil-fed-week-20261026",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T12:00:00+09:00",
-    "issue": "2026-10-26-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/sk-hynix-announce-steps-boost-shareholder-returns-wednesday-2026-10-26",
-    "title": "SKハイニックス、株主還元策を28日発表へ　特別配当は未確定",
-    "topic_key": "sk-hynix-shareholder-return-special-dividend-review-20261026",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T12:00:00+09:00",
-    "issue": "2026-10-26-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/australias-nextdc-ceo-forgo-fiscal-2027-bonuses-after-forecast-cut-project-delay-2026-10-25",
-    "title": "豪NEXTDC、CEOが2027年度賞与を辞退　計画遅延で予想撤回",
-    "topic_key": "nextdc-ceo-bonus-project-delay-revenue-20261025",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T12:00:00+09:00",
-    "issue": "2026-10-26-1200"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/bank-japans-hawkish-pause-leave-scope-december-hike-2026-10-26",
     "title": "日銀、政策金利1.25%据え置き見通し　12月利上げに余地",
     "topic_key": "boj-october-hold-december-hike-outlook-20261026",
@@ -446,5 +398,61 @@
     "source": "Rio Tinto",
     "first_seen": "2026-10-29T06:00:00+09:00",
     "issue": "2026-10-29-0600"
+  },
+  {
+    "url_normalized": "news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
+    "title": "Samsung、7〜9月期営業利益107.4兆ウォン　AIメモリーがけん引",
+    "topic_key": "samsung-q3-2026-record-profit-ai-memory",
+    "source": "Samsung Electronics",
+    "first_seen": "2026-10-29T12:00:00+09:00",
+    "issue": "2026-10-29-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/toyota-supplier-denso-posts-fall-second-quarter-profit-2026-10-29",
+    "title": "デンソー、7〜9月期営業利益18%減　通期5000億円予想は維持",
+    "topic_key": "denso-q2-fy2027-profit-costs-buyback",
+    "source": "Reuters",
+    "first_seen": "2026-10-29T12:00:00+09:00",
+    "issue": "2026-10-29-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/us-bans-imports-three-chinese-genomics-companies-citing-forced-labor-2026-10-28",
+    "title": "米国、BGI系3社からの輸入を禁止　ゲノム機器の供給網に影響",
+    "topic_key": "us-bgi-mgi-import-ban-uflpa-20261028",
+    "source": "Reuters",
+    "first_seen": "2026-10-29T12:00:00+09:00",
+    "issue": "2026-10-29-1200"
+  },
+  {
+    "url_normalized": "internazionale.it/ultime-notizie-reuters/2026/10/28/china-s-old-age-dependency-ratio-overtakes-children-for-first-time",
+    "title": "中国、高齢者扶養比率23.1%　初めて子どもの比率を上回る",
+    "topic_key": "china-old-age-dependency-overtakes-children-2025",
+    "source": "Reuters / Internazionale",
+    "first_seen": "2026-10-29T12:00:00+09:00",
+    "issue": "2026-10-29-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/chinas-new-export-curbs-draw-line-around-its-ai-crown-jewels-2026-10-28",
+    "title": "中国、AI関連23技術の輸出規制案　モデル移転や海外運用を審査",
+    "topic_key": "china-ai-export-controls-draft-23-technologies-20261028",
+    "source": "Reuters",
+    "first_seen": "2026-10-29T12:00:00+09:00",
+    "issue": "2026-10-29-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/bloomberg-two-trading-firms-agree-pay-trumps-truth-social-faster-access-2026-10-29",
+    "title": "Truth Social、投稿の高速配信を月最大10万ドルで販売　市場の公平性に論点",
+    "topic_key": "truth-social-fast-api-bloomberg-trading-firms-20261029",
+    "source": "Reuters",
+    "first_seen": "2026-10-29T12:00:00+09:00",
+    "issue": "2026-10-29-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/petrochinas-q3-net-profit-up-216-year-2026-10-28",
+    "title": "PetroChina、7〜9月期純利益21.6%増　原油・ガス高が追い風",
+    "topic_key": "petrochina-q3-2026-profit-oil-gas-prices",
+    "source": "Reuters",
+    "first_seen": "2026-10-29T12:00:00+09:00",
+    "issue": "2026-10-29-1200"
   }
 ]

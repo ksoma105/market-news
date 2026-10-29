@@ -2212,7 +2212,7 @@
       "issue_id": "2026-10-29-1200",
       "published_at": "2026-10-29T12:00:00+09:00",
       "topic_count": 7,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-29-1200.html",
       "topics": [
         "samsung-q3-2026-record-profit-ai-memory",
         "denso-q2-fy2027-profit-costs-buyback",
@@ -2221,6 +2221,21 @@
         "china-ai-export-controls-draft-23-technologies-20261028",
         "truth-social-fast-api-bloomberg-trading-firms-20261029",
         "petrochina-q3-2026-profit-oil-gas-prices"
+      ]
+    },
+    {
+      "issue_id": "2026-10-29-2200",
+      "published_at": "2026-10-29T22:00:00+09:00",
+      "topic_count": 7,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-q3-gdp-september-pce-inflation-20261029",
+        "japan-consumer-confidence-october-20261029",
+        "eu-eurozone-economic-sentiment-october-20261029",
+        "caterpillar-q3-2026-revenue-backlog-tariffs",
+        "komatsu-h1-fy2027-results-guidance-raise",
+        "takeda-h1-fy2026-core-profit-guidance-raise",
+        "ana-h1-fy2027-revenue-fuel-cost-guidance"
       ]
     }
   ]

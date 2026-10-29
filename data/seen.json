@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/bank-japans-hawkish-pause-leave-scope-december-hike-2026-10-26",
-    "title": "日銀、政策金利1.25%据え置き見通し　12月利上げに余地",
-    "topic_key": "boj-october-hold-december-hike-outlook-20261026",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T22:00:00+09:00",
-    "issue": "2026-10-26-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/indonesia-strengthens-measures-against-stock-manipulation-after-market-rout-2026-10-26",
-    "title": "インドネシア、相場操縦対策を強化　MSCI格下げ警告に対応",
-    "topic_key": "indonesia-stock-manipulation-reforms-msci-warning-20261026",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T22:00:00+09:00",
-    "issue": "2026-10-26-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/german-business-sentiment-grows-october-ifo-survey-finds-2026-10-26",
-    "title": "ドイツ10月Ifo景況感は90.2　6カ月連続で改善",
-    "topic_key": "germany-ifo-business-climate-october-90-2-20261026",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T22:00:00+09:00",
-    "issue": "2026-10-26-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/media-telecom/verizon-lifts-annual-forecasts-signs-more-than-2-billion-ai-infrastructure-deal-2026-10-26",
-    "title": "Verizon、通期予想を上方修正　AWSと20億ドル超のAI基盤契約",
-    "topic_key": "verizon-q3-guidance-aws-ai-fiber-deal-20261026",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T22:00:00+09:00",
-    "issue": "2026-10-26-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/us-retailers-face-record-holiday-delivery-prices-surcharges-tied-costlier-diesel-2026-10-26",
-    "title": "米年末配送費、過去最高の見通し　軽油高と追加料金が圧迫",
-    "topic_key": "us-holiday-delivery-prices-diesel-surcharges-20261026",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T22:00:00+09:00",
-    "issue": "2026-10-26-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/indias-infosys-falls-after-cutting-revenue-growth-guidance-fiscal-2027-2026-10-26",
-    "title": "Infosys、2027年度売上成長予想を1〜2%へ下方修正",
-    "topic_key": "infosys-fy2027-growth-guidance-ai-pricing-pressure-20261026",
-    "source": "Reuters",
-    "first_seen": "2026-10-26T22:00:00+09:00",
-    "issue": "2026-10-26-2200"
-  },
-  {
     "url_normalized": "reuters.com/business/media-telecom/apple-says-it-will-replace-iphone-duo-units-showing-screen-problems-2026-10-26",
     "title": "Apple、iPhone Duoの画面不具合端末を交換へ",
     "topic_key": "apple-iphone-duo-display-replacements-20261027",
@@ -454,5 +406,61 @@
     "source": "Reuters",
     "first_seen": "2026-10-29T12:00:00+09:00",
     "issue": "2026-10-29-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/us/us-economic-growth-accelerates-third-quarter-2026-10-29",
+    "title": "米GDP、7〜9月期3.4%増　9月PCE物価は前年比3.6%",
+    "topic_key": "us-q3-gdp-september-pce-inflation-20261029",
+    "source": "Reuters / BEA",
+    "first_seen": "2026-10-29T22:00:00+09:00",
+    "issue": "2026-10-29-2200"
+  },
+  {
+    "url_normalized": "esri.cao.go.jp/en/stat/shouhi/shouhi-e.html",
+    "title": "10月の消費者態度指数35.0　前月から0.4ポイント低下",
+    "topic_key": "japan-consumer-confidence-october-20261029",
+    "source": "内閣府",
+    "first_seen": "2026-10-29T22:00:00+09:00",
+    "issue": "2026-10-29-2200"
+  },
+  {
+    "url_normalized": "economy-finance.ec.europa.eu/economic-forecast-and-surveys/business-and-consumer-surveys/latest-business-and-consumer-surveys_en",
+    "title": "ユーロ圏景況感96.9に低下　雇用期待は98.2へ改善",
+    "topic_key": "eu-eurozone-economic-sentiment-october-20261029",
+    "source": "欧州委員会",
+    "first_seen": "2026-10-29T22:00:00+09:00",
+    "issue": "2026-10-29-2200"
+  },
+  {
+    "url_normalized": "caterpillar.com/en/news/corporate-press-releases/h/3q26-results-caterpillar-inc.html",
+    "title": "Caterpillar、7〜9月期売上高17%増　受注残781億ドル",
+    "topic_key": "caterpillar-q3-2026-revenue-backlog-tariffs",
+    "source": "Caterpillar / Reuters",
+    "first_seen": "2026-10-29T22:00:00+09:00",
+    "issue": "2026-10-29-2200"
+  },
+  {
+    "url_normalized": "marketscreener.com/news/komatsu-consolidated-business-results-for-six-months-of-the-fiscal-year-ending-march-31-2027-u-s-ce785cd3dd8af320",
+    "title": "コマツ、4〜9月期売上高14.1%増　通期予想を上方修正",
+    "topic_key": "komatsu-h1-fy2027-results-guidance-raise",
+    "source": "コマツ / MarketScreener",
+    "first_seen": "2026-10-29T22:00:00+09:00",
+    "issue": "2026-10-29-2200"
+  },
+  {
+    "url_normalized": "stocktitan.net/sec-filings/TAK/6-k-takeda-pharmaceutical-co-ltd-current-report-foreign-issuer-59c9ab83f801.html",
+    "title": "武田薬品、通期純利益予想2090億円へ上方修正",
+    "topic_key": "takeda-h1-fy2026-core-profit-guidance-raise",
+    "source": "武田薬品 / SEC",
+    "first_seen": "2026-10-29T22:00:00+09:00",
+    "issue": "2026-10-29-2200"
+  },
+  {
+    "url_normalized": "marketscreener.com/news/ana-reports-consolidated-financial-results-for-the-six-months-ended-september-30-2026-ce785cd3dc89f721",
+    "title": "ANA、4〜9月期売上高17.5%増　燃油高で営業利益9.7%減",
+    "topic_key": "ana-h1-fy2027-revenue-fuel-cost-guidance",
+    "source": "ANA / MarketScreener",
+    "first_seen": "2026-10-29T22:00:00+09:00",
+    "issue": "2026-10-29-2200"
   }
 ]

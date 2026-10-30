@@ -2242,7 +2242,7 @@
       "issue_id": "2026-10-30-0600",
       "published_at": "2026-10-30T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-30-0600.html",
       "topics": [
         "amazon-q3-2026-aws-growth-ai-capex-cash-burn",
         "intel-q3-2026-israel-fab-pc-outlook",
@@ -2250,6 +2250,17 @@
         "ecb-october-2026-hold-lagarde-resignation",
         "egypt-central-bank-october-2026-rate-hike",
         "shell-q3-2026-profit-refining-buyback"
+      ]
+    },
+    {
+      "issue_id": "2026-10-30-1200",
+      "published_at": "2026-10-30T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "tokyo-cpi-october-2026-core-2-6",
+        "japan-september-2026-labor-market-unemployment-jobs",
+        "asia-markets-ai-capex-selloff-20261030"
       ]
     }
   ]

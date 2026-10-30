@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/chinas-industrial-profit-growth-picks-up-amid-two-speed-economy-2026-10-27",
-    "title": "中国の工業利益、9月は14.4%増　業種間の格差続く",
-    "topic_key": "china-industrial-profits-september-14-4-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T12:00:00+09:00",
-    "issue": "2026-10-27-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/bank-korea-warns-countrys-chip-exports-could-fall-by-up-100-billion-if-ai-2026-10-27",
-    "title": "韓国中銀、AI投資減速なら半導体輸出最大1,000億ドル減と試算",
-    "topic_key": "bank-korea-ai-capex-chip-export-downside-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T12:00:00+09:00",
-    "issue": "2026-10-27-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/japans-september-corporate-services-prices-rise-37-yryr-2026-10-27",
-    "title": "日本の企業向けサービス価格、9月は3.7%上昇",
-    "topic_key": "japan-september-services-producer-prices-3-7-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T12:00:00+09:00",
-    "issue": "2026-10-27-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/australias-airtrunk-bags-3-billion-green-loan-expand-sydney-data-centre-2026-10-27",
-    "title": "豪AirTrunk、シドニーのデータセンター拡張に42.5億豪ドル融資",
-    "topic_key": "airtrunk-syd3-green-loan-4-25b-aud-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T12:00:00+09:00",
-    "issue": "2026-10-27-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/spain-relaxes-initial-proposal-data-center-rules-2026-10-26",
-    "title": "スペイン、データセンター規制案を緩和　対象を10MW超へ",
-    "topic_key": "spain-data-center-rules-threshold-10mw-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T12:00:00+09:00",
-    "issue": "2026-10-27-1200"
-  },
-  {
     "url_normalized": "reuters.com/business/aerospace-defense/boeing-jetliner-production-challenges-weigh-third-quarter-results-2026-10-27",
     "title": "ボーイング、民間機の供給制約で7〜9月期赤字",
     "topic_key": "boeing-q3-commercial-airplanes-supply-chain-20261027",
@@ -454,5 +414,29 @@
     "source": "Shell / Reuters",
     "first_seen": "2026-10-30T06:00:00+09:00",
     "issue": "2026-10-30-0600"
+  },
+  {
+    "url_normalized": "stat.go.jp/data/cpi/sokuhou/tsuki/pdf/kubu.pdf",
+    "title": "東京の10月消費者物価、コア2.6%上昇　日銀目標を上回る",
+    "topic_key": "tokyo-cpi-october-2026-core-2-6",
+    "source": "総務省統計局",
+    "first_seen": "2026-10-30T12:00:00+09:00",
+    "issue": "2026-10-30-1200"
+  },
+  {
+    "url_normalized": "stat.go.jp/data/roudou/sokuhou/tsuki",
+    "title": "9月失業率2.4%に低下　求人倍率は1.19倍へ小幅上昇",
+    "topic_key": "japan-september-2026-labor-market-unemployment-jobs",
+    "source": "総務省統計局 / 厚生労働省",
+    "first_seen": "2026-10-30T12:00:00+09:00",
+    "issue": "2026-10-30-1200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/transactional/global-markets-global-markets-2026-10-30",
+    "title": "AI投資懸念でアジア株下落　日経平均は一時3%安",
+    "topic_key": "asia-markets-ai-capex-selloff-20261030",
+    "source": "Reuters / AP",
+    "first_seen": "2026-10-30T12:00:00+09:00",
+    "issue": "2026-10-30-1200"
   }
 ]

@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/moodys-sees-positive-shift-japans-growth-resilience-remains-key-test-2026-10-27",
-    "title": "Moody’s、日本経済に持続成長の兆し　A1・安定的を維持",
-    "topic_key": "japan-moodys-a1-growth-resilience-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-28T06:00:00+09:00",
-    "issue": "2026-10-28-0600"
-  },
-  {
-    "url_normalized": "marketscreener.com/news/wall-street-ends-higher-on-revived-ai-momentum-ce785cddde81f423",
-    "title": "米株、AI関連株がけん引　ナスダック1.18%高",
-    "topic_key": "wall-street-ai-momentum-index-close-20261027",
-    "source": "Reuters / MarketScreener",
-    "first_seen": "2026-10-28T06:00:00+09:00",
-    "issue": "2026-10-28-0600"
-  },
-  {
-    "url_normalized": "reuters.com/technology/visa-quarterly-profit-jumps-resilient-consumer-spending-2026-10-27",
-    "title": "Visa、7〜9月期純利益60億ドル　決済量9%増",
-    "topic_key": "visa-q4-2026-payments-cross-border-profit-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-28T06:00:00+09:00",
-    "issue": "2026-10-28-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/robinhood-quarterly-profit-falls-softer-crypto-activity-outweighs-robust-trading-2026-10-27",
-    "title": "Robinhood、暗号資産収入55%減で純利益14%減",
-    "topic_key": "robinhood-q3-2026-crypto-revenue-profit-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-28T06:00:00+09:00",
-    "issue": "2026-10-28-0600"
-  },
-  {
-    "url_normalized": "via.ritzau.dk/pressemeddelelse/15252867/logitech-announces-q2-fiscal-year-2027-results",
-    "title": "Logitech、7〜9月期売上高3%増　供給障害は続く",
-    "topic_key": "logitech-q2-fy2027-supplier-incident-20261027",
-    "source": "Logitech / Business Wire",
-    "first_seen": "2026-10-28T06:00:00+09:00",
-    "issue": "2026-10-28-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/sp-pushes-thames-water-ratings-deeper-into-junk-territory-debt-restructuring-2026-10-27",
-    "title": "Thames Water、S&PがCCC−へ格下げ　債務再編を警戒",
-    "topic_key": "thames-water-sp-ccc-minus-restructuring-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-28T06:00:00+09:00",
-    "issue": "2026-10-28-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/sk-hynix-q3-profit-jumps-more-than-7-fold-beats-forecasts-2026-10-27",
     "title": "SK hynix、7〜9月期営業利益が7倍超　株主還元は約100兆ウォン",
     "topic_key": "sk-hynix-q3-2026-record-profit-shareholder-return-20261028",
@@ -438,5 +390,45 @@
     "source": "ExxonMobil / Reuters",
     "first_seen": "2026-10-30T22:00:00+09:00",
     "issue": "2026-10-30-2200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/transactional/tether-circle-freeze-238-billion-after-binance-reports-security-incident-2026-10-29",
+    "title": "Binanceから63億ドル流出　顧客損失は会社資金で補填へ",
+    "topic_key": "binance-6-3-billion-hack-20261030",
+    "source": "Reuters",
+    "first_seen": "2026-10-31T06:00:00+09:00",
+    "issue": "2026-10-31-0600"
+  },
+  {
+    "url_normalized": "www150.statcan.gc.ca/n1/daily-quotidien/261030/dq261030a-eng.htm",
+    "title": "カナダ8月GDPは横ばい　9月速報は0.1%減を示唆",
+    "topic_key": "canada-august-2026-gdp-flat",
+    "source": "カナダ統計局",
+    "first_seen": "2026-10-31T06:00:00+09:00",
+    "issue": "2026-10-31-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/chevron-tops-q3-expectations-higher-downstream-profit-2026-10-30",
+    "title": "Chevron、7〜9月調整後利益104億ドル　精製採算が支え",
+    "topic_key": "chevron-q3-2026-refining-profit",
+    "source": "Reuters",
+    "first_seen": "2026-10-31T06:00:00+09:00",
+    "issue": "2026-10-31-0600"
+  },
+  {
+    "url_normalized": "ir.jinkosolar.com/news-releases/news-release-details/jinko-holdings-announces-third-quarter-2026-financial-results",
+    "title": "Jinko Holdings、粗利率12.3%へ改善　蓄電事業が寄与",
+    "topic_key": "jinko-holdings-q3-2026-margin-storage",
+    "source": "Jinko Holdings",
+    "first_seen": "2026-10-31T06:00:00+09:00",
+    "issue": "2026-10-31-0600"
+  },
+  {
+    "url_normalized": "investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-announces-3rd-quarter-2026-results",
+    "title": "Colgate-Palmolive、7〜9月売上高4.6%増　通期利益見通しを引き上げ",
+    "topic_key": "colgate-palmolive-q3-2026-guidance",
+    "source": "Colgate-Palmolive",
+    "first_seen": "2026-10-31T06:00:00+09:00",
+    "issue": "2026-10-31-0600"
   }
 ]

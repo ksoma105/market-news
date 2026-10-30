@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/aerospace-defense/boeing-jetliner-production-challenges-weigh-third-quarter-results-2026-10-27",
-    "title": "ボーイング、民間機の供給制約で7〜9月期赤字",
-    "topic_key": "boeing-q3-commercial-airplanes-supply-chain-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T22:00:00+09:00",
-    "issue": "2026-10-27-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/hsbcs-third-quarter-profit-jumps-32-line-with-estimates-2026-10-27",
-    "title": "HSBC、7〜9月期増益も収入が市場予想に届かず",
-    "topic_key": "hsbc-q3-2026-revenue-wealth-growth-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T22:00:00+09:00",
-    "issue": "2026-10-27-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/paypal-raises-2026-profit-forecast-turnaround-gains-traction-2026-10-27",
-    "title": "PayPal、通期利益見通しを1株5.60ドルへ引き上げ",
-    "topic_key": "paypal-q3-2026-profit-guidance-turnaround-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T22:00:00+09:00",
-    "issue": "2026-10-27-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/euro-zone-mortgage-demand-falls-rates-rise-ecb-survey-shows-2026-10-27",
-    "title": "ユーロ圏の住宅ローン需要、金利上昇で大幅減",
-    "topic_key": "eurozone-bank-lending-survey-mortgage-demand-2026q3",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T22:00:00+09:00",
-    "issue": "2026-10-27-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/finlands-wartsila-tops-quarterly-order-estimates-carried-by-data-centre-power-2026-10-27",
-    "title": "Wärtsilä、データセンター需要で受注拡大　中期目標には失望",
-    "topic_key": "wartsila-q3-2026-datacenter-orders-targets-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T22:00:00+09:00",
-    "issue": "2026-10-27-2200"
-  },
-  {
-    "url_normalized": "reuters.com/legal/litigation/guidewire-buy-uk-insurance-ai-firm-hyperexponential-deal-worth-up-21-billion-2026-10-27",
-    "title": "Guidewire、保険AI企業を最大21億ドルで買収へ",
-    "topic_key": "guidewire-hyperexponential-acquisition-2-1b-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-27T22:00:00+09:00",
-    "issue": "2026-10-27-2200"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/moodys-sees-positive-shift-japans-growth-resilience-remains-key-test-2026-10-27",
     "title": "Moody’s、日本経済に持続成長の兆し　A1・安定的を維持",
     "topic_key": "japan-moodys-a1-growth-resilience-20261027",
@@ -438,5 +390,53 @@
     "source": "Reuters / AP",
     "first_seen": "2026-10-30T12:00:00+09:00",
     "issue": "2026-10-30-1200"
+  },
+  {
+    "url_normalized": "boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+    "title": "日銀、政策金利1.25%を維持　ETF売却を年8600億円へ加速",
+    "topic_key": "boj-october-2026-hold-etf-sales-acceleration",
+    "source": "日本銀行",
+    "first_seen": "2026-10-30T22:00:00+09:00",
+    "issue": "2026-10-30-2200"
+  },
+  {
+    "url_normalized": "ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap",
+    "title": "ユーロ圏GDP、7〜9月期0.4%増　予想上回るも国別格差",
+    "topic_key": "eurozone-q3-2026-gdp-flash",
+    "source": "Eurostat / AP",
+    "first_seen": "2026-10-30T22:00:00+09:00",
+    "issue": "2026-10-30-2200"
+  },
+  {
+    "url_normalized": "news.panasonic.com/uploads/tmg_block_page_image/file/41320/en261030-2-1.pdf",
+    "title": "パナソニック、通期営業益予想7100億円へ上方修正　AI需要が寄与",
+    "topic_key": "panasonic-h1-fy2027-guidance-ai-demand",
+    "source": "Panasonic / Reuters",
+    "first_seen": "2026-10-30T22:00:00+09:00",
+    "issue": "2026-10-30-2200"
+  },
+  {
+    "url_normalized": "tel.com/ir/irta3a00000006g5-att/fy27q2tanshin-e.pdf",
+    "title": "東京エレクトロン、4〜9月営業益67%増　通期売上高3.7兆円予想",
+    "topic_key": "tokyo-electron-h1-fy2027-ai-capex",
+    "source": "東京エレクトロン",
+    "first_seen": "2026-10-30T22:00:00+09:00",
+    "issue": "2026-10-30-2200"
+  },
+  {
+    "url_normalized": "astrazeneca.com/media-centre/press-releases/2026/9m-and-q3-2026-results.html",
+    "title": "AstraZeneca、1〜9月売上高469億ドル　通期見通し維持",
+    "topic_key": "astrazeneca-9m-q3-2026-results",
+    "source": "AstraZeneca",
+    "first_seen": "2026-10-30T22:00:00+09:00",
+    "issue": "2026-10-30-2200"
+  },
+  {
+    "url_normalized": "investor.exxonmobil.com/company-information/press-releases/detail/1213/exxonmobil-announces-third-quarter-2026-results",
+    "title": "ExxonMobil、7〜9月調整後利益175億ドル　精製部門が上流を上回る",
+    "topic_key": "exxonmobil-q3-2026-refining-profit",
+    "source": "ExxonMobil / Reuters",
+    "first_seen": "2026-10-30T22:00:00+09:00",
+    "issue": "2026-10-30-2200"
   }
 ]

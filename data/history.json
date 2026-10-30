@@ -2256,11 +2256,25 @@
       "issue_id": "2026-10-30-1200",
       "published_at": "2026-10-30T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-30-1200.html",
       "topics": [
         "tokyo-cpi-october-2026-core-2-6",
         "japan-september-2026-labor-market-unemployment-jobs",
         "asia-markets-ai-capex-selloff-20261030"
+      ]
+    },
+    {
+      "issue_id": "2026-10-30-2200",
+      "published_at": "2026-10-30T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "boj-october-2026-hold-etf-sales-acceleration",
+        "eurozone-q3-2026-gdp-flash",
+        "panasonic-h1-fy2027-guidance-ai-demand",
+        "tokyo-electron-h1-fy2027-ai-capex",
+        "astrazeneca-9m-q3-2026-results",
+        "exxonmobil-q3-2026-refining-profit"
       ]
     }
   ]

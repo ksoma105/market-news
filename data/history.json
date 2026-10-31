@@ -2307,7 +2307,7 @@
       "issue_id": "2026-10-31-2200",
       "published_at": "2026-10-31T22:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-31-2200.html",
       "topics": [
         "nasdaq100-october-2026-ai-spending-wipeout",
         "openai-funding-target-cut-20b-valuation-1-25t-20261031",
@@ -2315,6 +2315,19 @@
         "alaska-air-200-jobs-fuel-cost-1-8b-20261031",
         "virgin-media-o2-job-cuts-debt-22b-20261031",
         "india-uk-bulk-scotch-tariff-dispute-20261031"
+      ]
+    },
+    {
+      "issue_id": "2026-11-01-0600",
+      "published_at": "2026-11-01T06:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "black-sea-limited-ceasefire-grain-energy-proposals-20261031",
+        "quad-semiconductor-supply-chain-ai-85m-20261031",
+        "us-power-bills-datacenters-midterms-20261031",
+        "sun-pharma-assam-ophthalmic-production-halt-20261030",
+        "reliance-q2-2026-profit-refining-jio-retail-20261030"
       ]
     }
   ]

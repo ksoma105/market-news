@@ -1,61 +1,5 @@
 [
   {
-    "url_normalized": "federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-    "title": "FRB、政策金利を3.75〜4.00%に据え置き　2人は0.25ポイント利上げ主張",
-    "topic_key": "fed-october-2026-hold-two-hawkish-dissents",
-    "source": "Federal Reserve / Reuters",
-    "first_seen": "2026-10-29T06:00:00+09:00",
-    "issue": "2026-10-29-0600"
-  },
-  {
-    "url_normalized": "bankofcanada.ca/2026/10/fad-press-release-2026-10-28",
-    "title": "カナダ中銀、3年超ぶり利上げ　政策金利2.5%へ",
-    "topic_key": "bank-canada-october-2026-hike-2-5-inflation",
-    "source": "Bank of Canada / Reuters",
-    "first_seen": "2026-10-29T06:00:00+09:00",
-    "issue": "2026-10-29-0600"
-  },
-  {
-    "url_normalized": "sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
-    "title": "Alphabet、売上高25%増も市場予想届かず　AI投資でFCF赤字",
-    "topic_key": "alphabet-q3-2026-revenue-cloud-negative-fcf",
-    "source": "Alphabet / SEC EDGAR / Reuters",
-    "first_seen": "2026-10-29T06:00:00+09:00",
-    "issue": "2026-10-29-0600"
-  },
-  {
-    "url_normalized": "microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast",
-    "title": "Microsoft、Azure売上高48%増　設備投資は452億ドル",
-    "topic_key": "microsoft-fy2027-q1-azure-capex-fcf",
-    "source": "Microsoft / Reuters",
-    "first_seen": "2026-10-29T06:00:00+09:00",
-    "issue": "2026-10-29-0600"
-  },
-  {
-    "url_normalized": "stocktitan.net/sec-filings/F/8-k-ford-motor-co-reports-material-event-b003fc9ee45a.html",
-    "title": "Ford、通期利益見通し下限を105億ドルへ　商品コスト逆風は25億ドル",
-    "topic_key": "ford-q3-2026-profit-guidance-commodity-costs",
-    "source": "Ford / SEC EDGAR / Reuters",
-    "first_seen": "2026-10-29T06:00:00+09:00",
-    "issue": "2026-10-29-0600"
-  },
-  {
-    "url_normalized": "prnewswire.com/news-releases/chipotle-announces-third-quarter-2026-results-302922487.html",
-    "title": "Chipotle、既存店売上高2.1%増　コスト高で利益率低下",
-    "topic_key": "chipotle-q3-2026-comparable-sales-margin",
-    "source": "Chipotle / Reuters",
-    "first_seen": "2026-10-29T06:00:00+09:00",
-    "issue": "2026-10-29-0600"
-  },
-  {
-    "url_normalized": "riotinto.com/en/news/releases/2026/rio-tinto-celebrates-opening-of-1-4-billion-lithium-projects-in-argentina",
-    "title": "Rio Tinto、アルゼンチンで14億ドルのリチウム2案件を開業",
-    "topic_key": "rio-tinto-argentina-lithium-projects-20261029",
-    "source": "Rio Tinto",
-    "first_seen": "2026-10-29T06:00:00+09:00",
-    "issue": "2026-10-29-0600"
-  },
-  {
     "url_normalized": "news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
     "title": "Samsung、7〜9月期営業利益107.4兆ウォン　AIメモリーがけん引",
     "topic_key": "samsung-q3-2026-record-profit-ai-memory",
@@ -414,5 +358,45 @@
     "source": "Reuters",
     "first_seen": "2026-10-31T22:00:00+09:00",
     "issue": "2026-10-31-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/us-sees-growing-interest-limited-ceasefire-black-sea-2026-10-31",
+    "title": "黒海の限定停戦構想、米国がトルコ・インド案を検討",
+    "topic_key": "black-sea-limited-ceasefire-grain-energy-proposals-20261031",
+    "source": "Reuters",
+    "first_seen": "2026-11-01T06:00:00+09:00",
+    "issue": "2026-11-01-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/rubio-host-meeting-indo-pacific-quad-wrap-up-g20-gathering-2026-10-31",
+    "title": "日米豪印、半導体供給網の弱点把握へ　AI支援は8500万ドル超",
+    "topic_key": "quad-semiconductor-supply-chain-ai-85m-20261031",
+    "source": "Reuters",
+    "first_seen": "2026-11-01T06:00:00+09:00",
+    "issue": "2026-11-01-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/power-bills-data-centers-cast-rare-spotlight-utilities-us-midterms-2026-10-31",
+    "title": "米住宅電気料金、2024年比10%超上昇　データセンターが選挙争点に",
+    "topic_key": "us-power-bills-datacenters-midterms-20261031",
+    "source": "Reuters",
+    "first_seen": "2026-11-01T06:00:00+09:00",
+    "issue": "2026-11-01-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/india-orders-sun-pharma-halt-eye-care-drug-production-plant-after-quality-lapses-2026-10-30",
+    "title": "インド当局、Sun Pharma工場の眼科薬生産を停止",
+    "topic_key": "sun-pharma-assam-ophthalmic-production-halt-20261030",
+    "source": "Reuters",
+    "first_seen": "2026-11-01T06:00:00+09:00",
+    "issue": "2026-11-01-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/indian-billionaire-ambanis-reliance-posts-40-rise-quarterly-profit-2026-10-30",
+    "title": "Reliance、四半期純利益40.6%増　精製とJioがけん引",
+    "topic_key": "reliance-q2-2026-profit-refining-jio-retail-20261030",
+    "source": "Reuters",
+    "first_seen": "2026-11-01T06:00:00+09:00",
+    "issue": "2026-11-01-0600"
   }
 ]

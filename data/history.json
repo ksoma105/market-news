@@ -2281,13 +2281,26 @@
       "issue_id": "2026-10-31-0600",
       "published_at": "2026-10-31T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-31-0600.html",
       "topics": [
         "binance-6-3-billion-hack-20261030",
         "canada-august-2026-gdp-flat",
         "chevron-q3-2026-refining-profit",
         "jinko-holdings-q3-2026-margin-storage",
         "colgate-palmolive-q3-2026-guidance"
+      ]
+    },
+    {
+      "issue_id": "2026-10-31-1200",
+      "published_at": "2026-10-31T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-october-2026-official-pmi",
+        "us-sec-ai-corporate-disclosures-20261030",
+        "toyota-waymo-bz4x-autonomous-japan-2027",
+        "japan-china-lng-import-ranking-2026",
+        "ecb-spf-q4-2026-inflation-forecast"
       ]
     }
   ]

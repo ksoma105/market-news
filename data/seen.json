@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/sk-hynix-q3-profit-jumps-more-than-7-fold-beats-forecasts-2026-10-27",
-    "title": "SK hynix、7〜9月期営業利益が7倍超　株主還元は約100兆ウォン",
-    "topic_key": "sk-hynix-q3-2026-record-profit-shareholder-return-20261028",
-    "source": "Reuters",
-    "first_seen": "2026-10-28T12:00:00+09:00",
-    "issue": "2026-10-28-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/dollar-holds-gains-ahead-fed-policy-signal-rbnz-decision-2026-10-28",
-    "title": "NZ中銀、政策金利を2.75%に据え置き　4対3の僅差",
-    "topic_key": "rbnz-october-2026-hold-2-75-split-vote",
-    "source": "Reuters / RBNZ",
-    "first_seen": "2026-10-28T12:00:00+09:00",
-    "issue": "2026-10-28-1200"
-  },
-  {
-    "url_normalized": "abs.gov.au/media-centre/media-releases/cpi-rose-43-year-september-2026",
-    "title": "豪CPI、9月に前年比4.3%上昇　住宅と燃料が押し上げ",
-    "topic_key": "australia-september-2026-cpi-4-3-inflation",
-    "source": "Australian Bureau of Statistics",
-    "first_seen": "2026-10-28T12:00:00+09:00",
-    "issue": "2026-10-28-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/oil-prices-rise-after-attack-saudi-arabian-refinery-reignites-supply-concerns-2026-10-28",
-    "title": "サウジ製油所への攻撃主張で原油反発　ブレント115.36ドル",
-    "topic_key": "saudi-refinery-attack-claim-oil-prices-20261028",
-    "source": "Reuters",
-    "first_seen": "2026-10-28T12:00:00+09:00",
-    "issue": "2026-10-28-1200"
-  },
-  {
-    "url_normalized": "reuters.com/legal/transactional/nearly-90-businesses-are-turning-tokenised-money-dbs-survey-shows-2026-10-28",
-    "title": "DBS調査、企業の88%がトークン化マネーを導入・試行",
-    "topic_key": "dbs-tokenised-money-business-survey-20261028",
-    "source": "Reuters",
-    "first_seen": "2026-10-28T12:00:00+09:00",
-    "issue": "2026-10-28-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/indias-larsen-toubro-profit-rises-infrastructure-demand-gulf-orders-drive-growth-2026-10-27",
-    "title": "インドL&T、7〜9月期純利益33%増　海外受注がけん引",
-    "topic_key": "larsen-toubro-q2-fy2027-profit-orders-20261027",
-    "source": "Reuters",
-    "first_seen": "2026-10-28T12:00:00+09:00",
-    "issue": "2026-10-28-1200"
-  },
-  {
     "url_normalized": "stocktitan.net/sec-filings/NMR/6-k-nomura-holdings-inc-current-report-foreign-issuer-4ce2b6b17826.html",
     "title": "野村HD、7〜9月期純利益13%増　中間配当は35円",
     "topic_key": "nomura-q2-fy2027-profit-dividend-20261028",
@@ -430,5 +382,45 @@
     "source": "Colgate-Palmolive",
     "first_seen": "2026-10-31T06:00:00+09:00",
     "issue": "2026-10-31-0600"
+  },
+  {
+    "url_normalized": "stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html",
+    "title": "中国10月製造業PMIは49.3　3カ月ぶりの速い縮小",
+    "topic_key": "china-october-2026-official-pmi",
+    "source": "中国国家統計局 / Reuters",
+    "first_seen": "2026-10-31T12:00:00+09:00",
+    "issue": "2026-10-31-1200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/government/us-secs-top-cop-says-agency-is-monitoring-ai-corporate-disclosures-2026-10-30",
+    "title": "米SEC、AI企業の開示を監視　循環取引や投資リスクに焦点",
+    "topic_key": "us-sec-ai-corporate-disclosures-20261030",
+    "source": "Reuters",
+    "first_seen": "2026-10-31T12:00:00+09:00",
+    "issue": "2026-10-31-1200"
+  },
+  {
+    "url_normalized": "global.toyota/en/newsroom/corporate/44960881.html",
+    "title": "トヨタとWaymo、2027年に国内製bZ4Xで自動運転試験",
+    "topic_key": "toyota-waymo-bz4x-autonomous-japan-2027",
+    "source": "トヨタ自動車 / Waymo / Reuters",
+    "first_seen": "2026-10-31T12:00:00+09:00",
+    "issue": "2026-10-31-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/china-set-lose-lng-import-crown-japan-weak-demand-2026-10-30",
+    "title": "2026年LNG輸入、日本が中国を上回る見通し　中国需要が鈍化",
+    "topic_key": "japan-china-lng-import-ranking-2026",
+    "source": "Reuters",
+    "first_seen": "2026-10-31T12:00:00+09:00",
+    "issue": "2026-10-31-1200"
+  },
+  {
+    "url_normalized": "ecb.europa.eu/press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+    "title": "ECB専門家調査、2027年インフレ予想を2.6%へ引き上げ",
+    "topic_key": "ecb-spf-q4-2026-inflation-forecast",
+    "source": "欧州中央銀行 / Reuters",
+    "first_seen": "2026-10-31T12:00:00+09:00",
+    "issue": "2026-10-31-1200"
   }
 ]

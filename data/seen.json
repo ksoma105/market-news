@@ -1,61 +1,5 @@
 [
   {
-    "url_normalized": "stocktitan.net/sec-filings/NMR/6-k-nomura-holdings-inc-current-report-foreign-issuer-4ce2b6b17826.html",
-    "title": "野村HD、7〜9月期純利益13%増　中間配当は35円",
-    "topic_key": "nomura-q2-fy2027-profit-dividend-20261028",
-    "source": "Nomura / SEC EDGAR",
-    "first_seen": "2026-10-28T22:00:00+09:00",
-    "issue": "2026-10-28-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/indian-shares-set-lower-open-oil-rise-weighs-jio-market-debut-focus-2026-10-28",
-    "title": "Jio Platforms、上場初日に27%高　評価額は1,373億ドル",
-    "topic_key": "jio-platforms-ipo-debut-valuation-20261028",
-    "source": "Reuters",
-    "first_seen": "2026-10-28T22:00:00+09:00",
-    "issue": "2026-10-28-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/equinor-profit-jumps-middle-east-war-lifts-oil-gas-prices-2026-10-28",
-    "title": "Equinor、7〜9月期調整後利益が倍増　生産見通しを上方修正",
-    "topic_key": "equinor-q3-2026-profit-output-target-20261028",
-    "source": "Reuters",
-    "first_seen": "2026-10-28T22:00:00+09:00",
-    "issue": "2026-10-28-2200"
-  },
-  {
-    "url_normalized": "reuters.com/technology/dassault-systmes-raises-2026-growth-target-2026-10-28",
-    "title": "Dassault Systèmes、2026年見通しを上方修正　売上高5%増",
-    "topic_key": "dassault-systemes-q3-2026-guidance-raise-20261028",
-    "source": "Reuters",
-    "first_seen": "2026-10-28T22:00:00+09:00",
-    "issue": "2026-10-28-2200"
-  },
-  {
-    "url_normalized": "reuters.com/legal/transactional/ubs-meets-expectations-with-27-billion-q3-profit-2026-10-28",
-    "title": "UBS、7〜9月期純利益8%増　自社株買い完了を前倒し",
-    "topic_key": "ubs-q3-2026-profit-buyback-capital-rules-20261028",
-    "source": "Reuters",
-    "first_seen": "2026-10-28T22:00:00+09:00",
-    "issue": "2026-10-28-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/uk/uk-budget-heres-what-finance-minister-healey-is-announcing-2026-10-28",
-    "title": "英国予算、財政余力は150億ポンド　2026年成長率1.2%へ",
-    "topic_key": "uk-budget-2026-fiscal-headroom-growth-20261028",
-    "source": "Reuters / UK Budget statement",
-    "first_seen": "2026-10-28T22:00:00+09:00",
-    "issue": "2026-10-28-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/us-goods-trade-deficit-unexpectedly-widens-september-2026-10-28",
-    "title": "米財貿易赤字、9月は1,349億ドルへ拡大",
-    "topic_key": "us-september-2026-goods-trade-deficit-20261028",
-    "source": "Reuters / U.S. Census Bureau",
-    "first_seen": "2026-10-28T22:00:00+09:00",
-    "issue": "2026-10-28-2200"
-  },
-  {
     "url_normalized": "federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
     "title": "FRB、政策金利を3.75〜4.00%に据え置き　2人は0.25ポイント利上げ主張",
     "topic_key": "fed-october-2026-hold-two-hawkish-dissents",
@@ -422,5 +366,53 @@
     "source": "欧州中央銀行 / Reuters",
     "first_seen": "2026-10-31T12:00:00+09:00",
     "issue": "2026-10-31-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/nasdaq-faces-2-trillion-wipeout-october-ai-spending-fears-deepen-2026-10-30",
+    "title": "NASDAQ100、10月に5.8%超下落　時価総額2兆ドル超が消失見込み",
+    "topic_key": "nasdaq100-october-2026-ai-spending-wipeout",
+    "source": "Reuters",
+    "first_seen": "2026-10-31T22:00:00+09:00",
+    "issue": "2026-10-31-2200"
+  },
+  {
+    "url_normalized": "theedgemalaysia.com/node/824049",
+    "title": "OpenAI、資金調達目標を100億ドル縮小との報道",
+    "topic_key": "openai-funding-target-cut-20b-valuation-1-25t-20261031",
+    "source": "The Edge Malaysia（FT報道）",
+    "first_seen": "2026-10-31T22:00:00+09:00",
+    "issue": "2026-10-31-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/europe/fitch-revises-frances-outlook-negative-worsening-debt-dynamics-2026-10-30",
+    "title": "Fitch、フランス信用見通しを「ネガティブ」に変更",
+    "topic_key": "fitch-france-outlook-negative-debt-124pct-2028",
+    "source": "Reuters",
+    "first_seen": "2026-10-31T22:00:00+09:00",
+    "issue": "2026-10-31-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/world-at-work/alaska-air-cut-200-jobs-fuel-costs-threaten-700-million-annual-loss-2026-10-30",
+    "title": "Alaska Air、燃料費18億ドル上振れ　約200人削減へ",
+    "topic_key": "alaska-air-200-jobs-fuel-cost-1-8b-20261031",
+    "source": "Reuters",
+    "first_seen": "2026-10-31T22:00:00+09:00",
+    "issue": "2026-10-31-2200"
+  },
+  {
+    "url_normalized": "news.sky.com/story/virgin-media-o2-to-axe-thousands-of-jobs-in-sweeping-shake-up-13606062",
+    "title": "Virgin Media O2、最大4000人削減案　債務220億ポンドが重荷",
+    "topic_key": "virgin-media-o2-job-cuts-debt-22b-20261031",
+    "source": "Sky News",
+    "first_seen": "2026-10-31T22:00:00+09:00",
+    "issue": "2026-10-31-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/india-meet-liquor-firms-domestic-giants-join-foreign-peers-scotch-dispute-2026-10-31",
+    "title": "インド、バルク・スコッチの関税半減を認めず　英印協定で初の大きな争点",
+    "topic_key": "india-uk-bulk-scotch-tariff-dispute-20261031",
+    "source": "Reuters",
+    "first_seen": "2026-10-31T22:00:00+09:00",
+    "issue": "2026-10-31-2200"
   }
 ]

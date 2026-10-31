@@ -2294,13 +2294,27 @@
       "issue_id": "2026-10-31-1200",
       "published_at": "2026-10-31T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-10-31-1200.html",
       "topics": [
         "china-october-2026-official-pmi",
         "us-sec-ai-corporate-disclosures-20261030",
         "toyota-waymo-bz4x-autonomous-japan-2027",
         "japan-china-lng-import-ranking-2026",
         "ecb-spf-q4-2026-inflation-forecast"
+      ]
+    },
+    {
+      "issue_id": "2026-10-31-2200",
+      "published_at": "2026-10-31T22:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "nasdaq100-october-2026-ai-spending-wipeout",
+        "openai-funding-target-cut-20b-valuation-1-25t-20261031",
+        "fitch-france-outlook-negative-debt-124pct-2028",
+        "alaska-air-200-jobs-fuel-cost-1-8b-20261031",
+        "virgin-media-o2-job-cuts-debt-22b-20261031",
+        "india-uk-bulk-scotch-tariff-dispute-20261031"
       ]
     }
   ]

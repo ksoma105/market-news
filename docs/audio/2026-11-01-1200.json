@@ -1,0 +1,9 @@
+{
+  "issue_id": "2026-11-01-1200",
+  "model_id": "eleven_v4",
+  "status": "ready",
+  "checked_at": "2026-11-01T03:11:45.161496+00:00",
+  "file": "2026-11-01-1200.mp3",
+  "duration_seconds": 243.33,
+  "narration_sha256": "2a54b17d0694c3440f033f914e408e80b27e192a0695f67483dcf79861562730"
+}

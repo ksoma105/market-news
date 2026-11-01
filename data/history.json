@@ -2334,13 +2334,27 @@
       "issue_id": "2026-11-01-1200",
       "published_at": "2026-11-01T12:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-01-1200.html",
       "topics": [
         "south-korea-october-exports-ai-semiconductors-20261101",
         "opecplus-december-output-targets-steady-20261031",
         "vietnam-electricity-price-cut-gasoline-tax-zero-20261101",
         "bangladesh-garment-wage-board-protests-20261101",
         "ghana-russia-2000mw-nuclear-power-plant-20261031"
+      ]
+    },
+    {
+      "issue_id": "2026-11-02-0600",
+      "published_at": "2026-11-02T06:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "iran-qatar-us-talks-hormuz-proposal-20261101",
+        "hormuz-two-tankers-mines-irgc-20261101",
+        "venture-global-plaquemines-phase1-commercial-lng-20261101",
+        "byd-october-sales-exports-growth-20261101",
+        "germany-engineering-wage-warning-strikes-20261101",
+        "canada-us-trade-framework-carney-trump-20261101"
       ]
     }
   ]

@@ -2321,13 +2321,26 @@
       "issue_id": "2026-11-01-0600",
       "published_at": "2026-11-01T06:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-01-0600.html",
       "topics": [
         "black-sea-limited-ceasefire-grain-energy-proposals-20261031",
         "quad-semiconductor-supply-chain-ai-85m-20261031",
         "us-power-bills-datacenters-midterms-20261031",
         "sun-pharma-assam-ophthalmic-production-halt-20261030",
         "reliance-q2-2026-profit-refining-jio-retail-20261030"
+      ]
+    },
+    {
+      "issue_id": "2026-11-01-1200",
+      "published_at": "2026-11-01T12:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "south-korea-october-exports-ai-semiconductors-20261101",
+        "opecplus-december-output-targets-steady-20261031",
+        "vietnam-electricity-price-cut-gasoline-tax-zero-20261101",
+        "bangladesh-garment-wage-board-protests-20261101",
+        "ghana-russia-2000mw-nuclear-power-plant-20261031"
       ]
     }
   ]

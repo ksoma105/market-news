@@ -2347,7 +2347,7 @@
       "issue_id": "2026-11-02-0600",
       "published_at": "2026-11-02T06:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-02-0600.html",
       "topics": [
         "iran-qatar-us-talks-hormuz-proposal-20261101",
         "hormuz-two-tankers-mines-irgc-20261101",
@@ -2355,6 +2355,20 @@
         "byd-october-sales-exports-growth-20261101",
         "germany-engineering-wage-warning-strikes-20261101",
         "canada-us-trade-framework-carney-trump-20261101"
+      ]
+    },
+    {
+      "issue_id": "2026-11-02-1200",
+      "published_at": "2026-11-02T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-october-manufacturing-pmi-53-3-costs-20261102",
+        "south-korea-october-manufacturing-pmi-51-3-20261102",
+        "south-korea-2027-budget-ai-investment-21-3tn-won-20261102",
+        "asia-october-crude-imports-refined-fuel-tightness-20261102",
+        "us-vietnam-ip-tariff-probe-tesla-samsung-20261102",
+        "turkey-sinop-nuclear-south-korea-kepco-20261102"
       ]
     }
   ]

@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "stat.go.jp/data/cpi/sokuhou/tsuki/pdf/kubu.pdf",
-    "title": "東京の10月消費者物価、コア2.6%上昇　日銀目標を上回る",
-    "topic_key": "tokyo-cpi-october-2026-core-2-6",
-    "source": "総務省統計局",
-    "first_seen": "2026-10-30T12:00:00+09:00",
-    "issue": "2026-10-30-1200"
-  },
-  {
-    "url_normalized": "stat.go.jp/data/roudou/sokuhou/tsuki",
-    "title": "9月失業率2.4%に低下　求人倍率は1.19倍へ小幅上昇",
-    "topic_key": "japan-september-2026-labor-market-unemployment-jobs",
-    "source": "総務省統計局 / 厚生労働省",
-    "first_seen": "2026-10-30T12:00:00+09:00",
-    "issue": "2026-10-30-1200"
-  },
-  {
-    "url_normalized": "reuters.com/legal/transactional/global-markets-global-markets-2026-10-30",
-    "title": "AI投資懸念でアジア株下落　日経平均は一時3%安",
-    "topic_key": "asia-markets-ai-capex-selloff-20261030",
-    "source": "Reuters / AP",
-    "first_seen": "2026-10-30T12:00:00+09:00",
-    "issue": "2026-10-30-1200"
-  },
-  {
     "url_normalized": "boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
     "title": "日銀、政策金利1.25%を維持　ETF売却を年8600億円へ加速",
     "topic_key": "boj-october-2026-hold-etf-sales-acceleration",
@@ -326,5 +302,53 @@
     "source": "Reuters",
     "first_seen": "2026-11-02T06:00:00+09:00",
     "issue": "2026-11-02-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japans-october-factory-growth-slows-costs-pick-up-pmi-shows-2026-11-02",
+    "title": "日本の10月製造業PMIは53.3、7カ月ぶり低水準　コスト圧力強まる",
+    "topic_key": "japan-october-manufacturing-pmi-53-3-costs-20261102",
+    "source": "Reuters",
+    "first_seen": "2026-11-02T12:00:00+09:00",
+    "issue": "2026-11-02-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/south-korea-factory-activity-growth-slows-8-month-low-pmi-shows-2026-11-02",
+    "title": "韓国の10月製造業PMIは51.3、8カ月ぶり低水準",
+    "topic_key": "south-korea-october-manufacturing-pmi-51-3-20261102",
+    "source": "Reuters",
+    "first_seen": "2026-11-02T12:00:00+09:00",
+    "issue": "2026-11-02-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/south-koreas-lee-vows-make-bold-ai-investment-record-budget-push-2026-11-02",
+    "title": "韓国、2027年予算でAIに21.3兆ウォン　歳出は過去最大12.8%増",
+    "topic_key": "south-korea-2027-budget-ai-investment-21-3tn-won-20261102",
+    "source": "Reuters",
+    "first_seen": "2026-11-02T12:00:00+09:00",
+    "issue": "2026-11-02-1200"
+  },
+  {
+    "url_normalized": "reuters.com/commentary/reuters-open-interest/asias-crude-oil-imports-back-pre-war-levels-refined-fuels-lag-2026-11-02",
+    "title": "アジアの10月原油輸入は戦前水準近くへ　精製品の供給不足続く",
+    "topic_key": "asia-october-crude-imports-refined-fuel-tightness-20261102",
+    "source": "Reuters",
+    "first_seen": "2026-11-02T12:00:00+09:00",
+    "issue": "2026-11-02-1200"
+  },
+  {
+    "url_normalized": "reuters.com/legal/litigation/tesla-samsung-oppose-new-us-tariffs-vietnam-probe-deadline-nears-2026-11-02",
+    "title": "米国の対ベトナム追加関税、TeslaとSamsungは反対　11月29日に調査期限",
+    "topic_key": "us-vietnam-ip-tariff-probe-tesla-samsung-20261102",
+    "source": "Reuters",
+    "first_seen": "2026-11-02T12:00:00+09:00",
+    "issue": "2026-11-02-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/erdogan-says-south-korea-could-partner-turkeys-sinop-nuclear-project-yonhap-2026-11-02",
+    "title": "トルコのSinop原発計画、韓国が協力候補　KEPCOと条件検討",
+    "topic_key": "turkey-sinop-nuclear-south-korea-kepco-20261102",
+    "source": "Reuters",
+    "first_seen": "2026-11-02T12:00:00+09:00",
+    "issue": "2026-11-02-1200"
   }
 ]

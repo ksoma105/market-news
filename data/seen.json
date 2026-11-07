@@ -86,5 +86,29 @@
     "source": "中国国家外貨管理局",
     "first_seen": "2026-11-07T22:00:00+09:00",
     "issue": "2026-11-07-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/berkshire-hathaway-accelerates-stock-buybacks-operating-profit-falls-2026-11-07",
+    "title": "Berkshire、7〜9月に96億ドルの自社株買い　営業利益は6%減",
+    "topic_key": "berkshire-q3-buybacks-operating-profit-20261107",
+    "source": "Reuters / Berkshire Hathaway",
+    "first_seen": "2026-11-08T06:00:00+09:00",
+    "issue": "2026-11-08-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/coca-colas-india-bottler-hindustan-coca-cola-files-ipo-2026-11-07",
+    "title": "Coca-Colaのインド瓶詰め事業、最大9億9750万株のIPOを申請",
+    "topic_key": "hindustan-coca-cola-india-ipo-filing-20261107",
+    "source": "Reuters / Business Standard",
+    "first_seen": "2026-11-08T06:00:00+09:00",
+    "issue": "2026-11-08-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/qatarenergy-eyes-nextdecade-train-6-supply-latest-us-lng-push-sources-say-2026-11-06",
+    "title": "QatarEnergy、米Rio Grande LNGから年最大200万トンの調達を協議",
+    "topic_key": "qatarenergy-nextdecade-rio-grande-lng-train6-talks-20261106",
+    "source": "Reuters / NextDecade",
+    "first_seen": "2026-11-08T06:00:00+09:00",
+    "issue": "2026-11-08-0600"
   }
 ]

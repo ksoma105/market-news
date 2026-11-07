@@ -2389,13 +2389,24 @@
       "issue_id": "2026-11-07-2200",
       "published_at": "2026-11-07T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-07-2200.html",
       "topics": [
         "boj-ueda-inflation-upside-risk-energy-20261106",
         "imf-ai-growth-slowdown-central-banks-20261106",
         "canada-october-jobs-loss-cad-decline-20261106",
         "oil-freight-rates-us-refiners-advantage-20261106",
         "china-october-forex-reserves-3405bn-20261107"
+      ]
+    },
+    {
+      "issue_id": "2026-11-08-0600",
+      "published_at": "2026-11-08T06:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "berkshire-q3-buybacks-operating-profit-20261107",
+        "hindustan-coca-cola-india-ipo-filing-20261107",
+        "qatarenergy-nextdecade-rio-grande-lng-train6-talks-20261106"
       ]
     }
   ]

@@ -2375,7 +2375,7 @@
       "issue_id": "2026-11-07-1200",
       "published_at": "2026-11-07T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-07-1200.html",
       "topics": [
         "us-october-jobs-165k-fed-december-hike-20261106",
         "nasdaq-ai-regulation-selloff-correction-20261105",
@@ -2383,6 +2383,19 @@
         "us-china-busan-trade-rare-earths-agriculture-20261106",
         "canada-october-ivey-pmi-58-3-employment-20261106",
         "enbridge-pathways-ccs-pipeline-interest-20261106"
+      ]
+    },
+    {
+      "issue_id": "2026-11-07-2200",
+      "published_at": "2026-11-07T22:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "boj-ueda-inflation-upside-risk-energy-20261106",
+        "imf-ai-growth-slowdown-central-banks-20261106",
+        "canada-october-jobs-loss-cad-decline-20261106",
+        "oil-freight-rates-us-refiners-advantage-20261106",
+        "china-october-forex-reserves-3405bn-20261107"
       ]
     }
   ]

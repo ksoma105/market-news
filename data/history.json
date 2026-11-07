@@ -2361,7 +2361,7 @@
       "issue_id": "2026-11-02-1200",
       "published_at": "2026-11-02T12:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-02-1200.html",
       "topics": [
         "japan-october-manufacturing-pmi-53-3-costs-20261102",
         "south-korea-october-manufacturing-pmi-51-3-20261102",
@@ -2369,6 +2369,20 @@
         "asia-october-crude-imports-refined-fuel-tightness-20261102",
         "us-vietnam-ip-tariff-probe-tesla-samsung-20261102",
         "turkey-sinop-nuclear-south-korea-kepco-20261102"
+      ]
+    },
+    {
+      "issue_id": "2026-11-07-1200",
+      "published_at": "2026-11-07T12:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-october-jobs-165k-fed-december-hike-20261106",
+        "nasdaq-ai-regulation-selloff-correction-20261105",
+        "japan-boj-etf-sale-proceeds-economic-security-20261106",
+        "us-china-busan-trade-rare-earths-agriculture-20261106",
+        "canada-october-ivey-pmi-58-3-employment-20261106",
+        "enbridge-pathways-ccs-pipeline-interest-20261106"
       ]
     }
   ]

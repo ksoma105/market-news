@@ -110,5 +110,29 @@
     "source": "Reuters / NextDecade",
     "first_seen": "2026-11-08T06:00:00+09:00",
     "issue": "2026-11-08-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/what-happens-next-after-new-zealands-vote-2026-11-07",
+    "title": "NZ総選挙、与党3党が暫定67議席　最終結果は11月27日",
+    "topic_key": "new-zealand-election-provisional-coalition-67-seats-20261108",
+    "source": "Reuters / New Zealand Electoral Commission",
+    "first_seen": "2026-11-08T12:00:00+09:00",
+    "issue": "2026-11-08-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/softbank-abb-explore-china-carve-out-salvage-robotics-deal-bloomberg-news-2026-11-07",
+    "title": "SoftBankとABB、中国事業切り離しで54億ドル買収の維持を模索",
+    "topic_key": "softbank-abb-china-robotics-carveout-20261107",
+    "source": "Reuters / SoftBank Group",
+    "first_seen": "2026-11-08T12:00:00+09:00",
+    "issue": "2026-11-08-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/autos-transportation/tesla-expand-cybertruck-production-bid-fill-orders-before-dismantling-line-next-2026-11-07",
+    "title": "Tesla、Cybertruckを増産後に生産ライン撤去　Cybercabへ転換",
+    "topic_key": "tesla-cybertruck-extra-shift-cybercab-line-transition-20261107",
+    "source": "Reuters",
+    "first_seen": "2026-11-08T12:00:00+09:00",
+    "issue": "2026-11-08-1200"
   }
 ]

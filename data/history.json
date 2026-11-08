@@ -2402,11 +2402,22 @@
       "issue_id": "2026-11-08-0600",
       "published_at": "2026-11-08T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-08-0600.html",
       "topics": [
         "berkshire-q3-buybacks-operating-profit-20261107",
         "hindustan-coca-cola-india-ipo-filing-20261107",
         "qatarenergy-nextdecade-rio-grande-lng-train6-talks-20261106"
+      ]
+    },
+    {
+      "issue_id": "2026-11-08-1200",
+      "published_at": "2026-11-08T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "new-zealand-election-provisional-coalition-67-seats-20261108",
+        "softbank-abb-china-robotics-carveout-20261107",
+        "tesla-cybertruck-extra-shift-cybercab-line-transition-20261107"
       ]
     }
   ]

@@ -2413,11 +2413,22 @@
       "issue_id": "2026-11-08-1200",
       "published_at": "2026-11-08T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-08-1200.html",
       "topics": [
         "new-zealand-election-provisional-coalition-67-seats-20261108",
         "softbank-abb-china-robotics-carveout-20261107",
         "tesla-cybertruck-extra-shift-cybercab-line-transition-20261107"
+      ]
+    },
+    {
+      "issue_id": "2026-11-08-2200",
+      "published_at": "2026-11-08T22:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-tobacco-russia-seven-entities-temporary-administration-20261107",
+        "la-long-beach-port-watchmen-contract-extension-20261107",
+        "india-diwali-muhurat-trading-nifty-sensex-20261108"
       ]
     }
   ]

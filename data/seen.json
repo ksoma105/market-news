@@ -158,5 +158,29 @@
     "source": "Reuters / DD India",
     "first_seen": "2026-11-08T22:00:00+09:00",
     "issue": "2026-11-08-2200"
+  },
+  {
+    "url_normalized": "ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+    "title": "Anthropic、34億ドルで発電設備を確保と報道　容量は1.7ギガワット",
+    "topic_key": "anthropic-onepwr-3-4bn-1-7gw-generators-20261108",
+    "source": "Financial Times / Reuters",
+    "first_seen": "2026-11-09T06:00:00+09:00",
+    "issue": "2026-11-09-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/iraq-has-reached-understandings-with-us-allow-oil-exports-through-hormuz-2026-11-08",
+    "title": "イラク原油、ホルムズ海峡経由の輸出再開　10月は日量350万バレル",
+    "topic_key": "iraq-hormuz-oil-exports-us-understanding-20261108",
+    "source": "Reuters / Al Jazeera",
+    "first_seen": "2026-11-09T06:00:00+09:00",
+    "issue": "2026-11-09-0600"
+  },
+  {
+    "url_normalized": "globenewswire.com/news-release/2026/11/08/3398017/0/en/statement-from-nvidia-board-of-directors.html",
+    "title": "NVIDIA取締役会、CEOへの外国情報活動報道を受け独立調査",
+    "topic_key": "nvidia-board-independent-investigation-huang-20261108",
+    "source": "NVIDIA / Reuters",
+    "first_seen": "2026-11-09T06:00:00+09:00",
+    "issue": "2026-11-09-0600"
   }
 ]

@@ -2446,11 +2446,22 @@
       "issue_id": "2026-11-09-1200",
       "published_at": "2026-11-09T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-09-1200.html",
       "topics": [
         "china-october-cpi-ppi-20261109",
         "japan-yen-intervention-daily-record-20261109",
         "asia-stocks-rebound-nikkei-morning-close-20261109"
+      ]
+    },
+    {
+      "issue_id": "2026-11-09-2200",
+      "published_at": "2026-11-09T22:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "mitsui-chemicals-jsr-1-84tn-acquisition-20261109",
+        "germany-september-exports-rebound-20261109",
+        "us-equity-perpetual-futures-market-risks-20261109"
       ]
     }
   ]

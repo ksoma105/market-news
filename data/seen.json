@@ -206,5 +206,29 @@
     "source": "日経平均プロフィル / Reuters",
     "first_seen": "2026-11-09T12:00:00+09:00",
     "issue": "2026-11-09-1200"
+  },
+  {
+    "url_normalized": "jp.mitsuichemicals.com/content/dam/mitsuichemicals/sites/mci/documents/release/2026/261109.pdf",
+    "title": "三井化学、JSRを1.84兆円で買収へ　半導体材料を成長の中核に",
+    "topic_key": "mitsui-chemicals-jsr-1-84tn-acquisition-20261109",
+    "source": "三井化学 / JSR / Reuters",
+    "first_seen": "2026-11-09T22:00:00+09:00",
+    "issue": "2026-11-09-2200"
+  },
+  {
+    "url_normalized": "destatis.de/EN/Themes/Economy/Foreign-Trade/_node.html",
+    "title": "ドイツ9月輸出は前月比2.0%増　EU向け需要がけん引",
+    "topic_key": "germany-september-exports-rebound-20261109",
+    "source": "ドイツ連邦統計局 / Reuters",
+    "first_seen": "2026-11-09T22:00:00+09:00",
+    "issue": "2026-11-09-2200"
+  },
+  {
+    "url_normalized": "cftc.gov/PressRoom/PressReleases/9319-26",
+    "title": "米国で無期限先物が拡大　既存取引所はレバレッジと24時間取引を警戒",
+    "topic_key": "us-equity-perpetual-futures-market-risks-20261109",
+    "source": "CFTC / Reuters",
+    "first_seen": "2026-11-09T22:00:00+09:00",
+    "issue": "2026-11-09-2200"
   }
 ]

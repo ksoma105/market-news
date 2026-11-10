@@ -2479,11 +2479,22 @@
       "issue_id": "2026-11-10-1200",
       "published_at": "2026-11-10T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-10-1200.html",
       "topics": [
         "japan-september-household-spending-decline-20261110",
         "china-october-trade-ai-exports-surplus-20261110",
         "uk-october-retail-spending-black-friday-20261110"
+      ]
+    },
+    {
+      "issue_id": "2026-11-10-2200",
+      "published_at": "2026-11-10T22:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "softbank-q2-2026-ai-datacenter-loss-20261110",
+        "infineon-fy2027-datacenter-power-growth-20261110",
+        "brazil-copom-minutes-inflation-shocks-20261110"
       ]
     }
   ]

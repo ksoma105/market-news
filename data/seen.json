@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/traders-raise-bets-fed-rate-hike-after-jobs-report-2026-11-06",
-    "title": "米10月雇用は16.5万人増、12月利上げ観測が再び強まる",
-    "topic_key": "us-october-jobs-165k-fed-december-hike-20261106",
-    "source": "Reuters / 米労働統計局",
-    "first_seen": "2026-11-07T12:00:00+09:00",
-    "issue": "2026-11-07-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-chip-weakness-2026-11-05",
-    "title": "Nasdaqが5.52%安、AI規制懸念で調整局面入り",
-    "topic_key": "nasdaq-ai-regulation-selloff-correction-20261105",
-    "source": "Reuters",
-    "first_seen": "2026-11-07T12:00:00+09:00",
-    "issue": "2026-11-07-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-vigilant-market-moves-will-focus-boosting-economy-pm-takaichi-says-2026-11-06",
-    "title": "政府、日銀ETF売却益を経済安保投資へ　年間売却ペースは8600億円",
-    "topic_key": "japan-boj-etf-sale-proceeds-economic-security-20261106",
-    "source": "Reuters / 日本銀行",
-    "first_seen": "2026-11-07T12:00:00+09:00",
-    "issue": "2026-11-07-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/us-urged-beijing-implement-commitments-busan-trade-deal-treasury-says-2026-11-06",
-    "title": "米国、中国にレアアース・農産品の合意履行を要求",
-    "topic_key": "us-china-busan-trade-rare-earths-agriculture-20261106",
-    "source": "Reuters / 米通商代表部",
-    "first_seen": "2026-11-07T12:00:00+09:00",
-    "issue": "2026-11-07-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/americas/canadas-ivey-pmi-edges-higher-in-october-employment-rises-2026-11-06",
-    "title": "カナダ10月Ivey PMIは58.3、雇用指数も上昇",
-    "topic_key": "canada-october-ivey-pmi-58-3-employment-20261106",
-    "source": "Reuters",
-    "first_seen": "2026-11-07T12:00:00+09:00",
-    "issue": "2026-11-07-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/canadas-enbridge-posts-higher-quarterly-profit-2026-11-06",
-    "title": "Enbridge、加PathwaysのCO2パイプライン建設に関心",
-    "topic_key": "enbridge-pathways-ccs-pipeline-interest-20261106",
-    "source": "Reuters",
-    "first_seen": "2026-11-07T12:00:00+09:00",
-    "issue": "2026-11-07-1200"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/boj-chief-ueda-sees-some-upside-risks-inflation-2026-11-06",
     "title": "植田日銀総裁、基調物価2%に「上振れリスク」　エネルギー価格を警戒",
     "topic_key": "boj-ueda-inflation-upside-risk-energy-20261106",
@@ -278,5 +230,29 @@
     "source": "Reuters / Trading Economics",
     "first_seen": "2026-11-10T12:00:00+09:00",
     "issue": "2026-11-10-1200"
+  },
+  {
+    "url_normalized": "group.softbank/en/event/earnings_2026q2",
+    "title": "ソフトバンクG、7〜9月期は1兆1,153億円の赤字　AIデータセンターで損失",
+    "topic_key": "softbank-q2-2026-ai-datacenter-loss-20261110",
+    "source": "ソフトバンクグループ / Reuters / TBS CROSS DIG with Bloomberg",
+    "first_seen": "2026-11-10T22:00:00+09:00",
+    "issue": "2026-11-10-2200"
+  },
+  {
+    "url_normalized": "infineon.com/press-release/2026/infpr202611-025",
+    "title": "Infineon、2027年度売上高は20%超増を予想　データセンター電源が成長軸",
+    "topic_key": "infineon-fy2027-datacenter-power-growth-20261110",
+    "source": "Infineon / Reuters（Euronext掲載）",
+    "first_seen": "2026-11-10T22:00:00+09:00",
+    "issue": "2026-11-10-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/brazil-central-bank-flags-oil-el-nino-labor-fx-shocks-behind-inflation-rebound-2026-11-10",
+    "title": "ブラジル中銀、利下げを停止　供給ショックでインフレ見通し悪化",
+    "topic_key": "brazil-copom-minutes-inflation-shocks-20261110",
+    "source": "Reuters / CNN Brasil",
+    "first_seen": "2026-11-10T22:00:00+09:00",
+    "issue": "2026-11-10-2200"
   }
 ]

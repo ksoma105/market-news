@@ -2490,11 +2490,22 @@
       "issue_id": "2026-11-10-2200",
       "published_at": "2026-11-10T22:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-10-2200.html",
       "topics": [
         "softbank-q2-2026-ai-datacenter-loss-20261110",
         "infineon-fy2027-datacenter-power-growth-20261110",
         "brazil-copom-minutes-inflation-shocks-20261110"
+      ]
+    },
+    {
+      "issue_id": "2026-11-11-0600",
+      "published_at": "2026-11-11T06:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-october-cpi-hot-fed-hike-20261110",
+        "russia-refinery-attacks-capacity-30pct-20261110",
+        "japan-october-foreign-bond-buying-20261110"
       ]
     }
   ]

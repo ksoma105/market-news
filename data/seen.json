@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/boj-chief-ueda-sees-some-upside-risks-inflation-2026-11-06",
-    "title": "植田日銀総裁、基調物価2%に「上振れリスク」　エネルギー価格を警戒",
-    "topic_key": "boj-ueda-inflation-upside-risk-energy-20261106",
-    "source": "Reuters / 日本銀行",
-    "first_seen": "2026-11-07T22:00:00+09:00",
-    "issue": "2026-11-07-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/imfs-georgieva-says-any-slowdown-ai-driven-growth-would-be-factor-central-banks-2026-11-06",
-    "title": "IMF、AI投資減速は中銀の政策判断を複雑にすると警告",
-    "topic_key": "imf-ai-growth-slowdown-central-banks-20261106",
-    "source": "Reuters",
-    "first_seen": "2026-11-07T22:00:00+09:00",
-    "issue": "2026-11-07-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/canadian-dollar-hits-nearly-three-week-low-on-surprise-jobs-loss-2026-11-06",
-    "title": "カナダ10月雇用は4700人減、カナダドルは9カ月ぶりの大幅安",
-    "topic_key": "canada-october-jobs-loss-cad-decline-20261106",
-    "source": "Reuters / カナダ統計局",
-    "first_seen": "2026-11-07T22:00:00+09:00",
-    "issue": "2026-11-07-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/soaring-freight-rates-give-us-refiners-edge-crude-discounts-widen-2026-11-06",
-    "title": "原油輸送費が1バレル30〜35ドルへ、米メキシコ湾岸の精製業に優位性",
-    "topic_key": "oil-freight-rates-us-refiners-advantage-20261106",
-    "source": "Reuters",
-    "first_seen": "2026-11-07T22:00:00+09:00",
-    "issue": "2026-11-07-2200"
-  },
-  {
-    "url_normalized": "safe.gov.cn/safe/2026/1106/28067.html",
-    "title": "中国の外貨準備、10月末は3兆4052億ドル　前月比49億ドル増",
-    "topic_key": "china-october-forex-reserves-3405bn-20261107",
-    "source": "中国国家外貨管理局",
-    "first_seen": "2026-11-07T22:00:00+09:00",
-    "issue": "2026-11-07-2200"
-  },
-  {
     "url_normalized": "reuters.com/business/finance/berkshire-hathaway-accelerates-stock-buybacks-operating-profit-falls-2026-11-07",
     "title": "Berkshire、7〜9月に96億ドルの自社株買い　営業利益は6%減",
     "topic_key": "berkshire-q3-buybacks-operating-profit-20261107",
@@ -254,5 +214,29 @@
     "source": "Reuters / CNN Brasil",
     "first_seen": "2026-11-10T22:00:00+09:00",
     "issue": "2026-11-10-2200"
+  },
+  {
+    "url_normalized": "bls.gov/news.release/cpi.nr0.htm",
+    "title": "米10月CPIは前月比0.4%上昇　予想上回り12月の利上げ観測強まる",
+    "topic_key": "us-october-cpi-hot-fed-hike-20261110",
+    "source": "米労働統計局 / Reuters / AP",
+    "first_seen": "2026-11-11T06:00:00+09:00",
+    "issue": "2026-11-11-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/recent-ukrainian-attacks-have-reduced-russias-oil-processing-capacity-by-30-2026-11-10",
+    "title": "ウクライナ攻撃、ロシア製油能力の約30%に影響　実処理は日量最大20万トン減",
+    "topic_key": "russia-refinery-attacks-capacity-30pct-20261110",
+    "source": "Reuters / 国際エネルギー機関",
+    "first_seen": "2026-11-11T06:00:00+09:00",
+    "issue": "2026-11-11-0600"
+  },
+  {
+    "url_normalized": "mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/data.htm",
+    "title": "日本の投資家、10月は海外債券を4,939億円買い越し　3カ月ぶり",
+    "topic_key": "japan-october-foreign-bond-buying-20261110",
+    "source": "財務省 / Reuters",
+    "first_seen": "2026-11-11T06:00:00+09:00",
+    "issue": "2026-11-11-0600"
   }
 ]

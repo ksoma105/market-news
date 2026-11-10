@@ -2468,11 +2468,22 @@
       "issue_id": "2026-11-10-0600",
       "published_at": "2026-11-10T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-10-0600.html",
       "topics": [
         "ukraine-imf-eff-review-1-66bn-20261109",
         "kkr-q3-2026-record-profit-aum-804bn-20261109",
         "us-qatar-saudi-iran-diplomacy-strikes-20261109"
+      ]
+    },
+    {
+      "issue_id": "2026-11-10-1200",
+      "published_at": "2026-11-10T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-september-household-spending-decline-20261110",
+        "china-october-trade-ai-exports-surplus-20261110",
+        "uk-october-retail-spending-black-friday-20261110"
       ]
     }
   ]

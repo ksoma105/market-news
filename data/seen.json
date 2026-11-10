@@ -254,5 +254,29 @@
     "source": "Reuters / カタール外務省",
     "first_seen": "2026-11-10T06:00:00+09:00",
     "issue": "2026-11-10-0600"
+  },
+  {
+    "url_normalized": "stat.go.jp/data/kakei/sokuhou/tsuki",
+    "title": "日本の9月実質家計支出、前年比6.8%減　2020年9月以来の大幅減",
+    "topic_key": "japan-september-household-spending-decline-20261110",
+    "source": "総務省統計局 / Reuters",
+    "first_seen": "2026-11-10T12:00:00+09:00",
+    "issue": "2026-11-10-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10",
+    "title": "中国10月輸出は35.2%増　輸入は41.6%増、累計黒字1兆ドル超",
+    "topic_key": "china-october-trade-ai-exports-surplus-20261110",
+    "source": "Reuters / Trading Economics",
+    "first_seen": "2026-11-10T12:00:00+09:00",
+    "issue": "2026-11-10-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/uk-retail-spending-shows-modest-growth-ahead-black-friday-survey-show-2026-11-10",
+    "title": "英国10月小売支出は1.5%増　ブラックフライデー前で伸びは限定的",
+    "topic_key": "uk-october-retail-spending-black-friday-20261110",
+    "source": "Reuters / Trading Economics",
+    "first_seen": "2026-11-10T12:00:00+09:00",
+    "issue": "2026-11-10-1200"
   }
 ]

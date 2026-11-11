@@ -2523,11 +2523,22 @@
       "issue_id": "2026-11-11-2200",
       "published_at": "2026-11-11T22:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-11-2200.html",
       "topics": [
         "china-pboc-q3-policy-support-domestic-demand-20261111",
         "alphabet-hk-singapore-bonds-3bn-20261111",
         "uk-cma-akzonobel-axalta-merger-concerns-20261111"
+      ]
+    },
+    {
+      "issue_id": "2026-11-12-0600",
+      "published_at": "2026-11-12T06:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-october-container-imports-record-china-spike-20261111",
+        "mexico-asian-steel-transshipment-crackdown-20261111",
+        "australia-ai-washing-job-cuts-offshoring-20261112"
       ]
     }
   ]

@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/putin-expands-temporary-administration-japan-tobacco-assets-russia-2026-11-07",
-    "title": "ロシア、JT傘下7社を一時管理下へ　現地事業は営業利益の約25%",
-    "topic_key": "japan-tobacco-russia-seven-entities-temporary-administration-20261107",
-    "source": "Reuters / Nippon.com / Jiji Press",
-    "first_seen": "2026-11-08T22:00:00+09:00",
-    "issue": "2026-11-08-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/world-at-work/employers-watchmen-california-ports-extend-contract-talks-2026-11-07",
-    "title": "米LA・Long Beach港、警備労働者の契約を11月20日まで延長",
-    "topic_key": "la-long-beach-port-watchmen-contract-extension-20261107",
-    "source": "Reuters / Pacific Maritime Association",
-    "first_seen": "2026-11-08T22:00:00+09:00",
-    "issue": "2026-11-08-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/indian-shares-consolidate-diwali-session-after-seven-day-rally-2026-11-08",
-    "title": "インド株、ディワリ特別取引は小幅安　直前7日間で10%超上昇",
-    "topic_key": "india-diwali-muhurat-trading-nifty-sensex-20261108",
-    "source": "Reuters / DD India",
-    "first_seen": "2026-11-08T22:00:00+09:00",
-    "issue": "2026-11-08-2200"
-  },
-  {
     "url_normalized": "ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
     "title": "Anthropic、34億ドルで発電設備を確保と報道　容量は1.7ギガワット",
     "topic_key": "anthropic-onepwr-3-4bn-1-7gw-generators-20261108",
@@ -238,5 +214,29 @@
     "source": "英国競争・市場庁 / Reuters",
     "first_seen": "2026-11-11T22:00:00+09:00",
     "issue": "2026-11-11-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/us-container-imports-set-all-time-volume-record-october-chinese-imports-spike-2026-11-11",
+    "title": "米国の10月輸入コンテナ、月間過去最高の267万TEU",
+    "topic_key": "us-october-container-imports-record-china-spike-20261111",
+    "source": "Reuters",
+    "first_seen": "2026-11-12T06:00:00+09:00",
+    "issue": "2026-11-12-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/mexico-says-crackdown-asian-steel-shipments-is-paying-off-us-tariff-talks-2026-11-11",
+    "title": "メキシコ、迂回輸出対策で第三国からの鉄鋼・アルミ輸入を約30%削減",
+    "topic_key": "mexico-asian-steel-transshipment-crackdown-20261111",
+    "source": "Reuters",
+    "first_seen": "2026-11-12T06:00:00+09:00",
+    "issue": "2026-11-12-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11",
+    "title": "豪企業の人員削減、「AIウォッシング」巡り雇用論争",
+    "topic_key": "australia-ai-washing-job-cuts-offshoring-20261112",
+    "source": "Reuters",
+    "first_seen": "2026-11-12T06:00:00+09:00",
+    "issue": "2026-11-12-0600"
   }
 ]

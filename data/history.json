@@ -2512,11 +2512,22 @@
       "issue_id": "2026-11-11-1200",
       "published_at": "2026-11-11T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-11-1200.html",
       "topics": [
         "japan-reuters-tankan-november-chip-demand-20261111",
         "coreweave-q3-2026-revenue-backlog-debt-20261110",
         "india-stocks-fpi-inflows-oil-20261111"
+      ]
+    },
+    {
+      "issue_id": "2026-11-11-2200",
+      "published_at": "2026-11-11T22:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-pboc-q3-policy-support-domestic-demand-20261111",
+        "alphabet-hk-singapore-bonds-3bn-20261111",
+        "uk-cma-akzonobel-axalta-merger-concerns-20261111"
       ]
     }
   ]

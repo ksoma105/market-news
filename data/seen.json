@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/finance/berkshire-hathaway-accelerates-stock-buybacks-operating-profit-falls-2026-11-07",
-    "title": "Berkshire、7〜9月に96億ドルの自社株買い　営業利益は6%減",
-    "topic_key": "berkshire-q3-buybacks-operating-profit-20261107",
-    "source": "Reuters / Berkshire Hathaway",
-    "first_seen": "2026-11-08T06:00:00+09:00",
-    "issue": "2026-11-08-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/coca-colas-india-bottler-hindustan-coca-cola-files-ipo-2026-11-07",
-    "title": "Coca-Colaのインド瓶詰め事業、最大9億9750万株のIPOを申請",
-    "topic_key": "hindustan-coca-cola-india-ipo-filing-20261107",
-    "source": "Reuters / Business Standard",
-    "first_seen": "2026-11-08T06:00:00+09:00",
-    "issue": "2026-11-08-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/qatarenergy-eyes-nextdecade-train-6-supply-latest-us-lng-push-sources-say-2026-11-06",
-    "title": "QatarEnergy、米Rio Grande LNGから年最大200万トンの調達を協議",
-    "topic_key": "qatarenergy-nextdecade-rio-grande-lng-train6-talks-20261106",
-    "source": "Reuters / NextDecade",
-    "first_seen": "2026-11-08T06:00:00+09:00",
-    "issue": "2026-11-08-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/what-happens-next-after-new-zealands-vote-2026-11-07",
     "title": "NZ総選挙、与党3党が暫定67議席　最終結果は11月27日",
     "topic_key": "new-zealand-election-provisional-coalition-67-seats-20261108",
@@ -238,5 +214,29 @@
     "source": "財務省 / Reuters",
     "first_seen": "2026-11-11T06:00:00+09:00",
     "issue": "2026-11-11-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-manufacturers-mood-hits-more-than-5-year-high-chip-demand-2026-11-10",
+    "title": "日本企業の景況感、製造業は5年超ぶり高水準　半導体需要が押し上げ",
+    "topic_key": "japan-reuters-tankan-november-chip-demand-20261111",
+    "source": "Reuters",
+    "first_seen": "2026-11-11T12:00:00+09:00",
+    "issue": "2026-11-11-1200"
+  },
+  {
+    "url_normalized": "investors.coreweave.com/news/news-details/2026/coreweave-reports-strong-third-quarter-2026-results/default.aspx",
+    "title": "CoreWeave、7〜9月売上高は170%増　受注残1,325億ドル、利払い負担も拡大",
+    "topic_key": "coreweave-q3-2026-revenue-backlog-debt-20261110",
+    "source": "CoreWeave / 米SEC / Reuters",
+    "first_seen": "2026-11-11T12:00:00+09:00",
+    "issue": "2026-11-11-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/indian-stocks-poised-higher-open-softer-crude-robust-foreign-buying-2026-11-11",
+    "title": "インド株、11月の海外投資家買い越し56.8億ドル　原油安と企業業績が支え",
+    "topic_key": "india-stocks-fpi-inflows-oil-20261111",
+    "source": "Reuters",
+    "first_seen": "2026-11-11T12:00:00+09:00",
+    "issue": "2026-11-11-1200"
   }
 ]

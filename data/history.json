@@ -2501,11 +2501,22 @@
       "issue_id": "2026-11-11-0600",
       "published_at": "2026-11-11T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-11-0600.html",
       "topics": [
         "us-october-cpi-hot-fed-hike-20261110",
         "russia-refinery-attacks-capacity-30pct-20261110",
         "japan-october-foreign-bond-buying-20261110"
+      ]
+    },
+    {
+      "issue_id": "2026-11-11-1200",
+      "published_at": "2026-11-11T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-reuters-tankan-november-chip-demand-20261111",
+        "coreweave-q3-2026-revenue-backlog-debt-20261110",
+        "india-stocks-fpi-inflows-oil-20261111"
       ]
     }
   ]

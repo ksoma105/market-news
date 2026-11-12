@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
-    "title": "Anthropic、34億ドルで発電設備を確保と報道　容量は1.7ギガワット",
-    "topic_key": "anthropic-onepwr-3-4bn-1-7gw-generators-20261108",
-    "source": "Financial Times / Reuters",
-    "first_seen": "2026-11-09T06:00:00+09:00",
-    "issue": "2026-11-09-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/iraq-has-reached-understandings-with-us-allow-oil-exports-through-hormuz-2026-11-08",
-    "title": "イラク原油、ホルムズ海峡経由の輸出再開　10月は日量350万バレル",
-    "topic_key": "iraq-hormuz-oil-exports-us-understanding-20261108",
-    "source": "Reuters / Al Jazeera",
-    "first_seen": "2026-11-09T06:00:00+09:00",
-    "issue": "2026-11-09-0600"
-  },
-  {
-    "url_normalized": "globenewswire.com/news-release/2026/11/08/3398017/0/en/statement-from-nvidia-board-of-directors.html",
-    "title": "NVIDIA取締役会、CEOへの外国情報活動報道を受け独立調査",
-    "topic_key": "nvidia-board-independent-investigation-huang-20261108",
-    "source": "NVIDIA / Reuters",
-    "first_seen": "2026-11-09T06:00:00+09:00",
-    "issue": "2026-11-09-0600"
-  },
-  {
     "url_normalized": "stats.gov.cn/sj/sjjd/202611/t20261109_1965796.html",
     "title": "中国10月PPIは前年比5.7%上昇　CPIは0.7%に鈍化",
     "topic_key": "china-october-cpi-ppi-20261109",
@@ -238,5 +214,29 @@
     "source": "Reuters",
     "first_seen": "2026-11-12T06:00:00+09:00",
     "issue": "2026-11-12-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/asia-pacific/japan-wholesale-inflation-accelerates-keeps-alive-boj-rate-hike-view-2026-11-12",
+    "title": "日本の10月企業物価は前年比7.1%上昇　12月利上げ観測を支える",
+    "topic_key": "japan-october-cgpi-7-1-boj-hike-20261112",
+    "source": "Reuters / Bank of Japan",
+    "first_seen": "2026-11-12T12:00:00+09:00",
+    "issue": "2026-11-12-1200"
+  },
+  {
+    "url_normalized": "reuters.com/world/china/foreign-investors-pull-out-50-billion-asian-equities-october-ai-cash-burn-woes-2026-11-11",
+    "title": "アジア株、10月の海外資金流出は497.7億ドル　AI投資懸念が重荷",
+    "topic_key": "asia-equity-foreign-outflows-49-77bn-202610",
+    "source": "Reuters",
+    "first_seen": "2026-11-12T12:00:00+09:00",
+    "issue": "2026-11-12-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/energy/oil-prices-drop-more-than-1-hopes-iran-ukraine-peace-talks-pressure-markets-2026-11-12",
+    "title": "原油は1.2%安　和平期待でBrent 91.62ドル、WTI 85.49ドル",
+    "topic_key": "oil-peace-talks-brent-wti-drop-20261112",
+    "source": "Reuters",
+    "first_seen": "2026-11-12T12:00:00+09:00",
+    "issue": "2026-11-12-1200"
   }
 ]

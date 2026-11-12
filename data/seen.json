@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "jp.mitsuichemicals.com/content/dam/mitsuichemicals/sites/mci/documents/release/2026/261109.pdf",
-    "title": "三井化学、JSRを1.84兆円で買収へ　半導体材料を成長の中核に",
-    "topic_key": "mitsui-chemicals-jsr-1-84tn-acquisition-20261109",
-    "source": "三井化学 / JSR / Reuters",
-    "first_seen": "2026-11-09T22:00:00+09:00",
-    "issue": "2026-11-09-2200"
-  },
-  {
-    "url_normalized": "destatis.de/EN/Themes/Economy/Foreign-Trade/_node.html",
-    "title": "ドイツ9月輸出は前月比2.0%増　EU向け需要がけん引",
-    "topic_key": "germany-september-exports-rebound-20261109",
-    "source": "ドイツ連邦統計局 / Reuters",
-    "first_seen": "2026-11-09T22:00:00+09:00",
-    "issue": "2026-11-09-2200"
-  },
-  {
-    "url_normalized": "cftc.gov/PressRoom/PressReleases/9319-26",
-    "title": "米国で無期限先物が拡大　既存取引所はレバレッジと24時間取引を警戒",
-    "topic_key": "us-equity-perpetual-futures-market-risks-20261109",
-    "source": "CFTC / Reuters",
-    "first_seen": "2026-11-09T22:00:00+09:00",
-    "issue": "2026-11-09-2200"
-  },
-  {
     "url_normalized": "mof.gov.ua/en/news/minfin_ta_misiia_mvf_rozpochali_zustrichi_shchodo_drugogo_ta_tretogo_peregliadiv_programi_eff-6013",
     "title": "IMF、ウクライナ融資の第2・第3次審査を開始　約16.6億ドルが焦点",
     "topic_key": "ukraine-imf-eff-review-1-66bn-20261109",
@@ -238,5 +214,29 @@
     "source": "Reuters / UK Office for National Statistics",
     "first_seen": "2026-11-12T22:00:00+09:00",
     "issue": "2026-11-12-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/nasdaq-futures-fall-nvidia-turmoil-rattles-ai-stocks-2026-11-12",
+    "title": "NVIDIA創業者CEOが即時退任　米主要3指数はそろって下落",
+    "topic_key": "nvidia-huang-exit-us-market-ai-stocks-20261112",
+    "source": "Reuters / NVIDIA",
+    "first_seen": "2026-11-13T06:00:00+09:00",
+    "issue": "2026-11-13-0600"
+  },
+  {
+    "url_normalized": "reuters.com/world/india/india-october-inflation-tops-rbis-6-limit-strengthens-case-rate-hikes-2026-11-12",
+    "title": "インドの10月物価は6.09%上昇　食品高で中銀の上限を突破",
+    "topic_key": "india-october-cpi-6-09-rbi-hike-20261112",
+    "source": "Reuters / India Ministry of Statistics and Programme Implementation",
+    "first_seen": "2026-11-13T06:00:00+09:00",
+    "issue": "2026-11-13-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/us-existing-home-sales-slump-more-than-16-year-low-october-2026-11-12",
+    "title": "米中古住宅販売は年率375万戸　16年超ぶりの低水準",
+    "topic_key": "us-october-existing-home-sales-3-75m-20261112",
+    "source": "Reuters / National Association of Realtors",
+    "first_seen": "2026-11-13T06:00:00+09:00",
+    "issue": "2026-11-13-0600"
   }
 ]

@@ -2556,11 +2556,22 @@
       "issue_id": "2026-11-12-2200",
       "published_at": "2026-11-12T22:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-12-2200.html",
       "topics": [
         "foxconn-q3-2026-profit-ai-server-supply-tightness",
         "ecb-december-2026-rate-hike-reuters-poll",
         "uk-q3-2026-gdp-0-7-services-growth"
+      ]
+    },
+    {
+      "issue_id": "2026-11-13-0600",
+      "published_at": "2026-11-13T06:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "nvidia-huang-exit-us-market-ai-stocks-20261112",
+        "india-october-cpi-6-09-rbi-hike-20261112",
+        "us-october-existing-home-sales-3-75m-20261112"
       ]
     }
   ]

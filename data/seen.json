@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "stats.gov.cn/sj/sjjd/202611/t20261109_1965796.html",
-    "title": "中国10月PPIは前年比5.7%上昇　CPIは0.7%に鈍化",
-    "topic_key": "china-october-cpi-ppi-20261109",
-    "source": "中国国家統計局 / Reuters",
-    "first_seen": "2026-11-09T12:00:00+09:00",
-    "issue": "2026-11-09-1200"
-  },
-  {
-    "url_normalized": "mof.go.jp/policy/international_policy/reference/feio/data/quarter/2026_3Q.html",
-    "title": "日本の円買い介入、7月30日は過去最大の7.98兆円",
-    "topic_key": "japan-yen-intervention-daily-record-20261109",
-    "source": "財務省 / Reuters",
-    "first_seen": "2026-11-09T12:00:00+09:00",
-    "issue": "2026-11-09-1200"
-  },
-  {
-    "url_normalized": "indexes.nikkei.co.jp/en/nkave/index",
-    "title": "日経平均、午前終値は3.44%高　アジア株が前週急落から反発",
-    "topic_key": "asia-stocks-rebound-nikkei-morning-close-20261109",
-    "source": "日経平均プロフィル / Reuters",
-    "first_seen": "2026-11-09T12:00:00+09:00",
-    "issue": "2026-11-09-1200"
-  },
-  {
     "url_normalized": "jp.mitsuichemicals.com/content/dam/mitsuichemicals/sites/mci/documents/release/2026/261109.pdf",
     "title": "三井化学、JSRを1.84兆円で買収へ　半導体材料を成長の中核に",
     "topic_key": "mitsui-chemicals-jsr-1-84tn-acquisition-20261109",
@@ -238,5 +214,29 @@
     "source": "Reuters",
     "first_seen": "2026-11-12T12:00:00+09:00",
     "issue": "2026-11-12-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/retail-consumer/taiwans-foxconn-reports-34-rise-q3-profit-beats-forecasts-2026-11-12",
+    "title": "鴻海の7〜9月純利益は34%増　AIサーバー需要継続も部品不足を警戒",
+    "topic_key": "foxconn-q3-2026-profit-ai-server-supply-tightness",
+    "source": "Reuters / Hon Hai Precision Industry",
+    "first_seen": "2026-11-12T22:00:00+09:00",
+    "issue": "2026-11-12-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/ecb-set-last-rate-hike-december-inflation-risks-keep-door-open-one-more-2026-11-12",
+    "title": "ECBは12月に2.75%へ利上げ予想　71人全員が0.25ポイント上昇を見込む",
+    "topic_key": "ecb-december-2026-rate-hike-reuters-poll",
+    "source": "Reuters / European Central Bank",
+    "first_seen": "2026-11-12T22:00:00+09:00",
+    "issue": "2026-11-12-2200"
+  },
+  {
+    "url_normalized": "reuters.com/world/uk/sterling-steady-after-uk-gdp-data-fed-official-up-next-2026-11-12",
+    "title": "英国の7〜9月GDPは0.7%増　2年半ぶりの高い伸び",
+    "topic_key": "uk-q3-2026-gdp-0-7-services-growth",
+    "source": "Reuters / UK Office for National Statistics",
+    "first_seen": "2026-11-12T22:00:00+09:00",
+    "issue": "2026-11-12-2200"
   }
 ]

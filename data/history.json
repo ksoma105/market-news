@@ -2545,11 +2545,22 @@
       "issue_id": "2026-11-12-1200",
       "published_at": "2026-11-12T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-12-1200.html",
       "topics": [
         "japan-october-cgpi-7-1-boj-hike-20261112",
         "asia-equity-foreign-outflows-49-77bn-202610",
         "oil-peace-talks-brent-wti-drop-20261112"
+      ]
+    },
+    {
+      "issue_id": "2026-11-12-2200",
+      "published_at": "2026-11-12T22:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "foxconn-q3-2026-profit-ai-server-supply-tightness",
+        "ecb-december-2026-rate-hike-reuters-poll",
+        "uk-q3-2026-gdp-0-7-services-growth"
       ]
     }
   ]

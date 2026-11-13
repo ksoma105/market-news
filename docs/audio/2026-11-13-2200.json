@@ -1,0 +1,8 @@
+{
+  "issue_id": "2026-11-13-2200",
+  "model_id": "eleven_v4",
+  "status": "skipped",
+  "checked_at": "2026-11-13T13:15:22.406695+00:00",
+  "reason": "quota_exceeded",
+  "http_status": 401
+}

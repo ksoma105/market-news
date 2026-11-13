@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "mof.gov.ua/en/news/minfin_ta_misiia_mvf_rozpochali_zustrichi_shchodo_drugogo_ta_tretogo_peregliadiv_programi_eff-6013",
-    "title": "IMF、ウクライナ融資の第2・第3次審査を開始　約16.6億ドルが焦点",
-    "topic_key": "ukraine-imf-eff-review-1-66bn-20261109",
-    "source": "ウクライナ財務省 / Reuters",
-    "first_seen": "2026-11-10T06:00:00+09:00",
-    "issue": "2026-11-10-0600"
-  },
-  {
-    "url_normalized": "sec.gov/Archives/edgar/data/1404912/000140491226000030/q326earningsrelease_vf.htm",
-    "title": "KKR、7〜9月期の調整後利益が過去最高　運用資産は8,040億ドル",
-    "topic_key": "kkr-q3-2026-record-profit-aum-804bn-20261109",
-    "source": "KKR（SEC提出資料） / Reuters",
-    "first_seen": "2026-11-10T06:00:00+09:00",
-    "issue": "2026-11-10-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/middle-east/trump-says-qatar-saudi-arabia-want-peaceful-solution-iran-us-ready-strikes-if-2026-11-09",
-    "title": "米大統領、対イラン外交を優先も攻撃再開の選択肢を維持",
-    "topic_key": "us-qatar-saudi-iran-diplomacy-strikes-20261109",
-    "source": "Reuters / カタール外務省",
-    "first_seen": "2026-11-10T06:00:00+09:00",
-    "issue": "2026-11-10-0600"
-  },
-  {
     "url_normalized": "stat.go.jp/data/kakei/sokuhou/tsuki",
     "title": "日本の9月実質家計支出、前年比6.8%減　2020年9月以来の大幅減",
     "topic_key": "japan-september-household-spending-decline-20261110",
@@ -238,5 +214,29 @@
     "source": "Reuters / National Association of Realtors",
     "first_seen": "2026-11-13T06:00:00+09:00",
     "issue": "2026-11-13-0600"
+  },
+  {
+    "url_normalized": "reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-strong-ai-networking-demand-2026-11-12",
+    "title": "Cisco売上高24%増　AIインフラ売上見通しを90億ドルへ上方修正",
+    "topic_key": "cisco-fy2027-q1-ai-networking-guidance-20261112",
+    "source": "Reuters / Cisco Systems",
+    "first_seen": "2026-11-13T12:00:00+09:00",
+    "issue": "2026-11-13-1200"
+  },
+  {
+    "url_normalized": "reuters.com/markets/us/japans-finance-minister-vows-action-yen-breaches-160-threshold-2026-11-13",
+    "title": "円が一時1ドル160.03円　財務相は為替変動への対応を警告",
+    "topic_key": "yen-160-katayama-intervention-warning-20261113",
+    "source": "Reuters / Japan Ministry of Finance",
+    "first_seen": "2026-11-13T12:00:00+09:00",
+    "issue": "2026-11-13-1200"
+  },
+  {
+    "url_normalized": "reuters.com/business/us-starts-2027-fiscal-year-with-record-october-budget-deficit-404-billion-2026-11-12",
+    "title": "米10月財政赤字は過去最大4040億ドル　歳入減と歳出増が重荷",
+    "topic_key": "us-october-2026-budget-deficit-404bn",
+    "source": "Reuters / Bloomberg News",
+    "first_seen": "2026-11-13T12:00:00+09:00",
+    "issue": "2026-11-13-1200"
   }
 ]

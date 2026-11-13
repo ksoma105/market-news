@@ -2567,11 +2567,22 @@
       "issue_id": "2026-11-13-0600",
       "published_at": "2026-11-13T06:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-13-0600.html",
       "topics": [
         "nvidia-huang-exit-us-market-ai-stocks-20261112",
         "india-october-cpi-6-09-rbi-hike-20261112",
         "us-october-existing-home-sales-3-75m-20261112"
+      ]
+    },
+    {
+      "issue_id": "2026-11-13-1200",
+      "published_at": "2026-11-13T12:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "cisco-fy2027-q1-ai-networking-guidance-20261112",
+        "yen-160-katayama-intervention-warning-20261113",
+        "us-october-2026-budget-deficit-404bn"
       ]
     }
   ]

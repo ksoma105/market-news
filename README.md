@@ -14,7 +14,7 @@ ChatGPT WebのScheduled taskが、Web検索とGitHubプラグインを使って�
 
 1. GitHubの `main` から `AGENTS.md` と `AUTOMATION.md` を読む
 2. 72時間以内のニュースを検索・検証する
-3. 重複を除いて2〜7件を選ぶ
+3. 重複を除いて重要な5〜7件を基本に選ぶ。重要ニュースが多い日は最大10件、少ない日は2〜3件とし、件数のために水増ししない
 4. 最新号、旧号アーカイブ、重複台帳、発行履歴を生成する
 5. 音声向け原稿を含む5ファイルを単一commitにして `main` をfast-forward更新する
 6. GitHub Pagesが記事を自動反映する

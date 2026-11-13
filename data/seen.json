@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "stat.go.jp/data/kakei/sokuhou/tsuki",
-    "title": "日本の9月実質家計支出、前年比6.8%減　2020年9月以来の大幅減",
-    "topic_key": "japan-september-household-spending-decline-20261110",
-    "source": "総務省統計局 / Reuters",
-    "first_seen": "2026-11-10T12:00:00+09:00",
-    "issue": "2026-11-10-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10",
-    "title": "中国10月輸出は35.2%増　輸入は41.6%増、累計黒字1兆ドル超",
-    "topic_key": "china-october-trade-ai-exports-surplus-20261110",
-    "source": "Reuters / Trading Economics",
-    "first_seen": "2026-11-10T12:00:00+09:00",
-    "issue": "2026-11-10-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/uk-retail-spending-shows-modest-growth-ahead-black-friday-survey-show-2026-11-10",
-    "title": "英国10月小売支出は1.5%増　ブラックフライデー前で伸びは限定的",
-    "topic_key": "uk-october-retail-spending-black-friday-20261110",
-    "source": "Reuters / Trading Economics",
-    "first_seen": "2026-11-10T12:00:00+09:00",
-    "issue": "2026-11-10-1200"
-  },
-  {
     "url_normalized": "group.softbank/en/event/earnings_2026q2",
     "title": "ソフトバンクG、7〜9月期は1兆1,153億円の赤字　AIデータセンターで損失",
     "topic_key": "softbank-q2-2026-ai-datacenter-loss-20261110",
@@ -238,5 +214,45 @@
     "source": "Reuters / Bloomberg News",
     "first_seen": "2026-11-13T12:00:00+09:00",
     "issue": "2026-11-13-1200"
+  },
+  {
+    "url_normalized": "reuters.com/markets/asia/smfg-second-quarter-profit-falls-10-raises-annual-earnings-forecast-2026-11-13",
+    "title": "3メガバンクが最高益見通し　AIデータセンター融資には慎重姿勢",
+    "topic_key": "japan-megabanks-fy2027-record-profit-guidance-20261113",
+    "source": "Reuters / MUFG / SMFG / Mizuho Financial Group",
+    "first_seen": "2026-11-13T22:00:00+09:00",
+    "issue": "2026-11-13-2200"
+  },
+  {
+    "url_normalized": "reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12",
+    "title": "Microsoft 365障害が12時間超　企業・行政の通信や取引に影響",
+    "topic_key": "microsoft-365-global-outage-20261113",
+    "source": "Reuters / Microsoft",
+    "first_seen": "2026-11-13T22:00:00+09:00",
+    "issue": "2026-11-13-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/feds-williams-says-central-bank-has-work-do-get-inflation-back-target-2026-11-13",
+    "title": "NY連銀総裁、追加利上げを示唆　「インフレは根強い」",
+    "topic_key": "fed-williams-inflation-more-hikes-20261113",
+    "source": "Reuters / CNBC TV18",
+    "first_seen": "2026-11-13T22:00:00+09:00",
+    "issue": "2026-11-13-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/cerebras-raises-annual-sales-forecast-strong-ai-linked-demand-2026-11-12",
+    "title": "Cerebras、通期売上高見通しを9.4億〜9.6億ドルへ上方修正",
+    "topic_key": "cerebras-q3-2026-forecast-microsoft",
+    "source": "Reuters / Cerebras Systems",
+    "first_seen": "2026-11-13T22:00:00+09:00",
+    "issue": "2026-11-13-2200"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/global-markets-flows-graphic-2026-11-13",
+    "title": "世界株式ファンドへ509.9億ドル流入　欧州は約5年半ぶり高水準",
+    "topic_key": "global-equity-funds-inflows-50-99bn-20261111",
+    "source": "Reuters / LSEG Lipper",
+    "first_seen": "2026-11-13T22:00:00+09:00",
+    "issue": "2026-11-13-2200"
   }
 ]

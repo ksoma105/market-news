@@ -2578,11 +2578,24 @@
       "issue_id": "2026-11-13-1200",
       "published_at": "2026-11-13T12:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-13-1200.html",
       "topics": [
         "cisco-fy2027-q1-ai-networking-guidance-20261112",
         "yen-160-katayama-intervention-warning-20261113",
         "us-october-2026-budget-deficit-404bn"
+      ]
+    },
+    {
+      "issue_id": "2026-11-13-2200",
+      "published_at": "2026-11-13T22:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-megabanks-fy2027-record-profit-guidance-20261113",
+        "microsoft-365-global-outage-20261113",
+        "fed-williams-inflation-more-hikes-20261113",
+        "cerebras-q3-2026-forecast-microsoft",
+        "global-equity-funds-inflows-50-99bn-20261111"
       ]
     }
   ]

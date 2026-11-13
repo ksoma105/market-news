@@ -2589,13 +2589,26 @@
       "issue_id": "2026-11-13-2200",
       "published_at": "2026-11-13T22:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-13-2200.html",
       "topics": [
         "japan-megabanks-fy2027-record-profit-guidance-20261113",
         "microsoft-365-global-outage-20261113",
         "fed-williams-inflation-more-hikes-20261113",
         "cerebras-q3-2026-forecast-microsoft",
         "global-equity-funds-inflows-50-99bn-20261111"
+      ]
+    },
+    {
+      "issue_id": "2026-11-14-0700",
+      "published_at": "2026-11-14T07:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-october-ppi-0-3-6-5-20261113",
+        "euro-area-q3-2026-gdp-0-4-employment-flat",
+        "iea-november-2026-oil-supply-demand-rebalance",
+        "applied-materials-fy2026-q4-revenue-ai",
+        "richemont-fy2027-h1-sales-luxury-china"
       ]
     }
   ]

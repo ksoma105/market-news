@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "group.softbank/en/event/earnings_2026q2",
-    "title": "ソフトバンクG、7〜9月期は1兆1,153億円の赤字　AIデータセンターで損失",
-    "topic_key": "softbank-q2-2026-ai-datacenter-loss-20261110",
-    "source": "ソフトバンクグループ / Reuters / TBS CROSS DIG with Bloomberg",
-    "first_seen": "2026-11-10T22:00:00+09:00",
-    "issue": "2026-11-10-2200"
-  },
-  {
-    "url_normalized": "infineon.com/press-release/2026/infpr202611-025",
-    "title": "Infineon、2027年度売上高は20%超増を予想　データセンター電源が成長軸",
-    "topic_key": "infineon-fy2027-datacenter-power-growth-20261110",
-    "source": "Infineon / Reuters（Euronext掲載）",
-    "first_seen": "2026-11-10T22:00:00+09:00",
-    "issue": "2026-11-10-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/americas/brazil-central-bank-flags-oil-el-nino-labor-fx-shocks-behind-inflation-rebound-2026-11-10",
-    "title": "ブラジル中銀、利下げを停止　供給ショックでインフレ見通し悪化",
-    "topic_key": "brazil-copom-minutes-inflation-shocks-20261110",
-    "source": "Reuters / CNN Brasil",
-    "first_seen": "2026-11-10T22:00:00+09:00",
-    "issue": "2026-11-10-2200"
-  },
-  {
-    "url_normalized": "bls.gov/news.release/cpi.nr0.htm",
-    "title": "米10月CPIは前月比0.4%上昇　予想上回り12月の利上げ観測強まる",
-    "topic_key": "us-october-cpi-hot-fed-hike-20261110",
-    "source": "米労働統計局 / Reuters / AP",
-    "first_seen": "2026-11-11T06:00:00+09:00",
-    "issue": "2026-11-11-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/recent-ukrainian-attacks-have-reduced-russias-oil-processing-capacity-by-30-2026-11-10",
-    "title": "ウクライナ攻撃、ロシア製油能力の約30%に影響　実処理は日量最大20万トン減",
-    "topic_key": "russia-refinery-attacks-capacity-30pct-20261110",
-    "source": "Reuters / 国際エネルギー機関",
-    "first_seen": "2026-11-11T06:00:00+09:00",
-    "issue": "2026-11-11-0600"
-  },
-  {
-    "url_normalized": "mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/data.htm",
-    "title": "日本の投資家、10月は海外債券を4,939億円買い越し　3カ月ぶり",
-    "topic_key": "japan-october-foreign-bond-buying-20261110",
-    "source": "財務省 / Reuters",
-    "first_seen": "2026-11-11T06:00:00+09:00",
-    "issue": "2026-11-11-0600"
-  },
-  {
     "url_normalized": "reuters.com/world/asia-pacific/japan-manufacturers-mood-hits-more-than-5-year-high-chip-demand-2026-11-10",
     "title": "日本企業の景況感、製造業は5年超ぶり高水準　半導体需要が押し上げ",
     "topic_key": "japan-reuters-tankan-november-chip-demand-20261111",
@@ -254,5 +206,45 @@
     "source": "Reuters / LSEG Lipper",
     "first_seen": "2026-11-13T22:00:00+09:00",
     "issue": "2026-11-13-2200"
+  },
+  {
+    "url_normalized": "bls.gov/ppi",
+    "title": "米10月卸売物価は前月比0.3%上昇　前年比は6.5%",
+    "topic_key": "us-october-ppi-0-3-6-5-20261113",
+    "source": "米労働省労働統計局",
+    "first_seen": "2026-11-14T07:00:00+09:00",
+    "issue": "2026-11-14-0700"
+  },
+  {
+    "url_normalized": "ec.europa.eu/eurostat/web/products-euro-indicators/w/2-13112026-ap",
+    "title": "ユーロ圏GDPは7〜9月期に0.4%増　雇用は横ばい",
+    "topic_key": "euro-area-q3-2026-gdp-0-4-employment-flat",
+    "source": "Eurostat",
+    "first_seen": "2026-11-14T07:00:00+09:00",
+    "issue": "2026-11-14-0700"
+  },
+  {
+    "url_normalized": "iea.org/reports/oil-market-report-november-2026",
+    "title": "世界の原油供給が需要を上回る　IEAは2027年の供給回復を予測",
+    "topic_key": "iea-november-2026-oil-supply-demand-rebalance",
+    "source": "国際エネルギー機関",
+    "first_seen": "2026-11-14T07:00:00+09:00",
+    "issue": "2026-11-14-0700"
+  },
+  {
+    "url_normalized": "appliedmaterials.com/us/en/newsroom/press-releases/111226-applied-materials-announces-fourth-qtr-fiscal-year-end-2026-results.html",
+    "title": "Applied Materials、8〜10月期売上高は53%増の104.1億ドル",
+    "topic_key": "applied-materials-fy2026-q4-revenue-ai",
+    "source": "Applied Materials",
+    "first_seen": "2026-11-14T07:00:00+09:00",
+    "issue": "2026-11-14-0700"
+  },
+  {
+    "url_normalized": "richemont.com/news-media/press-releases-news/richemont-posts-strong-results-for-the-six-month-period-ended-30-september-2026-driven-by-sustained-double-digit-sales-growth",
+    "title": "Richemont、上期売上高16%増　中国需要はなお軟調",
+    "topic_key": "richemont-fy2027-h1-sales-luxury-china",
+    "source": "Richemont",
+    "first_seen": "2026-11-14T07:00:00+09:00",
+    "issue": "2026-11-14-0700"
   }
 ]

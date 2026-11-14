@@ -2602,13 +2602,27 @@
       "issue_id": "2026-11-14-0700",
       "published_at": "2026-11-14T07:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-14-0700.html",
       "topics": [
         "us-october-ppi-0-3-6-5-20261113",
         "euro-area-q3-2026-gdp-0-4-employment-flat",
         "iea-november-2026-oil-supply-demand-rebalance",
         "applied-materials-fy2026-q4-revenue-ai",
         "richemont-fy2027-h1-sales-luxury-china"
+      ]
+    },
+    {
+      "issue_id": "2026-11-15-0700",
+      "published_at": "2026-11-15T07:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "fed-jefferson-ai-productivity-macroeconomy-20261113",
+        "dallas-fed-logan-weekend-discount-window-20261113",
+        "meridian-fx-apac-synchronised-settlement-20261113",
+        "euro-area-september-2026-trade-deficit-energy",
+        "canada-september-2026-manufacturing-sales-flat",
+        "china-early-november-2026-production-material-prices"
       ]
     }
   ]

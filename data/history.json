@@ -2615,7 +2615,7 @@
       "issue_id": "2026-11-15-0700",
       "published_at": "2026-11-15T07:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-15-0700.html",
       "topics": [
         "fed-jefferson-ai-productivity-macroeconomy-20261113",
         "dallas-fed-logan-weekend-discount-window-20261113",
@@ -2623,6 +2623,19 @@
         "euro-area-september-2026-trade-deficit-energy",
         "canada-september-2026-manufacturing-sales-flat",
         "china-early-november-2026-production-material-prices"
+      ]
+    },
+    {
+      "issue_id": "2026-11-16-0700",
+      "published_at": "2026-11-16T07:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "kc-fed-schmid-inflation-work-to-do-20261115",
+        "boe-greene-proactive-tightening-inflation-20261114",
+        "gulf-bourses-hormuz-houthi-tensions-20261115",
+        "turkey-capital-market-reforms-msci-20261115",
+        "novelis-china-units-sale-265m-20261115"
       ]
     }
   ]

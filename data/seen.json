@@ -1,77 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/asia-pacific/japan-wholesale-inflation-accelerates-keeps-alive-boj-rate-hike-view-2026-11-12",
-    "title": "日本の10月企業物価は前年比7.1%上昇　12月利上げ観測を支える",
-    "topic_key": "japan-october-cgpi-7-1-boj-hike-20261112",
-    "source": "Reuters / Bank of Japan",
-    "first_seen": "2026-11-12T12:00:00+09:00",
-    "issue": "2026-11-12-1200"
-  },
-  {
-    "url_normalized": "reuters.com/world/china/foreign-investors-pull-out-50-billion-asian-equities-october-ai-cash-burn-woes-2026-11-11",
-    "title": "アジア株、10月の海外資金流出は497.7億ドル　AI投資懸念が重荷",
-    "topic_key": "asia-equity-foreign-outflows-49-77bn-202610",
-    "source": "Reuters",
-    "first_seen": "2026-11-12T12:00:00+09:00",
-    "issue": "2026-11-12-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/energy/oil-prices-drop-more-than-1-hopes-iran-ukraine-peace-talks-pressure-markets-2026-11-12",
-    "title": "原油は1.2%安　和平期待でBrent 91.62ドル、WTI 85.49ドル",
-    "topic_key": "oil-peace-talks-brent-wti-drop-20261112",
-    "source": "Reuters",
-    "first_seen": "2026-11-12T12:00:00+09:00",
-    "issue": "2026-11-12-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/retail-consumer/taiwans-foxconn-reports-34-rise-q3-profit-beats-forecasts-2026-11-12",
-    "title": "鴻海の7〜9月純利益は34%増　AIサーバー需要継続も部品不足を警戒",
-    "topic_key": "foxconn-q3-2026-profit-ai-server-supply-tightness",
-    "source": "Reuters / Hon Hai Precision Industry",
-    "first_seen": "2026-11-12T22:00:00+09:00",
-    "issue": "2026-11-12-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/ecb-set-last-rate-hike-december-inflation-risks-keep-door-open-one-more-2026-11-12",
-    "title": "ECBは12月に2.75%へ利上げ予想　71人全員が0.25ポイント上昇を見込む",
-    "topic_key": "ecb-december-2026-rate-hike-reuters-poll",
-    "source": "Reuters / European Central Bank",
-    "first_seen": "2026-11-12T22:00:00+09:00",
-    "issue": "2026-11-12-2200"
-  },
-  {
-    "url_normalized": "reuters.com/world/uk/sterling-steady-after-uk-gdp-data-fed-official-up-next-2026-11-12",
-    "title": "英国の7〜9月GDPは0.7%増　2年半ぶりの高い伸び",
-    "topic_key": "uk-q3-2026-gdp-0-7-services-growth",
-    "source": "Reuters / UK Office for National Statistics",
-    "first_seen": "2026-11-12T22:00:00+09:00",
-    "issue": "2026-11-12-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/nasdaq-futures-fall-nvidia-turmoil-rattles-ai-stocks-2026-11-12",
-    "title": "NVIDIA創業者CEOが即時退任　米主要3指数はそろって下落",
-    "topic_key": "nvidia-huang-exit-us-market-ai-stocks-20261112",
-    "source": "Reuters / NVIDIA",
-    "first_seen": "2026-11-13T06:00:00+09:00",
-    "issue": "2026-11-13-0600"
-  },
-  {
-    "url_normalized": "reuters.com/world/india/india-october-inflation-tops-rbis-6-limit-strengthens-case-rate-hikes-2026-11-12",
-    "title": "インドの10月物価は6.09%上昇　食品高で中銀の上限を突破",
-    "topic_key": "india-october-cpi-6-09-rbi-hike-20261112",
-    "source": "Reuters / India Ministry of Statistics and Programme Implementation",
-    "first_seen": "2026-11-13T06:00:00+09:00",
-    "issue": "2026-11-13-0600"
-  },
-  {
-    "url_normalized": "reuters.com/business/us-existing-home-sales-slump-more-than-16-year-low-october-2026-11-12",
-    "title": "米中古住宅販売は年率375万戸　16年超ぶりの低水準",
-    "topic_key": "us-october-existing-home-sales-3-75m-20261112",
-    "source": "Reuters / National Association of Realtors",
-    "first_seen": "2026-11-13T06:00:00+09:00",
-    "issue": "2026-11-13-0600"
-  },
-  {
     "url_normalized": "reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-strong-ai-networking-demand-2026-11-12",
     "title": "Cisco売上高24%増　AIインフラ売上見通しを90億ドルへ上方修正",
     "topic_key": "cisco-fy2027-q1-ai-networking-guidance-20261112",
@@ -222,5 +150,45 @@
     "source": "中国国家統計局",
     "first_seen": "2026-11-15T07:00:00+09:00",
     "issue": "2026-11-15-0700"
+  },
+  {
+    "url_normalized": "reuters.com/world/us/fed-has-some-work-do-inflation-kc-fed-chief-says-2026-11-15",
+    "title": "KC連銀総裁、インフレ抑制に「やるべきことがある」",
+    "topic_key": "kc-fed-schmid-inflation-work-to-do-20261115",
+    "source": "Reuters",
+    "first_seen": "2026-11-16T07:00:00+09:00",
+    "issue": "2026-11-16-0700"
+  },
+  {
+    "url_normalized": "reuters.com/business/finance/boes-greene-says-acting-proactively-now-inflation-would-screw-things-up-least-2026-11-14",
+    "title": "英中銀グリーン委員、インフレには先回りの対応が必要と主張",
+    "topic_key": "boe-greene-proactive-tightening-inflation-20261114",
+    "source": "Reuters",
+    "first_seen": "2026-11-16T07:00:00+09:00",
+    "issue": "2026-11-16-0700"
+  },
+  {
+    "url_normalized": "reuters.com/world/middle-east/gulf-bourses-slide-hormuz-tensions-houthi-strikes-rattle-traders-2026-11-15",
+    "title": "ホルムズ海峡の緊張で湾岸株下落　サウジ0.7%、カタール1.8%安",
+    "topic_key": "gulf-bourses-hormuz-houthi-tensions-20261115",
+    "source": "Reuters",
+    "first_seen": "2026-11-16T07:00:00+09:00",
+    "issue": "2026-11-16-0700"
+  },
+  {
+    "url_normalized": "reuters.com/world/middle-east/turkeys-simsek-says-meet-msci-investors-market-concerns-reforms-december-2026-11-15",
+    "title": "トルコ財務相、MSCIと12月協議へ　資本市場改革を説明",
+    "topic_key": "turkey-capital-market-reforms-msci-20261115",
+    "source": "Reuters",
+    "first_seen": "2026-11-16T07:00:00+09:00",
+    "issue": "2026-11-16-0700"
+  },
+  {
+    "url_normalized": "nsearchives.nseindia.com/corporate/HINDALCOIND_15112026101130_Cessation_of_WOS_signed.pdf",
+    "title": "Novelis、中国子会社2社を2.65億ドルで売却へ",
+    "topic_key": "novelis-china-units-sale-265m-20261115",
+    "source": "Hindalco Industries",
+    "first_seen": "2026-11-16T07:00:00+09:00",
+    "issue": "2026-11-16-0700"
   }
 ]

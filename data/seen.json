@@ -1,69 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-strong-ai-networking-demand-2026-11-12",
-    "title": "Cisco売上高24%増　AIインフラ売上見通しを90億ドルへ上方修正",
-    "topic_key": "cisco-fy2027-q1-ai-networking-guidance-20261112",
-    "source": "Reuters / Cisco Systems",
-    "first_seen": "2026-11-13T12:00:00+09:00",
-    "issue": "2026-11-13-1200"
-  },
-  {
-    "url_normalized": "reuters.com/markets/us/japans-finance-minister-vows-action-yen-breaches-160-threshold-2026-11-13",
-    "title": "円が一時1ドル160.03円　財務相は為替変動への対応を警告",
-    "topic_key": "yen-160-katayama-intervention-warning-20261113",
-    "source": "Reuters / Japan Ministry of Finance",
-    "first_seen": "2026-11-13T12:00:00+09:00",
-    "issue": "2026-11-13-1200"
-  },
-  {
-    "url_normalized": "reuters.com/business/us-starts-2027-fiscal-year-with-record-october-budget-deficit-404-billion-2026-11-12",
-    "title": "米10月財政赤字は過去最大4040億ドル　歳入減と歳出増が重荷",
-    "topic_key": "us-october-2026-budget-deficit-404bn",
-    "source": "Reuters / Bloomberg News",
-    "first_seen": "2026-11-13T12:00:00+09:00",
-    "issue": "2026-11-13-1200"
-  },
-  {
-    "url_normalized": "reuters.com/markets/asia/smfg-second-quarter-profit-falls-10-raises-annual-earnings-forecast-2026-11-13",
-    "title": "3メガバンクが最高益見通し　AIデータセンター融資には慎重姿勢",
-    "topic_key": "japan-megabanks-fy2027-record-profit-guidance-20261113",
-    "source": "Reuters / MUFG / SMFG / Mizuho Financial Group",
-    "first_seen": "2026-11-13T22:00:00+09:00",
-    "issue": "2026-11-13-2200"
-  },
-  {
-    "url_normalized": "reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12",
-    "title": "Microsoft 365障害が12時間超　企業・行政の通信や取引に影響",
-    "topic_key": "microsoft-365-global-outage-20261113",
-    "source": "Reuters / Microsoft",
-    "first_seen": "2026-11-13T22:00:00+09:00",
-    "issue": "2026-11-13-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/feds-williams-says-central-bank-has-work-do-get-inflation-back-target-2026-11-13",
-    "title": "NY連銀総裁、追加利上げを示唆　「インフレは根強い」",
-    "topic_key": "fed-williams-inflation-more-hikes-20261113",
-    "source": "Reuters / CNBC TV18",
-    "first_seen": "2026-11-13T22:00:00+09:00",
-    "issue": "2026-11-13-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/cerebras-raises-annual-sales-forecast-strong-ai-linked-demand-2026-11-12",
-    "title": "Cerebras、通期売上高見通しを9.4億〜9.6億ドルへ上方修正",
-    "topic_key": "cerebras-q3-2026-forecast-microsoft",
-    "source": "Reuters / Cerebras Systems",
-    "first_seen": "2026-11-13T22:00:00+09:00",
-    "issue": "2026-11-13-2200"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/global-markets-flows-graphic-2026-11-13",
-    "title": "世界株式ファンドへ509.9億ドル流入　欧州は約5年半ぶり高水準",
-    "topic_key": "global-equity-funds-inflows-50-99bn-20261111",
-    "source": "Reuters / LSEG Lipper",
-    "first_seen": "2026-11-13T22:00:00+09:00",
-    "issue": "2026-11-13-2200"
-  },
-  {
     "url_normalized": "bls.gov/ppi",
     "title": "米10月卸売物価は前月比0.3%上昇　前年比は6.5%",
     "topic_key": "us-october-ppi-0-3-6-5-20261113",
@@ -190,5 +126,53 @@
     "source": "Hindalco Industries",
     "first_seen": "2026-11-16T07:00:00+09:00",
     "issue": "2026-11-16-0700"
+  },
+  {
+    "url_normalized": "www5.cao.go.jp/keizai1/danwa/1116_danwa.pdf",
+    "title": "日本の7〜9月GDP、年率0.1%減　4四半期ぶりマイナス",
+    "topic_key": "japan-q3-2026-gdp-contraction-0-1",
+    "source": "内閣府",
+    "first_seen": "2026-11-17T07:00:00+09:00",
+    "issue": "2026-11-17-0700"
+  },
+  {
+    "url_normalized": "stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html",
+    "title": "中国10月、小売売上高0.4%増・工業生産4.8%増　内需鈍化",
+    "topic_key": "china-october-2026-output-retail-slowdown",
+    "source": "中国国家統計局",
+    "first_seen": "2026-11-17T07:00:00+09:00",
+    "issue": "2026-11-17-0700"
+  },
+  {
+    "url_normalized": "ec.europa.eu/eurostat/web/products-euro-indicators/w/4-16112026-ap",
+    "title": "ユーロ圏9月鉱工業生産、前月比0.2%増　前年比は1.5%減",
+    "topic_key": "euro-area-september-2026-industrial-production",
+    "source": "Eurostat",
+    "first_seen": "2026-11-17T07:00:00+09:00",
+    "issue": "2026-11-17-0700"
+  },
+  {
+    "url_normalized": "newyorkfed.org/medialibrary/media/survey/empire/empire2026/2026_11_empire-state-manufacturing-survey.pdf",
+    "title": "NY州製造業指数は7.8　雇用指数は4年超ぶり高水準",
+    "topic_key": "ny-fed-november-2026-manufacturing-7-8",
+    "source": "ニューヨーク連銀",
+    "first_seen": "2026-11-17T07:00:00+09:00",
+    "issue": "2026-11-17-0700"
+  },
+  {
+    "url_normalized": "federalreserve.gov/newsevents/speech/barr20261116a.htm",
+    "title": "FRB理事、AI投資の簿外債務3兆ドル超を注視",
+    "topic_key": "fed-barr-ai-financial-stability-20261116",
+    "source": "米連邦準備制度理事会",
+    "first_seen": "2026-11-17T07:00:00+09:00",
+    "issue": "2026-11-17-0700"
+  },
+  {
+    "url_normalized": "www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.pdf",
+    "title": "カナダ10月CPIは3.1%上昇　ガソリン30.9%高",
+    "topic_key": "canada-october-2026-cpi-3-1",
+    "source": "カナダ統計局",
+    "first_seen": "2026-11-17T07:00:00+09:00",
+    "issue": "2026-11-17-0700"
   }
 ]

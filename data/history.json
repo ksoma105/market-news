@@ -2629,13 +2629,27 @@
       "issue_id": "2026-11-16-0700",
       "published_at": "2026-11-16T07:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-16-0700.html",
       "topics": [
         "kc-fed-schmid-inflation-work-to-do-20261115",
         "boe-greene-proactive-tightening-inflation-20261114",
         "gulf-bourses-hormuz-houthi-tensions-20261115",
         "turkey-capital-market-reforms-msci-20261115",
         "novelis-china-units-sale-265m-20261115"
+      ]
+    },
+    {
+      "issue_id": "2026-11-17-0700",
+      "published_at": "2026-11-17T07:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-q3-2026-gdp-contraction-0-1",
+        "china-october-2026-output-retail-slowdown",
+        "euro-area-september-2026-industrial-production",
+        "ny-fed-november-2026-manufacturing-7-8",
+        "fed-barr-ai-financial-stability-20261116",
+        "canada-october-2026-cpi-3-1"
       ]
     }
   ]

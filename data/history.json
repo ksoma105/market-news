@@ -2656,7 +2656,7 @@
       "issue_id": "2026-11-19-0700",
       "published_at": "2026-11-19T07:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-19-0700.html",
       "topics": [
         "fed-october-2026-minutes-ai-financial-stability",
         "boj-ueda-continue-rate-hikes-20261118",
@@ -2664,6 +2664,20 @@
         "us-october-2026-housing-starts-permits",
         "uk-october-2026-cpi-3-6",
         "euro-area-october-2026-inflation-4-0"
+      ]
+    },
+    {
+      "issue_id": "2026-11-20-0700",
+      "published_at": "2026-11-20T07:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "anthropic-ipo-nasdaq-valuation-20261119",
+        "alibaba-september-quarter-2026-ai-cloud",
+        "walmart-fy2027-q3-results-guidance",
+        "japan-september-2026-machinery-orders",
+        "us-weekly-jobless-claims-20261114",
+        "australia-october-2026-labour-force"
       ]
     }
   ]

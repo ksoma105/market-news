@@ -1,45 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/us/fed-has-some-work-do-inflation-kc-fed-chief-says-2026-11-15",
-    "title": "KC連銀総裁、インフレ抑制に「やるべきことがある」",
-    "topic_key": "kc-fed-schmid-inflation-work-to-do-20261115",
-    "source": "Reuters",
-    "first_seen": "2026-11-16T07:00:00+09:00",
-    "issue": "2026-11-16-0700"
-  },
-  {
-    "url_normalized": "reuters.com/business/finance/boes-greene-says-acting-proactively-now-inflation-would-screw-things-up-least-2026-11-14",
-    "title": "英中銀グリーン委員、インフレには先回りの対応が必要と主張",
-    "topic_key": "boe-greene-proactive-tightening-inflation-20261114",
-    "source": "Reuters",
-    "first_seen": "2026-11-16T07:00:00+09:00",
-    "issue": "2026-11-16-0700"
-  },
-  {
-    "url_normalized": "reuters.com/world/middle-east/gulf-bourses-slide-hormuz-tensions-houthi-strikes-rattle-traders-2026-11-15",
-    "title": "ホルムズ海峡の緊張で湾岸株下落　サウジ0.7%、カタール1.8%安",
-    "topic_key": "gulf-bourses-hormuz-houthi-tensions-20261115",
-    "source": "Reuters",
-    "first_seen": "2026-11-16T07:00:00+09:00",
-    "issue": "2026-11-16-0700"
-  },
-  {
-    "url_normalized": "reuters.com/world/middle-east/turkeys-simsek-says-meet-msci-investors-market-concerns-reforms-december-2026-11-15",
-    "title": "トルコ財務相、MSCIと12月協議へ　資本市場改革を説明",
-    "topic_key": "turkey-capital-market-reforms-msci-20261115",
-    "source": "Reuters",
-    "first_seen": "2026-11-16T07:00:00+09:00",
-    "issue": "2026-11-16-0700"
-  },
-  {
-    "url_normalized": "nsearchives.nseindia.com/corporate/HINDALCOIND_15112026101130_Cessation_of_WOS_signed.pdf",
-    "title": "Novelis、中国子会社2社を2.65億ドルで売却へ",
-    "topic_key": "novelis-china-units-sale-265m-20261115",
-    "source": "Hindalco Industries",
-    "first_seen": "2026-11-16T07:00:00+09:00",
-    "issue": "2026-11-16-0700"
-  },
-  {
     "url_normalized": "www5.cao.go.jp/keizai1/danwa/1116_danwa.pdf",
     "title": "日本の7〜9月GDP、年率0.1%減　4四半期ぶりマイナス",
     "topic_key": "japan-q3-2026-gdp-contraction-0-1",
@@ -134,5 +94,53 @@
     "source": "Eurostat",
     "first_seen": "2026-11-19T07:00:00+09:00",
     "issue": "2026-11-19-0700"
+  },
+  {
+    "url_normalized": "reuters.com/legal/transactional/view-anthropic-set-soar-debut-will-ai-peers-follow-2026-11-19",
+    "title": "Anthropic上場、初値111.50ドル　終値ベース評価額1.77兆ドル",
+    "topic_key": "anthropic-ipo-nasdaq-valuation-20261119",
+    "source": "Reuters",
+    "first_seen": "2026-11-20T07:00:00+09:00",
+    "issue": "2026-11-20-0700"
+  },
+  {
+    "url_normalized": "home.alibabagroup.com/en-US/document-2060147792046718976",
+    "title": "Alibaba、9月期売上高2,715億元　AIクラウドは53%増",
+    "topic_key": "alibaba-september-quarter-2026-ai-cloud",
+    "source": "Alibaba Group",
+    "first_seen": "2026-11-20T07:00:00+09:00",
+    "issue": "2026-11-20-0700"
+  },
+  {
+    "url_normalized": "corporate.walmart.com/news/2026/11/walmart-releases-q3-fy27-earnings",
+    "title": "Walmart、四半期売上高1,888億ドル　通期見通しを上方修正",
+    "topic_key": "walmart-fy2027-q3-results-guidance",
+    "source": "Walmart",
+    "first_seen": "2026-11-20T07:00:00+09:00",
+    "issue": "2026-11-20-0700"
+  },
+  {
+    "url_normalized": "esri.cao.go.jp/en/stat/juchu/2026/2609juchu-e.html",
+    "title": "日本の9月機械受注、民需は0.3%減　10〜12月は4.3%増を予測",
+    "topic_key": "japan-september-2026-machinery-orders",
+    "source": "内閣府",
+    "first_seen": "2026-11-20T07:00:00+09:00",
+    "issue": "2026-11-20-0700"
+  },
+  {
+    "url_normalized": "reuters.com/world/us/us-weekly-jobless-claims-increase-slightly-2026-11-19",
+    "title": "米新規失業保険申請20.3万件　低水準も継続受給は増加",
+    "topic_key": "us-weekly-jobless-claims-20261114",
+    "source": "Reuters",
+    "first_seen": "2026-11-20T07:00:00+09:00",
+    "issue": "2026-11-20-0700"
+  },
+  {
+    "url_normalized": "abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/oct-2026",
+    "title": "豪10月雇用4.35万人減　失業率は5年ぶり高水準の4.9%",
+    "topic_key": "australia-october-2026-labour-force",
+    "source": "豪統計局",
+    "first_seen": "2026-11-20T07:00:00+09:00",
+    "issue": "2026-11-20-0700"
   }
 ]

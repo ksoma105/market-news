@@ -2670,7 +2670,7 @@
       "issue_id": "2026-11-20-0700",
       "published_at": "2026-11-20T07:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-20-0700.html",
       "topics": [
         "anthropic-ipo-nasdaq-valuation-20261119",
         "alibaba-september-quarter-2026-ai-cloud",
@@ -2678,6 +2678,20 @@
         "japan-september-2026-machinery-orders",
         "us-weekly-jobless-claims-20261114",
         "australia-october-2026-labour-force"
+      ]
+    },
+    {
+      "issue_id": "2026-11-22-0700",
+      "published_at": "2026-11-22T07:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-october-2026-cpi-2-2",
+        "uk-october-2026-retail-sales-0-7",
+        "canada-september-2026-retail-sales-0-8",
+        "us-stocks-correction-ai-selloff-20261120",
+        "bitcoin-two-year-low-rebound-20261121",
+        "strait-hormuz-tanker-attacks-20261121"
       ]
     }
   ]

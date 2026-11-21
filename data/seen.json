@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "www5.cao.go.jp/keizai1/danwa/1116_danwa.pdf",
-    "title": "日本の7〜9月GDP、年率0.1%減　4四半期ぶりマイナス",
-    "topic_key": "japan-q3-2026-gdp-contraction-0-1",
-    "source": "内閣府",
-    "first_seen": "2026-11-17T07:00:00+09:00",
-    "issue": "2026-11-17-0700"
-  },
-  {
-    "url_normalized": "stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html",
-    "title": "中国10月、小売売上高0.4%増・工業生産4.8%増　内需鈍化",
-    "topic_key": "china-october-2026-output-retail-slowdown",
-    "source": "中国国家統計局",
-    "first_seen": "2026-11-17T07:00:00+09:00",
-    "issue": "2026-11-17-0700"
-  },
-  {
-    "url_normalized": "ec.europa.eu/eurostat/web/products-euro-indicators/w/4-16112026-ap",
-    "title": "ユーロ圏9月鉱工業生産、前月比0.2%増　前年比は1.5%減",
-    "topic_key": "euro-area-september-2026-industrial-production",
-    "source": "Eurostat",
-    "first_seen": "2026-11-17T07:00:00+09:00",
-    "issue": "2026-11-17-0700"
-  },
-  {
-    "url_normalized": "newyorkfed.org/medialibrary/media/survey/empire/empire2026/2026_11_empire-state-manufacturing-survey.pdf",
-    "title": "NY州製造業指数は7.8　雇用指数は4年超ぶり高水準",
-    "topic_key": "ny-fed-november-2026-manufacturing-7-8",
-    "source": "ニューヨーク連銀",
-    "first_seen": "2026-11-17T07:00:00+09:00",
-    "issue": "2026-11-17-0700"
-  },
-  {
-    "url_normalized": "federalreserve.gov/newsevents/speech/barr20261116a.htm",
-    "title": "FRB理事、AI投資の簿外債務3兆ドル超を注視",
-    "topic_key": "fed-barr-ai-financial-stability-20261116",
-    "source": "米連邦準備制度理事会",
-    "first_seen": "2026-11-17T07:00:00+09:00",
-    "issue": "2026-11-17-0700"
-  },
-  {
-    "url_normalized": "www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.pdf",
-    "title": "カナダ10月CPIは3.1%上昇　ガソリン30.9%高",
-    "topic_key": "canada-october-2026-cpi-3-1",
-    "source": "カナダ統計局",
-    "first_seen": "2026-11-17T07:00:00+09:00",
-    "issue": "2026-11-17-0700"
-  },
-  {
     "url_normalized": "federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
     "title": "FOMC議事要旨、追加利上げを想定　AI投資と金融安定も議論",
     "topic_key": "fed-october-2026-minutes-ai-financial-stability",
@@ -142,5 +94,53 @@
     "source": "豪統計局",
     "first_seen": "2026-11-20T07:00:00+09:00",
     "issue": "2026-11-20-0700"
+  },
+  {
+    "url_normalized": "stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html",
+    "title": "全国10月コアCPIは2.2%上昇　日銀目標を上回る",
+    "topic_key": "japan-october-2026-cpi-2-2",
+    "source": "総務省",
+    "first_seen": "2026-11-22T07:00:00+09:00",
+    "issue": "2026-11-22-0700"
+  },
+  {
+    "url_normalized": "ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/october2026",
+    "title": "英10月小売数量は0.7%増　非常用品需要が押し上げ",
+    "topic_key": "uk-october-2026-retail-sales-0-7",
+    "source": "英国立統計局",
+    "first_seen": "2026-11-22T07:00:00+09:00",
+    "issue": "2026-11-22-0700"
+  },
+  {
+    "url_normalized": "www150.statcan.gc.ca/n1/daily-quotidien/261120/dq261120a-eng.htm",
+    "title": "カナダ9月小売は0.8%増　10月速報は1.5%減",
+    "topic_key": "canada-september-2026-retail-sales-0-8",
+    "source": "カナダ統計局",
+    "first_seen": "2026-11-22T07:00:00+09:00",
+    "issue": "2026-11-22-0700"
+  },
+  {
+    "url_normalized": "reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20",
+    "title": "米株急落、S&P500とダウが調整局面　AI懸念広がる",
+    "topic_key": "us-stocks-correction-ai-selloff-20261120",
+    "source": "Reuters",
+    "first_seen": "2026-11-22T07:00:00+09:00",
+    "issue": "2026-11-22-0700"
+  },
+  {
+    "url_normalized": "reuters.com/business/bitcoin-falls-357-56814-2026-11-21",
+    "title": "ビットコイン、一時5万5,251ドル　2年ぶり安値後に反発",
+    "topic_key": "bitcoin-two-year-low-rebound-20261121",
+    "source": "Reuters",
+    "first_seen": "2026-11-22T07:00:00+09:00",
+    "issue": "2026-11-22-0700"
+  },
+  {
+    "url_normalized": "ukmto.org/-/media/ukmto/products/20261121-ukmto_warning_215-26.pdf",
+    "title": "ホルムズ海峡付近でタンカー被弾　海上輸送リスク再燃",
+    "topic_key": "strait-hormuz-tanker-attacks-20261121",
+    "source": "UKMTO",
+    "first_seen": "2026-11-22T07:00:00+09:00",
+    "issue": "2026-11-22-0700"
   }
 ]

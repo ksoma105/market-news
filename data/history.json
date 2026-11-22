@@ -2684,7 +2684,7 @@
       "issue_id": "2026-11-22-0700",
       "published_at": "2026-11-22T07:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-22-0700.html",
       "topics": [
         "japan-october-2026-cpi-2-2",
         "uk-october-2026-retail-sales-0-7",
@@ -2692,6 +2692,17 @@
         "us-stocks-correction-ai-selloff-20261120",
         "bitcoin-two-year-low-rebound-20261121",
         "strait-hormuz-tanker-attacks-20261121"
+      ]
+    },
+    {
+      "issue_id": "2026-11-23-0700",
+      "published_at": "2026-11-23T07:00:00+09:00",
+      "topic_count": 3,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-margin-financing-ratio-cut-80-20261122",
+        "south-korea-market-stabilisation-fund-20261122",
+        "compass-group-new-york-primary-listing-plan-20261122"
       ]
     }
   ]

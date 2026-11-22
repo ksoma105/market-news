@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
-    "title": "FOMC議事要旨、追加利上げを想定　AI投資と金融安定も議論",
-    "topic_key": "fed-october-2026-minutes-ai-financial-stability",
-    "source": "米連邦準備制度理事会",
-    "first_seen": "2026-11-19T07:00:00+09:00",
-    "issue": "2026-11-19-0700"
-  },
-  {
-    "url_normalized": "reuters.com/markets/asia/bank-japan-governor-says-central-bank-should-keep-raising-rates-2026-11-18",
-    "title": "日銀・植田総裁、金融環境なお緩和的　利上げ継続が適切",
-    "topic_key": "boj-ueda-continue-rate-hikes-20261118",
-    "source": "Reuters",
-    "first_seen": "2026-11-19T07:00:00+09:00",
-    "issue": "2026-11-19-0700"
-  },
-  {
-    "url_normalized": "investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027",
-    "title": "NVIDIA、8〜10月期売上高1,158億ドル　前年比2倍",
-    "topic_key": "nvidia-fy2027-q3-revenue-115-8bn",
-    "source": "NVIDIA",
-    "first_seen": "2026-11-19T07:00:00+09:00",
-    "issue": "2026-11-19-0700"
-  },
-  {
-    "url_normalized": "census.gov/construction/nrc/current",
-    "title": "米10月住宅着工9.9%増　先行指標の許可件数は7.4%減",
-    "topic_key": "us-october-2026-housing-starts-permits",
-    "source": "米国勢調査局",
-    "first_seen": "2026-11-19T07:00:00+09:00",
-    "issue": "2026-11-19-0700"
-  },
-  {
-    "url_normalized": "ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026",
-    "title": "英国10月CPIは3.6%　1年ぶり高水準でも基調指標は横ばい",
-    "topic_key": "uk-october-2026-cpi-3-6",
-    "source": "英国国家統計局",
-    "first_seen": "2026-11-19T07:00:00+09:00",
-    "issue": "2026-11-19-0700"
-  },
-  {
-    "url_normalized": "ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap",
-    "title": "ユーロ圏10月インフレ率4.0%　エネルギーは21.0%上昇",
-    "topic_key": "euro-area-october-2026-inflation-4-0",
-    "source": "Eurostat",
-    "first_seen": "2026-11-19T07:00:00+09:00",
-    "issue": "2026-11-19-0700"
-  },
-  {
     "url_normalized": "reuters.com/legal/transactional/view-anthropic-set-soar-debut-will-ai-peers-follow-2026-11-19",
     "title": "Anthropic上場、初値111.50ドル　終値ベース評価額1.77兆ドル",
     "topic_key": "anthropic-ipo-nasdaq-valuation-20261119",
@@ -142,5 +94,29 @@
     "source": "UKMTO",
     "first_seen": "2026-11-22T07:00:00+09:00",
     "issue": "2026-11-22-0700"
+  },
+  {
+    "url_normalized": "sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20261122_10838633.shtml",
+    "title": "中国取引所、信用取引の最低保証金比率を100%から80%へ",
+    "topic_key": "china-margin-financing-ratio-cut-80-20261122",
+    "source": "上海証券取引所",
+    "first_seen": "2026-11-23T07:00:00+09:00",
+    "issue": "2026-11-23-0700"
+  },
+  {
+    "url_normalized": "ajupress.com/view/20261122212952430",
+    "title": "韓国、市場安定基金を準備　自社株買い規制も一時緩和",
+    "topic_key": "south-korea-market-stabilisation-fund-20261122",
+    "source": "Aju Press",
+    "first_seen": "2026-11-23T07:00:00+09:00",
+    "issue": "2026-11-23-0700"
+  },
+  {
+    "url_normalized": "reuters.com/world/uk/compass-group-plans-shift-primary-listing-london-new-york-ft-reports-2026-11-22",
+    "title": "Compass Group、主要上場先をロンドンからNYへ移す計画",
+    "topic_key": "compass-group-new-york-primary-listing-plan-20261122",
+    "source": "Reuters",
+    "first_seen": "2026-11-23T07:00:00+09:00",
+    "issue": "2026-11-23-0700"
   }
 ]

@@ -2698,11 +2698,25 @@
       "issue_id": "2026-11-23-0700",
       "published_at": "2026-11-23T07:00:00+09:00",
       "topic_count": 3,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-23-0700.html",
       "topics": [
         "china-margin-financing-ratio-cut-80-20261122",
         "south-korea-market-stabilisation-fund-20261122",
         "compass-group-new-york-primary-listing-plan-20261122"
+      ]
+    },
+    {
+      "issue_id": "2026-11-24-0700",
+      "published_at": "2026-11-24T07:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "us-november-2026-flash-pmi-54-6",
+        "eurozone-november-2026-flash-pmi-51-7",
+        "uk-november-2026-flash-pmi-52-3",
+        "india-november-2026-flash-pmi-56-3",
+        "arm-rene-haas-contract-2033-softbank-vice-chairman",
+        "international-paper-ds-smith-spinoff-december-2026"
       ]
     }
   ]

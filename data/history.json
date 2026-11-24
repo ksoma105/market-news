@@ -2709,7 +2709,7 @@
       "issue_id": "2026-11-24-0700",
       "published_at": "2026-11-24T07:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-24-0700.html",
       "topics": [
         "us-november-2026-flash-pmi-54-6",
         "eurozone-november-2026-flash-pmi-51-7",
@@ -2717,6 +2717,20 @@
         "india-november-2026-flash-pmi-56-3",
         "arm-rene-haas-contract-2033-softbank-vice-chairman",
         "international-paper-ds-smith-spinoff-december-2026"
+      ]
+    },
+    {
+      "issue_id": "2026-11-25-0700",
+      "published_at": "2026-11-25T07:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-november-2026-flash-pmi-53-7",
+        "us-november-2026-consumer-confidence-103-3",
+        "dell-fy2027-q3-ai-server-guidance-20261124",
+        "analog-devices-fy2026-record-revenue-15-2bn",
+        "crowdstrike-zscaler-43-9bn-acquisition-20261123",
+        "venezuela-public-debt-237-5bn-framework-20261124"
       ]
     }
   ]

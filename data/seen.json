@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html",
-    "title": "全国10月コアCPIは2.2%上昇　日銀目標を上回る",
-    "topic_key": "japan-october-2026-cpi-2-2",
-    "source": "総務省",
-    "first_seen": "2026-11-22T07:00:00+09:00",
-    "issue": "2026-11-22-0700"
-  },
-  {
-    "url_normalized": "ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/october2026",
-    "title": "英10月小売数量は0.7%増　非常用品需要が押し上げ",
-    "topic_key": "uk-october-2026-retail-sales-0-7",
-    "source": "英国立統計局",
-    "first_seen": "2026-11-22T07:00:00+09:00",
-    "issue": "2026-11-22-0700"
-  },
-  {
-    "url_normalized": "www150.statcan.gc.ca/n1/daily-quotidien/261120/dq261120a-eng.htm",
-    "title": "カナダ9月小売は0.8%増　10月速報は1.5%減",
-    "topic_key": "canada-september-2026-retail-sales-0-8",
-    "source": "カナダ統計局",
-    "first_seen": "2026-11-22T07:00:00+09:00",
-    "issue": "2026-11-22-0700"
-  },
-  {
-    "url_normalized": "reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20",
-    "title": "米株急落、S&P500とダウが調整局面　AI懸念広がる",
-    "topic_key": "us-stocks-correction-ai-selloff-20261120",
-    "source": "Reuters",
-    "first_seen": "2026-11-22T07:00:00+09:00",
-    "issue": "2026-11-22-0700"
-  },
-  {
-    "url_normalized": "reuters.com/business/bitcoin-falls-357-56814-2026-11-21",
-    "title": "ビットコイン、一時5万5,251ドル　2年ぶり安値後に反発",
-    "topic_key": "bitcoin-two-year-low-rebound-20261121",
-    "source": "Reuters",
-    "first_seen": "2026-11-22T07:00:00+09:00",
-    "issue": "2026-11-22-0700"
-  },
-  {
-    "url_normalized": "ukmto.org/-/media/ukmto/products/20261121-ukmto_warning_215-26.pdf",
-    "title": "ホルムズ海峡付近でタンカー被弾　海上輸送リスク再燃",
-    "topic_key": "strait-hormuz-tanker-attacks-20261121",
-    "source": "UKMTO",
-    "first_seen": "2026-11-22T07:00:00+09:00",
-    "issue": "2026-11-22-0700"
-  },
-  {
     "url_normalized": "sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20261122_10838633.shtml",
     "title": "中国取引所、信用取引の最低保証金比率を100%から80%へ",
     "topic_key": "china-margin-financing-ratio-cut-80-20261122",
@@ -118,5 +70,53 @@
     "source": "Reuters",
     "first_seen": "2026-11-24T07:00:00+09:00",
     "issue": "2026-11-24-0700"
+  },
+  {
+    "url_normalized": "reuters.com/business/japans-factory-activity-expands-november-pmi-shows-2026-11-24",
+    "title": "日本11月製造業PMIは53.7　サービス業は50.5へ鈍化",
+    "topic_key": "japan-november-2026-flash-pmi-53-7",
+    "source": "Reuters",
+    "first_seen": "2026-11-25T07:00:00+09:00",
+    "issue": "2026-11-25-0700"
+  },
+  {
+    "url_normalized": "conference-board.org/topics/consumer-confidence",
+    "title": "米11月消費者信頼感は103.3　約2年ぶり高水準",
+    "topic_key": "us-november-2026-consumer-confidence-103-3",
+    "source": "The Conference Board",
+    "first_seen": "2026-11-25T07:00:00+09:00",
+    "issue": "2026-11-25-0700"
+  },
+  {
+    "url_normalized": "investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results",
+    "title": "Dell、FY27売上高見通しを2,020億ドルへ上方修正",
+    "topic_key": "dell-fy2027-q3-ai-server-guidance-20261124",
+    "source": "Dell Technologies",
+    "first_seen": "2026-11-25T07:00:00+09:00",
+    "issue": "2026-11-25-0700"
+  },
+  {
+    "url_normalized": "analog.com/en/newsroom/press-releases/2026/11-24-26-adi-reports-record-4th-qtr-and-fiscal-2026-financial-results.html",
+    "title": "Analog Devices、FY26売上高152億ドル　38%増",
+    "topic_key": "analog-devices-fy2026-record-revenue-15-2bn",
+    "source": "Analog Devices",
+    "first_seen": "2026-11-25T07:00:00+09:00",
+    "issue": "2026-11-25-0700"
+  },
+  {
+    "url_normalized": "ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero",
+    "title": "CrowdStrike、Zscalerを439億ドルで買収へ",
+    "topic_key": "crowdstrike-zscaler-43-9bn-acquisition-20261123",
+    "source": "CrowdStrike",
+    "first_seen": "2026-11-25T07:00:00+09:00",
+    "issue": "2026-11-25-0700"
+  },
+  {
+    "url_normalized": "reuters.com/world/americas/venezuela-unveils-long-awaited-economic-framework-puts-debt-2375-billion-2026-11-24",
+    "title": "ベネズエラ、公的債務2,375億ドルを開示",
+    "topic_key": "venezuela-public-debt-237-5bn-framework-20261124",
+    "source": "Reuters",
+    "first_seen": "2026-11-25T07:00:00+09:00",
+    "issue": "2026-11-25-0700"
   }
 ]

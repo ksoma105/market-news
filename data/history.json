@@ -2723,7 +2723,7 @@
       "issue_id": "2026-11-25-0700",
       "published_at": "2026-11-25T07:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-25-0700.html",
       "topics": [
         "japan-november-2026-flash-pmi-53-7",
         "us-november-2026-consumer-confidence-103-3",
@@ -2731,6 +2731,20 @@
         "analog-devices-fy2026-record-revenue-15-2bn",
         "crowdstrike-zscaler-43-9bn-acquisition-20261123",
         "venezuela-public-debt-237-5bn-framework-20261124"
+      ]
+    },
+    {
+      "issue_id": "2026-11-26-0700",
+      "published_at": "2026-11-26T07:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "japan-october-2026-sppi-4-2",
+        "australia-october-2026-cpi-4-9",
+        "us-q3-2026-gdp-4-3-october-pce-3-8",
+        "deere-fy2026-q4-outlook",
+        "ustr-section301-14-economies-tariffs-20261125",
+        "ras-tanura-refinery-attack-oil-20261125"
       ]
     }
   ]

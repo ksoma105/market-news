@@ -1,29 +1,5 @@
 [
   {
-    "url_normalized": "sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20261122_10838633.shtml",
-    "title": "中国取引所、信用取引の最低保証金比率を100%から80%へ",
-    "topic_key": "china-margin-financing-ratio-cut-80-20261122",
-    "source": "上海証券取引所",
-    "first_seen": "2026-11-23T07:00:00+09:00",
-    "issue": "2026-11-23-0700"
-  },
-  {
-    "url_normalized": "ajupress.com/view/20261122212952430",
-    "title": "韓国、市場安定基金を準備　自社株買い規制も一時緩和",
-    "topic_key": "south-korea-market-stabilisation-fund-20261122",
-    "source": "Aju Press",
-    "first_seen": "2026-11-23T07:00:00+09:00",
-    "issue": "2026-11-23-0700"
-  },
-  {
-    "url_normalized": "reuters.com/world/uk/compass-group-plans-shift-primary-listing-london-new-york-ft-reports-2026-11-22",
-    "title": "Compass Group、主要上場先をロンドンからNYへ移す計画",
-    "topic_key": "compass-group-new-york-primary-listing-plan-20261122",
-    "source": "Reuters",
-    "first_seen": "2026-11-23T07:00:00+09:00",
-    "issue": "2026-11-23-0700"
-  },
-  {
     "url_normalized": "reuters.com/world/us/us-business-activity-growth-eases-further-november-survey-shows-2026-11-23",
     "title": "米11月総合PMIは54.6　4カ月ぶり低水準でも拡大を維持",
     "topic_key": "us-november-2026-flash-pmi-54-6",
@@ -118,5 +94,53 @@
     "source": "Reuters",
     "first_seen": "2026-11-25T07:00:00+09:00",
     "issue": "2026-11-25-0700"
+  },
+  {
+    "url_normalized": "boj.or.jp/en/statistics/pi/cspi_release/sppi2610.pdf",
+    "title": "日本の10月企業向けサービス価格、前年比4.2%上昇",
+    "topic_key": "japan-october-2026-sppi-4-2",
+    "source": "日本銀行",
+    "first_seen": "2026-11-26T07:00:00+09:00",
+    "issue": "2026-11-26-0700"
+  },
+  {
+    "url_normalized": "abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/oct-2026",
+    "title": "豪州10月CPIは前年比4.9%、基調インフレも加速",
+    "topic_key": "australia-october-2026-cpi-4-9",
+    "source": "Australian Bureau of Statistics",
+    "first_seen": "2026-11-26T07:00:00+09:00",
+    "issue": "2026-11-26-0700"
+  },
+  {
+    "url_normalized": "bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+    "title": "米GDPは年率4.3%へ上方改定、10月PCE物価は前年比3.8%",
+    "topic_key": "us-q3-2026-gdp-4-3-october-pce-3-8",
+    "source": "U.S. Bureau of Economic Analysis",
+    "first_seen": "2026-11-26T07:00:00+09:00",
+    "issue": "2026-11-26-0700"
+  },
+  {
+    "url_normalized": "marketscreener.com/news/deere-forecasts-fiscal-2027-net-income-below-estimates-amid-muted-farm-equipment-demand-ce7851dbd08efe2c",
+    "title": "ディア、2027年度利益見通しは45億～52.5億ドル",
+    "topic_key": "deere-fy2026-q4-outlook",
+    "source": "Reuters",
+    "first_seen": "2026-11-26T07:00:00+09:00",
+    "issue": "2026-11-26-0700"
+  },
+  {
+    "url_normalized": "ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+    "title": "米USTR、日本など14経済圏への追加関税案を公表",
+    "topic_key": "ustr-section301-14-economies-tariffs-20261125",
+    "source": "USTR",
+    "first_seen": "2026-11-26T07:00:00+09:00",
+    "issue": "2026-11-26-0700"
+  },
+  {
+    "url_normalized": "reuters.com/world/middle-east/yemens-houthis-say-they-attacked-saudi-oil-refinery-riyadh-financial-district-2026-11-25",
+    "title": "サウジ最大の製油所に攻撃情報、原油価格が上昇",
+    "topic_key": "ras-tanura-refinery-attack-oil-20261125",
+    "source": "Reuters",
+    "first_seen": "2026-11-26T07:00:00+09:00",
+    "issue": "2026-11-26-0700"
   }
 ]

@@ -1,53 +1,5 @@
 [
   {
-    "url_normalized": "reuters.com/world/us/us-business-activity-growth-eases-further-november-survey-shows-2026-11-23",
-    "title": "米11月総合PMIは54.6　4カ月ぶり低水準でも拡大を維持",
-    "topic_key": "us-november-2026-flash-pmi-54-6",
-    "source": "Reuters",
-    "first_seen": "2026-11-24T07:00:00+09:00",
-    "issue": "2026-11-24-0700"
-  },
-  {
-    "url_normalized": "reuters.com/world/europe/euro-zone-growth-holds-steady-but-frances-deepening-downturn-clouds-outlook-pmi-2026-11-23",
-    "title": "ユーロ圏11月総合PMIは51.7　ドイツ加速、フランス低迷",
-    "topic_key": "eurozone-november-2026-flash-pmi-51-7",
-    "source": "Reuters",
-    "first_seen": "2026-11-24T07:00:00+09:00",
-    "issue": "2026-11-24-0700"
-  },
-  {
-    "url_normalized": "reuters.com/world/uk/uk-pmi-shows-slight-november-slowdown-q4-looks-robust-2026-11-23",
-    "title": "英11月総合PMIは52.3　サービス減速、製造業生産は加速",
-    "topic_key": "uk-november-2026-flash-pmi-52-3",
-    "source": "Reuters",
-    "first_seen": "2026-11-24T07:00:00+09:00",
-    "issue": "2026-11-24-0700"
-  },
-  {
-    "url_normalized": "business-standard.com/economy/news/india-flash-pmi-november-2026-manufacturing-services-private-sector-growth-126112300257_1.html",
-    "title": "インド11月総合PMIは56.3　製造業は9カ月ぶり高水準",
-    "topic_key": "india-november-2026-flash-pmi-56-3",
-    "source": "Business Standard",
-    "first_seen": "2026-11-24T07:00:00+09:00",
-    "issue": "2026-11-24-0700"
-  },
-  {
-    "url_normalized": "newsroom.arm.com/news/arm-ceo-rene-haas-long-term-commitment-to-lead-companys-next-phase-of-growth",
-    "title": "Arm、レネ・ハースCEOとの契約を2033年まで延長",
-    "topic_key": "arm-rene-haas-contract-2033-softbank-vice-chairman",
-    "source": "Arm",
-    "first_seen": "2026-11-24T07:00:00+09:00",
-    "issue": "2026-11-24-0700"
-  },
-  {
-    "url_normalized": "reuters.com/business/international-paper-board-approves-emea-packaging-spinoff-2026-11-23",
-    "title": "International Paper、欧州包装事業DS Smithの分離を承認",
-    "topic_key": "international-paper-ds-smith-spinoff-december-2026",
-    "source": "Reuters",
-    "first_seen": "2026-11-24T07:00:00+09:00",
-    "issue": "2026-11-24-0700"
-  },
-  {
     "url_normalized": "reuters.com/business/japans-factory-activity-expands-november-pmi-shows-2026-11-24",
     "title": "日本11月製造業PMIは53.7　サービス業は50.5へ鈍化",
     "topic_key": "japan-november-2026-flash-pmi-53-7",
@@ -142,5 +94,45 @@
     "source": "Reuters",
     "first_seen": "2026-11-26T07:00:00+09:00",
     "issue": "2026-11-26-0700"
+  },
+  {
+    "url_normalized": "boj.or.jp/en/about/press/koen_2026/data/ko261126a1.pdf",
+    "title": "日銀・田村委員、物価上振れ時の利上げ加速に言及",
+    "topic_key": "boj-tamura-faster-rate-hikes-20261126",
+    "source": "日本銀行",
+    "first_seen": "2026-11-27T07:00:00+09:00",
+    "issue": "2026-11-27-0700"
+  },
+  {
+    "url_normalized": "bok.or.kr/eng/bbs/E0000634/view.do",
+    "title": "韓国銀行、政策金利を3.25%へ引き上げ",
+    "topic_key": "bok-rate-hike-3-25-20261126",
+    "source": "韓国銀行",
+    "first_seen": "2026-11-27T07:00:00+09:00",
+    "issue": "2026-11-27-0700"
+  },
+  {
+    "url_normalized": "ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.ga.html",
+    "title": "ECB議事要旨、10月会合で利上げ支持が広がる",
+    "topic_key": "ecb-october-2026-meeting-account-hike-support",
+    "source": "欧州中央銀行",
+    "first_seen": "2026-11-27T07:00:00+09:00",
+    "issue": "2026-11-27-0700"
+  },
+  {
+    "url_normalized": "mof.go.jp/english/policy/international_policy/convention/others/20261126.html",
+    "title": "ASEAN+3、越境デジタル決済の作業部会を設置へ",
+    "topic_key": "asean3-cross-border-digital-payments-working-group-20261126",
+    "source": "財務省",
+    "first_seen": "2026-11-27T07:00:00+09:00",
+    "issue": "2026-11-27-0700"
+  },
+  {
+    "url_normalized": "lse.co.uk/rns/statement-re-possible-offer-4x51c92d7kje017.html",
+    "title": "アルトリア、インペリアル・ブランズへの現金買収案を検討",
+    "topic_key": "altria-imperial-brands-possible-offer-20261126",
+    "source": "Altria Group",
+    "first_seen": "2026-11-27T07:00:00+09:00",
+    "issue": "2026-11-27-0700"
   }
 ]

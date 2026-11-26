@@ -2737,7 +2737,7 @@
       "issue_id": "2026-11-26-0700",
       "published_at": "2026-11-26T07:00:00+09:00",
       "topic_count": 6,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-26-0700.html",
       "topics": [
         "japan-october-2026-sppi-4-2",
         "australia-october-2026-cpi-4-9",
@@ -2745,6 +2745,19 @@
         "deere-fy2026-q4-outlook",
         "ustr-section301-14-economies-tariffs-20261125",
         "ras-tanura-refinery-attack-oil-20261125"
+      ]
+    },
+    {
+      "issue_id": "2026-11-27-0700",
+      "published_at": "2026-11-27T07:00:00+09:00",
+      "topic_count": 5,
+      "html_path": "docs/index.html",
+      "topics": [
+        "boj-tamura-faster-rate-hikes-20261126",
+        "bok-rate-hike-3-25-20261126",
+        "ecb-october-2026-meeting-account-hike-support",
+        "asean3-cross-border-digital-payments-working-group-20261126",
+        "altria-imperial-brands-possible-offer-20261126"
       ]
     }
   ]

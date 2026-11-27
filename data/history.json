@@ -2751,13 +2751,27 @@
       "issue_id": "2026-11-27-0700",
       "published_at": "2026-11-27T07:00:00+09:00",
       "topic_count": 5,
-      "html_path": "docs/index.html",
+      "html_path": "docs/archive/2026-11-27-0700.html",
       "topics": [
         "boj-tamura-faster-rate-hikes-20261126",
         "bok-rate-hike-3-25-20261126",
         "ecb-october-2026-meeting-account-hike-support",
         "asean3-cross-border-digital-payments-working-group-20261126",
         "altria-imperial-brands-possible-offer-20261126"
+      ]
+    },
+    {
+      "issue_id": "2026-11-28-0700",
+      "published_at": "2026-11-28T07:00:00+09:00",
+      "topic_count": 6,
+      "html_path": "docs/index.html",
+      "topics": [
+        "china-state-council-national-team-market-support-20261127",
+        "ecb-october-2026-consumer-inflation-expectations-3-5",
+        "boj-kamiyama-digital-money-ai-risks-20261127",
+        "taiwan-2026-gdp-forecast-13-28-ai-demand",
+        "coca-cola-hbc-ccba-75-percent-completion-20261127",
+        "sap-sizeable-job-cuts-ai-restructuring-20261127"
       ]
     }
   ]
